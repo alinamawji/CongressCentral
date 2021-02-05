@@ -1,0 +1,23 @@
+commit c1f2880d44daa9389795a6efb2e702887aef2693
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 4 11:49:04 2021 -0600
+
+    rm DS_Store
+
+commit 786fae38a434c4d6f0d4f3c9815c7171063c2961
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 4 11:45:37 2021 -0600
+
+    gitignore
+
+commit 7db117b1694f4c0f5ad42a2b12ed56e2c6fee400
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 4 11:34:42 2021 -0600
+
+    members and baldwin pages
+
+commit 23c34e3613366566ecf25f32611f2093dd552bb5
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Jan 29 15:48:40 2021 +0000
+
+    Initial commit
