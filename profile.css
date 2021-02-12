@@ -30,6 +30,10 @@ body{
     border-color: rgba(24,28,33,0.075);
 }
 
+.text-large {
+    font-size: 130% !important;
+}
+
 .text-xlarge {
     font-size: 170% !important;
 }
