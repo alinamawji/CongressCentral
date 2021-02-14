@@ -49,3 +49,8 @@ h4 {
     line-height: 22px;
     font-size: 18px;
 }
+
+.disabled {
+  pointer-events: none;
+  cursor: default;
+}
