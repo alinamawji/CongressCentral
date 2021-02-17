@@ -1,5 +1,5 @@
 .header {
-  padding: 50px;
+  padding: 30px;
   text-align: center;
   background: #abcdef;
   color: white;
@@ -11,43 +11,8 @@ body{
     margin-top: 0px;
 }
 
-.container-fluid {
-    display: inline-block;
-}
-
 table{
-    border-collapse: separate;
-    border-spacing: 4em;
-}
-
-.member-card {
-    padding: 15px;
-    width: 10rem;
-    max-height: 450px;
-    white-space: nowrap;
-    background-color: #FFFFFF;
-    border-radius: 25px;
-}
-
-.img-thumbnail {
-    padding: .25rem;
-    background-color: #fff;
-    border: 3px solid #dee2e6;
-    border-radius: .25rem;
-    max-width: 100%;
-    height: auto;
-}
-
-.text-state {
-    color: #3CB371;
-}
-
-.btn-rounded {
-    border-radius: 2em;
-}
-
-.text-muted {
-    color: #98a6ad!important;
+    width: 90%;
 }
 
 h4 {
@@ -55,7 +20,41 @@ h4 {
     font-size: 15px;
 }
 
+.img-arrow{
+    max-width: 8%;
+    max-height: 8%;
+}
+
+.text-state {
+    color: #3CB371;
+}
+
+.text-muted {
+    color: #909090;
+}
+
+
+.img-thumbnail {
+    padding: .25rem;
+    background-color: #fff;
+    max-width: 50%;
+    max-height: 50%;
+}
+
 .disabled {
   pointer-events: none;
   cursor: default;
+}
+
+.my-custom-scrollbar {
+    position: relative;
+    height: 550px;
+    overflow: auto;
+}
+.table-wrapper-scroll-y {
+    display: block;
+}
+
+th {
+  cursor: pointer;
 }
