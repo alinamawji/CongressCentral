@@ -35,6 +35,10 @@ body{
     border-color: rgba(24,28,33,0.075);
 }
 
+.text-medium {
+    font-size: 18px;
+}
+
 .text-large {
     font-size: 130% !important;
 }
@@ -47,3 +51,4 @@ body{
     padding: 0;
     list-style-type: none;
 }
+
