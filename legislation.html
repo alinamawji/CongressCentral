@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
 
     <!-- Local stylesheet elements -->
-    <link rel="stylesheet" href="committees.css">
+    <link rel="stylesheet" href="legislation.css">
 </head>
 
 <body>
@@ -53,8 +53,8 @@
 
 <!-- HEADER -->
     <div class="header">
-        <h1>Committees</h1>
-        <p>Search for all the committees in the US Congress, who their members are, their subcommittees, and which legislation they are working on in their latest hearings</p>
+        <h1>Legislation</h1>
+        <p>Search current or other important legislation in the Congress</p>
     </div>
 
 <!-- SEARCH BAR -->
@@ -73,434 +73,106 @@
     </div>
 
 <!-- CARDS -->
-    <div class="row justify-content-center my-3">
-        <div class="col-10">
-            <div class="card">
-                <div class="card-body">
-                    <h3 class="card-title display-4">Agriculture, Nutrition, and Forestry</h3>
-                    <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
-                    <p>
-                        <a href="#" class="card-link">Chair: Stabenow, Debbie (D-MI)</a>
-                        <a href="#" class="card-link">Ranking Member: Boozman, John (R-AR)</a>
-                    </p>
 
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_Members" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_Members">View All Members</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_SubComit" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_SubComit">View All Subcommittees</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_Hearings" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_Hearings">View Most Recent Hearings</a>
 
-                    <div class="collapse" id="Ag_Nut_For_Members">
-                        <div class="row justify-content-center">
-                            <div class="col-6">
-                                <div class="card my-2">
-                                    <div class="card-header h5">
-                                        Majority Members
-                                    </div>
-                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item"><a href="#" class="card-link">Stabenow, Debbie (MI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Leahy, Patrick J. (VT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Brown, Sherrod (OH)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Klobuchar, Amy (MN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Bennet, Michael F. (CO)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Gillibrand, Kirsten E. (NY)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Smith, Tina (MN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Durbin, Richard J. (IL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Booker, Cory A. (NJ)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Lujan, Ben Ray (NM)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Warnock, Raphael G. (GA)</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="card my-2">
-                                    <div class="card-header h5">
-                                        Minority Members
-                                    </div>
-                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item"><a href="#" class="card-link">Boozman, John (AR)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">McConnell, Mitch (KY)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hoeven, John (ND)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Ernst, Joni (IA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hyde-Smith, Cindy (MS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Marshall, Roger (KS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Tuberville, Tommy (AL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Grassley, Chuck (IA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Thune, John (SD)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Fischer, Deb (NE)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Braun, Mike (IN)</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
 
-                    <div class="collapse" id="Ag_Nut_For_SubComit">
-                        <div class="card my-2">
-                            <div class="card-header h5">
-                                Subcommittees
-                            </div>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Subcommittee on Commodities, Risk Management, and Trade</li>
-                                <li class="list-group-item">Subcommittee on Conservation, Forestry, and Natural Resources</li>
-                                <li class="list-group-item">Subcommittee on Livestock, Marketing, and Agriculture Security</li>
-                                <li class="list-group-item">Subcommittee on Nutrition, Agricultural Research, and Specialty Crops</li>
-                                <li class="list-group-item">Subcommittee on Rural Development and Energy</li>
-                            </ul>
-                        </div>
-                    </div>
+<!-- CAN WE SORT WITH THIS OR NO?? -->
 
-                    <div class="collapse" id="Ag_Nut_For_Hearings">
-                        <div class="card-deck">
 
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
 
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
-
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="card-footer">
-                    <a href="https://www.agriculture.senate.gov/" class="card-link" target="_blank">Official Site</a>
-                </div>
-            </div>
+    <div class="container bootdey flex-grow-1 container-p-y">
+        <div class="card mb-4">
+          <div class="card-header">
+            Bill | House
+          </div>
+          <div class="card-body">
+            <h5 class="card-title"><a href="hr1084.html">H.R.1084 — 117th Congress (2021-2022)</a></h5>
+            <p class="card-text">To provide that a project for the deployment or modification of a communications facility entirely within a brownfield site is not subject to requirements to prepare certain environmental or historical preservation reviews.</p>
+            <table class="table user-view-table m-0">
+              <tbody>
+                <tr>
+                  <td>Sponsor:</td>
+                    <td>
+                      <a href="#" class="disabled">Representative Tim Walberg</a>
+                    </td>
+                </tr>
+                <tr>
+                  <td>Introduced:</td>
+                  <td>
+                      02/15/2021
+                  </td>
+                </tr>
+                <tr>
+                  <td>Originated from:</td>
+                  <td>House of Representatives</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
     </div>
 
-
-    <div class="row justify-content-center my-3">
-        <div class="col-10">
-            <div class="card">
-                <div class="card-body">
-                    <h3 class="card-title display-4">Appropriations</h3>
-                    <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
-                    <p>
-                        <a href="#" class="card-link">Chair: Leahy, Patrick J. (D-VT)</a>
-                        <a href="#" class="card-link">Ranking Member: Shelby, Richard C. (R-AL)</a>
-                    </p>
-
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Approp_Members" role="button" aria-expanded="false" aria-controls="Approp_Members">View All Members</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Approp_SubComit" role="button" aria-expanded="false" aria-controls="Approp_SubComit">View All Subcommittees</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Approp_Hearings" role="button" aria-expanded="false" aria-controls="Approp_Hearings">View Most Recent Hearings</a>
-
-                    <div class="collapse" id="Approp_Members">
-                        <div class="row justify-content-center">
-                            <div class="col-6">
-                                <div class="card my-2">
-                                    <div class="card-header h5">
-                                        Majority Members
-                                    </div>
-                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item"><a href="#" class="card-link">Leahy, Patrick J. (VT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Murray, Patty (WA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Feinstein, Dianne (CA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Durbin, Richard J. (IL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Reed, Jack (RI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Tester, Jon (MT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Shaheen, Jeanne (NH)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Merkley, Jeff (OR)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Coons, Christopher A. (DE)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Schatz, Brian (HI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Baldwin, Tammy (WI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Murphy, Christopher (CT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Manchin, Joe (WV)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Van Hollen, Chris (MD)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Heinrich, Martin (NM)</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="card my-2">
-                                    <div class="card-header h5">
-                                        Minority Members
-                                    </div>
-                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item"><a href="#" class="card-link">Shelby, Richard C. (AL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">McConnell, Mitch (KY)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Collins, Susan M. (ME)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Murkowski, Lisa (AK)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Graham, Lindsey (SC)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Blunt, Roy (MO)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Moran, Jerry (KS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hoeven, John (ND)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Boozman, John (AR)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Capito, Shelley Moore (WV)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Kennedy, John (LA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hyde-Smith, Cindy (MS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Braun, Mike (IN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hagerty, Bill (TN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Rubio, Marco (FL)</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="collapse" id="Approp_SubComit">
-                        <div class="card my-2">
-                            <div class="card-header h5">
-                                Subcommittees
-                            </div>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies</li>
-                                <li class="list-group-item">Subcommittee on Commerce, Justice, Science, and Related Agencies</li>
-                                <li class="list-group-item">Subcommittee on Department of Defense</li>
-                                <li class="list-group-item">Subcommittee on Department of Homeland Security</li>
-                                <li class="list-group-item">Subcommittee on Department of the Interior, Environment, and Related Agencies</li>
-                                <li class="list-group-item">Subcommittee on Departments of Labor, Health and Human Services, and Education, and Related Agencies</li>
-                                <li class="list-group-item">Subcommittee on Energy and Water Development</li>
-                                <li class="list-group-item">Subcommittee on Financial Services and General Government</li>
-                                <li class="list-group-item">Subcommittee on Legislative Branch</li>
-                                <li class="list-group-item">Subcommittee on Military Construction and Veterans Affairs, and Related Agencies</li>
-                                <li class="list-group-item">Subcommittee on State, Foreign Operations, and Related Programs</li>
-                                <li class="list-group-item">Subcommittee on Transportation, Housing and Urban Development, and Related Agencies</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="collapse" id="Approp_Hearings">
-                        <div class="card-deck">
-
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
-
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
-
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="card-footer">
-                    <a href="https://www.appropriations.senate.gov/" class="card-link" target="_blank">Official Site</a>
-                </div>
-            </div>
+    <div class="container bootdey flex-grow-1 container-p-y">
+        <div class="card mb-4">
+          <div class="card-header">
+            Bill | House
+          </div>
+          <div class="card-body">
+            <h5 class="card-title"><a href="hr1083.html">H.R.1083 — 117th Congress (2021-2022)</a></h5>
+            <p class="card-text">To require a strategy for engagement with Southeast Asia and the Association of Southeast Asian Nations (ASEAN).</p>
+            <table class="table user-view-table m-0">
+              <tbody>
+                <tr>
+                  <td>Sponsor:</td>
+                    <td>
+                      <a href="#" class="disabled">Representative Ann Wagner</a>
+                    </td>
+                </tr>
+                <tr>
+                  <td>Introduced:</td>
+                  <td>
+                      02/15/2021
+                  </td>
+                </tr>
+                <tr>
+                  <td>Originated from:</td>
+                  <td>House of Representatives</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
     </div>
 
-
-    <div class="row justify-content-center my-3">
-        <div class="col-10">
-            <div class="card">
-                <div class="card-body">
-                    <h3 class="card-title display-4">Armed Services</h3>
-                    <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
-                    <p>
-                        <a href="#" class="card-link">Chair: Reed, Jack (D-RI)</a>
-                        <a href="#" class="card-link">Ranking Member: Inhofe, James M. (R-OK)</a>
-                    </p>
-
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_Members" role="button" aria-expanded="false" aria-controls="Armed_Ser_Members">View All Members</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_SubComit" role="button" aria-expanded="false" aria-controls="Armed_Ser_SubComit">View All Subcommittees</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_Hearings" role="button" aria-expanded="false" aria-controls="Armed_Ser_Hearings">View Most Recent Hearings</a>
-
-                    <div class="collapse" id="Armed_Ser_Members">
-                        <div class="row justify-content-center">
-                            <div class="col-6">
-                                <div class="card my-2">
-                                    <div class="card-header h5">
-                                        Majority Members
-                                    </div>
-                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item"><a href="#" class="card-link">Reed, Jack (RI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Shaheen, Jeanne (NH)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Gillibrand, Kirsten E. (NY)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Blumenthal, Richard (CT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hirono, Mazie K. (HI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Kaine, Tim (VA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">King, Angus S. (ME)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Warren, Elizabeth (MA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Peters, Gary C. (MI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Manchin, Joe (WV)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Duckworth, Tammy (IL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Rosen, Jacky (NV)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Kelly, Mark (AZ)</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="card my-2">
-                                    <div class="card-header h5">
-                                        Minority Members
-                                    </div>
-                                    <ul class="list-group list-group-flush">
-                                        <li class="list-group-item"><a href="#" class="card-link">Inhofe, James M. (OK)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Wicker, Roger F. (MS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Fischer, Deb (NE)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Cotton, Tom (AR)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Rounds, Mike (SD)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Ernst, Joni (IA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Tillis, Thom (NC)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Sullivan, Dan (AK)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Cramer, Kevin (ND)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Scott, Rick (FL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Blackburn, Marsha (TN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hawley, Josh (MO)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Tuberville, Tommy (AL)</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="collapse" id="Armed_Ser_SubComit">
-                        <div class="card my-2">
-                            <div class="card-header h5">
-                                Subcommittees
-                            </div>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">Subcommittee on Airland</li>
-                                <li class="list-group-item">Subcommittee on Cybersecurity</li>
-                                <li class="list-group-item">Subcommittee on Emerging Threats and Capabilities</li>
-                                <li class="list-group-item">Subcommittee on Personnel</li>
-                                <li class="list-group-item">Subcommittee on Readiness and Management Support</li>
-                                <li class="list-group-item">Subcommittee on SeaPower</li>
-                                <li class="list-group-item">Subcommittee on Strategic Forces</li>
-                            </ul>
-                        </div>
-                    </div>
-
-                    <div class="collapse" id="Armed_Ser_Hearings">
-                        <div class="card-deck">
-
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
-
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
-
-                            <div class="card my-2">
-                                <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
-                                    </div>
-                                    <div class="card-subtitle text-muted">
-                                        Description
-                                    </div>
-                                </div>
-                                <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">Bill 1</li>
-                                    <li class="list-group-item">Bill 2</li>
-                                    <li class="list-group-item">Bill 3</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-                <div class="card-footer">
-                    <a href="https://www.armed-services.senate.gov/" class="card-link" target="_blank">Official Site</a>
-                </div>
-            </div>
+    <div class="container bootdey flex-grow-1 container-p-y">
+        <div class="card mb-4">
+          <div class="card-header">
+            Bill | House
+          </div>
+          <div class="card-body">
+            <h5 class="card-title"><a href="hr1082.html">H.R.1082 — 117th Congress (2021-2022)</a></h5>
+            <p class="card-text">To require ride-hailing companies to implement an enhanced digital system to verify passengers with their authorized ride-hailing vehicles and drivers.</p>
+            <table class="table user-view-table m-0">
+              <tbody>
+                <tr>
+                  <td>Sponsor:</td>
+                    <td>
+                      <a href="#" class="disabled">Representative Christopher Smith</a>
+                    </td>
+                </tr>
+                <tr>
+                  <td>Introduced:</td>
+                  <td>
+                      02/15/2021
+                  </td>
+                </tr>
+                <tr>
+                  <td>Originated from:</td>
+                  <td>House of Representatives</td>
+                </tr>
+              </tbody>
+            </table>
+          </div>
         </div>
     </div>
 

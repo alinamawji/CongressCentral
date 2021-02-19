@@ -3,6 +3,11 @@ body{
     background: #abcdef;
 }
 
+.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
 .ui-w-100 {
     width: 100px !important;
     height: auto;
