@@ -1,0 +1,22 @@
+.header {
+  padding: 50px;
+  text-align: center;
+  background: #abcdef;
+  color: white;
+  font-size: 30px;
+}
+
+body{
+    background:#abcdef;
+    margin-top: 0px;
+}
+
+.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.card-img-top{
+    height: 14rem;
+    border-radius: 5px;
+}
