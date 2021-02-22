@@ -9,6 +9,7 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="sortbylegislation.js"></script>
 
     <!-- Font -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
@@ -72,15 +73,145 @@
         <br/>
     </div>
 
+<!-- SORT EXAMPLE -->
+  <div class="row justify-content-center mb-4">
+    <div class="dropdown">
+      <button class="btn btn-secondary mr-3 dropdown-toggle" type="button" style="float: right;" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sort By</button>
+      <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+        <button class="dropdown-item" id="titleSortA">Title A-Z</button>
+        <button class="dropdown-item" id="titleSortD">Title Z-A</button>
+        <button class="dropdown-item" id="memSortA">Member A-Z</button>
+        <button class="dropdown-item" id="memSortD">Member Z-A</button>
+        <button class="dropdown-item" id="dateSortA">Date >></button>
+        <button class="dropdown-item" id="dateSortD">Date <<</button>
+        <button class="dropdown-item" id="origSortA">Origin A-Z</button>
+        <button class="dropdown-item" id="origSortD">Origin Z-A</button>
+        <button class="dropdown-item" id="typeSortA">Type A-Z</button>
+        <button class="dropdown-item" id="typeSortD">Type Z-A</button>
+      </div>
+    </div>
+  </div>
+  <script>
+    document.getElementById("titleSortA").addEventListener("click", sortTitleAsc)
+    function sortTitleAsc (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".card-title").text() > $(b).find(".card-title").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("titleSortD").addEventListener("click", sortTitleDes)
+    function sortTitleDes (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".card-title").text() < $(b).find(".card-title").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("memSortA").addEventListener("click", sortMemAsc);
+    function sortMemAsc (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".sponsor").text() > $(b).find(".sponsor").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("memSortD").addEventListener("click", sortMemDes);
+    function sortMemDes (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".sponsor").text() < $(b).find(".sponsor").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("dateSortA").addEventListener("click", sortDateAsc);
+    function sortDateAsc (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".date").text() > $(b).find(".date").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("dateSortD").addEventListener("click", sortDateDes);
+    function sortDateDes (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".date").text() < $(b).find(".date").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("origSortA").addEventListener("click", sortOrigAsc);
+    function sortOrigAsc (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".origin").text() > $(b).find(".origin").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("origSortD").addEventListener("click", sortOrigDes);
+    function sortOrigDes (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".origin").text() < $(b).find(".origin").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("typeSortA").addEventListener("click", sortTypeAsc);
+    function sortTypeAsc (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".card-header").text() > $(b).find(".card-header").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+
+    document.getElementById("typeSortD").addEventListener("click", sortTypeDes);
+    function sortTypeDes (){
+      $('.card-deck .card').sort(function(a,b) {
+          return $(a).find(".card-header").text() < $(b).find(".card-header").text() ? 1 : -1;
+      }).appendTo(".card-deck")};
+  </script>
+
 <!-- CARDS -->
+  <div class="container-fluid justify-content-center">
+    <div class="card-deck">
 
+      <div class="card mb-4">
+        <div class="card-header">Bill</div>
+        <div class="card-body">
+          <h5 class="card-title"><a href="hr1188.html">H.R.1188 — 117th Congress (2021-2022)</a></h5>
+          <p class="card-text">To amend the Securities Exchange Act of 1934 to require issuers to disclose information on pay raises made to executives and non-executive employees, and for other purposes.</p>
+          <p class="card-text-att">Sponsor: <br>
+            <p class="sponsor card-text"><a href="velazquez.html" class="disabled card-text">Velazquez, Representative Nydia M. (D-NY)</a></p>
+          </p>
+          <p class="card-text-att">Introduced: <br>
+            <p class="date card-text">02/18/2021</p>
+          </p>
+          <p class="card-text-att">Originated from: <br>
+            <p class="origin card-text">House of Representatives</p>
+          </p>
+        </div>
+      </div>
 
+      <div class="card mb-4">
+        <div class="card-header">Bill</div>
+        <div class="card-body">
+          <h5 class="card-title"><a href="hr1083.html">H.R.1083 — 117th Congress (2021-2022)</a></h5>
+          <p class="card-text">To require a strategy for engagement with Southeast Asia and the Association of Southeast Asian Nations (ASEAN).</p>
+          <p class="card-text-att">Sponsor: <br>
+            <p class="sponsor card-text"><a href="wagner.html" class="disabled card-text">Wagner, Representative Ann (R-MO)</a></p>
+          </p>
+          <p class="card-text-att">Introduced: <br>
+            <p class="date card-text">02/15/2021</p>
+          </p>
+          <p class="card-text-att">Originated from: <br>
+            <p class="origin card-text">House of Representatives</p>
+          </p>
+        </div>
+      </div>
 
-<!-- CAN WE SORT WITH THIS OR NO?? -->
+      <div class="card mb-4">
+        <div class="card-header">Resolution</div>
+        <div class="card-body">
+          <h5 class="card-title"><a href="sres58.html">S.Res.58 — 117th Congress (2021-2022)</a></h5>
+          <p id="description" class="card-text">An original resolution authorizing expenditures by the Committee on Small Business and Entrepreneurship.</p>
+          <p class="card-text-att">Sponsor: <br>
+            <p class="sponsor card-text"><a href="cardin.html" class="card-text">Cardin, Senator Benjamin L. (D-MD)</a></p>
+          </p>
+          <p class="card-text-att">Introduced: <br>
+            <p class="date card-text">02/13/2021</p>
+          </p>
+          <p class="card-text-att">Originated from: <br>
+            <p class="origin card-text">Senate</p>
+          </p>
+        </div>
+      </div>
 
+    </div>
+  </div>
 
-
-    <div class="container bootdey flex-grow-1 container-p-y">
+    <!-- <div class="container bootdey flex-grow-1 container-p-y">
         <div class="card mb-4">
           <div class="card-header">
             Bill | House
@@ -174,7 +305,7 @@
             </table>
           </div>
         </div>
-    </div>
+    </div> -->
 
 
 <!-- PAGINATION BAR -->
