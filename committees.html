@@ -3,12 +3,13 @@
 
 <head>
     <!-- Style content CDN -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
     <!-- JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="committees.js"></script>
 
     <!-- Font -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
@@ -72,20 +73,32 @@
         <br/>
     </div>
 
+<!-- SORTING BUTTONS -->
+    <h5 class="text-center text-white">Sort by:</h5>
+    <div class="row justify-content-center">
+        <button type="button" class="btn btn-primary btn-sm mr-3 my-1" id="btnSortName">Committee Name</button>
+        <button type="button" class="btn btn-secondary btn-sm mr-3 my-1" id="btnSortChair">Chair</button>
+        <button type="button" class="btn btn-secondary btn-sm mr-3 my-1" id="btnSortRanking">Ranking Member</button>
+        <button type="button" class="btn btn-secondary btn-sm mr-3 my-1" id="btnSortMembers">Number of Members</button>
+        <button type="button" class="btn btn-secondary btn-sm mr-3 my-1" id="btnSortSubcom">Number of Subcommittees</button>
+        <button type="button" class="btn btn-secondary btn-sm mr-3 my-1" id="btnSortHearing">Most Recent Hearing</button>
+    </div>
+
 <!-- CARDS -->
-    <div class="row justify-content-center my-3">
+<div id="card-container">
+    <div class="row card-row justify-content-center my-3">
         <div class="col-10">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title display-4">Agriculture, Nutrition, and Forestry</h3>
                     <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
                     <p>
-                        <a href="#" class="card-link">Chair: Stabenow, Debbie (D-MI)</a>
-                        <a href="#" class="card-link">Ranking Member: Boozman, John (R-AR)</a>
+                        <a href="#" class="card-link committee-chair">Chair: Stabenow, Debbie (D-MI)</a>
+                        <a href="#" class="card-link committee-ranking">Ranking Member: Boozman, John (R-AR)</a>
                     </p>
 
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_Members" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_Members">View All Members</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_SubComit" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_SubComit">View All Subcommittees</a>
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_Members" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_Members">View All Members (22)</a>
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_SubComit" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_SubComit">View All Subcommittees (5)</a>
                     <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_Hearings" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_Hearings">View Most Recent Hearings</a>
 
                     <div class="collapse" id="Ag_Nut_For_Members">
@@ -95,7 +108,7 @@
                                     <div class="card-header h5">
                                         Majority Members
                                     </div>
-                                    <ul class="list-group list-group-flush">
+                                    <ul class="list-group list-group-flush majority-mems">
                                         <li class="list-group-item"><a href="#" class="card-link">Stabenow, Debbie (MI)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Leahy, Patrick J. (VT)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Brown, Sherrod (OH)</a></li>
@@ -115,7 +128,7 @@
                                     <div class="card-header h5">
                                         Minority Members
                                     </div>
-                                    <ul class="list-group list-group-flush">
+                                    <ul class="list-group list-group-flush minority-mems">
                                         <li class="list-group-item"><a href="#" class="card-link">Boozman, John (AR)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">McConnell, Mitch (KY)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Hoeven, John (ND)</a></li>
@@ -138,7 +151,7 @@
                             <div class="card-header h5">
                                 Subcommittees
                             </div>
-                            <ul class="list-group list-group-flush">
+                            <ul class="list-group list-group-flush subcommittees">
                                 <li class="list-group-item">Subcommittee on Commodities, Risk Management, and Trade</li>
                                 <li class="list-group-item">Subcommittee on Conservation, Forestry, and Natural Resources</li>
                                 <li class="list-group-item">Subcommittee on Livestock, Marketing, and Agriculture Security</li>
@@ -153,8 +166,8 @@
 
                             <div class="card my-2">
                                 <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
+                                    <div class="card-title h5 latest-hearing">
+                                        01-25-2021
                                     </div>
                                     <div class="card-subtitle text-muted">
                                         Description
@@ -210,19 +223,19 @@
     </div>
 
 
-    <div class="row justify-content-center my-3">
+    <div class="row card-row justify-content-center my-3">
         <div class="col-10">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title display-4">Appropriations</h3>
                     <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
                     <p>
-                        <a href="#" class="card-link">Chair: Leahy, Patrick J. (D-VT)</a>
-                        <a href="#" class="card-link">Ranking Member: Shelby, Richard C. (R-AL)</a>
+                        <a href="#" class="card-link committee-chair">Chair: Leahy, Patrick J. (D-VT)</a>
+                        <a href="#" class="card-link committee-ranking">Ranking Member: Shelby, Richard C. (R-AL)</a>
                     </p>
 
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Approp_Members" role="button" aria-expanded="false" aria-controls="Approp_Members">View All Members</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Approp_SubComit" role="button" aria-expanded="false" aria-controls="Approp_SubComit">View All Subcommittees</a>
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Approp_Members" role="button" aria-expanded="false" aria-controls="Approp_Members">View All Members (30)</a>
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Approp_SubComit" role="button" aria-expanded="false" aria-controls="Approp_SubComit">View All Subcommittees (12)</a>
                     <a class="btn btn-primary" data-toggle="collapse" href="#Approp_Hearings" role="button" aria-expanded="false" aria-controls="Approp_Hearings">View Most Recent Hearings</a>
 
                     <div class="collapse" id="Approp_Members">
@@ -232,7 +245,7 @@
                                     <div class="card-header h5">
                                         Majority Members
                                     </div>
-                                    <ul class="list-group list-group-flush">
+                                    <ul class="list-group list-group-flush majority-mems">
                                         <li class="list-group-item"><a href="#" class="card-link">Leahy, Patrick J. (VT)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Murray, Patty (WA)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Feinstein, Dianne (CA)</a></li>
@@ -256,7 +269,7 @@
                                     <div class="card-header h5">
                                         Minority Members
                                     </div>
-                                    <ul class="list-group list-group-flush">
+                                    <ul class="list-group list-group-flush minority-mems">
                                         <li class="list-group-item"><a href="#" class="card-link">Shelby, Richard C. (AL)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">McConnell, Mitch (KY)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Collins, Susan M. (ME)</a></li>
@@ -283,7 +296,7 @@
                             <div class="card-header h5">
                                 Subcommittees
                             </div>
-                            <ul class="list-group list-group-flush">
+                            <ul class="list-group list-group-flush subcommittees">
                                 <li class="list-group-item">Subcommittee on Agriculture, Rural Development, Food and Drug Administration, and Related Agencies</li>
                                 <li class="list-group-item">Subcommittee on Commerce, Justice, Science, and Related Agencies</li>
                                 <li class="list-group-item">Subcommittee on Department of Defense</li>
@@ -305,8 +318,8 @@
 
                             <div class="card my-2">
                                 <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
+                                    <div class="card-title h5 latest-hearing">
+                                        02-21-2021
                                     </div>
                                     <div class="card-subtitle text-muted">
                                         Description
@@ -362,19 +375,19 @@
     </div>
 
 
-    <div class="row justify-content-center my-3">
+    <div class="row card-row justify-content-center my-3">
         <div class="col-10">
             <div class="card">
                 <div class="card-body">
                     <h3 class="card-title display-4">Armed Services</h3>
                     <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
                     <p>
-                        <a href="#" class="card-link">Chair: Reed, Jack (D-RI)</a>
-                        <a href="#" class="card-link">Ranking Member: Inhofe, James M. (R-OK)</a>
+                        <a href="#" class="card-link committee-chair">Chair: Reed, Jack (D-RI)</a>
+                        <a href="#" class="card-link committee-ranking">Ranking Member: Inhofe, James M. (R-OK)</a>
                     </p>
 
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_Members" role="button" aria-expanded="false" aria-controls="Armed_Ser_Members">View All Members</a>
-                    <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_SubComit" role="button" aria-expanded="false" aria-controls="Armed_Ser_SubComit">View All Subcommittees</a>
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_Members" role="button" aria-expanded="false" aria-controls="Armed_Ser_Members">View All Members (26)</a>
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_SubComit" role="button" aria-expanded="false" aria-controls="Armed_Ser_SubComit">View All Subcommittees (7)</a>
                     <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_Hearings" role="button" aria-expanded="false" aria-controls="Armed_Ser_Hearings">View Most Recent Hearings</a>
 
                     <div class="collapse" id="Armed_Ser_Members">
@@ -384,7 +397,7 @@
                                     <div class="card-header h5">
                                         Majority Members
                                     </div>
-                                    <ul class="list-group list-group-flush">
+                                    <ul class="list-group list-group-flush majority-mems">
                                         <li class="list-group-item"><a href="#" class="card-link">Reed, Jack (RI)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Shaheen, Jeanne (NH)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Gillibrand, Kirsten E. (NY)</a></li>
@@ -406,7 +419,7 @@
                                     <div class="card-header h5">
                                         Minority Members
                                     </div>
-                                    <ul class="list-group list-group-flush">
+                                    <ul class="list-group list-group-flush minority-mems">
                                         <li class="list-group-item"><a href="#" class="card-link">Inhofe, James M. (OK)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Wicker, Roger F. (MS)</a></li>
                                         <li class="list-group-item"><a href="#" class="card-link">Fischer, Deb (NE)</a></li>
@@ -431,7 +444,7 @@
                             <div class="card-header h5">
                                 Subcommittees
                             </div>
-                            <ul class="list-group list-group-flush">
+                            <ul class="list-group list-group-flush subcommittees">
                                 <li class="list-group-item">Subcommittee on Airland</li>
                                 <li class="list-group-item">Subcommittee on Cybersecurity</li>
                                 <li class="list-group-item">Subcommittee on Emerging Threats and Capabilities</li>
@@ -448,8 +461,8 @@
 
                             <div class="card my-2">
                                 <div class="card-header">
-                                    <div class="card-title h5">
-                                        ##-##-####
+                                    <div class="card-title h5 latest-hearing">
+                                        12-23-2020
                                     </div>
                                     <div class="card-subtitle text-muted">
                                         Description
@@ -503,7 +516,7 @@
             </div>
         </div>
     </div>
-
+</div>
 
 <!-- PAGINATION BAR -->
     <div class="d-flex justify-content-center">
