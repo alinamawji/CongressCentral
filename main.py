@@ -72,13 +72,31 @@ def cardin():
 def carper():
     return render_template('carper.html')
 
+# COMMITTEES
 @app.route('/committees/')
 def committees():
     return render_template('committees.html')
 
+# LEGISLATION
 @app.route('/legislation/')
 def legislation():
     return render_template('legislation.html')
+
+@app.route('/legislation/hr1188')
+def hr1188():
+    return render_template('hr1188.html')
+
+@app.route('/legislation/velazquez')
+def velazquez():
+    return render_template('velazquez.html')
+
+@app.route('/legislation/hr1083')
+def hr1083():
+    return render_template('hr1083.html')
+
+@app.route('/legislation/sres58')
+def sres58():
+    return render_template('sres58.html')
 
 @app.route('/about/')
 def about():
