@@ -3,7 +3,7 @@
 <!-- Font for icons like check mark -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
 <!-- Local stylesheet elements -->
-<link rel="stylesheet" href="profile.css">
+<link rel="stylesheet" href="{{ url_for('static',filename='profile.css') }}">
 
   <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-light static-top">
         <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
@@ -39,7 +39,7 @@
 <div class="container bootdey flex-grow-1 container-p-y">
 
             <div class="media align-items-center py-3 mb-3">
-              <img src="images/b001288.jpg" alt="" class="d-block ui-w-100 rounded-circle">
+              <img src="../static/images/b001288.jpg" alt="" class="d-block ui-w-100 rounded-circle">
               <div class="media-body ml-4">
                 <h4 class="font-weight-bold mb-0">Cory A. Booker
                   <a class="text-muted font-weight-normal" href="https://twitter.com/CoryBooker?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">@CoryBooker
@@ -196,7 +196,7 @@
                         </tr>
                         <tr>
                           <td>
-                            <a href="legislation.html">Click here to view more</a>
+                            <a href="{{url_for('legislation')}}">Click here to view more</a>
                           </td>
                         </tr>
                       </tbody>

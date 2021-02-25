@@ -3,7 +3,7 @@
 <!-- Font for icons like check mark -->
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
 <!-- Local stylesheet elements -->
-<link rel="stylesheet" href="profile.css">
+<link rel="stylesheet" href="{{ url_for('static',filename='profile.css') }}">
 
   <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-light static-top">
         <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
@@ -43,7 +43,7 @@
       <h3 class="mb-0">H.R.1083 — 117th Congress (2021-2022)</h3>
       <div class="text-muted text-medium mb-0">House of Representatives</div>
     </div>
-    <img src="images/bill.png" alt="" class="d-block ui-w-100">
+    <img src="../static/images/bill.png" alt="" class="d-block ui-w-100">
   </div>
 
   <div class="card mb-4">
