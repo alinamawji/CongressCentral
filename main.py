@@ -20,7 +20,37 @@ def baldwin():
 def barrasso():
     return render_template('barrasso.html')
 
+@app.route('/members/bennet')
+def bennet():
+    return render_template('bennet.html')
 
+@app.route('/members/blackburn')
+def blackburn():
+    return render_template('blackburn.html')
+
+@app.route('/members/blumenthal')
+def blumenthal():
+    return render_template('blumenthal.html')
+
+@app.route('/members/blunt')
+def blunt():
+    return render_template('blunt.html')
+
+@app.route('/members/booker')
+def booker():
+    return render_template('booker.html')
+
+@app.route('/members/boozman')
+def boozman():
+    return render_template('boozman.html')
+
+@app.route('/members/braun')
+def braun():
+    return render_template('braun.html')
+
+@app.route('/members/brown')
+def brown():
+    return render_template('brown.html')
 
 @app.route('/committees/')
 def committees():
