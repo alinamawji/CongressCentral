@@ -1,3 +1,131 @@
+commit 7cfe7a0bfca793a8bb2ad4550f05d0c19c64ada8
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 10:36:03 2021 -0800
+
+    Update Andrew's info
+
+commit e11710beb75fabb0ecb2d537bc667057b8aa31ad
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 10:25:41 2021 -0800
+
+    Merge dev
+
+commit e3bfbe273f0e3ee64656780de629d10f5d5e7093
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 25 10:53:51 2021 -0600
+
+    resolves #25 committees sorting and legislation links
+
+commit 615feb1ba8b63bfdb33dc3d5705188898f00cbdd
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 02:56:04 2021 -0800
+
+    update html and css files of members and fix some path parts
+
+commit f5355984ac6fac10c817a3c898d6e43d52fd59d6
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 20:19:38 2021 -0600
+
+    Adding deploy.sh
+
+commit a975017b5ab773b03c60dcfdea4d309b9963c77a
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 20:09:15 2021 -0600
+
+    Flask can now find senator pictures
+
+commit 740720698e255ad797665d45df4bfc3a287fdb40
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:56:51 2021 -0600
+
+    Flask can now find css, js, and images
+
+commit bf374d377b95a0c82e450cd3b45395b1d1a5611b
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:53:41 2021 -0600
+
+    Flask can now find css, js, and images
+
+commit 425156b64fc64d6cee312e05258c2f2130abf2c8
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:44:14 2021 -0600
+
+    Flask can now find CSS files
+
+commit edf9dd2789816878f19ce593d913db209408310a
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:33:14 2021 -0600
+
+    Updated legislation pages for Flask
+
+commit 7d0c48381d4e1202888328d774090b996cc8db07
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:30:54 2021 -0600
+
+    Updated individual member pages for Flask
+
+commit b09989dc0a89126a95e3ce4f910b8fb23fe40fe3
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:18:04 2021 -0600
+
+    Added picture of Robert for about page
+
+commit f9ca484d4d4c114cd68db2498e30d05a4b3da638
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:12:53 2021 -0600
+
+    Updated legislation for Flask
+
+commit d989185d509713ebb7ebc7c8687982c09efe03fc
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 18:58:42 2021 -0600
+
+    Finished updating members
+
+commit 6e7b68f0ffd6547d03edf9be7c8a6ac9f23ddc44
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 18:52:32 2021 -0600
+
+    Updating files for Flask
+
+commit 9c58ca68bdad49f8d6cb94fea2e850356c72b901
+Merge: 10fba11 9607e5e
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 18:33:18 2021 -0600
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb into master
+
+commit 10fba1196dd983b6dbe24695533116511a232a8b
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 18:31:24 2021 -0600
+
+    Updating files for Flask, in process
+
+commit 9607e5e186fd900a4a44546b09378442b4a48818
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Feb 24 18:25:03 2021 -0600
+
+    reordered icons on about
+
+commit 69016361f27e964be76b7de1590c73db710baaac
+Merge: aaa676e 37dacdd
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Feb 24 18:20:29 2021 -0600
+
+    updated about and improved committees sorting
+
+commit aaa676e56d1503c12ad6a6c63bb9fbc5089b7b2b
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Feb 24 18:15:29 2021 -0600
+
+    updated about and improved sorting for committees
+
+commit 37dacddf96cd7fae192c7e474dd26e3f6baec5d9
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 24 18:06:08 2021 -0600
+
+    update idb1.log
+
 commit 979c6074d46d82aa3835a4af0eebe241a982f782
 Author: Alina Mawji <a.mawji08@gmail.com>
 Date:   Wed Feb 24 18:02:25 2021 -0600
