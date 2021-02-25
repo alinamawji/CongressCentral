@@ -1,3 +1,136 @@
+commit 979c6074d46d82aa3835a4af0eebe241a982f782
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 24 18:02:25 2021 -0600
+
+    deployment files
+
+commit af111d6bbf4212bacf953c6034cb19b943848bc0
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Wed Feb 24 03:50:23 2021 -0600
+
+    update about.html
+
+commit 8bcd93fd47a1e69c6c7be4c177ea0f9630d89c66
+Author: Trey Everson <teverson25@me.com>
+Date:   Tue Feb 23 12:59:30 2021 -0600
+
+    Creating flask back-end file
+
+commit 2cc9336ab0f5d6f438dc6b6b36070752868ca4a6
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Mon Feb 22 15:04:36 2021 -0600
+
+    added sorting for committees
+
+commit 0d0906eb4c329ce59cd59f647e5617de946069ea
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sun Feb 21 22:27:55 2021 -0600
+
+    resolves #20 sorting legislation.html
+
+commit 386b8f4a4dadb2078a99960359b7fb9e22fe86d3
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Sun Feb 21 17:47:47 2021 -0600
+
+    added michael and alina bio
+
+commit fb9b90e8e1b9da4ee65b5c01d88f15f674307a72
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 20 21:45:55 2021 -0600
+
+    alina picture
+
+commit af3dafe15d526ac44c6fe92d83793638331026e1
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 18 20:07:45 2021 -0600
+
+    individual legislation pages
+
+commit aa5cc1e53019e341a5c667e7658ada034d1b096f
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 18 18:44:33 2021 -0600
+
+    resolves #8, update navbar
+
+commit 4bb9b07362a042a8f4312959a111d7aafd827c61
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 17 18:44:41 2021 -0600
+
+    navbar updated w links
+
+commit 25bcaa0274f7cf5d088b2966da8a9401cb63976e
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 17 18:15:21 2021 -0600
+
+    resolves #17 profile bills
+
+commit 0cde3bb5682a669fe23dd1edb6c9c18cb8031754
+Merge: 18bfd48 1390a9b
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 17 15:43:21 2021 -0600
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit 18bfd4826e6db57abe9d67c4123d205d9ca1edc6
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 17 15:43:07 2021 -0600
+
+    resolves #16 sortable table
+
+commit 1390a9bf52805f484a9d2ecdc507bffdb92aa30c
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Feb 17 12:57:02 2021 -0600
+
+    added committees page
+
+commit a0e4e7e444edb0a711eccc74764a89443645beec
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sun Feb 14 15:41:52 2021 -0600
+
+    resolves #13 cards aligned
+
+commit 54441c631ceca967502ee266fc4e017bd02904a9
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 13 18:03:06 2021 -0600
+
+    resolves #14 remove pagination link
+
+commit 4f8c341c3d92559009ba502003b2e4659c0c09eb
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 13 11:55:56 2021 -0600
+
+    resolves #15 search bar disable
+
+commit 12228c8855f25cf204c5010edb573a0ad18f6321
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 13 11:26:04 2021 -0600
+
+    resolves #5 state links
+
+commit df2589228182c0ed637e5877472b55b023d29db1
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 13 10:47:51 2021 -0600
+
+    updated profile pages
+
+commit 3c694493390615cf7c5e06024c5a906cdb512d14
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 11 22:26:18 2021 -0600
+
+    profile pages, navbar, members.html
+
+commit 4a138b94a2d1e357ae600351e7987d72bd6be755
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Mon Feb 8 14:26:08 2021 -0600
+
+    added landing page
+
+commit b22adb49fbddba79f7f6297b83fb54d2a9423113
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 4 20:47:45 2021 -0600
+
+    IDB1.log
+
 commit c1f2880d44daa9389795a6efb2e702887aef2693
 Author: Alina Mawji <a.mawji08@gmail.com>
 Date:   Thu Feb 4 11:49:04 2021 -0600
