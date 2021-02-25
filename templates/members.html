@@ -72,18 +72,18 @@
         <table id="usersTable" class="table table-light table-md table-hover w3-table-all">
             <thead class="thead-dark">
                 <tr>
-                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(1)')">Name <img src="images/updown.png" class="img-arrow"></th>
-                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(2)')">Branch <img src="images/updown.png" class="img-arrow"></th>
-                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(3)')">Party <img src="images/updown.png" class="img-arrow"></th>
-                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(4)')">State <img src="images/updown.png" class="img-arrow"></th>
-                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(5)')">Twitter <img src="images/updown.png" class="img-arrow"></th>
+                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(1)')">Name <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
+                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(2)')">Branch <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
+                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(3)')">Party <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
+                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(4)')">State <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
+                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(5)')">Twitter <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
                 </tr>
             </thead>
             <tbody>
                 <tr class="item">
                     <td>
                         <a href="{{url_for('baldwin')}}" class="text-name">Senator Tammy Baldwin</a>
-                        <div class="image-fluid"><img src="images/b001230.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001230.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -101,7 +101,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('barrasso')}}" class="text-name">Senator John Barrasso</a>
-                        <div class="image-fluid"><img src="images/b001261.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001261.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -119,7 +119,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('bennet')}}" class="text-name">Senator Michael F. Bennet</a>
-                        <div class="image-fluid"><img src="images/b001267.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001267.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -137,7 +137,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('blackburn')}}" class="text-name">Senator Marsha Blackburn</a>
-                        <div class="image-fluid"><img src="images/b001243.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001243.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -155,7 +155,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('blumenthal')}}" class="text-name">Senator Richard Blumenthal</a>
-                        <div class="image-fluid"><img src="images/b001277.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001277.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -173,7 +173,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('blunt')}}" class="text-name">Senator Roy Blunt</a>
-                        <div class="image-fluid"><img src="images/b000575.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b000575.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -191,7 +191,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('booker')}}" class="text-name">Senator Cory A. Booker</a>
-                        <div class="image-fluid"><img src="images/b001288.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001288.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -209,7 +209,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('boozman')}}" class="text-name">Senator John Boozman</a>
-                        <div class="image-fluid"><img src="images/b001236.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001236.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -227,7 +227,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('braun')}}" class="text-name">Senator Mike Braun</a>
-                        <div class="image-fluid"><img src="images/b001310.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001310.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -245,7 +245,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('brown')}}" class="text-name">Senator Sherrod Brown</a>
-                        <div class="image-fluid"><img src="images/b000944.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b000944.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -263,7 +263,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('burr')}}" class="text-name">Senator Richard Burr</a>
-                        <div class="image-fluid"><img src="images/b001135.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001135.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -281,7 +281,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('cantwell')}}" class="text-name">Senator Maria Cantwell</a>
-                        <div class="image-fluid"><img src="images/c000127.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/c000127.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -299,7 +299,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('capito')}}" class="text-name">Senator Shelley M. Capito</a>
-                        <div class="image-fluid"><img src="images/c001047.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/c001047.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -317,7 +317,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('cardin')}}" class="text-name">Senator Benjamin L. Cardin</a>
-                        <div class="image-fluid"><img src="images/c000141.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/c000141.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
@@ -335,7 +335,7 @@
                 <tr class="item">
                     <td>
                         <a href="{{url_for('carper')}}" class="text-name">Senator Thomas R. Carper</a>
-                        <div class="image-fluid"><img src="images/c000174.jpg" class="img-thumbnail"></div>
+                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/c000174.jpg') }}" class="img-thumbnail"></div>
                     </td>
                     <td>
                         <p class="text-muted">Senate</p>
