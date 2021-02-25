@@ -14,27 +14,27 @@
 
 <head>
     <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-        <a class="navbar-brand" href="index.html">CongressCentral</a>
+        <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
+            <ul class="navbar-nav mr-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="{{url_for('index')}}">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="members.html">Members</a>
+                <a class="nav-link" href="{{url_for('members')}}">Members</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="committees.html">Committees</a>
+                <a class="nav-link" href="{{url_for('committees')}}">Committees</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="legislation.html">Legislation</a>
+                <a class="nav-link" href="{{url_for('legislation')}}">Legislation</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
+                <a class="nav-link" href="{{url_for('about')}}">About</a>
               </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">
@@ -82,7 +82,7 @@
             <tbody>
                 <tr class="item">
                     <td>
-                        <a href="baldwin.html" class="text-name">Senator Tammy Baldwin</a>
+                        <a href="{{url_for('baldwin')}}" class="text-name">Senator Tammy Baldwin</a>
                         <div class="image-fluid"><img src="images/b001230.jpg" class="img-thumbnail"></div>
                     </td>
                     <td>
@@ -100,7 +100,7 @@
                 </tr>
                 <tr class="item">
                     <td>
-                        <a href="barrasso.html" class="text-name">Senator John Barrasso</a>
+                        <a href="{{url_for('barrasso')}}" class="text-name">Senator John Barrasso</a>
                         <div class="image-fluid"><img src="images/b001261.jpg" class="img-thumbnail"></div>
                     </td>
                     <td>

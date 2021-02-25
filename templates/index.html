@@ -30,29 +30,29 @@
 <body>
 
   <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-light static-top">
-        <a class="navbar-brand" href="index.html">CongressCentral</a>
+        <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
-              <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="members.html">Members</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="committees.html">Committees</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="legislation.html">Legislation</a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="about.html">About</a>
-              </li>
-            </ul>
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('index')}}">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('members')}}">Members</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('committees')}}">Committees</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('legislation')}}">Legislation</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('about')}}">About</a>
+            </li>
+          </ul>
         </div>
     </nav>
 
@@ -86,7 +86,7 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4">
-        <a href="members.html">
+        <a href="{{url_for('members')}}">
           <div class="features-icons-item mx-auto mb-0 mb-lg-3">
             <div class="features-icons-icon d-flex">
               <i class="fas fa-user-circle m-auto text-primary"></i>
@@ -97,7 +97,7 @@
         </div>
         </a>
         <div class="col-lg-4">
-        <a href="committees.html">
+        <a href="{{url_for('committees')}}">
           <div class="features-icons-item mx-auto mb-0 mb-lg-3">
             <div class="features-icons-icon d-flex">
               <i class="fas fa-university m-auto text-primary"></i>
@@ -108,7 +108,7 @@
         </div>
         </a>
         <div class="col-lg-4">
-        <a href="legislation.html">
+        <a href="{{url_for('legislation')}}">
           <div class="features-icons-item mx-auto mb-0 mb-lg-3">
             <div class="features-icons-icon d-flex">
               <i class="fas fa-balance-scale m-auto text-primary"></i>
