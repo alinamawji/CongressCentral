@@ -186,13 +186,13 @@ $( document ).ready(function() {
         // Sort sooner to later or down
         if (sortedDirection == "down") {
             $('#card-container .card-row').sort(function(a,b) {
-                return $(a).find(".latest-hearing").text() > $(b).find(".latest-hearing").text() ? 1 : -1;
+                return Date.parse($(a).find(".latest-hearing").text()) < Date.parse($(b).find(".latest-hearing").text()) ? 1 : -1;
             }).appendTo("#card-container");
         }
         // Sort later to sooner or up
         else {
             $('#card-container .card-row').sort(function(a,b) {
-                return $(a).find(".latest-hearing").text() < $(b).find(".latest-hearing").text() ? 1 : -1;
+                return Date.parse($(a).find(".latest-hearing").text()) > Date.parse($(b).find(".latest-hearing").text()) ? 1 : -1;
             }).appendTo("#card-container");
         }
     })
