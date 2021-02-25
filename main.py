@@ -52,6 +52,26 @@ def braun():
 def brown():
     return render_template('brown.html')
 
+@app.route('/members/burr')
+def burr():
+    return render_template('burr.html')
+
+@app.route('/members/cantwell')
+def cantwell():
+    return render_template('cantwell.html')
+
+@app.route('/members/capito')
+def capito():
+    return render_template('capito.html')
+
+@app.route('/members/cardin')
+def cardin():
+    return render_template('cardin.html')
+
+@app.route('/members/carper')
+def carper():
+    return render_template('carper.html')
+
 @app.route('/committees/')
 def committees():
     return render_template('committees.html')
