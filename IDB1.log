@@ -1,3 +1,52 @@
+commit 2da1799c193d22a98399a3f495316c53df45fa51
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Feb 26 12:49:12 2021 -0600
+
+    update about
+
+commit 73e5267f8cac1a280f5ce0b5fffbe12cdbeb6037
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Feb 26 12:44:58 2021 -0600
+
+    linked instances of different pillars
+
+commit b1134f96efc4cf2d7f78b796a7147a49c5b4e444
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 25 21:55:10 2021 -0600
+
+    update about.html stats
+
+commit 3480b0105de821c40aae4ed99336926dafe77441
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Thu Feb 25 21:21:34 2021 -0600
+
+    fixed image scaling on about
+
+commit 53e098299a41b13d3e473d26edcba21be317af61
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 25 20:55:42 2021 -0600
+
+    updated about.html
+
+commit 4b9988d218d78a55302ba46cbaa2796236781f93
+Merge: 2d3ebe6 6d81d49
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 16:59:34 2021 -0800
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit 2d3ebe66cd7e00f97a2ffd81ea53693a54ce4634
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 16:56:48 2021 -0800
+
+    Update about.html
+
+commit 6d81d49156fb5525c945d665fcd7c4ce1133c48c
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 25 15:52:30 2021 -0600
+
+    update git log
+
 commit 7cfe7a0bfca793a8bb2ad4550f05d0c19c64ada8
 Author: Andrew Kim <ksb0724@utexas.edu>
 Date:   Thu Feb 25 10:36:03 2021 -0800
