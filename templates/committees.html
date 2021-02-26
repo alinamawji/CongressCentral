@@ -88,13 +88,13 @@
 <div id="card-container">
     <div class="row card-row justify-content-center my-3">
         <div class="col-10">
-            <div class="card">
+            <div class="card" id="sen_agriculture">
                 <div class="card-body">
                     <h3 class="card-title display-4">Agriculture, Nutrition, and Forestry</h3>
                     <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
                     <p>
-                        <a href="#" class="card-link committee-chair">Chair: Stabenow, Debbie (D-MI)</a>
-                        <a href="#" class="card-link committee-ranking">Ranking Member: Boozman, John (R-AR)</a>
+                        <a href="{{url_for('members')}}" class="card-link committee-chair">Chair: Stabenow, Debbie (D-MI)</a>
+                        <a href="{{url_for('boozman')}}" class="card-link committee-ranking">Ranking Member: Boozman, John (R-AR)</a>
                     </p>
 
                     <a class="btn btn-primary" data-toggle="collapse" href="#Ag_Nut_For_Members" role="button" aria-expanded="false" aria-controls="Ag_Nut_For_Members">View All Members (22)</a>
@@ -109,17 +109,17 @@
                                         Majority Members
                                     </div>
                                     <ul class="list-group list-group-flush majority-mems">
-                                        <li class="list-group-item"><a href="#" class="card-link">Stabenow, Debbie (MI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Leahy, Patrick J. (VT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Brown, Sherrod (OH)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Klobuchar, Amy (MN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Bennet, Michael F. (CO)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Gillibrand, Kirsten E. (NY)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Smith, Tina (MN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Durbin, Richard J. (IL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Booker, Cory A. (NJ)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Lujan, Ben Ray (NM)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Warnock, Raphael G. (GA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Stabenow, Debbie (MI)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Leahy, Patrick J. (VT)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('brown')}}" class="card-link">Brown, Sherrod (OH)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Klobuchar, Amy (MN)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('bennet')}}" class="card-link">Bennet, Michael F. (CO)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Gillibrand, Kirsten E. (NY)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Smith, Tina (MN)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Durbin, Richard J. (IL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('booker')}}" class="card-link">Booker, Cory A. (NJ)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Lujan, Ben Ray (NM)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Warnock, Raphael G. (GA)</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -129,17 +129,17 @@
                                         Minority Members
                                     </div>
                                     <ul class="list-group list-group-flush minority-mems">
-                                        <li class="list-group-item"><a href="#" class="card-link">Boozman, John (AR)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">McConnell, Mitch (KY)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hoeven, John (ND)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Ernst, Joni (IA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hyde-Smith, Cindy (MS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Marshall, Roger (KS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Tuberville, Tommy (AL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Grassley, Chuck (IA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Thune, John (SD)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Fischer, Deb (NE)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Braun, Mike (IN)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('boozman')}}" class="card-link">Boozman, John (AR)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">McConnell, Mitch (KY)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hoeven, John (ND)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Ernst, Joni (IA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hyde-Smith, Cindy (MS)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Marshall, Roger (KS)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Tuberville, Tommy (AL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Grassley, Chuck (IA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Thune, John (SD)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Fischer, Deb (NE)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('braun')}}" class="card-link">Braun, Mike (IN)</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -178,7 +178,7 @@
                                     </div>
                                 </div>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">No Bills</li>
+                                    <li class="list-group-item"><a href="{{url_for('legislation')}}" class="card-link">No Legislation</a></li>
                                 </ul>
                             </div>
 
@@ -192,7 +192,7 @@
                                     </div>
                                 </div>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">No Bills</li>
+                                    <li class="list-group-item"><a href="{{url_for('legislation')}}" class="card-link">No Legislation</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -209,13 +209,13 @@
 
     <div class="row card-row justify-content-center my-3">
         <div class="col-10">
-            <div class="card">
+            <div class="card" id="sen_approp">
                 <div class="card-body">
                     <h3 class="card-title display-4">Appropriations</h3>
                     <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
                     <p>
-                        <a href="#" class="card-link committee-chair">Chair: Leahy, Patrick J. (D-VT)</a>
-                        <a href="#" class="card-link committee-ranking">Ranking Member: Shelby, Richard C. (R-AL)</a>
+                        <a href="{{url_for('members')}}" class="card-link committee-chair">Chair: Leahy, Patrick J. (D-VT)</a>
+                        <a href="{{url_for('members')}}" class="card-link committee-ranking">Ranking Member: Shelby, Richard C. (R-AL)</a>
                     </p>
 
                     <a class="btn btn-primary" data-toggle="collapse" href="#Approp_Members" role="button" aria-expanded="false" aria-controls="Approp_Members">View All Members (30)</a>
@@ -230,21 +230,21 @@
                                         Majority Members
                                     </div>
                                     <ul class="list-group list-group-flush majority-mems">
-                                        <li class="list-group-item"><a href="#" class="card-link">Leahy, Patrick J. (VT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Murray, Patty (WA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Feinstein, Dianne (CA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Durbin, Richard J. (IL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Reed, Jack (RI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Tester, Jon (MT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Shaheen, Jeanne (NH)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Merkley, Jeff (OR)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Coons, Christopher A. (DE)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Schatz, Brian (HI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Baldwin, Tammy (WI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Murphy, Christopher (CT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Manchin, Joe (WV)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Van Hollen, Chris (MD)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Heinrich, Martin (NM)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Leahy, Patrick J. (VT)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Murray, Patty (WA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Feinstein, Dianne (CA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Durbin, Richard J. (IL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Reed, Jack (RI)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Tester, Jon (MT)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Shaheen, Jeanne (NH)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Merkley, Jeff (OR)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Coons, Christopher A. (DE)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Schatz, Brian (HI)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('baldwin')}}" class="card-link">Baldwin, Tammy (WI)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Murphy, Christopher (CT)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Manchin, Joe (WV)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Van Hollen, Chris (MD)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Heinrich, Martin (NM)</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -254,21 +254,21 @@
                                         Minority Members
                                     </div>
                                     <ul class="list-group list-group-flush minority-mems">
-                                        <li class="list-group-item"><a href="#" class="card-link">Shelby, Richard C. (AL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">McConnell, Mitch (KY)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Collins, Susan M. (ME)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Murkowski, Lisa (AK)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Graham, Lindsey (SC)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Blunt, Roy (MO)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Moran, Jerry (KS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hoeven, John (ND)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Boozman, John (AR)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Capito, Shelley Moore (WV)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Kennedy, John (LA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hyde-Smith, Cindy (MS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Braun, Mike (IN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hagerty, Bill (TN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Rubio, Marco (FL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Shelby, Richard C. (AL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">McConnell, Mitch (KY)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Collins, Susan M. (ME)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Murkowski, Lisa (AK)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Graham, Lindsey (SC)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('blunt')}}" class="card-link">Blunt, Roy (MO)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Moran, Jerry (KS)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hoeven, John (ND)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('boozman')}}" class="card-link">Boozman, John (AR)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('capito')}}" class="card-link">Capito, Shelley Moore (WV)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Kennedy, John (LA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hyde-Smith, Cindy (MS)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('braun')}}" class="card-link">Braun, Mike (IN)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hagerty, Bill (TN)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Rubio, Marco (FL)</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -310,7 +310,7 @@
                                     </div>
                                 </div>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">No Bills</li>
+                                    <li class="list-group-item"><a href="{{url_for('legislation')}}" class="card-link">No Legislation</a></li>
                                 </ul>
                             </div>
 
@@ -324,7 +324,7 @@
                                     </div>
                                 </div>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">No Bills</li>
+                                    <li class="list-group-item"><a href="{{url_for('legislation')}}" class="card-link">No Legislation</a></li>
                                 </ul>
                             </div>
 
@@ -338,7 +338,7 @@
                                     </div>
                                 </div>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">No Bills</li>
+                                    <li class="list-group-item"><a href="{{url_for('legislation')}}" class="card-link">No Legislation</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -355,13 +355,13 @@
 
     <div class="row card-row justify-content-center my-3">
         <div class="col-10">
-            <div class="card">
+            <div class="card" id="sen_armed_services">
                 <div class="card-body">
                     <h3 class="card-title display-4">Armed Services</h3>
                     <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
                     <p>
-                        <a href="#" class="card-link committee-chair">Chair: Reed, Jack (D-RI)</a>
-                        <a href="#" class="card-link committee-ranking">Ranking Member: Inhofe, James M. (R-OK)</a>
+                        <a href="{{url_for('members')}}" class="card-link committee-chair">Chair: Reed, Jack (D-RI)</a>
+                        <a href="{{url_for('members')}}" class="card-link committee-ranking">Ranking Member: Inhofe, James M. (R-OK)</a>
                     </p>
 
                     <a class="btn btn-primary" data-toggle="collapse" href="#Armed_Ser_Members" role="button" aria-expanded="false" aria-controls="Armed_Ser_Members">View All Members (26)</a>
@@ -376,19 +376,19 @@
                                         Majority Members
                                     </div>
                                     <ul class="list-group list-group-flush majority-mems">
-                                        <li class="list-group-item"><a href="#" class="card-link">Reed, Jack (RI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Shaheen, Jeanne (NH)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Gillibrand, Kirsten E. (NY)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Blumenthal, Richard (CT)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hirono, Mazie K. (HI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Kaine, Tim (VA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">King, Angus S. (ME)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Warren, Elizabeth (MA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Peters, Gary C. (MI)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Manchin, Joe (WV)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Duckworth, Tammy (IL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Rosen, Jacky (NV)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Kelly, Mark (AZ)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Reed, Jack (RI)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Shaheen, Jeanne (NH)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Gillibrand, Kirsten E. (NY)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('blumenthal')}}" class="card-link">Blumenthal, Richard (CT)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hirono, Mazie K. (HI)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Kaine, Tim (VA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">King, Angus S. (ME)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Warren, Elizabeth (MA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Peters, Gary C. (MI)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Manchin, Joe (WV)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Duckworth, Tammy (IL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Rosen, Jacky (NV)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Kelly, Mark (AZ)</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -398,19 +398,19 @@
                                         Minority Members
                                     </div>
                                     <ul class="list-group list-group-flush minority-mems">
-                                        <li class="list-group-item"><a href="#" class="card-link">Inhofe, James M. (OK)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Wicker, Roger F. (MS)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Fischer, Deb (NE)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Cotton, Tom (AR)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Rounds, Mike (SD)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Ernst, Joni (IA)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Tillis, Thom (NC)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Sullivan, Dan (AK)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Cramer, Kevin (ND)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Scott, Rick (FL)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Blackburn, Marsha (TN)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Hawley, Josh (MO)</a></li>
-                                        <li class="list-group-item"><a href="#" class="card-link">Tuberville, Tommy (AL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Inhofe, James M. (OK)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Wicker, Roger F. (MS)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Fischer, Deb (NE)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Cotton, Tom (AR)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Rounds, Mike (SD)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Ernst, Joni (IA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Tillis, Thom (NC)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Sullivan, Dan (AK)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Cramer, Kevin (ND)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Scott, Rick (FL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('blackburn')}}" class="card-link">Blackburn, Marsha (TN)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hawley, Josh (MO)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Tuberville, Tommy (AL)</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -447,7 +447,7 @@
                                     </div>
                                 </div>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">No Bills</li>
+                                    <li class="list-group-item"><a href="{{url_for('legislation')}}" class="card-link">No Legislation</a></li>
                                 </ul>
                             </div>
 
@@ -461,7 +461,7 @@
                                     </div>
                                 </div>
                                 <ul class="list-group list-group-flush">
-                                    <li class="list-group-item">No Bills</li>
+                                    <li class="list-group-item"><a href="{{url_for('legislation')}}" class="card-link">No Legislation</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -470,6 +470,116 @@
                 </div>
                 <div class="card-footer">
                     <a href="https://www.armed-services.senate.gov/" class="card-link" target="_blank">Official Site</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row card-row justify-content-center my-3">
+        <div class="col-10">
+            <div class="card" id="sen_rules">
+                <div class="card-body">
+                    <h3 class="card-title display-4">Rules and Administration</h3>
+                    <h5 class="card-subtitle mb-2 text-muted">Senate</h5>
+                    <p>
+                        <a href="{{url_for('members')}}" class="card-link committee-chair">Chair: Klobuchar, Amy (MN)</a>
+                        <a href="{{url_for('blunt')}}" class="card-link committee-ranking">Ranking Member: Blunt, Roy (MO)</a>
+                    </p>
+
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Rules_Members" role="button" aria-expanded="false" aria-controls="Rules_Members">View All Members (18)</a>
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Rules_SubComit" role="button" aria-expanded="false" aria-controls="Rules_SubComit">View All Subcommittees (0)</a>
+                    <a class="btn btn-primary" data-toggle="collapse" href="#Rules_Hearings" role="button" aria-expanded="false" aria-controls="Rules_Hearings">View Most Recent Hearings</a>
+
+                    <div class="collapse" id="Rules_Members">
+                        <div class="row justify-content-center">
+                            <div class="col-6">
+                                <div class="card my-2">
+                                    <div class="card-header h5">
+                                        Majority Members
+                                    </div>
+                                    <ul class="list-group list-group-flush majority-mems">
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Klobuchar, Amy (MN)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Feinstein, Dianne (CA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Schumer, Charles E. (NY)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Warner, Mark R. (VA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Leahy, Patrick J. (VT)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">King, Angus S. (ME)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Merkley, Jeff (OR)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Padilla, Alex (CA)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Ossoff, Jon (GA)</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="card my-2">
+                                    <div class="card-header h5">
+                                        Minority Members
+                                    </div>
+                                    <ul class="list-group list-group-flush minority-mems">
+                                        <li class="list-group-item"><a href="{{url_for('blunt')}}" class="card-link">Blunt, Roy (MO)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">McConnell, Mitch (KY)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Shelby, Richard C. (AL)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Cruz, Ted (TX)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('capito')}}" class="card-link">Capito, Shelley Moore (WV)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Wicker, Roger F. (MS)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Fischer, Deb (NE)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hyde-Smith, Cindy (MS)</a></li>
+                                        <li class="list-group-item"><a href="{{url_for('members')}}" class="card-link">Hagerty, Bill (TN)</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="collapse" id="Rules_SubComit">
+                        <div class="card my-2">
+                            <div class="card-header h5">
+                                Subcommittees
+                            </div>
+                            <ul class="list-group list-group-flush subcommittees">
+                                <li class="list-group-item">No Subcommittees</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="collapse" id="Rules_Hearings">
+                        <div class="card-deck">
+
+                            <div class="card my-2">
+                                <div class="card-header">
+                                    <div class="card-title h5 latest-hearing">
+                                        02-23-2021
+                                    </div>
+                                    <div class="card-subtitle text-muted">
+                                        Joint Full Committee Hearing: Examining the January 6th Attack on the U.S. Capitol
+                                    </div>
+                                </div>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item"><a href="{{url_for('legislation')}}" class="card-link">No Legislation</a></li>
+                                </ul>
+                            </div>
+
+                            <div class="card my-2">
+                                <div class="card-header">
+                                    <div class="card-title h5">
+                                        02-13-2021
+                                    </div>
+                                    <div class="card-subtitle text-muted">
+                                        Business Meeting: Business Meeting Committee Rules and Budget Authorization, and Omnibus Committee Funding Resolution
+                                    </div>
+                                </div>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item"><a href="{{url_for('sres58')}}" class="card-link">S. Res 58</a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </div>
+                <div class="card-footer">
+                    <a href="https://www.rules.senate.gov/" class="card-link" target="_blank">Official Site</a>
                 </div>
             </div>
         </div>
