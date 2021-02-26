@@ -16,11 +16,6 @@ body{
   cursor: default;
 }
 
-.card-img-top{
-    height: 14rem;
-    border-radius: 5px;
-}
-
 .features-icons {
   padding-top: 7rem;
   padding-bottom: 7rem;
