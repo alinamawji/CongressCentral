@@ -98,6 +98,14 @@ def hr1083():
 def sres58():
     return render_template('sres58.html')
 
+@app.route('/legislation/s287.html')
+def s287():
+    return render_template('s287.html')
+
+@app.route('/legislation/samdt643.html')
+def samdt643():
+    return render_template('samdt643.html')
+
 @app.route('/about/')
 def about():
     return render_template('about.html')
