@@ -11,6 +11,10 @@ body{
     margin-top: 0px;
 }
 
+.card-body a {
+  color: blue;
+}
+
 .disabled {
   pointer-events: none;
   cursor: default;
