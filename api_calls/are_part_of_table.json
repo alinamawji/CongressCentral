@@ -1,0 +1,1770 @@
+[
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "B001230"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "B001230"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "B001230"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "B001261"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "B001261"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "B001261"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "B001267"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "B001267"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "B001267"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "B001243"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "B001243"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "B001243"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "B001243"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "B001277"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "B001277"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "B001277"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "B001277"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "B001277"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "B000575"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "B000575"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "B000575"
+    },
+    {
+        "committee_name": "Joint Committee on Printing",
+        "member_id": "B000575"
+    },
+    {
+        "committee_name": "Joint Committee on the Library",
+        "member_id": "B000575"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "B000575"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "B001288"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "B001288"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "B001288"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "B001288"
+    },
+    {
+        "committee_name": "Commission on Security and Cooperation in Europe",
+        "member_id": "B001236"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "B001236"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "B001236"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "B001236"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "B001236"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "B001310"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "B001310"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "B001310"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "B001310"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "B001310"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "B000944"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "B000944"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "B000944"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "B000944"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "B001135"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "B001135"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "B001135"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "B001135"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "C000127"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "C000127"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "C000127"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "C000127"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "C000127"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "C001047"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "C001047"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "C001047"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "C001047"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "C000141"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "C000141"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "C000141"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "C000141"
+    },
+    {
+        "committee_name": "Commission on Security and Cooperation in Europe",
+        "member_id": "C000141"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "C000174"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "C000174"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "C000174"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "C001070"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "C001070"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "C001070"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "C001070"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "C001075"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "C001075"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "C001075"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "C001075"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "C001075"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "C001035"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "C001035"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "C001035"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "C001035"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "C001088"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "C001088"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "C001088"
+    },
+    {
+        "committee_name": "Select Committee on Ethics",
+        "member_id": "C001088"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "C001088"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "C001056"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "C001056"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "C001056"
+    },
+    {
+        "committee_name": "United States Caucus on International Narcotics Control",
+        "member_id": "C001056"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "C001113"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "C001113"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "C001113"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "C001113"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "C001095"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "C001095"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "C001095"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "C001095"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "C001096"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "C001096"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "C001096"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "C001096"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "C001096"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "C000880"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "C000880"
+    },
+    {
+        "committee_name": "Joint Committee on Taxation",
+        "member_id": "C000880"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "C000880"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "C001098"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "C001098"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "C001098"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "C001098"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "C001098"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "D000618"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "D000618"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "D000618"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "D000618"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "D000622"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "D000622"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "D000622"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "D000622"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "D000563"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "D000563"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "D000563"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "E000295"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "E000295"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "E000295"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "E000295"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "F000062"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "F000062"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "F000062"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "F000062"
+    },
+    {
+        "committee_name": "United States Caucus on International Narcotics Control",
+        "member_id": "F000062"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "F000463"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "F000463"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "F000463"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "F000463"
+    },
+    {
+        "committee_name": "Select Committee on Ethics",
+        "member_id": "F000463"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "G000555"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "G000555"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "G000555"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "G000555"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "G000359"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "G000359"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "G000359"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "G000359"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "G000386"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "G000386"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "G000386"
+    },
+    {
+        "committee_name": "Joint Committee on Taxation",
+        "member_id": "G000386"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "G000386"
+    },
+    {
+        "committee_name": "United States Caucus on International Narcotics Control",
+        "member_id": "G000386"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "H000601"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "H000601"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "H000601"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "H000601"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "H001076"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "H001076"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "H001076"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "H001076"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "H001076"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "H001089"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "H001089"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "H001089"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "H001089"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "H001046"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "H001046"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "H001046"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "H001046"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "H000273"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "H000273"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "H000273"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "H000273"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "H001042"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "H001042"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "H001042"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "H001042"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "H001042"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "H001061"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "H001061"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "H001061"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "H001061"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "H001079"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "H001079"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "H001079"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "H001079"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "I000024"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "I000024"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "I000024"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "I000024"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "J000293"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "J000293"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "J000293"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "J000293"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "K000384"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "K000384"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "K000384"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "K000384"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "K000377"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "K000377"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "K000377"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "K000377"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "K000377"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "K000393"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "K000393"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "K000393"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "K000393"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "K000393"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "K000383"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "K000383"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "K000383"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "K000383"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "K000367"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "K000367"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "K000367"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "K000367"
+    },
+    {
+        "committee_name": "Joint Committee on Printing",
+        "member_id": "K000367"
+    },
+    {
+        "committee_name": "Joint Committee on the Library",
+        "member_id": "K000367"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "K000367"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "L000575"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "L000575"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "L000575"
+    },
+    {
+        "committee_name": "Select Committee on Ethics",
+        "member_id": "L000575"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "L000575"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "L000174"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "L000174"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "L000174"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "L000174"
+    },
+    {
+        "committee_name": "Joint Committee on the Library",
+        "member_id": "L000174"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "L000577"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "L000577"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "L000577"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "L000577"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "L000577"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "L000570"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "L000570"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "L000570"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "L000570"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "L000570"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "L000571"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "L000571"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "L000571"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "M001183"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "M001183"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "M001183"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "M001183"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "M000133"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "M000133"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "M000133"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "M000133"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "M001198"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "M001198"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "M001198"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "M001198"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "M000355"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "M000355"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "M000355"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "M000355"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "M000639"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "M000639"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "M000639"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "M001176"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "M001176"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "M001176"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "M001176"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "M001176"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "M000934"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "M000934"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "M000934"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "M000934"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "M000934"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "M000934"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "M001153"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "M001153"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "M001153"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "M001153"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "M001169"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "M001169"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "M001169"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "M001111"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "M001111"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "M001111"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "M001111"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "O000174"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "O000174"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "O000174"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "O000174"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "P000145"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "P000145"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "P000145"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "P000145"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "P000145"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "P000603"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "P000603"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "P000603"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "P000603"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "P000595"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "P000595"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "P000595"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "P000449"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "P000449"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "P000449"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "P000449"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "R000122"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "R000122"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "R000122"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "R000122"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "R000584"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "R000584"
+    },
+    {
+        "committee_name": "Select Committee on Ethics",
+        "member_id": "R000584"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "R000584"
+    },
+    {
+        "committee_name": "United States Caucus on International Narcotics Control",
+        "member_id": "R000584"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "R000584"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "R000615"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "R000615"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "R000615"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "R000615"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "R000608"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "R000608"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "R000608"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "R000608"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "R000608"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "R000608"
+    },
+    {
+        "committee_name": "United States Caucus on International Narcotics Control",
+        "member_id": "R000608"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "R000605"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "R000605"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "R000605"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "R000605"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "R000605"
+    },
+    {
+        "committee_name": "Commission on Security and Cooperation in Europe",
+        "member_id": "R000595"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "R000595"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "R000595"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "R000595"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "R000595"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "R000595"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "S000033"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "S000033"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "S000033"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "S000033"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "S000033"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "S001197"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "S001197"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "S001197"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "S001197"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "S001194"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "S001194"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "S001194"
+    },
+    {
+        "committee_name": "Select Committee on Ethics",
+        "member_id": "S001194"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "S001194"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "S000148"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "S000148"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "S001184"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "S001184"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "S001184"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "S001184"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "S001184"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "S001217"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "S001217"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "S001217"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "S001217"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "S001217"
+    },
+    {
+        "committee_name": "Commission on Security and Cooperation in Europe",
+        "member_id": "S001181"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "S001181"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "S001181"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "S001181"
+    },
+    {
+        "committee_name": "Select Committee on Ethics",
+        "member_id": "S001181"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "S001181"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "S000320"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "S000320"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "S000320"
+    },
+    {
+        "committee_name": "Joint Committee on the Library",
+        "member_id": "S000320"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "S000320"
+    },
+    {
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "member_id": "S001191"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "S001191"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "S001191"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "S001191"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "S001203"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "S001203"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "S001203"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "S001203"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "S000770"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "S000770"
+    },
+    {
+        "committee_name": "Joint Committee on Taxation",
+        "member_id": "S000770"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "S000770"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "S000770"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "S001198"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "S001198"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "S001198"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "S001198"
+    },
+    {
+        "committee_name": "Committee on Indian Affairs",
+        "member_id": "T000464"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "T000464"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "T000464"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "T000464"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "T000464"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "T000250"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "T000250"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "T000250"
+    },
+    {
+        "committee_name": "Commission on Security and Cooperation in Europe",
+        "member_id": "T000476"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "T000476"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "T000476"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "T000476"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "T000476"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "T000461"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "T000461"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "T000461"
+    },
+    {
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "member_id": "T000278"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "T000278"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "T000278"
+    },
+    {
+        "committee_name": "Committee on Veterans' Affairs",
+        "member_id": "T000278"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "V000128"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "V000128"
+    },
+    {
+        "committee_name": "Committee on Appropriations",
+        "member_id": "V000128"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "V000128"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "W000805"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "W000805"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "W000805"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "W000805"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "W000805"
+    },
+    {
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "member_id": "W000790"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "W000790"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "W000790"
+    },
+    {
+        "committee_name": "Joint Economic Committee",
+        "member_id": "W000790"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "W000790"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "W000817"
+    },
+    {
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "member_id": "W000817"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "W000817"
+    },
+    {
+        "committee_name": "Special Committee on Aging",
+        "member_id": "W000817"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "W000802"
+    },
+    {
+        "committee_name": "Committee on the Judiciary",
+        "member_id": "W000802"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "W000802"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "W000802"
+    },
+    {
+        "committee_name": "United States Caucus on International Narcotics Control",
+        "member_id": "W000802"
+    },
+    {
+        "committee_name": "Commission on Security and Cooperation in Europe",
+        "member_id": "W000802"
+    },
+    {
+        "committee_name": "Commission on Security and Cooperation in Europe",
+        "member_id": "W000437"
+    },
+    {
+        "committee_name": "Committee on Rules and Administration",
+        "member_id": "W000437"
+    },
+    {
+        "committee_name": "Committee on Armed Services",
+        "member_id": "W000437"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "W000437"
+    },
+    {
+        "committee_name": "Joint Committee on Printing",
+        "member_id": "W000437"
+    },
+    {
+        "committee_name": "Committee on Environment and Public Works",
+        "member_id": "W000437"
+    },
+    {
+        "committee_name": "Committee on the Budget",
+        "member_id": "W000779"
+    },
+    {
+        "committee_name": "Committee on Energy and Natural Resources",
+        "member_id": "W000779"
+    },
+    {
+        "committee_name": "Joint Committee on Taxation",
+        "member_id": "W000779"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "W000779"
+    },
+    {
+        "committee_name": "Select Committee on Intelligence",
+        "member_id": "W000779"
+    },
+    {
+        "committee_name": "Committee on Foreign Relations",
+        "member_id": "Y000064"
+    },
+    {
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "member_id": "Y000064"
+    },
+    {
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "member_id": "Y000064"
+    },
+    {
+        "committee_name": "Committee on Finance",
+        "member_id": "Y000064"
+    }
+]
