@@ -1,0 +1,1346 @@
+[
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "time": "09:30:00",
+        "location": "SR-301",
+        "description": "Hearings to examine Child Nutrition Reauthorization, focusing on healthy meals and healthy futures."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "time": "09:30:00",
+        "location": "SD-106",
+        "description": "Hearings to examine Child Nutrition Reauthorization, focusing on healthy meals and healthy futures."
+    },
+    {
+        "date": "2021-03-11",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "time": "10:15:00",
+        "location": "SR-301",
+        "description": "Hearings to examine farmers and foresters, focusing on opportunities to lead in tackling climate change."
+    },
+    {
+        "date": "2021-03-11",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "time": "10:15:00",
+        "location": "SD-106",
+        "description": "Hearings to examine farmers and foresters, focusing on opportunities to lead in tackling climate change."
+    },
+    {
+        "date": "2021-02-02",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry",
+        "time": "10:30:00",
+        "location": "SR-301",
+        "description": "Hearings to examine the nomination of Thomas J. Vilsack, of Iowa, to be Secretary of Agriculture."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Appropriations",
+        "time": "09:30:00",
+        "location": "SVC-217",
+        "description": "Closed hearings to examine domestic and foreign threats and other challenges facing the Federal Bureau of Investigation."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Armed Services",
+        "time": "12:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on United States Special Operations Command and United States Cyber Command in review of the Defense Authorization Request for fiscal year 2022 and the Future Years Defense Program."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine United States Special Operations Command and United States Cyber Command in review of the Defense Authorization Request for fiscal year 2022 and the Future Years Defense Program."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Armed Services",
+        "time": "14:30:00",
+        "location": "SD-106",
+        "description": "Hearings to examine sexual assault in the military."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on Department of Defense cyber operations."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine the nomination of Admiral John C. Aquilino, USN, for reappointment to the grade of admiral and to be Commander, United States Indo-Pacific Command, Department of Defense."
+    },
+    {
+        "date": "2021-03-18",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "To receive a closed briefing on the planning, programming, budget, and execution process of the Department of Defense."
+    },
+    {
+        "date": "2021-03-16",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine United States Southern Command and United States Northern Command in review of the Defense Authorization Request for fiscal year 2022 and Future Years Defense program."
+    },
+    {
+        "date": "2021-03-11",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine the final recommendations and report of the National Commission on Military, National, and Public Service."
+    },
+    {
+        "date": "2021-03-09",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine United States Indo-Pacific Command in review of the Defense Authorization Request for Fiscal Year 2022 and the Future Years Defense Program."
+    },
+    {
+        "date": "2021-03-04",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the nomination of Colin Hackett Kahl, of California, to be Under Secretary of Defense for Policy."
+    },
+    {
+        "date": "2021-03-02",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine global security challenges and strategy."
+    },
+    {
+        "date": "2021-02-25",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine Department of Defense support to the COVID-19 response."
+    },
+    {
+        "date": "2021-02-23",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-106",
+        "description": "Hearings to examine emerging technologies and their impact on national security."
+    },
+    {
+        "date": "2021-02-04",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "To receive a closed briefing on the Army response to the findings and recommendations of the Fort Hood Independent Review Committee&#39;s assessment of the Fort Hood command climate and culture."
+    },
+    {
+        "date": "2021-02-02",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine the nomination of Kathleen Holland Hicks, of Virginia, to be Deputy Secretary of Defense."
+    },
+    {
+        "date": "2021-01-19",
+        "committee_name": "Committee on Armed Services",
+        "time": "15:00:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine the expected nomination of Lloyd J. Austin III, to be Secretary of Defense."
+    },
+    {
+        "date": "2021-01-19",
+        "committee_name": "Committee on Armed Services",
+        "time": "15:00:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the expected nomination of Lloyd J. Austin III, to be Secretary of Defense."
+    },
+    {
+        "date": "2021-01-12",
+        "committee_name": "Committee on Armed Services",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine civilian control of the Armed Forces."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the American Rescue Plan, focusing on shots in arms and money in pockets."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the quarterly CARES Act report to Congress."
+    },
+    {
+        "date": "2021-03-18",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the 21st century economy, focusing on protecting the financial system from risks associated with climate change."
+    },
+    {
+        "date": "2021-03-16",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "14:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the state of housing in America."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "14:00:00",
+        "location": "SH-216",
+        "description": "Business meeting to consider the subcommittee assignments for the 117th Congress, and the nominations of Gary Gensler, of Maryland, to be a Member of the Securities and Exchange Commission, and Rohit Chopra, of the District of Columbia, to be Director, Bureau of Consumer Financial Protection."
+    },
+    {
+        "date": "2021-03-09",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine GameStop, Robinhood, and the state of retail investing."
+    },
+    {
+        "date": "2021-03-04",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "10:15:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine how the financial system hurts workers and widens the racial wealth gap."
+    },
+    {
+        "date": "2021-03-02",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the nominations of Gary Gensler, of Maryland, to be a Member of the Securities and Exchange Commission, and Rohit Chopra, of the District of Columbia, to be Director, Bureau of Consumer Financial Protection."
+    },
+    {
+        "date": "2021-02-25",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "09:30:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the coronavirus crisis, focusing on next steps for rebuilding Main Street."
+    },
+    {
+        "date": "2021-02-23",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the Semiannual Monetary Policy Report to the Congress."
+    },
+    {
+        "date": "2021-02-18",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "11:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the Coronavirus crisis, focusing on paving the way to an equitable recovery."
+    },
+    {
+        "date": "2021-02-11",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "11:30:00",
+        "location": "SD-G50",
+        "description": "Organizational business meeting to consider an original resolution authorizing expenditures by the committee for the 117th Congress, committee rules and procedure for the 117th Congress, and committee questionnaire for nominations."
+    },
+    {
+        "date": "2021-02-04",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "14:00:00",
+        "location": "SR-325",
+        "description": "Business meeting to consider the nominations of Marcia Louise Fudge, of Ohio, to be Secretary of Housing and Urban Development, and Cecilia Elena Rouse, of New Jersey, to be Chairman of the Council of Economic Advisers."
+    },
+    {
+        "date": "2021-02-04",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "14:00:00",
+        "location": "SD-G50",
+        "description": "Business meeting to consider the nominations of Marcia Louise Fudge, of Ohio, to be Secretary of Housing and Urban Development, and Cecilia Elena Rouse, of New Jersey, to be Chairman of the Council of Economic Advisers."
+    },
+    {
+        "date": "2021-01-28",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the nominations of Marcia Louise Fudge, of Ohio, to be Secretary of Housing and Urban Development, and Cecilia Elena Rouse, of New Jersey, to be Chairman of the Council of Economic Advisers."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SH-216",
+        "description": "Business meeting to consider the nomination of Polly Ellen Trottenberg, of New York, to be Deputy Secretary of Transportation, and a routine list in the Coast Guard; to be immediately followed by a hearing to examine rebuilding America&#39;s transportation infrastructure."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SR-253",
+        "description": "Hearings to examine recent Federal actions to expand broadband."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SR-253",
+        "description": "Hearings to examine the nomination of Donet Dominic Graves, Jr., of Ohio, to be Deputy Secretary of Commerce."
+    },
+    {
+        "date": "2021-03-03",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SR-253",
+        "description": "Hearings to examine the nomination of Polly Ellen Trottenberg, of New York, to be Deputy Secretary of Transportation."
+    },
+    {
+        "date": "2021-02-25",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider subcommittee assignments."
+    },
+    {
+        "date": "2021-02-11",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:30:00",
+        "location": "SD-G50",
+        "description": "Organizational business meeting to consider committee rules, and an original resolution authorizing expenditures by the committee for the 117th Congress."
+    },
+    {
+        "date": "2021-02-11",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "Organizational business meeting for the 117th Congress."
+    },
+    {
+        "date": "2021-02-03",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SR-325",
+        "description": "Organizational business meeting to consider committee rules, an original resolution authorizing expenditures by the committee during the 117th Congress, and the nomination of Gina Marie Raimondo, of Rhode Island, to be Secretary of Commerce."
+    },
+    {
+        "date": "2021-02-03",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "09:30:00",
+        "location": "SR-325",
+        "description": "Business meeting to consider the nomination of Gina Marie Raimondo, of Rhode Island, to be Secretary of Commerce."
+    },
+    {
+        "date": "2021-01-27",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SR-325",
+        "description": "Business meeting to consider the nomination of Peter Paul Montgomery Buttigieg, of Indiana, to be Secretary of Transportation."
+    },
+    {
+        "date": "2021-01-26",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SR-253",
+        "description": "Hearings to examine the nomination of Gina Marie Raimondo, of Rhode Island, to be Secretary of Commerce."
+    },
+    {
+        "date": "2021-01-21",
+        "committee_name": "Committee on Commerce, Science, and Transportation",
+        "time": "10:00:00",
+        "location": "SR-253",
+        "description": "Hearings to examine the nomination of Peter Paul Montgomery Buttigieg, of Indiana, to be Secretary of Transportation."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "10:00:00",
+        "location": "SD-366",
+        "description": "Hearings to examine the latest developments in the nuclear energy sector, focusing on ways to maintain and expand the use of nuclear energy in the United States and abroad."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "09:45:00",
+        "location": "SD-366",
+        "description": "Hearings to examine the latest developments in the nuclear energy sector, focusing on ways to maintain and expand the use of nuclear energy in the United States and abroad."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "14:30:00",
+        "location": "SD-366",
+        "description": "Hearings to examine the viability of incorporating natural infrastructure in western water management and policy to support economic development, protect watershed health, and build more resilient communities."
+    },
+    {
+        "date": "2021-03-16",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "09:30:00",
+        "location": "SD-366",
+        "description": "Hearings to examine ways to strengthen research and development in innovative transportation technologies with a focus on solutions that decrease emissions, reduce our reliance on foreign supply chains, and increase manufacturing in the United States."
+    },
+    {
+        "date": "2021-03-11",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider the nomination of David Turk, of Maryland, to be Deputy Secretary of Energy; to be immediately followed by a hearing to examine the reliability, resiliency, and affordability of electric service in the United States amid the changing energy mix and extreme weather events."
+    },
+    {
+        "date": "2021-03-11",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "10:00:00",
+        "location": "SD-366",
+        "description": "Hearings to examine the reliability, resiliency, and affordability of electric service in the United States amid the changing energy mix and extreme weather events."
+    },
+    {
+        "date": "2021-03-04",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "Business meeting to consider subcommittee assignments for the 117th Congress, and the nomination of Debra Anne Haaland, of New Mexico, to be Secretary of the Interior; to be immediately followed by a hearing to examine the nomination of David Turk, of Maryland, to be Deputy Secretary of Energy."
+    },
+    {
+        "date": "2021-03-04",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "10:00:00",
+        "location": "SD-366",
+        "description": "Business meeting to consider subcommittee assignments for the 117th Congress, and the nomination of Debra Anne Haaland, of New Mexico, to be Secretary of the Interior; to be immediately followed by a hearing to examine the nomination of David Turk, of Maryland, to be Deputy Secretary of Energy."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "10:00:00",
+        "location": "SD-366",
+        "description": "Hearings to examine the nomination of Debra Anne Haaland, of New Mexico, to be Secretary of the Interior."
+    },
+    {
+        "date": "2021-02-23",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "09:30:00",
+        "location": "SD-366",
+        "description": "Hearings to examine the nomination of Debra Anne Haaland, of New Mexico, to be Secretary of the Interior."
+    },
+    {
+        "date": "2021-02-12",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "00:00:00",
+        "location": "S-207",
+        "description": "Organizational business meeting to consider an original resolution authorizing expenditures by the committee for the 117th Congress."
+    },
+    {
+        "date": "2021-02-03",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "Business meeting to consider the nomination of Jennifer Mulhern Granholm, of Michigan, to be Secretary of Energy; to be immediately followed by a hearing to examine data and analysis by the United States&#39; and world&#39;s leading authorities on global climate trends from energy related sectors, focusing on where and how progress has been made in addressing climate change."
+    },
+    {
+        "date": "2021-01-27",
+        "committee_name": "Committee on Energy and Natural Resources",
+        "time": "09:30:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the nomination of Jennifer Mulhern Granholm, of Michigan, to be Secretary of Energy."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Environment and Public Works",
+        "time": "09:30:00",
+        "location": "SD-G50",
+        "description": "Business meeting to consider S.400, to designate the headquarters building of the Department of Transportation located at 1200 New Jersey Avenue, SE, in Washington, DC, as the &quot;William T. Coleman, Jr., Federal Building&quot;, an original bill entitled, &quot;Drinking Water and Wastewater Infrastructure Act&quot;, and the nominations of Brenda Mallory, of Maryland, to be a Member of the Council on Environmental Quality, and Janet Garvin McCabe, of Indiana, to be Deputy Administrator of the Environmental Protection Agency."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on Environment and Public Works",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "Joint hearings to examine the challenges facing drinking water and waste water infrastructure projects."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Environment and Public Works",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine climate change in the electricity sector and fostering economic growth."
+    },
+    {
+        "date": "2021-03-03",
+        "committee_name": "Committee on Environment and Public Works",
+        "time": "10:00:00",
+        "location": "SD-562",
+        "description": "Hearings to examine the nominations of Brenda Mallory, of Maryland, to be a Member of the Council on Environmental Quality, and Janet Garvin McCabe, of Indiana, to be Deputy Administrator of the Environmental Protection Agency."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Environment and Public Works",
+        "time": "10:15:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine investing in transportation while addressing climate change, improving equity, and fostering economic growth and innovation."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Environment and Public Works",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine investing in transportation while addressing climate change, improving equity, and fostering economic growth and innovation."
+    },
+    {
+        "date": "2021-02-03",
+        "committee_name": "Committee on Environment and Public Works",
+        "time": "14:00:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the nomination of Michael Stanley Regan, of North Carolina, to be Administrator of the Environmental Protection Agency."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Finance",
+        "time": "09:30:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine how U.S. international tax policy impacts American workers, jobs, and investment."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine how U.S. international tax policy impacts American workers, jobs, and investment."
+    },
+    {
+        "date": "2021-03-18",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine fighting forced labor, focusing on closing loopholes and improving customs enforcement to mandate clean supply chains and protect workers."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine COVID-19 in the Nation&#39;s nursing homes."
+    },
+    {
+        "date": "2021-03-16",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the effect of the U.S. tax code on domestic manufacturing."
+    },
+    {
+        "date": "2021-03-03",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "SH-216",
+        "description": "Business meeting to consider the nominations of Xavier Becerra, of California, to be Secretary of Health and Human Services, Katherine C. Tai, of the District of Columbia, to be United States Trade Representative, with the rank of Ambassador, and Adewale O. Adeyemo, of California, to be Deputy Secretary of the Treasury."
+    },
+    {
+        "date": "2021-02-25",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "SD-215",
+        "description": "Hearings to examine the nomination of Katherine C. Tai, of the District of Columbia, to be United States Trade Representative, with the rank of Ambassador."
+    },
+    {
+        "date": "2021-02-25",
+        "committee_name": "Committee on Finance",
+        "time": "09:45:00",
+        "location": "SD-215",
+        "description": "Business meeting to consider committee rules and designation of subcommittees for the 117th Congress, designation of members to serve on the Joint Committee on Taxation, and designation of members to serve as Congressional Trade Advisors on Trade Policy and Negotiations."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Finance",
+        "time": "14:00:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the nomination of Xavier Becerra, of California, to be Secretary of Health and Human Services."
+    },
+    {
+        "date": "2021-02-23",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "SD-215",
+        "description": "Hearings to examine the nomination of Adewale O. Adeyemo, of California, to be Deputy Secretary of the Treasury."
+    },
+    {
+        "date": "2021-02-13",
+        "committee_name": "Committee on Finance",
+        "time": "11:30:00",
+        "location": "S-207",
+        "description": "Business meeting to consider an original resolution authorizing expenditures by the committee for the 117th Congress."
+    },
+    {
+        "date": "2021-01-22",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider the nomination of Janet Louise Yellen, of California, to be Secretary of the Treasury."
+    },
+    {
+        "date": "2021-01-19",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "SD-215",
+        "description": "Hearings to examine the expected nomination of Janet L. Yellen, of California, to be Secretary of the Treasury."
+    },
+    {
+        "date": "2021-01-19",
+        "committee_name": "Committee on Finance",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the expected nomination of Janet L. Yellen, of California, to be Secretary of the Treasury."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "VTC",
+        "description": "Hearings to examine the U.S. response to the coup in Burma."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "09:30:00",
+        "location": "SD-106/VTC",
+        "description": "Business meeting to consider S.615, to establish an interagency program to assist countries in North Africa and West Africa to improve immediate and long-term capabilities to counter terrorist threats, S.413, to establish the China Censorship Monitor and Action Group, S.335, to reauthorize the Tropical Forest and Coral Reef Conservation Act of 1998, S.Res.22, reaffirming the partnership between the United States and the Republic of Ecuador and recognizing the restoration and advancement of economic relations, security, and development opportunities in both nations, S.Res.37, expressing solidarity with the San Isidro Movement in Cuba, condemning escalated attacks against artistic freedoms in Cuba, and calling for the repeal of laws that violate freedom of expression and the immediate release of arbitrarily detained artists, journalists, and activists, S.Res.44, denouncing the Maduro regime&#39;s fraudulent legislative elections, the absence of acceptable conditions to ensure free, fair, and transparent electoral processes in Venezuela, and the further erosion of Venezuelan democracy, S.Res.81, honoring Las Damas de Blanco, a women-led nonviolent movement in support of freedom and human rights in Cuba, and calling for the release of all political prisoners in Cuba, S.Res.34, recognizing the 200th anniversary of the independence of Greece and celebrating democracy in Greece and the United States, S.Res.117, expressing support for the full implementation of the Good Friday Agreement, or the Belfast Agreement, and subsequent agreements and arrangements for implementation to support peace on the island of Ireland, S.Res.35, condemning the military coup that took place on February 1, 2021, in Burma and the Burmese military&#39;s detention of civilian leaders, calling for an immediate and unconditional release of all those detained and for those elected to serve in parliament to resume their duties without impediment, S.Res.36, reaffirming the strategic partnership between the United States and Mongolia and recognizing the 30th anniversary of democracy in Mongolia, S.Res.99, observing the 10th anniversary of the uprising in Syria, S.Res.97, calling on the Government of Ethiopia, the Tigray People&#39;s Liberation Front, and other belligerents to cease all hostilities, protect human rights, allow unfettered humanitarian access, and cooperate with independent investigations of credible atrocity allegations pertaining to the conflict in the Tigray Region of Ethiopia, S.Res.114, commending the United States African Development Foundation on the occasion of its 40th anniversary for creating pathways to prosperity for underserved communities on the African continent through community-led development, an original bill entitled &quot;Ukraine Security Partnership Act&quot;, an original resolution recognizing the Ninth Summit of the Americas and reaffirming the commitment of the United States to a more prosperous, secure, and democratic Western Hemisphere, and an original resolution reaffirming the importance of United States alliances and partnerships; to be immediately followed by a hearing to examine the state of democracy in Latin America and the Caribbean."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "14:30:00",
+        "location": "SD-106/VTC",
+        "description": "Hearings to examine bolstering democracy in Georgia."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SD-106/VTC",
+        "description": "Hearings to examine the nomination of Samantha Power, of Massachusetts, to be Administrator of the United States Agency for International Development."
+    },
+    {
+        "date": "2021-03-22",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "18:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on the policy and legal rationale of U.S. airstrikes in Syria."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Hearings to examine advancing effective U.S. policy for strategic competition with China in the twenty-first century."
+    },
+    {
+        "date": "2021-03-15",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "18:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on the policy and legal rationale of U.S. airstrikes in Syria."
+    },
+    {
+        "date": "2021-03-11",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on opportunities and challenges for the United States around the world."
+    },
+    {
+        "date": "2021-03-11",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "09:30:00",
+        "location": "SH-216",
+        "description": "Business meeting to consider the nominations of Wendy Ruth Sherman, of Maryland, to be Deputy Secretary, and Brian P. McKeon, of the District of Columbia, to be Deputy Secretary for Management and Resources, both of the Department of State."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SD-106/VTC",
+        "description": "Hearings to examine the state of democracy around the world."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "09:45:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider pending nominations."
+    },
+    {
+        "date": "2021-03-03",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SD-106/VTC",
+        "description": "Hearings to examine the nominations of Wendy Ruth Sherman, of Maryland, to be Deputy Secretary, and Brian P. McKeon, of the District of Columbia, to be Deputy Secretary for Management and Resources, both of the Department of State."
+    },
+    {
+        "date": "2021-02-08",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "18:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on around the world threat assessment."
+    },
+    {
+        "date": "2021-02-04",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SR-325",
+        "description": "Business meeting to consider the nominations of Linda Thomas-Greenfield, of Louisiana, to be the Representative of the United States of America to the United Nations, with the rank and status of the Ambassador, and the Representative of the United States of America in the Security Council of the United Nations, and to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations during her tenure of service as Representative of the United States of America to the United Nations."
+    },
+    {
+        "date": "2021-02-03",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider pending calendar business."
+    },
+    {
+        "date": "2021-02-03",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "09:45:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider the nominations of Linda Thomas-Greenfield, of Louisiana, to be the Representative of the United States of America to the United Nations, with the rank and status of the Ambassador, and the Representative of the United States of America in the Security Council of the United Nations, and to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations during her tenure of service as Representative of the United States of America to the United Nations."
+    },
+    {
+        "date": "2021-01-27",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SR-325",
+        "description": "Hearings to examine the nomination of Linda Thomas-Greenfield, of Louisiana, to be the Representative of the United States of America to the United Nations, with the rank and status of the Ambassador, and the Representative of the United States of America in the Security Council of the United Nations, and to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations during her tenure of service as Representative of the United States of America to the United Nations."
+    },
+    {
+        "date": "2021-01-27",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SD-G50/VTC",
+        "description": "Hearings to examine the nomination of Linda Thomas-Greenfield, of Louisiana, to be the Representative of the United States of America to the United Nations, with the rank and status of the Ambassador, and the Representative of the United States of America in the Security Council of the United Nations, and to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations during her tenure of service as Representative of the United States of America to the United Nations."
+    },
+    {
+        "date": "2021-01-26",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider the nomination of Antony John Blinken, of New York, to be Secretary of State."
+    },
+    {
+        "date": "2021-01-19",
+        "committee_name": "Committee on Foreign Relations",
+        "time": "14:00:00",
+        "location": "SR-301/VTC",
+        "description": "Hearings to examine the expected nomination of Antony J. Blinken, of New York, to be Secretary of State."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-430",
+        "description": "Hearings to examine our COVID-19 response, focusing on improving health equity and outcomes by addressing health disparities."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-430",
+        "description": "Hearings to examine the nomination of Cynthia Minette Marten, of California, to be Deputy Secretary of Education."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-430",
+        "description": "Hearings to examine why the U.S. pays the highest prices in the world for prescription drugs, including S.908, to amend title XVIII of the Social Security Act to provide for the negotiation of lower covered part D drug prices on behalf of Medicare beneficiaries and the establishment and application of a formulary by the Secretary of Health and Human Services under Medicare part D, S.909, to significantly lower prescription drug prices for patients in the United States by ending government-granted monopolies for manufacturers who charge drug prices that are higher than the median prices at which the drugs are available in other countries, and S.920, to amend the Federal Food, Drug, and Cosmetic Act to allow for the importation of affordable and safe drugs by wholesale distributors, pharmacies, and individuals."
+    },
+    {
+        "date": "2021-03-18",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SH-216",
+        "description": "Hearings to examine the COVID-19 response, focusing on an update from Federal officials."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "09:30:00",
+        "location": "SD-430",
+        "description": "Business meeting to consider the nominations of Vivek Hallegere Murthy, of Florida, to be Medical Director in the Regular Corps of the Public Health Service, and to be Surgeon General of the Public Health Service, and Rachel Leland Levine, of Pennsylvania, to be an Assistant Secretary, both of the Department of Health and Human Services, and other pending calendar business."
+    },
+    {
+        "date": "2021-03-16",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the nomination of Julie A. Su, of California, to be Deputy Secretary of Labor."
+    },
+    {
+        "date": "2021-03-09",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the COVID-19 response, focusing on an update from the frontlines."
+    },
+    {
+        "date": "2021-02-25",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SH-216",
+        "description": "Hearings to examine the nominations of Vivek Hallegere Murthy, of Florida, to be Medical Director in the Regular Corps of the Public Health Service, and to be Surgeon General of the Public Health Service, and Rachel Leland Levine, of Pennsylvania, to be an Assistant Secretary, both of the Department of Health and Human Services."
+    },
+    {
+        "date": "2021-02-23",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-430",
+        "description": "Hearings to examine the nomination of Xavier Becerra, of California, to be Secretary of Health and Human Services."
+    },
+    {
+        "date": "2021-02-11",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-430",
+        "description": "Business meeting to consider the nominations of Miguel A. Cardona, of Connecticut, to be Secretary of Education, and Martin Joseph Walsh, of Massachusetts, to be Secretary of Labor."
+    },
+    {
+        "date": "2021-02-04",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-430",
+        "description": "Hearings to examine the nomination of Martin Joseph Walsh, of Massachusetts, to be Secretary of Labor."
+    },
+    {
+        "date": "2021-02-03",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions",
+        "time": "10:00:00",
+        "location": "SD-430",
+        "description": "Hearings to examine the nomination of Miguel A. Cardona, of Connecticut, to be Secretary of Education."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:15:00",
+        "location": "SD-342/VTC",
+        "description": "Hearings to examine the nomination of Deanne Bennett Criswell, of New York, to be Administrator of the Federal Emergency Management Agency, Department of Homeland Security."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:00:00",
+        "location": "SD-342/VTC",
+        "description": "Hearings to examine the National Response Enterprise, focusing on preparing for future crises."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "14:30:00",
+        "location": "SD-342/VTC",
+        "description": "Hearings to examine the 2020 census and current activities of the Census Bureau."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "14:30:00",
+        "location": "SD-342",
+        "description": "Hearings to examine the 2020 census and current activities of the Census Bureau."
+    },
+    {
+        "date": "2021-03-18",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:15:00",
+        "location": "SD-342/WEBEX",
+        "description": "Hearings to examine the SolarWinds supply chain attack, focusing on the Federal perspective."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "09:30:00",
+        "location": "SD-342",
+        "description": "Business meeting to consider S.231, to direct the Administrator of the Federal Emergency Management Agency to develop guidance for firefighters and other emergency response personnel on best practices to protect them from exposure to PFAS and to limit and prevent the release of PFAS into the environment, S.272, to amend the Federal Funding Accountability and Transparency Act of 2006, to require the budget justifications and appropriation requests of agencies be made publicly available, S.583, to promote innovative acquisition techniques and procurement strategies, S.517, to provide for joint reports by relevant Federal agencies to Congress regarding incidents of terrorism, S.671, to require the collection of voluntary feedback on services provided by agencies, S.693, to amend title 5, United States Code, to provide for the halt in pension payments for Members of Congress sentenced for certain offenses, S.658, to authorize the Secretary of Homeland Security to work with cybersecurity consortia for training, S.636, to require the Director of the Office of Management and Budget to submit to Congress an annual report on projects that are over budget and behind schedule, S.688, to prohibit contracting with persons that have business operations with the Maduro regime, S.522, to require each agency, in providing notice of a rule making, to include a link to a 100 word plain language summary of the proposed rule, S.111, to establish the Federal Clearinghouse on School Safety Best Practices, S.664, to require the Comptroller General of the United States to review certain legislation in order to identify potential risks of duplication of and overlap with existing Federal programs, offices, and initiatives, S.566, to designate the facility of the United States Postal Service located at 42 Main Street in Slatersville, Rhode Island, as the &quot;Specialist Matthew R. Turcotte Post Office&quot;, H.R.208, to designate the facility of the United States Postal Service located at 500 West Main Street, Suite 102 in Tupelo, Mississippi, as the &quot;Colonel Carlyle &#39;Smitty&#39; Harris Post Office&quot;, and H.R.264, to designate the facility of the United States Postal Service located at 1101 Charlotte Street in Georgetown, South Carolina, as the &quot;Joseph Hayne Rainey Memorial Post Office Building&quot;."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "09:45:00",
+        "location": "SD-342",
+        "description": "Business meeting to consider the nomination of Shalanda D. Young, of Louisiana, to be Deputy Director of the Office of Management and Budget."
+    },
+    {
+        "date": "2021-03-04",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:15:00",
+        "location": "SD-342/WEBEX",
+        "description": "Hearings to examine the nominations of Shalanda D. Young, of Louisiana, to be Deputy Director, and Jason Scott Miller, of Maryland, to be Deputy Director for Management, both of the Office of Management and Budget."
+    },
+    {
+        "date": "2021-03-03",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "A joint hearing to examine the January 6, 2021 attack on the Capitol."
+    },
+    {
+        "date": "2021-03-03",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:00:00",
+        "location": "SD-G50/WEBEX",
+        "description": "To resume joint hearings to examine the January 6, 2021 attack on the Capitol."
+    },
+    {
+        "date": "2021-03-02",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "14:30:00",
+        "location": "SD-342/WEBEX",
+        "description": "Hearings to examine the Government Accountability Office&#39;s 2021 High Risk List, focusing on addressing waste, fraud, and abuse."
+    },
+    {
+        "date": "2021-03-02",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "14:30:00",
+        "location": "SD-342",
+        "description": "Hearings to examine the Government Accountability Office&#39;s 2021 High Risk List, focusing on addressing waste, fraud, and abuse."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:00:00",
+        "location": "SD-342",
+        "description": "Business meeting to consider the nomination of Neera Tanden, of Massachusetts, to be Director of the Office of Management and Budget, and committee rules of procedure for the 117th Congress."
+    },
+    {
+        "date": "2021-02-23",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "A joint hearing to examine the January 6, 2021 attack on the Capitol."
+    },
+    {
+        "date": "2021-02-11",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "11:40:00",
+        "location": "SD-342",
+        "description": "Organizational business meeting to consider an original resolution authorizing expenditures by the committee for the 117th Congress."
+    },
+    {
+        "date": "2021-02-09",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "09:15:00",
+        "location": "SD-342",
+        "description": "Hearings to examine the nomination of Neera Tanden, of Massachusetts, to be Director of the Office of Management and Budget."
+    },
+    {
+        "date": "2021-01-26",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "11:00:00",
+        "location": "SD-342",
+        "description": "Business meeting to consider the nomination of Alejandro Nicholas Mayorkas, of the District of Columbia, to be Secretary of Homeland Security."
+    },
+    {
+        "date": "2021-01-19",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs",
+        "time": "10:00:00",
+        "location": "SD-342/WEBEX",
+        "description": "Hearings to examine the expected nomination of Alejandro N. Mayorkas, to be Secretary of Homeland Security."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Indian Affairs",
+        "time": "14:30:00",
+        "location": "SD-628",
+        "description": "Business meeting to consider S.421, to amend the America&#39;s Water Infrastructure Act of 2018 to expand the Indian reservation drinking water program, and S.789, to repeal certain obsolete laws relating to Indians; to be immediately followed by an oversight hearing to examine water infrastructure needs for Native communities."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Indian Affairs",
+        "time": "14:30:00",
+        "location": "SD-628",
+        "description": "Business meeting to consider S.325, to amend the Alyce Spotted Bear and Walter Soboleff Commission on Native Children Act to extend the deadline for a report by the Alyce Spotted Bear and Walter Soboleff Commission on Native Children, S.314, to repeal the Klamath Tribe Judgment Fund Act, S.144, to authorize the Secretary of Health and Human Services, acting through the Director of the Indian Health Service, to acquire private land to facilitate access to the Desert Sage Youth Wellness Center in Hemet, California, S.371, to direct the Secretary of the Interior to take certain land located in Pinal County, Arizona, into trust for the benefit of the Gila River Indian Community, S.108, to authorize the Seminole Tribe of Florida to lease or transfer certain land, S.548, to convey land in Anchorage, Alaska, to the Alaska Native Tribal Health Consortium, S.549, to provide for the conveyance of certain property to the Tanana Tribal Council located in Tanana, Alaska, S.550, to provide for the conveyance of certain property to the Southeast Alaska Regional Health Consortium located in Sitka, Alaska, and S.559, to amend the Grand Ronde Reservation Act; to be immediately followed by a hearing to examine Native communities and the climate crisis."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Indian Affairs",
+        "time": "14:30:00",
+        "location": "SD-628",
+        "description": "Hearings to examine native communities&#39; priorities in focus for the 117th Congress."
+    },
+    {
+        "date": "2021-02-11",
+        "committee_name": "Committee on Indian Affairs",
+        "time": "11:00:00",
+        "location": "SD-628",
+        "description": "Organizational business meeting to consider the selection of the Chairman and Vice Chairman, committee rules, and an original resolution authorizing expenditures by the committee for the 117th Congress."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Rules and Administration",
+        "time": "10:00:00",
+        "location": "SR-301",
+        "description": "Hearings to examine S.1, to expand Americans&#39; access to the ballot box, reduce the influence of big money in politics, strengthen ethics rules for public servants, and implement other anti-corruption measures for the purpose of fortifying our democracy."
+    },
+    {
+        "date": "2021-02-22",
+        "committee_name": "Committee on Rules and Administration",
+        "time": "17:45:00",
+        "location": "S-219",
+        "description": "Organizational business meeting to consider committee rules, an original resolution authorizing expenditures by the committee for the 117th Congress, and an omnibus committee funding resolution."
+    },
+    {
+        "date": "2021-02-22",
+        "committee_name": "Committee on Rules and Administration",
+        "time": "17:30:00",
+        "location": "S-219",
+        "description": "Organizational business meeting to consider committee rules, an original resolution authorizing expenditures by the committee for the 117th Congress, and an omnibus committee funding resolution."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "time": "14:30:00",
+        "location": "SD-215",
+        "description": "An oversight hearing to examine Small Business Administration&#39;s COVID-19 relief programs."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "time": "14:30:00",
+        "location": "SR-301",
+        "description": "Hearings to examine the Paycheck Protection Program, focusing on performance, impact, and next steps."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "time": "14:30:00",
+        "location": "SD-215",
+        "description": "Business meeting to consider the nomination of Isabella Casillas Guzman, of California, to be Administrator of the Small Business Administration."
+    },
+    {
+        "date": "2021-02-03",
+        "committee_name": "Committee on Small Business and Entrepreneurship",
+        "time": "10:30:00",
+        "location": "SR-301",
+        "description": "Hearings to examine the nomination of Isabella Casillas Guzman, of California, to be Administrator of the Small Business Administration."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on the Budget",
+        "time": "11:00:00",
+        "location": "SH-216",
+        "description": "Hearings to examine the tax code, focusing on making the wealthiest people and largest corporations pay their fair share of taxes."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on the Budget",
+        "time": "11:00:00",
+        "location": "SH-216",
+        "description": "Hearings to examine the income and wealth inequality crisis in America."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on the Budget",
+        "time": "14:30:00",
+        "location": "S-207",
+        "description": "Business meeting to consider the nomination of Shalanda D. Young, of Louisiana, to be Deputy Director of the Office of Management and Budget."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on the Budget",
+        "time": "00:00:00",
+        "location": "S-207",
+        "description": "Business meeting to consider the nomination of Shalanda D. Young, of Louisiana, to be Deputy Director of the Office of Management and Budget."
+    },
+    {
+        "date": "2021-03-02",
+        "committee_name": "Committee on the Budget",
+        "time": "11:00:00",
+        "location": "SD-608",
+        "description": "Hearings to examine the nomination of Shalanda D. Young, of Louisiana, to be Deputy Director of the Office of Management and Budget."
+    },
+    {
+        "date": "2021-02-25",
+        "committee_name": "Committee on the Budget",
+        "time": "10:15:00",
+        "location": "SD-608",
+        "description": "Hearings to examine poverty wages at large profitable corporations."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on the Budget",
+        "time": "00:00:00",
+        "location": "S-207",
+        "description": "Business meeting to consider the nomination of Neera Tanden, of Massachusetts, to be Director of the Office of Management and Budget."
+    },
+    {
+        "date": "2021-02-10",
+        "committee_name": "Committee on the Budget",
+        "time": "10:00:00",
+        "location": "SD-608",
+        "description": "Hearings to examine the nomination of Neera Tanden, of Massachusetts, to be Director of the Office of Management and Budget."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider S.632, to amend chapter 11 of title 35, United States Code, to require the voluntary collection of demographic information for patent inventors, S.169, to amend title 17, United States Code, to require the Register of Copyrights to waive fees for filing an application for registration of a copyright claim in certain circumstances, and the nominations of Lisa O. Monaco, of the District of Columbia, to be Deputy Attorney General, and Vanita Gupta, of Virginia, to be Associate Attorney General, both of the Department of Justice."
+    },
+    {
+        "date": "2021-03-25",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SD-226",
+        "description": "Business meeting to consider S.632, to amend chapter 11 of title 35, United States Code, to require the voluntary collection of demographic information for patent inventors, S.169, to amend title 17, United States Code, to require the Register of Copyrights to waive fees for filing an application for registration of a copyright claim in certain circumstances, and the nominations of Lisa O. Monaco, of the District of Columbia, to be Deputy Attorney General, and Vanita Gupta, of Virginia, to be Associate Attorney General, both of the Department of Justice."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SH-216",
+        "description": "Hearings to examine constitutional and common sense steps to reduce gun violence."
+    },
+    {
+        "date": "2021-03-18",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SD-106",
+        "description": "Business meeting to consider S.632, to amend chapter 11 of title 35, United States Code, to require the voluntary collection of demographic information for patent inventors, S.169, to amend title 17, United States Code, to require the Register of Copyrights to waive fees for filing an application for registration of a copyright claim in certain circumstances, and the nominations of Lisa O. Monaco, of the District of Columbia, to be Deputy Attorney General, and Vanita Gupta, of Virginia, to be Associate Attorney General, both of the Department of Justice."
+    },
+    {
+        "date": "2021-03-17",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SD-226",
+        "description": "Hearings to examine the Equality Act, focusing on LGBTQ rights."
+    },
+    {
+        "date": "2021-03-11",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SD-226",
+        "description": "Hearings to examine competition policy for the twenty-first century, focusing on the case for antitrust reform."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on the Judiciary",
+        "time": "15:00:00",
+        "location": "SD-226",
+        "description": "Hearings to examine the Supreme Court and the Judiciary."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on the Judiciary",
+        "time": "14:30:00",
+        "location": "SD-226",
+        "description": "Hearings to examine the Supreme Court and the Judiciary."
+    },
+    {
+        "date": "2021-03-09",
+        "committee_name": "Committee on the Judiciary",
+        "time": "09:30:00",
+        "location": "SH-216",
+        "description": "Hearings to examine the nominations of Lisa O. Monaco, of the District of Columbia, to be Deputy Attorney General, and Vanita Gupta, of Virginia, to be Associate Attorney General, both of the Department of Justice."
+    },
+    {
+        "date": "2021-03-09",
+        "committee_name": "Committee on the Judiciary",
+        "time": "09:00:00",
+        "location": "SH-216",
+        "description": "Hearings to examine the nominations of Lisa O. Monaco, of the District of Columbia, to be Deputy Attorney General, and Vanita Gupta, of Virginia, to be Associate Attorney General, both of the Department of Justice."
+    },
+    {
+        "date": "2021-03-02",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SH-216",
+        "description": "An oversight hearing to examine the Federal Bureau of Investigation, focusing on the January 6 insurrection, domestic terrorism, and other threats."
+    },
+    {
+        "date": "2021-03-01",
+        "committee_name": "Committee on the Judiciary",
+        "time": "13:00:00",
+        "location": "SH-216",
+        "description": "Business meeting to consider committee rules and designation of subcommittees for the 117th Congress, and the nomination of Merrick Brian Garland, of Maryland, to be Attorney General."
+    },
+    {
+        "date": "2021-02-23",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SH-216",
+        "description": "Hearings to examine the nomination of Merrick Brian Garland, of Maryland, to be Attorney General, Department of Justice."
+    },
+    {
+        "date": "2021-02-22",
+        "committee_name": "Committee on the Judiciary",
+        "time": "09:30:00",
+        "location": "SH-216",
+        "description": "Hearings to examine the nomination of Merrick Brian Garland, of Maryland, to be Attorney General, Department of Justice."
+    },
+    {
+        "date": "2021-02-12",
+        "committee_name": "Committee on the Judiciary",
+        "time": "10:00:00",
+        "location": "SD-G50",
+        "description": "Organizational business meeting to consider an original resolution authorizing expenditures by the committee for the 117th Congress."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "15:00:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine veterans&#39; mental health and implementation of the Hannon Act, focusing on coping during COVID."
+    },
+    {
+        "date": "2021-03-18",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "To resume joint hearings with the House Committee on Veterans&#39; Affairs to examine the legislative presentation of veterans services organizations."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "15:00:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine military toxic exposures, focusing on the human consequences of war."
+    },
+    {
+        "date": "2021-03-04",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Joint hearings with the House Committee on Veterans&#39; Affairs to examine the legislative presentation of veterans services organizations."
+    },
+    {
+        "date": "2021-03-03",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "10:00:00",
+        "location": "WEBEX",
+        "description": "Joint hearings with the House Committee on Veterans&#39; Affairs to examine the legislative presentation of veterans services organizations."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "16:00:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine vaccines for vets, focusing on ending the COVID-19 pandemic."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "15:00:00",
+        "location": "SD-G50",
+        "description": "Hearings to examine vaccines for vets, focusing on ending the COVID-19 pandemic."
+    },
+    {
+        "date": "2021-02-02",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "00:00:00",
+        "location": "TBA",
+        "description": "Organizational business meeting to consider committee rules, an original resolution authorizing expenditures by the committee during the 117th Congress, and the nomination of Denis Richard McDonough, of Maryland, to be Secretary of Veterans Affairs."
+    },
+    {
+        "date": "2021-01-27",
+        "committee_name": "Committee on Veterans&#39; Affairs",
+        "time": "15:00:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the nomination of Denis Richard McDonough, of Maryland, to be Secretary of Veterans Affairs."
+    },
+    {
+        "date": "2021-03-24",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "14:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on certain intelligence matters."
+    },
+    {
+        "date": "2021-03-23",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "14:30:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on certain intelligence matters."
+    },
+    {
+        "date": "2021-03-16",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "14:30:00",
+        "location": "SVC-217",
+        "description": "Closed business meeting to consider pending intelligence matters; to be immediately followed by a closed briefing on certain intelligence matters."
+    },
+    {
+        "date": "2021-03-10",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "14:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on certain intelligence matters."
+    },
+    {
+        "date": "2021-03-09",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "14:30:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on certain intelligence matters."
+    },
+    {
+        "date": "2021-03-02",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "14:30:00",
+        "location": "SVC-217",
+        "description": "Closed business meeting to consider pending intelligence matters; to be immediately followed by a closed briefing on certain intelligence matters."
+    },
+    {
+        "date": "2021-02-24",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "10:00:00",
+        "location": "SR-301",
+        "description": "Hearings to examine the nomination of William Joseph Burns, of Maryland, to be Director of the Central Intelligence Agency; to be immediately followed by a closed hearing in SVC-217."
+    },
+    {
+        "date": "2021-02-23",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "14:30:00",
+        "location": "SD-106",
+        "description": "Hearings to examine the hack of U.S. networks by a foreign adversary."
+    },
+    {
+        "date": "2021-02-11",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "11:45:00",
+        "location": "S-207",
+        "description": "Business meeting to consider pending calendar business."
+    },
+    {
+        "date": "2021-01-27",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "14:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on certain intelligence matters."
+    },
+    {
+        "date": "2021-01-19",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "10:00:00",
+        "location": "SD-215/WEBEX",
+        "description": "Hearings to examine the expected nomination of Avril Haines, to be Director of National Intelligence; to be immediately followed by a closed hearing in SH-219."
+    },
+    {
+        "date": "2021-01-15",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "12:00:00",
+        "location": "WEBEX",
+        "description": "Hearings to examine the expected nomination of Avril Haines, to be Director of National Intelligence."
+    },
+    {
+        "date": "2021-01-06",
+        "committee_name": "Select Committee on Intelligence",
+        "time": "10:00:00",
+        "location": "SVC-217",
+        "description": "To receive a closed briefing on certain intelligence matters."
+    },
+    {
+        "date": "2021-03-18",
+        "committee_name": "Special Committee on Aging",
+        "time": "09:30:00",
+        "location": "VTC",
+        "description": "Hearings to examine COVID-19 one year later, focusing on addressing health care needs for at-risk Americans."
+    }
+]

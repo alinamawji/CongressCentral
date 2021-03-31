@@ -1,0 +1,6047 @@
+[
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Agribusiness",
+        "total": "338771"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Communic/Electronics",
+        "total": "1122256"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Construction",
+        "total": "242224"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Defense",
+        "total": "76350"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Energy/Nat Resource",
+        "total": "208710"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1789681"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Health",
+        "total": "1456520"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1810404"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Transportation",
+        "total": "174864"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Misc Business",
+        "total": "1412101"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Labor",
+        "total": "336369"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "4378664"
+    },
+    {
+        "crp_id": "N00004367",
+        "sector_name": "Other",
+        "total": "6633382"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Agribusiness",
+        "total": "264825"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Communic/Electronics",
+        "total": "304825"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Construction",
+        "total": "277100"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Defense",
+        "total": "77000"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1100025"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1194301"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Health",
+        "total": "1100625"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "583066"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Transportation",
+        "total": "336900"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Misc Business",
+        "total": "746475"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Labor",
+        "total": "16500"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "599797"
+    },
+    {
+        "crp_id": "N00006236",
+        "sector_name": "Other",
+        "total": "309894"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Agribusiness",
+        "total": "417819"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Communic/Electronics",
+        "total": "1276192"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Construction",
+        "total": "308064"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Defense",
+        "total": "99308"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Energy/Nat Resource",
+        "total": "414460"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "4182190"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Health",
+        "total": "1454644"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2522726"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Transportation",
+        "total": "121572"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Misc Business",
+        "total": "1208268"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Labor",
+        "total": "175739"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1715715"
+    },
+    {
+        "crp_id": "N00030608",
+        "sector_name": "Other",
+        "total": "2644823"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Agribusiness",
+        "total": "288688"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Communic/Electronics",
+        "total": "706055"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Construction",
+        "total": "366359"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Defense",
+        "total": "52401"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Energy/Nat Resource",
+        "total": "539858"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1962047"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Health",
+        "total": "1014557"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "656127"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Transportation",
+        "total": "369270"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Misc Business",
+        "total": "1192685"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Labor",
+        "total": "5595"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1969506"
+    },
+    {
+        "crp_id": "N00003105",
+        "sector_name": "Other",
+        "total": "1872377"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Agribusiness",
+        "total": "36759"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Communic/Electronics",
+        "total": "812273"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Construction",
+        "total": "103906"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Defense",
+        "total": "149553"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Energy/Nat Resource",
+        "total": "133335"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1858028"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Health",
+        "total": "599158"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1557449"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Transportation",
+        "total": "137739"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Misc Business",
+        "total": "665647"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Labor",
+        "total": "264361"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "658386"
+    },
+    {
+        "crp_id": "N00031685",
+        "sector_name": "Other",
+        "total": "915032"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Agribusiness",
+        "total": "976892"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Communic/Electronics",
+        "total": "685225"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Construction",
+        "total": "531912"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Defense",
+        "total": "243326"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Energy/Nat Resource",
+        "total": "800503"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2902037"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Health",
+        "total": "1469379"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1269912"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Transportation",
+        "total": "894036"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Misc Business",
+        "total": "1895683"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Labor",
+        "total": "93000"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1196287"
+    },
+    {
+        "crp_id": "N00005195",
+        "sector_name": "Other",
+        "total": "969213"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Agribusiness",
+        "total": "327624"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Communic/Electronics",
+        "total": "2329021"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Construction",
+        "total": "402235"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Defense",
+        "total": "36728"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Energy/Nat Resource",
+        "total": "346124"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "5906717"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Health",
+        "total": "1211681"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "3567873"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Transportation",
+        "total": "455018"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Misc Business",
+        "total": "2193996"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Labor",
+        "total": "308133"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1182660"
+    },
+    {
+        "crp_id": "N00035267",
+        "sector_name": "Other",
+        "total": "2245411"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Agribusiness",
+        "total": "535591"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Communic/Electronics",
+        "total": "200950"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Construction",
+        "total": "148049"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Defense",
+        "total": "88000"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Energy/Nat Resource",
+        "total": "245450"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "978197"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Health",
+        "total": "439989"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "236382"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Transportation",
+        "total": "200275"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Misc Business",
+        "total": "468450"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Labor",
+        "total": "26000"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "476673"
+    },
+    {
+        "crp_id": "N00013873",
+        "sector_name": "Other",
+        "total": "358814"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Agribusiness",
+        "total": "316607"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Communic/Electronics",
+        "total": "102272"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Construction",
+        "total": "381898"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Defense",
+        "total": "12325"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Energy/Nat Resource",
+        "total": "381863"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1155143"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Health",
+        "total": "350881"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "262839"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Transportation",
+        "total": "282148"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Misc Business",
+        "total": "623639"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Labor",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "905110"
+    },
+    {
+        "crp_id": "N00041731",
+        "sector_name": "Other",
+        "total": "921565"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Agribusiness",
+        "total": "310591"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Communic/Electronics",
+        "total": "1046920"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Construction",
+        "total": "308927"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Defense",
+        "total": "60597"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Energy/Nat Resource",
+        "total": "235041"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3236103"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Health",
+        "total": "1643984"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2797165"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Transportation",
+        "total": "162180"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Misc Business",
+        "total": "1486362"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Labor",
+        "total": "481865"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2772531"
+    },
+    {
+        "crp_id": "N00003535",
+        "sector_name": "Other",
+        "total": "4743947"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Agribusiness",
+        "total": "677875"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Communic/Electronics",
+        "total": "360590"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Construction",
+        "total": "373376"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Defense",
+        "total": "188700"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Energy/Nat Resource",
+        "total": "744232"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2620629"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Health",
+        "total": "1451053"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "966708"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Transportation",
+        "total": "370225"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Misc Business",
+        "total": "1420116"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Labor",
+        "total": "2000"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "855722"
+    },
+    {
+        "crp_id": "N00002221",
+        "sector_name": "Other",
+        "total": "1076569"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Agribusiness",
+        "total": "96896"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Communic/Electronics",
+        "total": "488748"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Construction",
+        "total": "135118"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Defense",
+        "total": "63709"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Energy/Nat Resource",
+        "total": "310797"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1164592"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Health",
+        "total": "314744"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1169582"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Transportation",
+        "total": "138837"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Misc Business",
+        "total": "685935"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Labor",
+        "total": "4849"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "798010"
+    },
+    {
+        "crp_id": "N00007836",
+        "sector_name": "Other",
+        "total": "1737644"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Agribusiness",
+        "total": "199650"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Communic/Electronics",
+        "total": "210500"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Construction",
+        "total": "407233"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Defense",
+        "total": "47050"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Energy/Nat Resource",
+        "total": "790315"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1499156"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Health",
+        "total": "485907"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "509687"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Transportation",
+        "total": "305999"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Misc Business",
+        "total": "658599"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Labor",
+        "total": "107000"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "627525"
+    },
+    {
+        "crp_id": "N00009771",
+        "sector_name": "Other",
+        "total": "475029"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Agribusiness",
+        "total": "61400"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Communic/Electronics",
+        "total": "172119"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Construction",
+        "total": "174998"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Defense",
+        "total": "115055"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Energy/Nat Resource",
+        "total": "119640"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1203612"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Health",
+        "total": "666607"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "467564"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Transportation",
+        "total": "132950"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Misc Business",
+        "total": "390948"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Labor",
+        "total": "225500"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "469728"
+    },
+    {
+        "crp_id": "N00001955",
+        "sector_name": "Other",
+        "total": "302706"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Agribusiness",
+        "total": "85460"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Communic/Electronics",
+        "total": "208029"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Construction",
+        "total": "81283"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Defense",
+        "total": "48768"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Energy/Nat Resource",
+        "total": "189543"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1134064"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Health",
+        "total": "481757"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "394234"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Transportation",
+        "total": "138495"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Misc Business",
+        "total": "422644"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Labor",
+        "total": "162910"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "374010"
+    },
+    {
+        "crp_id": "N00012508",
+        "sector_name": "Other",
+        "total": "230460"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Agribusiness",
+        "total": "375276"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Communic/Electronics",
+        "total": "1177289"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Construction",
+        "total": "465134"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Defense",
+        "total": "146565"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Energy/Nat Resource",
+        "total": "454739"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3702943"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Health",
+        "total": "2506955"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "5342205"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Transportation",
+        "total": "353569"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Misc Business",
+        "total": "1753575"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Labor",
+        "total": "397842"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1607080"
+    },
+    {
+        "crp_id": "N00027503",
+        "sector_name": "Other",
+        "total": "3629294"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Agribusiness",
+        "total": "481523"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Communic/Electronics",
+        "total": "324974"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Construction",
+        "total": "752025"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Defense",
+        "total": "18850"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1522780"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2964796"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Health",
+        "total": "2684174"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "724441"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Transportation",
+        "total": "715840"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Misc Business",
+        "total": "1453976"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Labor",
+        "total": "13918"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1254053"
+    },
+    {
+        "crp_id": "N00030245",
+        "sector_name": "Other",
+        "total": "1183307"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Agribusiness",
+        "total": "186890"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Communic/Electronics",
+        "total": "328450"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Construction",
+        "total": "212202"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Defense",
+        "total": "171050"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Energy/Nat Resource",
+        "total": "219038"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1355649"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Health",
+        "total": "671750"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "737855"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Transportation",
+        "total": "321783"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Misc Business",
+        "total": "630350"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Labor",
+        "total": "113100"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "807203"
+    },
+    {
+        "crp_id": "N00000491",
+        "sector_name": "Other",
+        "total": "842084"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Agribusiness",
+        "total": "75683"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Communic/Electronics",
+        "total": "480752"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Construction",
+        "total": "62760"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Defense",
+        "total": "57033"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Energy/Nat Resource",
+        "total": "147893"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1084982"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Health",
+        "total": "352789"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1333346"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Transportation",
+        "total": "88573"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Misc Business",
+        "total": "473750"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Labor",
+        "total": "151538"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "586377"
+    },
+    {
+        "crp_id": "N00031820",
+        "sector_name": "Other",
+        "total": "259698"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Agribusiness",
+        "total": "632980"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Communic/Electronics",
+        "total": "705591"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Construction",
+        "total": "748405"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Defense",
+        "total": "195350"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1811265"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3930914"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Health",
+        "total": "1750713"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1206223"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Transportation",
+        "total": "592770"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Misc Business",
+        "total": "1625339"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Labor",
+        "total": "17000"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "850862"
+    },
+    {
+        "crp_id": "N00024852",
+        "sector_name": "Other",
+        "total": "789821"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Agribusiness",
+        "total": "122083"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Communic/Electronics",
+        "total": "835194"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Construction",
+        "total": "201066"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Defense",
+        "total": "43452"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Energy/Nat Resource",
+        "total": "154153"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1535506"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Health",
+        "total": "703651"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1866764"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Transportation",
+        "total": "102485"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Misc Business",
+        "total": "1037556"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Labor",
+        "total": "348355"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2908474"
+    },
+    {
+        "crp_id": "N00037161",
+        "sector_name": "Other",
+        "total": "3869549"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Agribusiness",
+        "total": "535109"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Communic/Electronics",
+        "total": "446801"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Construction",
+        "total": "441847"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Defense",
+        "total": "140530"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Energy/Nat Resource",
+        "total": "847696"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3865186"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Health",
+        "total": "649678"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "756430"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Transportation",
+        "total": "345672"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Misc Business",
+        "total": "1336344"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Labor",
+        "total": "5500"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1664873"
+    },
+    {
+        "crp_id": "N00033363",
+        "sector_name": "Other",
+        "total": "1554918"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Agribusiness",
+        "total": "262749"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Communic/Electronics",
+        "total": "95190"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Construction",
+        "total": "224061"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Defense",
+        "total": "1750"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Energy/Nat Resource",
+        "total": "660694"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "915664"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Health",
+        "total": "192671"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "153887"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Transportation",
+        "total": "120865"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Misc Business",
+        "total": "522052"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Labor",
+        "total": "1000"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "511038"
+    },
+    {
+        "crp_id": "N00004614",
+        "sector_name": "Other",
+        "total": "594007"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Agribusiness",
+        "total": "266145"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Communic/Electronics",
+        "total": "202990"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Construction",
+        "total": "232816"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Defense",
+        "total": "62000"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Energy/Nat Resource",
+        "total": "253080"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3270212"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Health",
+        "total": "790706"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "591042"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Transportation",
+        "total": "202145"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Misc Business",
+        "total": "484961"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Labor",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "651701"
+    },
+    {
+        "crp_id": "N00006267",
+        "sector_name": "Other",
+        "total": "210365"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Agribusiness",
+        "total": "1003747"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Communic/Electronics",
+        "total": "757623"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Construction",
+        "total": "1133529"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Defense",
+        "total": "188215"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1981171"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "4588934"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Health",
+        "total": "1615531"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1357179"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Transportation",
+        "total": "822209"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Misc Business",
+        "total": "2606616"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Labor",
+        "total": "7200"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "4693760"
+    },
+    {
+        "crp_id": "N00033085",
+        "sector_name": "Other",
+        "total": "8001950"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Agribusiness",
+        "total": "538846"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Communic/Electronics",
+        "total": "323916"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Construction",
+        "total": "414033"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Defense",
+        "total": "62600"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Energy/Nat Resource",
+        "total": "778518"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1572684"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Health",
+        "total": "269266"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "297604"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Transportation",
+        "total": "346980"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Misc Business",
+        "total": "789767"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Labor",
+        "total": "38500"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "829410"
+    },
+    {
+        "crp_id": "N00033054",
+        "sector_name": "Other",
+        "total": "679361"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Agribusiness",
+        "total": "131502"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Communic/Electronics",
+        "total": "557094"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Construction",
+        "total": "111813"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Defense",
+        "total": "106237"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Energy/Nat Resource",
+        "total": "103102"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1249458"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Health",
+        "total": "557233"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1547351"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Transportation",
+        "total": "98549"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Misc Business",
+        "total": "652559"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Labor",
+        "total": "456929"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2669966"
+    },
+    {
+        "crp_id": "N00027860",
+        "sector_name": "Other",
+        "total": "2682190"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Agribusiness",
+        "total": "136402"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Communic/Electronics",
+        "total": "338541"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Construction",
+        "total": "175873"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Defense",
+        "total": "407321"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Energy/Nat Resource",
+        "total": "158101"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1091903"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Health",
+        "total": "556412"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1629038"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Transportation",
+        "total": "245710"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Misc Business",
+        "total": "712471"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Labor",
+        "total": "254069"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "550498"
+    },
+    {
+        "crp_id": "N00004981",
+        "sector_name": "Other",
+        "total": "929141"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Agribusiness",
+        "total": "436910"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Communic/Electronics",
+        "total": "134495"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Construction",
+        "total": "199346"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Defense",
+        "total": "54110"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Energy/Nat Resource",
+        "total": "351776"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "955098"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Health",
+        "total": "147238"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "172814"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Transportation",
+        "total": "201611"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Misc Business",
+        "total": "655043"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Labor",
+        "total": "3500"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "886760"
+    },
+    {
+        "crp_id": "N00035483",
+        "sector_name": "Other",
+        "total": "434507"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Agribusiness",
+        "total": "379522"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Communic/Electronics",
+        "total": "733671"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Construction",
+        "total": "113238"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Defense",
+        "total": "86955"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Energy/Nat Resource",
+        "total": "267907"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1157556"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Health",
+        "total": "386476"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1021199"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Transportation",
+        "total": "140464"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Misc Business",
+        "total": "718489"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Labor",
+        "total": "61435"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "686469"
+    },
+    {
+        "crp_id": "N00007364",
+        "sector_name": "Other",
+        "total": "1037045"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Agribusiness",
+        "total": "576504"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Communic/Electronics",
+        "total": "457250"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Construction",
+        "total": "206187"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Defense",
+        "total": "139400"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Energy/Nat Resource",
+        "total": "351755"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "881139"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Health",
+        "total": "287531"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "432662"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Transportation",
+        "total": "590248"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Misc Business",
+        "total": "527143"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Labor",
+        "total": "93583"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "720098"
+    },
+    {
+        "crp_id": "N00033443",
+        "sector_name": "Other",
+        "total": "264929"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Agribusiness",
+        "total": "99753"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Communic/Electronics",
+        "total": "1401798"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Construction",
+        "total": "125247"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Defense",
+        "total": "59324"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Energy/Nat Resource",
+        "total": "118706"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2527007"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Health",
+        "total": "691210"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2658576"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Transportation",
+        "total": "76138"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Misc Business",
+        "total": "1196057"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Labor",
+        "total": "152915"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "841798"
+    },
+    {
+        "crp_id": "N00027658",
+        "sector_name": "Other",
+        "total": "2583994"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Agribusiness",
+        "total": "420484"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Communic/Electronics",
+        "total": "387356"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Construction",
+        "total": "387530"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Defense",
+        "total": "322486"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Energy/Nat Resource",
+        "total": "448291"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2432060"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Health",
+        "total": "627568"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1541499"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Transportation",
+        "total": "395738"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Misc Business",
+        "total": "1081293"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Labor",
+        "total": "23200"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "881779"
+    },
+    {
+        "crp_id": "N00009975",
+        "sector_name": "Other",
+        "total": "982854"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Agribusiness",
+        "total": "671296"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Communic/Electronics",
+        "total": "439120"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Construction",
+        "total": "290701"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Defense",
+        "total": "38320"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Energy/Nat Resource",
+        "total": "461350"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1677063"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Health",
+        "total": "768908"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "799053"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Transportation",
+        "total": "251414"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Misc Business",
+        "total": "868015"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Labor",
+        "total": "13000"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "928549"
+    },
+    {
+        "crp_id": "N00001758",
+        "sector_name": "Other",
+        "total": "886390"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Agribusiness",
+        "total": "126554"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Communic/Electronics",
+        "total": "2166931"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Construction",
+        "total": "229921"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Defense",
+        "total": "28562"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Energy/Nat Resource",
+        "total": "88271"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1920394"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Health",
+        "total": "692626"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2575049"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Transportation",
+        "total": "135533"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Misc Business",
+        "total": "1347142"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Labor",
+        "total": "223104"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1281804"
+    },
+    {
+        "crp_id": "N00036915",
+        "sector_name": "Other",
+        "total": "2564764"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Agribusiness",
+        "total": "134760"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Communic/Electronics",
+        "total": "934537"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Construction",
+        "total": "179575"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Defense",
+        "total": "32862"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Energy/Nat Resource",
+        "total": "154417"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1463592"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Health",
+        "total": "590534"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1778732"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Transportation",
+        "total": "55405"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Misc Business",
+        "total": "800867"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Labor",
+        "total": "312881"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2348846"
+    },
+    {
+        "crp_id": "N00038397",
+        "sector_name": "Other",
+        "total": "4266067"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Agribusiness",
+        "total": "459714"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Communic/Electronics",
+        "total": "202720"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Construction",
+        "total": "421327"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Defense",
+        "total": "35560"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Energy/Nat Resource",
+        "total": "429636"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1559645"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Health",
+        "total": "442233"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "586903"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Transportation",
+        "total": "301401"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Misc Business",
+        "total": "983705"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Labor",
+        "total": "7750"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1520286"
+    },
+    {
+        "crp_id": "N00041620",
+        "sector_name": "Other",
+        "total": "1613516"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Agribusiness",
+        "total": "141194"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Communic/Electronics",
+        "total": "385184"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Construction",
+        "total": "145496"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Defense",
+        "total": "193861"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Energy/Nat Resource",
+        "total": "514500"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "857809"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Health",
+        "total": "676491"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1184693"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Transportation",
+        "total": "134408"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Misc Business",
+        "total": "675988"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Labor",
+        "total": "253385"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "900116"
+    },
+    {
+        "crp_id": "N00029835",
+        "sector_name": "Other",
+        "total": "882050"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Agribusiness",
+        "total": "45641"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Communic/Electronics",
+        "total": "261569"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Construction",
+        "total": "116975"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Defense",
+        "total": "127774"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Energy/Nat Resource",
+        "total": "90543"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "467935"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Health",
+        "total": "178494"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "837171"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Transportation",
+        "total": "178568"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Misc Business",
+        "total": "337077"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Labor",
+        "total": "314065"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "508105"
+    },
+    {
+        "crp_id": "N00028139",
+        "sector_name": "Other",
+        "total": "429717"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Agribusiness",
+        "total": "327363"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Communic/Electronics",
+        "total": "134660"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Construction",
+        "total": "190830"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Defense",
+        "total": "108500"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Energy/Nat Resource",
+        "total": "699153"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "476305"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Health",
+        "total": "160810"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "173875"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Transportation",
+        "total": "156965"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Misc Business",
+        "total": "366525"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Labor",
+        "total": "21525"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "414264"
+    },
+    {
+        "crp_id": "N00031688",
+        "sector_name": "Other",
+        "total": "120859"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Agribusiness",
+        "total": "484091"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Communic/Electronics",
+        "total": "128000"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Construction",
+        "total": "214499"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Defense",
+        "total": "97450"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Energy/Nat Resource",
+        "total": "326267"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "603008"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Health",
+        "total": "203099"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "263032"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Transportation",
+        "total": "187779"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Misc Business",
+        "total": "363330"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Labor",
+        "total": "5500"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "615204"
+    },
+    {
+        "crp_id": "N00043298",
+        "sector_name": "Other",
+        "total": "295196"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Agribusiness",
+        "total": "170940"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Communic/Electronics",
+        "total": "136050"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Construction",
+        "total": "263210"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Defense",
+        "total": "298449"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Energy/Nat Resource",
+        "total": "687164"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "413828"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Health",
+        "total": "137353"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "267021"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Transportation",
+        "total": "353075"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Misc Business",
+        "total": "301945"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Labor",
+        "total": "43000"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "382864"
+    },
+    {
+        "crp_id": "N00005582",
+        "sector_name": "Other",
+        "total": "264975"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Agribusiness",
+        "total": "823601"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Communic/Electronics",
+        "total": "675255"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Construction",
+        "total": "769846"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Defense",
+        "total": "104350"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Energy/Nat Resource",
+        "total": "705705"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3943622"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Health",
+        "total": "885278"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "848332"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Transportation",
+        "total": "635844"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Misc Business",
+        "total": "2572150"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Labor",
+        "total": "37000"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2125291"
+    },
+    {
+        "crp_id": "N00032546",
+        "sector_name": "Other",
+        "total": "5376412"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Agribusiness",
+        "total": "312839"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Communic/Electronics",
+        "total": "1250237"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Construction",
+        "total": "257269"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Defense",
+        "total": "467493"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Energy/Nat Resource",
+        "total": "386672"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3312185"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Health",
+        "total": "1099520"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "3258061"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Transportation",
+        "total": "250903"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Misc Business",
+        "total": "1367620"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Labor",
+        "total": "257271"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1647198"
+    },
+    {
+        "crp_id": "N00033177",
+        "sector_name": "Other",
+        "total": "3044513"
+    },
+    {
+        "crp_id": "N00044223",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Agribusiness",
+        "total": "379563"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Communic/Electronics",
+        "total": "157575"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Construction",
+        "total": "941150"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Defense",
+        "total": "18500"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Energy/Nat Resource",
+        "total": "739300"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1443119"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Health",
+        "total": "788375"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1031025"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Transportation",
+        "total": "654550"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Misc Business",
+        "total": "764046"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Labor",
+        "total": "18000"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "453833"
+    },
+    {
+        "crp_id": "N00026823",
+        "sector_name": "Other",
+        "total": "734985"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Agribusiness",
+        "total": "162690"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Communic/Electronics",
+        "total": "331301"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Construction",
+        "total": "87828"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Defense",
+        "total": "181100"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Energy/Nat Resource",
+        "total": "119102"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "722697"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Health",
+        "total": "241798"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "539880"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Transportation",
+        "total": "94000"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Misc Business",
+        "total": "359955"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Labor",
+        "total": "193666"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "695757"
+    },
+    {
+        "crp_id": "N00034580",
+        "sector_name": "Other",
+        "total": "791045"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Agribusiness",
+        "total": "528836"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Communic/Electronics",
+        "total": "880973"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Construction",
+        "total": "78666"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Defense",
+        "total": "21352"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Energy/Nat Resource",
+        "total": "167599"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1359106"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Health",
+        "total": "569243"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1351580"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Transportation",
+        "total": "301914"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Misc Business",
+        "total": "989555"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Labor",
+        "total": "221965"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1333899"
+    },
+    {
+        "crp_id": "N00027500",
+        "sector_name": "Other",
+        "total": "1516357"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Agribusiness",
+        "total": "271200"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Communic/Electronics",
+        "total": "225350"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Construction",
+        "total": "361830"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Defense",
+        "total": "100000"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1244837"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1069086"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Health",
+        "total": "504331"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "319561"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Transportation",
+        "total": "379352"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Misc Business",
+        "total": "621414"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Labor",
+        "total": "69000"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "620840"
+    },
+    {
+        "crp_id": "N00031129",
+        "sector_name": "Other",
+        "total": "685359"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Agribusiness",
+        "total": "107228"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Communic/Electronics",
+        "total": "682436"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Construction",
+        "total": "32538"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Defense",
+        "total": "171862"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Energy/Nat Resource",
+        "total": "24412"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "390487"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Health",
+        "total": "142701"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "820220"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Transportation",
+        "total": "42988"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Misc Business",
+        "total": "270574"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Labor",
+        "total": "171835"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "620153"
+    },
+    {
+        "crp_id": "N00009918",
+        "sector_name": "Other",
+        "total": "311191"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Agribusiness",
+        "total": "161975"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Communic/Electronics",
+        "total": "519575"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Construction",
+        "total": "93358"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Defense",
+        "total": "44275"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Energy/Nat Resource",
+        "total": "400995"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1321345"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Health",
+        "total": "412312"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "558018"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Transportation",
+        "total": "286300"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Misc Business",
+        "total": "796215"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Labor",
+        "total": "3000"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1196485"
+    },
+    {
+        "crp_id": "N00031696",
+        "sector_name": "Other",
+        "total": "471780"
+    },
+    {
+        "crp_id": "N00046125",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Agribusiness",
+        "total": "24510"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Communic/Electronics",
+        "total": "188638"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Construction",
+        "total": "26235"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Defense",
+        "total": "44225"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Energy/Nat Resource",
+        "total": "122025"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "302305"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Health",
+        "total": "321774"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "131325"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Transportation",
+        "total": "50338"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Misc Business",
+        "total": "266845"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Labor",
+        "total": "182250"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "77452"
+    },
+    {
+        "crp_id": "N00029562",
+        "sector_name": "Other",
+        "total": "64636"
+    },
+    {
+        "crp_id": "N00029788",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Agribusiness",
+        "total": "138863"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Communic/Electronics",
+        "total": "503913"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Construction",
+        "total": "118193"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Defense",
+        "total": "104976"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Energy/Nat Resource",
+        "total": "437090"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1848837"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Health",
+        "total": "493735"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "980893"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Transportation",
+        "total": "240068"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Misc Business",
+        "total": "605974"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Labor",
+        "total": "290358"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "660413"
+    },
+    {
+        "crp_id": "N00032838",
+        "sector_name": "Other",
+        "total": "749948"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Agribusiness",
+        "total": "73156"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Communic/Electronics",
+        "total": "1511500"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Construction",
+        "total": "212825"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Defense",
+        "total": "23393"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Energy/Nat Resource",
+        "total": "218166"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2241750"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Health",
+        "total": "803649"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2255429"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Transportation",
+        "total": "156725"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Misc Business",
+        "total": "900663"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Labor",
+        "total": "490277"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1240838"
+    },
+    {
+        "crp_id": "N00000270",
+        "sector_name": "Other",
+        "total": "1442880"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Agribusiness",
+        "total": "268513"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Communic/Electronics",
+        "total": "46179"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Construction",
+        "total": "57100"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Defense",
+        "total": "9200"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Energy/Nat Resource",
+        "total": "96275"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "171336"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Health",
+        "total": "171852"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "39939"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Transportation",
+        "total": "74300"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Misc Business",
+        "total": "69501"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Labor",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "102439"
+    },
+    {
+        "crp_id": "N00037034",
+        "sector_name": "Other",
+        "total": "28350"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Agribusiness",
+        "total": "1085667"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Communic/Electronics",
+        "total": "889268"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Construction",
+        "total": "663456"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Defense",
+        "total": "237150"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1642448"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "5223096"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Health",
+        "total": "2249802"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1707096"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Transportation",
+        "total": "988066"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Misc Business",
+        "total": "2209931"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Labor",
+        "total": "37500"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1360144"
+    },
+    {
+        "crp_id": "N00003389",
+        "sector_name": "Other",
+        "total": "1545556"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Agribusiness",
+        "total": "134742"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Communic/Electronics",
+        "total": "404930"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Construction",
+        "total": "485413"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Defense",
+        "total": "61475"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Energy/Nat Resource",
+        "total": "220818"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2679325"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Health",
+        "total": "1015935"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1896310"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Transportation",
+        "total": "111645"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Misc Business",
+        "total": "813594"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Labor",
+        "total": "294466"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1224887"
+    },
+    {
+        "crp_id": "N00000699",
+        "sector_name": "Other",
+        "total": "944888"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Agribusiness",
+        "total": "190758"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Communic/Electronics",
+        "total": "379460"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Construction",
+        "total": "123147"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Defense",
+        "total": "49262"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Energy/Nat Resource",
+        "total": "115894"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "647647"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Health",
+        "total": "389555"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "595094"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Transportation",
+        "total": "89400"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Misc Business",
+        "total": "407901"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Labor",
+        "total": "282340"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "870608"
+    },
+    {
+        "crp_id": "N00029303",
+        "sector_name": "Other",
+        "total": "2069120"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Agribusiness",
+        "total": "678670"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Communic/Electronics",
+        "total": "361812"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Construction",
+        "total": "249785"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Defense",
+        "total": "128250"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Energy/Nat Resource",
+        "total": "325637"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1060542"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Health",
+        "total": "418440"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "358589"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Transportation",
+        "total": "510953"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Misc Business",
+        "total": "631178"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Labor",
+        "total": "52000"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "467066"
+    },
+    {
+        "crp_id": "N00005282",
+        "sector_name": "Other",
+        "total": "217398"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Agribusiness",
+        "total": "314950"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Communic/Electronics",
+        "total": "156151"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Construction",
+        "total": "195525"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Defense",
+        "total": "125750"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1809144"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "876578"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Health",
+        "total": "304000"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "536767"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Transportation",
+        "total": "451840"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Misc Business",
+        "total": "779509"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Labor",
+        "total": "153750"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "630381"
+    },
+    {
+        "crp_id": "N00026050",
+        "sector_name": "Other",
+        "total": "294105"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Agribusiness",
+        "total": "90772"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Communic/Electronics",
+        "total": "678116"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Construction",
+        "total": "187439"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Defense",
+        "total": "99281"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Energy/Nat Resource",
+        "total": "126685"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1923550"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Health",
+        "total": "867557"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1441117"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Transportation",
+        "total": "115721"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Misc Business",
+        "total": "849906"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Labor",
+        "total": "165760"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "770574"
+    },
+    {
+        "crp_id": "N00027566",
+        "sector_name": "Other",
+        "total": "2551950"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Agribusiness",
+        "total": "249127"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Communic/Electronics",
+        "total": "871754"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Construction",
+        "total": "244774"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Defense",
+        "total": "213940"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Energy/Nat Resource",
+        "total": "333175"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1396336"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Health",
+        "total": "1433037"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1241029"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Transportation",
+        "total": "490415"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Misc Business",
+        "total": "1055101"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Labor",
+        "total": "299915"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1412877"
+    },
+    {
+        "crp_id": "N00007876",
+        "sector_name": "Other",
+        "total": "1608588"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Agribusiness",
+        "total": "263463"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Communic/Electronics",
+        "total": "303505"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Construction",
+        "total": "259298"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Defense",
+        "total": "17580"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Energy/Nat Resource",
+        "total": "393110"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1219484"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Health",
+        "total": "855372"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "312921"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Transportation",
+        "total": "185827"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Misc Business",
+        "total": "693363"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "809654"
+    },
+    {
+        "crp_id": "N00030836",
+        "sector_name": "Other",
+        "total": "905009"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Agribusiness",
+        "total": "191006"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Communic/Electronics",
+        "total": "414063"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Construction",
+        "total": "170511"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Defense",
+        "total": "152957"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Energy/Nat Resource",
+        "total": "227888"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2508471"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Health",
+        "total": "885116"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1652346"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Transportation",
+        "total": "289393"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Misc Business",
+        "total": "1074810"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Labor",
+        "total": "450963"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1900228"
+    },
+    {
+        "crp_id": "N00029277",
+        "sector_name": "Other",
+        "total": "1517233"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Agribusiness",
+        "total": "646433"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Communic/Electronics",
+        "total": "949827"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Construction",
+        "total": "842819"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Defense",
+        "total": "143740"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1354901"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "6621507"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Health",
+        "total": "1805954"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1913683"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Transportation",
+        "total": "705872"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Misc Business",
+        "total": "3335955"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Labor",
+        "total": "40500"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1610633"
+    },
+    {
+        "crp_id": "N00003682",
+        "sector_name": "Other",
+        "total": "2408248"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Agribusiness",
+        "total": "30119"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Communic/Electronics",
+        "total": "163507"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Construction",
+        "total": "139623"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Defense",
+        "total": "396577"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Energy/Nat Resource",
+        "total": "43454"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "920507"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Health",
+        "total": "207259"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "757618"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Transportation",
+        "total": "94268"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Misc Business",
+        "total": "288599"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Labor",
+        "total": "244350"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "389468"
+    },
+    {
+        "crp_id": "N00000362",
+        "sector_name": "Other",
+        "total": "258205"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Agribusiness",
+        "total": "132437"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Communic/Electronics",
+        "total": "99700"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Construction",
+        "total": "40895"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Defense",
+        "total": "48527"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Energy/Nat Resource",
+        "total": "251570"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "362261"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Health",
+        "total": "72210"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "79950"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Transportation",
+        "total": "64391"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Misc Business",
+        "total": "147687"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Labor",
+        "total": "1000"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "391220"
+    },
+    {
+        "crp_id": "N00029441",
+        "sector_name": "Other",
+        "total": "84699"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Agribusiness",
+        "total": "44700"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Communic/Electronics",
+        "total": "97800"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Construction",
+        "total": "78950"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Defense",
+        "total": "18150"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Energy/Nat Resource",
+        "total": "137993"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1323635"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Health",
+        "total": "148350"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "139907"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Transportation",
+        "total": "65798"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Misc Business",
+        "total": "467608"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "7400"
+    },
+    {
+        "crp_id": "N00000286",
+        "sector_name": "Other",
+        "total": "698139"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Agribusiness",
+        "total": "142750"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Communic/Electronics",
+        "total": "1968455"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Construction",
+        "total": "245555"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Defense",
+        "total": "54470"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Energy/Nat Resource",
+        "total": "148753"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2534553"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Health",
+        "total": "1137787"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2157071"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Transportation",
+        "total": "102466"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Misc Business",
+        "total": "1336019"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Labor",
+        "total": "291582"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2912763"
+    },
+    {
+        "crp_id": "N00038734",
+        "sector_name": "Other",
+        "total": "5590295"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Agribusiness",
+        "total": "308750"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Communic/Electronics",
+        "total": "218998"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Construction",
+        "total": "180400"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Defense",
+        "total": "46100"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Energy/Nat Resource",
+        "total": "512475"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1385940"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Health",
+        "total": "406204"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "304310"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Transportation",
+        "total": "244500"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Misc Business",
+        "total": "666999"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Labor",
+        "total": "17500"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "645431"
+    },
+    {
+        "crp_id": "N00035187",
+        "sector_name": "Other",
+        "total": "344607"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Agribusiness",
+        "total": "865411"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Communic/Electronics",
+        "total": "806407"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Construction",
+        "total": "1038493"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Defense",
+        "total": "153880"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Energy/Nat Resource",
+        "total": "907442"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "5031659"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Health",
+        "total": "1007994"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1335788"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Transportation",
+        "total": "730629"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Misc Business",
+        "total": "2493367"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Labor",
+        "total": "25965"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2340863"
+    },
+    {
+        "crp_id": "N00030612",
+        "sector_name": "Other",
+        "total": "4211948"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Agribusiness",
+        "total": "50667"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Communic/Electronics",
+        "total": "235666"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Construction",
+        "total": "79260"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Defense",
+        "total": "19301"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Energy/Nat Resource",
+        "total": "19777"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "155215"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Health",
+        "total": "260679"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "98615"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Transportation",
+        "total": "28676"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Misc Business",
+        "total": "253530"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Labor",
+        "total": "158044"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "241576"
+    },
+    {
+        "crp_id": "N00000528",
+        "sector_name": "Other",
+        "total": "1656467"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Agribusiness",
+        "total": "388535"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Communic/Electronics",
+        "total": "199610"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Construction",
+        "total": "176359"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Defense",
+        "total": "40100"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Energy/Nat Resource",
+        "total": "366748"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1673633"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Health",
+        "total": "479955"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "393150"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Transportation",
+        "total": "195350"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Misc Business",
+        "total": "633555"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Labor",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1124561"
+    },
+    {
+        "crp_id": "N00035544",
+        "sector_name": "Other",
+        "total": "509550"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Agribusiness",
+        "total": "91897"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Communic/Electronics",
+        "total": "680196"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Construction",
+        "total": "398151"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Defense",
+        "total": "184865"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Energy/Nat Resource",
+        "total": "262502"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1693327"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Health",
+        "total": "316785"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1454116"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Transportation",
+        "total": "632345"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Misc Business",
+        "total": "834852"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Labor",
+        "total": "522712"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1231915"
+    },
+    {
+        "crp_id": "N00028138",
+        "sector_name": "Other",
+        "total": "682786"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Agribusiness",
+        "total": "329292"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Communic/Electronics",
+        "total": "1796049"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Construction",
+        "total": "589774"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Defense",
+        "total": "233938"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Energy/Nat Resource",
+        "total": "380370"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "7546071"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Health",
+        "total": "1869823"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2685202"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Transportation",
+        "total": "260334"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Misc Business",
+        "total": "2015575"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Labor",
+        "total": "297292"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1007499"
+    },
+    {
+        "crp_id": "N00001093",
+        "sector_name": "Other",
+        "total": "1091487"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Agribusiness",
+        "total": "424905"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Communic/Electronics",
+        "total": "548324"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Construction",
+        "total": "438920"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Defense",
+        "total": "177449"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1064805"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3726390"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Health",
+        "total": "1280302"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "872761"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Transportation",
+        "total": "653839"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Misc Business",
+        "total": "1499231"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Labor",
+        "total": "31000"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1270682"
+    },
+    {
+        "crp_id": "N00031782",
+        "sector_name": "Other",
+        "total": "593418"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Agribusiness",
+        "total": "468002"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Communic/Electronics",
+        "total": "288102"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Construction",
+        "total": "671260"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Defense",
+        "total": "48466"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Energy/Nat Resource",
+        "total": "400030"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2264726"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Health",
+        "total": "755584"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "672138"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Transportation",
+        "total": "359672"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Misc Business",
+        "total": "1346159"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1227230"
+    },
+    {
+        "crp_id": "N00043290",
+        "sector_name": "Other",
+        "total": "3355122"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Agribusiness",
+        "total": "93542"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Communic/Electronics",
+        "total": "629579"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Construction",
+        "total": "137255"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Defense",
+        "total": "209751"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Energy/Nat Resource",
+        "total": "131809"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1088040"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Health",
+        "total": "508263"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1088551"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Transportation",
+        "total": "215544"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Misc Business",
+        "total": "638890"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Labor",
+        "total": "295067"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1792909"
+    },
+    {
+        "crp_id": "N00024790",
+        "sector_name": "Other",
+        "total": "1205089"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Agribusiness",
+        "total": "113765"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Communic/Electronics",
+        "total": "84700"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Construction",
+        "total": "124750"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Defense",
+        "total": "275100"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Energy/Nat Resource",
+        "total": "121550"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1804571"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Health",
+        "total": "66400"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "340813"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Transportation",
+        "total": "146000"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Misc Business",
+        "total": "207100"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Labor",
+        "total": "28500"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "194850"
+    },
+    {
+        "crp_id": "N00009920",
+        "sector_name": "Other",
+        "total": "36250"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Agribusiness",
+        "total": "139310"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Communic/Electronics",
+        "total": "1031592"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Construction",
+        "total": "172707"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Defense",
+        "total": "76920"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Energy/Nat Resource",
+        "total": "149416"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2916494"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Health",
+        "total": "1023290"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1838248"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Transportation",
+        "total": "145453"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Misc Business",
+        "total": "945469"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Labor",
+        "total": "286763"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2595437"
+    },
+    {
+        "crp_id": "N00033983",
+        "sector_name": "Other",
+        "total": "3030528"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Agribusiness",
+        "total": "190303"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Communic/Electronics",
+        "total": "312558"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Construction",
+        "total": "60028"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Defense",
+        "total": "19017"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Energy/Nat Resource",
+        "total": "104880"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "752406"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Health",
+        "total": "341989"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "652547"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Transportation",
+        "total": "61650"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Misc Business",
+        "total": "484969"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Labor",
+        "total": "274972"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1293166"
+    },
+    {
+        "crp_id": "N00042353",
+        "sector_name": "Other",
+        "total": "1333105"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Agribusiness",
+        "total": "1127359"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Communic/Electronics",
+        "total": "579734"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Construction",
+        "total": "148813"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Defense",
+        "total": "78791"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Energy/Nat Resource",
+        "total": "327094"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2258021"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Health",
+        "total": "1364626"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1336908"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Transportation",
+        "total": "282470"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Misc Business",
+        "total": "1331837"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Labor",
+        "total": "309273"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1939335"
+    },
+    {
+        "crp_id": "N00004118",
+        "sector_name": "Other",
+        "total": "2094841"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Agribusiness",
+        "total": "173791"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Communic/Electronics",
+        "total": "314729"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Construction",
+        "total": "312026"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Defense",
+        "total": "82350"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Energy/Nat Resource",
+        "total": "850497"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2301221"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Health",
+        "total": "227707"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "473135"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Transportation",
+        "total": "418235"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Misc Business",
+        "total": "1056048"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Labor",
+        "total": "23000"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1097495"
+    },
+    {
+        "crp_id": "N00035774",
+        "sector_name": "Other",
+        "total": "845784"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Agribusiness",
+        "total": "597248"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Communic/Electronics",
+        "total": "1418433"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Construction",
+        "total": "211396"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Defense",
+        "total": "135320"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Energy/Nat Resource",
+        "total": "247128"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "4275623"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Health",
+        "total": "1253208"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "3192835"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Transportation",
+        "total": "352871"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Misc Business",
+        "total": "1665087"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Labor",
+        "total": "347820"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2607418"
+    },
+    {
+        "crp_id": "N00027605",
+        "sector_name": "Other",
+        "total": "3841632"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Agribusiness",
+        "total": "554724"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Communic/Electronics",
+        "total": "821011"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Construction",
+        "total": "295269"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Defense",
+        "total": "73354"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Energy/Nat Resource",
+        "total": "511929"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1601097"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Health",
+        "total": "600205"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "730448"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Transportation",
+        "total": "810515"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Misc Business",
+        "total": "804694"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Labor",
+        "total": "88000"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "485052"
+    },
+    {
+        "crp_id": "N00004572",
+        "sector_name": "Other",
+        "total": "768059"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Agribusiness",
+        "total": "622700"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Communic/Electronics",
+        "total": "367055"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Construction",
+        "total": "457574"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Defense",
+        "total": "82350"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Energy/Nat Resource",
+        "total": "627275"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2614846"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Health",
+        "total": "811478"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "837082"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Transportation",
+        "total": "391939"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Misc Business",
+        "total": "1634143"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Labor",
+        "total": "4500"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1008303"
+    },
+    {
+        "crp_id": "N00035492",
+        "sector_name": "Other",
+        "total": "1470352"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Agribusiness",
+        "total": "615800"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Communic/Electronics",
+        "total": "654758"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Construction",
+        "total": "835945"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Defense",
+        "total": "113453"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Energy/Nat Resource",
+        "total": "1181647"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "6138065"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Health",
+        "total": "1798592"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1706393"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Transportation",
+        "total": "553921"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Misc Business",
+        "total": "2272723"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Labor",
+        "total": "48400"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "2582055"
+    },
+    {
+        "crp_id": "N00001489",
+        "sector_name": "Other",
+        "total": "3044197"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Agribusiness",
+        "total": "116564"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Communic/Electronics",
+        "total": "524227"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Construction",
+        "total": "138071"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Defense",
+        "total": "94476"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Energy/Nat Resource",
+        "total": "96765"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1683352"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Health",
+        "total": "839720"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2065066"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Transportation",
+        "total": "180495"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Misc Business",
+        "total": "885672"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Labor",
+        "total": "260092"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "967051"
+    },
+    {
+        "crp_id": "N00013820",
+        "sector_name": "Other",
+        "total": "2390327"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Agribusiness",
+        "total": "281364"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Communic/Electronics",
+        "total": "1118182"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Construction",
+        "total": "270876"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Defense",
+        "total": "306792"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Energy/Nat Resource",
+        "total": "386901"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "4803618"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Health",
+        "total": "961776"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "2106069"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Transportation",
+        "total": "539822"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Misc Business",
+        "total": "1227794"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Labor",
+        "total": "216863"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "663982"
+    },
+    {
+        "crp_id": "N00002097",
+        "sector_name": "Other",
+        "total": "1694837"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Agribusiness",
+        "total": "96123"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Communic/Electronics",
+        "total": "1206815"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Construction",
+        "total": "134269"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Defense",
+        "total": "38047"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Energy/Nat Resource",
+        "total": "95262"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1139797"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Health",
+        "total": "748158"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1245553"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Transportation",
+        "total": "72504"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Misc Business",
+        "total": "745999"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Labor",
+        "total": "225132"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "3005694"
+    },
+    {
+        "crp_id": "N00033492",
+        "sector_name": "Other",
+        "total": "5866674"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Agribusiness",
+        "total": "29022"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Communic/Electronics",
+        "total": "487755"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Construction",
+        "total": "55433"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Defense",
+        "total": "32936"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Energy/Nat Resource",
+        "total": "97988"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "904359"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Health",
+        "total": "395422"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1035132"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Transportation",
+        "total": "56223"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Misc Business",
+        "total": "348310"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Labor",
+        "total": "245260"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1001420"
+    },
+    {
+        "crp_id": "N00027533",
+        "sector_name": "Other",
+        "total": "899389"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Agribusiness",
+        "total": "371347"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Communic/Electronics",
+        "total": "597200"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Construction",
+        "total": "264219"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Defense",
+        "total": "227025"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Energy/Nat Resource",
+        "total": "407875"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "1056330"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Health",
+        "total": "413777"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "636585"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Transportation",
+        "total": "503617"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Misc Business",
+        "total": "554400"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Labor",
+        "total": "45500"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "727297"
+    },
+    {
+        "crp_id": "N00003280",
+        "sector_name": "Other",
+        "total": "300247"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Agribusiness",
+        "total": "375697"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Communic/Electronics",
+        "total": "680164"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Construction",
+        "total": "223241"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Defense",
+        "total": "44444"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Energy/Nat Resource",
+        "total": "565592"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "2899527"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Health",
+        "total": "1995144"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "1232575"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Transportation",
+        "total": "340874"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Misc Business",
+        "total": "1374543"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Labor",
+        "total": "126490"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "609966"
+    },
+    {
+        "crp_id": "N00007724",
+        "sector_name": "Other",
+        "total": "788753"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Agribusiness",
+        "total": "694999"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Communic/Electronics",
+        "total": "439439"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Construction",
+        "total": "1016607"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Defense",
+        "total": "99750"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Energy/Nat Resource",
+        "total": "848881"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Finance/Insur/RealEst",
+        "total": "3382006"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Health",
+        "total": "1371605"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Lawyers & Lobbyists",
+        "total": "987685"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Transportation",
+        "total": "600475"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Misc Business",
+        "total": "2011045"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Labor",
+        "total": "17750"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Ideology/Single-Issue",
+        "total": "1325705"
+    },
+    {
+        "crp_id": "N00030670",
+        "sector_name": "Other",
+        "total": "2071948"
+    }
+]

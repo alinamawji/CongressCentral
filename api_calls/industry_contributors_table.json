@@ -1,0 +1,4672 @@
+[
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Retired",
+        "total": "4528230"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Women's Issues",
+        "total": "1749637"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1529681"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Education",
+        "total": "1220516"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Democratic/Liberal",
+        "total": "1009133"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Health Professionals",
+        "total": "821531"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Real Estate",
+        "total": "602687"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Securities & Investment",
+        "total": "563880"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Business Services",
+        "total": "546446"
+    },
+    {
+        "crp_id": "N00004367",
+        "industry_name": "Leadership PACs",
+        "total": "444100"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Oil & Gas",
+        "total": "541050"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Securities & Investment",
+        "total": "531266"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Health Professionals",
+        "total": "514775"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Leadership PACs",
+        "total": "377900"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Lobbyists",
+        "total": "355916"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "321350"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Electric Utilities",
+        "total": "318400"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "227150"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Insurance",
+        "total": "225300"
+    },
+    {
+        "crp_id": "N00006236",
+        "industry_name": "Real Estate",
+        "total": "217750"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Securities & Investment",
+        "total": "2046219"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1887706"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Retired",
+        "total": "1405770"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Real Estate",
+        "total": "943801"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Lobbyists",
+        "total": "635020"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Education",
+        "total": "584553"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Health Professionals",
+        "total": "553287"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Environment",
+        "total": "493063"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "TV/Movies/Music",
+        "total": "485773"
+    },
+    {
+        "crp_id": "N00030608",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "450175"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Retired",
+        "total": "1565108"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Republican/Conservative",
+        "total": "1015636"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Real Estate",
+        "total": "620066"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Leadership PACs",
+        "total": "578100"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Securities & Investment",
+        "total": "557992"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Health Professionals",
+        "total": "494098"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "354705"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Oil & Gas",
+        "total": "311919"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Lobbyists",
+        "total": "301422"
+    },
+    {
+        "crp_id": "N00003105",
+        "industry_name": "Misc Finance",
+        "total": "251488"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1209988"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Securities & Investment",
+        "total": "890023"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Retired",
+        "total": "537293"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Real Estate",
+        "total": "497955"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Lobbyists",
+        "total": "347461"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Leadership PACs",
+        "total": "336500"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Health Professionals",
+        "total": "279777"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Telecom Services",
+        "total": "242057"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "TV/Movies/Music",
+        "total": "235363"
+    },
+    {
+        "crp_id": "N00031685",
+        "industry_name": "Business Services",
+        "total": "182462"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Securities & Investment",
+        "total": "898107"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Real Estate",
+        "total": "773432"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Retired",
+        "total": "654693"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Lobbyists",
+        "total": "635972"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Leadership PACs",
+        "total": "634046"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "633940"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Health Professionals",
+        "total": "482800"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "454284"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Insurance",
+        "total": "433107"
+    },
+    {
+        "crp_id": "N00005195",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "396485"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "3127543"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Securities & Investment",
+        "total": "2801373"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Real Estate",
+        "total": "1488442"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "TV/Movies/Music",
+        "total": "1045974"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Retired",
+        "total": "975890"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Business Services",
+        "total": "622815"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Misc Finance",
+        "total": "582974"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Education",
+        "total": "516103"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Insurance",
+        "total": "503476"
+    },
+    {
+        "crp_id": "N00035267",
+        "industry_name": "Pro-Israel",
+        "total": "451276"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Health Professionals",
+        "total": "341390"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Leadership PACs",
+        "total": "311034"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Securities & Investment",
+        "total": "281650"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Retired",
+        "total": "237649"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Commercial Banks",
+        "total": "222050"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Real Estate",
+        "total": "196091"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Oil & Gas",
+        "total": "155550"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Crop Production & Basic Processing",
+        "total": "137437"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Insurance",
+        "total": "129325"
+    },
+    {
+        "crp_id": "N00013873",
+        "industry_name": "Lobbyists",
+        "total": "128247"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Retired",
+        "total": "771820"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Securities & Investment",
+        "total": "485120"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Republican/Conservative",
+        "total": "472027"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Real Estate",
+        "total": "297709"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Leadership PACs",
+        "total": "249500"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Automotive",
+        "total": "191798"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Oil & Gas",
+        "total": "189963"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "186902"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "178606"
+    },
+    {
+        "crp_id": "N00041731",
+        "industry_name": "Health Professionals",
+        "total": "161850"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Retired",
+        "total": "2832364"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "2327605"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Education",
+        "total": "1178972"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Health Professionals",
+        "total": "988836"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Real Estate",
+        "total": "890286"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Securities & Investment",
+        "total": "849081"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Democratic/Liberal",
+        "total": "776499"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Insurance",
+        "total": "667398"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Business Services",
+        "total": "480021"
+    },
+    {
+        "crp_id": "N00003535",
+        "industry_name": "Leadership PACs",
+        "total": "471800"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Securities & Investment",
+        "total": "846146"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Retired",
+        "total": "816869"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "556152"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Insurance",
+        "total": "537293"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "535689"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Real Estate",
+        "total": "527714"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Leadership PACs",
+        "total": "516960"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Health Professionals",
+        "total": "509734"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Lobbyists",
+        "total": "410556"
+    },
+    {
+        "crp_id": "N00002221",
+        "industry_name": "Oil & Gas",
+        "total": "305007"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Retired",
+        "total": "1221262"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "731876"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Real Estate",
+        "total": "550558"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Lobbyists",
+        "total": "437706"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Women's Issues",
+        "total": "437479"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Securities & Investment",
+        "total": "372603"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Environment",
+        "total": "198758"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "187378"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Education",
+        "total": "187199"
+    },
+    {
+        "crp_id": "N00007836",
+        "industry_name": "Casinos/Gambling",
+        "total": "178300"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Securities & Investment",
+        "total": "465865"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Leadership PACs",
+        "total": "428100"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "366713"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Retired",
+        "total": "355996"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Mining",
+        "total": "309399"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Commercial Banks",
+        "total": "291925"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Oil & Gas",
+        "total": "287166"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Insurance",
+        "total": "282338"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Health Professionals",
+        "total": "274916"
+    },
+    {
+        "crp_id": "N00009771",
+        "industry_name": "Real Estate",
+        "total": "187478"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Insurance",
+        "total": "338135"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Health Professionals",
+        "total": "337573"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "313860"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Real Estate",
+        "total": "297914"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Securities & Investment",
+        "total": "293988"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Retired",
+        "total": "178001"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Pro-Israel",
+        "total": "170300"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Leadership PACs",
+        "total": "169000"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Misc Finance",
+        "total": "158965"
+    },
+    {
+        "crp_id": "N00001955",
+        "industry_name": "Lobbyists",
+        "total": "153704"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Insurance",
+        "total": "354860"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Securities & Investment",
+        "total": "306522"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "243290"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "233092"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Leadership PACs",
+        "total": "228500"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Commercial Banks",
+        "total": "161265"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Lobbyists",
+        "total": "161142"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Retired",
+        "total": "145931"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Chemical & Related Manufacturing",
+        "total": "137100"
+    },
+    {
+        "crp_id": "N00012508",
+        "industry_name": "Health Professionals",
+        "total": "130162"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "4626683"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Retired",
+        "total": "1867598"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Securities & Investment",
+        "total": "1344725"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Education",
+        "total": "1129132"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Real Estate",
+        "total": "1089926"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Health Professionals",
+        "total": "915482"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "795980"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Lobbyists",
+        "total": "715522"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Insurance",
+        "total": "561779"
+    },
+    {
+        "crp_id": "N00027503",
+        "industry_name": "Democratic/Liberal",
+        "total": "507250"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Health Professionals",
+        "total": "1716835"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Securities & Investment",
+        "total": "1266017"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Oil & Gas",
+        "total": "1079220"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Retired",
+        "total": "949272"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Leadership PACs",
+        "total": "670794"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Real Estate",
+        "total": "603695"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "443903"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "428589"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "Insurance",
+        "total": "381442"
+    },
+    {
+        "crp_id": "N00030245",
+        "industry_name": "General Contractors",
+        "total": "354050"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Retired",
+        "total": "648599"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Securities & Investment",
+        "total": "499300"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Leadership PACs",
+        "total": "490000"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "415106"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Insurance",
+        "total": "341700"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Health Professionals",
+        "total": "336500"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Lobbyists",
+        "total": "322749"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Real Estate",
+        "total": "216025"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "134250"
+    },
+    {
+        "crp_id": "N00000491",
+        "industry_name": "Pro-Israel",
+        "total": "128110"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1092653"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Securities & Investment",
+        "total": "421339"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Leadership PACs",
+        "total": "312500"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Lobbyists",
+        "total": "240693"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "184057"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "TV/Movies/Music",
+        "total": "181553"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Commercial Banks",
+        "total": "164500"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Real Estate",
+        "total": "159289"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "136559"
+    },
+    {
+        "crp_id": "N00031820",
+        "industry_name": "Insurance",
+        "total": "132358"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Securities & Investment",
+        "total": "1534021"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Oil & Gas",
+        "total": "1380715"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Health Professionals",
+        "total": "901433"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "884394"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Real Estate",
+        "total": "789139"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Retired",
+        "total": "557471"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Misc Finance",
+        "total": "497075"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Insurance",
+        "total": "492553"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Leadership PACs",
+        "total": "437358"
+    },
+    {
+        "crp_id": "N00024852",
+        "industry_name": "Commercial Banks",
+        "total": "432515"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Retired",
+        "total": "2469065"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1590403"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Women's Issues",
+        "total": "1034668"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Education",
+        "total": "826901"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Securities & Investment",
+        "total": "578336"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Real Estate",
+        "total": "503943"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Health Professionals",
+        "total": "491755"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Environment",
+        "total": "481908"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Leadership PACs",
+        "total": "409076"
+    },
+    {
+        "crp_id": "N00037161",
+        "industry_name": "Business Services",
+        "total": "296044"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Securities & Investment",
+        "total": "1849245"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Retired",
+        "total": "1244607"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Republican/Conservative",
+        "total": "907160"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Real Estate",
+        "total": "632175"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Oil & Gas",
+        "total": "602320"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "563236"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Leadership PACs",
+        "total": "508871"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Health Professionals",
+        "total": "480616"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Misc Finance",
+        "total": "474246"
+    },
+    {
+        "crp_id": "N00033363",
+        "industry_name": "Commercial Banks",
+        "total": "426884"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Securities & Investment",
+        "total": "471733"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Oil & Gas",
+        "total": "451280"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Retired",
+        "total": "448715"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Leadership PACs",
+        "total": "271000"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Real Estate",
+        "total": "188957"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Crop Production & Basic Processing",
+        "total": "142274"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Mining",
+        "total": "115383"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Republican/Conservative",
+        "total": "110075"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "108415"
+    },
+    {
+        "crp_id": "N00004614",
+        "industry_name": "Commercial Banks",
+        "total": "97742"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Securities & Investment",
+        "total": "1093650"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Insurance",
+        "total": "642650"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Commercial Banks",
+        "total": "463200"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Real Estate",
+        "total": "431360"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Leadership PACs",
+        "total": "431100"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Lobbyists",
+        "total": "373238"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "284621"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Finance/Credit Companies",
+        "total": "254500"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Misc Finance",
+        "total": "246852"
+    },
+    {
+        "crp_id": "N00006267",
+        "industry_name": "Health Services/HMOs",
+        "total": "224500"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Retired",
+        "total": "7120874"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Republican/Conservative",
+        "total": "3391173"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Real Estate",
+        "total": "1634266"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Oil & Gas",
+        "total": "1484701"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1192707"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Securities & Investment",
+        "total": "1114012"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Health Professionals",
+        "total": "1048655"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Misc Finance",
+        "total": "865635"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Misc Business",
+        "total": "557635"
+    },
+    {
+        "crp_id": "N00033085",
+        "industry_name": "Business Services",
+        "total": "537578"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Securities & Investment",
+        "total": "603628"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Retired",
+        "total": "587939"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Oil & Gas",
+        "total": "487818"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Leadership PACs",
+        "total": "476286"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Real Estate",
+        "total": "294800"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Commercial Banks",
+        "total": "212700"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "General Contractors",
+        "total": "204691"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Republican/Conservative",
+        "total": "195336"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Misc Finance",
+        "total": "173156"
+    },
+    {
+        "crp_id": "N00033054",
+        "industry_name": "Livestock",
+        "total": "170375"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Retired",
+        "total": "1794755"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1327335"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Women's Issues",
+        "total": "1100684"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Securities & Investment",
+        "total": "517078"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Education",
+        "total": "480341"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Leadership PACs",
+        "total": "396000"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Real Estate",
+        "total": "374786"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Health Professionals",
+        "total": "323311"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Pro-Israel",
+        "total": "296683"
+    },
+    {
+        "crp_id": "N00027860",
+        "industry_name": "Business Services",
+        "total": "269061"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1410228"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Retired",
+        "total": "516903"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Securities & Investment",
+        "total": "382195"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Real Estate",
+        "total": "341613"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Defense Aerospace",
+        "total": "289712"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Health Professionals",
+        "total": "282187"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Lobbyists",
+        "total": "218810"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Insurance",
+        "total": "195574"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Education",
+        "total": "194868"
+    },
+    {
+        "crp_id": "N00004981",
+        "industry_name": "Leadership PACs",
+        "total": "174600"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Leadership PACs",
+        "total": "538036"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Securities & Investment",
+        "total": "365300"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Retired",
+        "total": "356275"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Republican/Conservative",
+        "total": "191617"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Real Estate",
+        "total": "189701"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Oil & Gas",
+        "total": "187000"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Insurance",
+        "total": "162784"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "130249"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "110094"
+    },
+    {
+        "crp_id": "N00035483",
+        "industry_name": "Agricultural Services/Products",
+        "total": "104871"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "654453"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Retired",
+        "total": "569504"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Real Estate",
+        "total": "442200"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Lobbyists",
+        "total": "366746"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "TV/Movies/Music",
+        "total": "344790"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Securities & Investment",
+        "total": "343777"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Women's Issues",
+        "total": "284354"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Crop Production & Basic Processing",
+        "total": "233270"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Electric Utilities",
+        "total": "192657"
+    },
+    {
+        "crp_id": "N00007364",
+        "industry_name": "Business Services",
+        "total": "184354"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Leadership PACs",
+        "total": "495632"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Insurance",
+        "total": "233324"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Lobbyists",
+        "total": "217689"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "214973"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Telecom Services",
+        "total": "210850"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Securities & Investment",
+        "total": "209472"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Retired",
+        "total": "206472"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Crop Production & Basic Processing",
+        "total": "189134"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Agricultural Services/Products",
+        "total": "187175"
+    },
+    {
+        "crp_id": "N00033443",
+        "industry_name": "Real Estate",
+        "total": "164858"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "2512529"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Retired",
+        "total": "1378897"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Securities & Investment",
+        "total": "1146631"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Real Estate",
+        "total": "703719"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "TV/Movies/Music",
+        "total": "583908"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Education",
+        "total": "553873"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Business Services",
+        "total": "479623"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Printing & Publishing",
+        "total": "458361"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Health Professionals",
+        "total": "368846"
+    },
+    {
+        "crp_id": "N00027658",
+        "industry_name": "Non-Profit Institutions",
+        "total": "330040"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1289593"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Securities & Investment",
+        "total": "1083818"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Retired",
+        "total": "743189"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Real Estate",
+        "total": "664229"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Leadership PACs",
+        "total": "363000"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Health Professionals",
+        "total": "336834"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Pro-Israel",
+        "total": "325350"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Lobbyists",
+        "total": "251906"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Misc Finance",
+        "total": "226050"
+    },
+    {
+        "crp_id": "N00009975",
+        "industry_name": "Business Services",
+        "total": "213352"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Retired",
+        "total": "737892"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Securities & Investment",
+        "total": "598407"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Leadership PACs",
+        "total": "445799"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "431440"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Lobbyists",
+        "total": "367613"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Health Professionals",
+        "total": "360485"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Insurance",
+        "total": "338361"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Real Estate",
+        "total": "294431"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Agricultural Services/Products",
+        "total": "264469"
+    },
+    {
+        "crp_id": "N00001758",
+        "industry_name": "Misc Finance",
+        "total": "212800"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "2338868"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Retired",
+        "total": "1334402"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "TV/Movies/Music",
+        "total": "1158596"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Securities & Investment",
+        "total": "769223"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Real Estate",
+        "total": "635339"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Women's Issues",
+        "total": "572924"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Education",
+        "total": "566934"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Business Services",
+        "total": "514257"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Health Professionals",
+        "total": "380075"
+    },
+    {
+        "crp_id": "N00036915",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "376615"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Retired",
+        "total": "2596550"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1545289"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Women's Issues",
+        "total": "1001572"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Education",
+        "total": "959929"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Securities & Investment",
+        "total": "517925"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Real Estate",
+        "total": "515801"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Leadership PACs",
+        "total": "387650"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Health Professionals",
+        "total": "351800"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Business Services",
+        "total": "348679"
+    },
+    {
+        "crp_id": "N00038397",
+        "industry_name": "Printing & Publishing",
+        "total": "323928"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Retired",
+        "total": "1360352"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Republican/Conservative",
+        "total": "875732"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Real Estate",
+        "total": "541354"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Securities & Investment",
+        "total": "487026"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Leadership PACs",
+        "total": "421230"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "358013"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "295735"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Oil & Gas",
+        "total": "252995"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Lobbyists",
+        "total": "228890"
+    },
+    {
+        "crp_id": "N00041620",
+        "industry_name": "Health Professionals",
+        "total": "216381"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "696876"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Lobbyists",
+        "total": "487817"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Retired",
+        "total": "476756"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Leadership PACs",
+        "total": "366343"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Securities & Investment",
+        "total": "318708"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Health Professionals",
+        "total": "277502"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "235371"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Environment",
+        "total": "209450"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Electric Utilities",
+        "total": "207470"
+    },
+    {
+        "crp_id": "N00029835",
+        "industry_name": "Casinos/Gambling",
+        "total": "184345"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "667098"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Leadership PACs",
+        "total": "271000"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Retired",
+        "total": "239640"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Lobbyists",
+        "total": "170073"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Real Estate",
+        "total": "160860"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Securities & Investment",
+        "total": "102267"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Sea Transport",
+        "total": "98957"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Women's Issues",
+        "total": "96694"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Public Sector Unions",
+        "total": "92500"
+    },
+    {
+        "crp_id": "N00028139",
+        "industry_name": "Insurance",
+        "total": "89615"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Oil & Gas",
+        "total": "363955"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Leadership PACs",
+        "total": "312164"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Electric Utilities",
+        "total": "133455"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Mining",
+        "total": "127973"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Crop Production & Basic Processing",
+        "total": "120105"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Real Estate",
+        "total": "115363"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Securities & Investment",
+        "total": "110966"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Agricultural Services/Products",
+        "total": "107700"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "100088"
+    },
+    {
+        "crp_id": "N00031688",
+        "industry_name": "Lobbyists",
+        "total": "96747"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Leadership PACs",
+        "total": "370500"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Crop Production & Basic Processing",
+        "total": "225275"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Retired",
+        "total": "224641"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Oil & Gas",
+        "total": "194851"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Securities & Investment",
+        "total": "157535"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "140672"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Lobbyists",
+        "total": "122360"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Real Estate",
+        "total": "118106"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Commercial Banks",
+        "total": "103438"
+    },
+    {
+        "crp_id": "N00043298",
+        "industry_name": "Insurance",
+        "total": "101025"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Oil & Gas",
+        "total": "390889"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Leadership PACs",
+        "total": "293940"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Retired",
+        "total": "211350"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Lobbyists",
+        "total": "143871"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "123150"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Defense Aerospace",
+        "total": "122750"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Air Transport",
+        "total": "122450"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Electric Utilities",
+        "total": "121000"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Misc Defense",
+        "total": "102999"
+    },
+    {
+        "crp_id": "N00005582",
+        "industry_name": "Mining",
+        "total": "98775"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Retired",
+        "total": "4947412"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Securities & Investment",
+        "total": "1541231"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Republican/Conservative",
+        "total": "1148666"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Real Estate",
+        "total": "1023893"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "738995"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "615594"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Health Professionals",
+        "total": "561509"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Leadership PACs",
+        "total": "521654"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Oil & Gas",
+        "total": "465591"
+    },
+    {
+        "crp_id": "N00032546",
+        "industry_name": "Insurance",
+        "total": "445875"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "2655487"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Retired",
+        "total": "1629301"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Securities & Investment",
+        "total": "1423222"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Real Estate",
+        "total": "864496"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Education",
+        "total": "637492"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Lobbyists",
+        "total": "602574"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Business Services",
+        "total": "573464"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Health Professionals",
+        "total": "516738"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Democratic/Liberal",
+        "total": "494466"
+    },
+    {
+        "crp_id": "N00033177",
+        "industry_name": "Misc Finance",
+        "total": "404693"
+    },
+    {
+        "crp_id": "N00044223",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "862150"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Retired",
+        "total": "590410"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Real Estate",
+        "total": "564890"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Oil & Gas",
+        "total": "520250"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "General Contractors",
+        "total": "471550"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Health Professionals",
+        "total": "404175"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Sea Transport",
+        "total": "246050"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Insurance",
+        "total": "245512"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Automotive",
+        "total": "243450"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Securities & Investment",
+        "total": "191500"
+    },
+    {
+        "crp_id": "N00026823",
+        "industry_name": "Leadership PACs",
+        "total": "191500"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Retired",
+        "total": "555359"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "444376"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Democratic/Liberal",
+        "total": "223188"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Securities & Investment",
+        "total": "210151"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Real Estate",
+        "total": "205892"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Leadership PACs",
+        "total": "164000"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Health Professionals",
+        "total": "147589"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Insurance",
+        "total": "131156"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Pro-Israel",
+        "total": "125560"
+    },
+    {
+        "crp_id": "N00034580",
+        "industry_name": "Education",
+        "total": "113074"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1115067"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Retired",
+        "total": "954968"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Securities & Investment",
+        "total": "546150"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Women's Issues",
+        "total": "513231"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "TV/Movies/Music",
+        "total": "356458"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Leadership PACs",
+        "total": "325400"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Real Estate",
+        "total": "284562"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Education",
+        "total": "280700"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Lobbyists",
+        "total": "236513"
+    },
+    {
+        "crp_id": "N00027500",
+        "industry_name": "Business Services",
+        "total": "235198"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Oil & Gas",
+        "total": "927035"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Retired",
+        "total": "510449"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Leadership PACs",
+        "total": "358953"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Health Professionals",
+        "total": "351890"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Commercial Banks",
+        "total": "285302"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Real Estate",
+        "total": "233653"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Insurance",
+        "total": "214254"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "166875"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "General Contractors",
+        "total": "158055"
+    },
+    {
+        "crp_id": "N00031129",
+        "industry_name": "Lobbyists",
+        "total": "152686"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "563434"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Leadership PACs",
+        "total": "331600"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "TV/Movies/Music",
+        "total": "286947"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Lobbyists",
+        "total": "256786"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Securities & Investment",
+        "total": "188488"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Retired",
+        "total": "150088"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Defense Aerospace",
+        "total": "135801"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Telecom Services",
+        "total": "131561"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "122601"
+    },
+    {
+        "crp_id": "N00009918",
+        "industry_name": "Non-Profit Institutions",
+        "total": "83776"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Republican/Conservative",
+        "total": "729162"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Securities & Investment",
+        "total": "501946"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "376566"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Retired",
+        "total": "360023"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Real Estate",
+        "total": "324875"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Oil & Gas",
+        "total": "301745"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "279700"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Misc Finance",
+        "total": "231625"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Pro-Israel",
+        "total": "231300"
+    },
+    {
+        "crp_id": "N00031696",
+        "industry_name": "Lobbyists",
+        "total": "181452"
+    },
+    {
+        "crp_id": "N00046125",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Health Professionals",
+        "total": "148249"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Casinos/Gambling",
+        "total": "119250"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "116450"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Insurance",
+        "total": "82005"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Public Sector Unions",
+        "total": "82000"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Electric Utilities",
+        "total": "75450"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Real Estate",
+        "total": "74900"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "73775"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Telecom Services",
+        "total": "69000"
+    },
+    {
+        "crp_id": "N00029562",
+        "industry_name": "Lobbyists",
+        "total": "57550"
+    },
+    {
+        "crp_id": "N00029788",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Securities & Investment",
+        "total": "865151"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "789711"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Retired",
+        "total": "432713"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Leadership PACs",
+        "total": "410100"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Real Estate",
+        "total": "330776"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Insurance",
+        "total": "263574"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Lobbyists",
+        "total": "191182"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Health Professionals",
+        "total": "186998"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "174944"
+    },
+    {
+        "crp_id": "N00032838",
+        "industry_name": "Oil & Gas",
+        "total": "172095"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1537666"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Securities & Investment",
+        "total": "919731"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Real Estate",
+        "total": "787036"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Lobbyists",
+        "total": "717763"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Retired",
+        "total": "618074"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Telecom Services",
+        "total": "438914"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "TV/Movies/Music",
+        "total": "421576"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Environment",
+        "total": "376281"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Leadership PACs",
+        "total": "349300"
+    },
+    {
+        "crp_id": "N00000270",
+        "industry_name": "Business Services",
+        "total": "330190"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Health Professionals",
+        "total": "154852"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Crop Production & Basic Processing",
+        "total": "103265"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Leadership PACs",
+        "total": "70607"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Agricultural Services/Products",
+        "total": "62898"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Securities & Investment",
+        "total": "57336"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Misc Energy",
+        "total": "48943"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Livestock",
+        "total": "43700"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Commercial Banks",
+        "total": "31900"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Insurance",
+        "total": "30500"
+    },
+    {
+        "crp_id": "N00037034",
+        "industry_name": "Air Transport",
+        "total": "30250"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Securities & Investment",
+        "total": "2110412"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Retired",
+        "total": "1089241"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Insurance",
+        "total": "972075"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "955711"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Real Estate",
+        "total": "915040"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Health Professionals",
+        "total": "880170"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Oil & Gas",
+        "total": "846364"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Lobbyists",
+        "total": "751385"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "603486"
+    },
+    {
+        "crp_id": "N00003389",
+        "industry_name": "Leadership PACs",
+        "total": "514712"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1457465"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Real Estate",
+        "total": "1222417"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Securities & Investment",
+        "total": "709063"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Retired",
+        "total": "592308"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Pro-Israel",
+        "total": "585922"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Health Professionals",
+        "total": "469044"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Lobbyists",
+        "total": "438845"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Leadership PACs",
+        "total": "337594"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Insurance",
+        "total": "279872"
+    },
+    {
+        "crp_id": "N00000699",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "251189"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Retired",
+        "total": "1515649"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "444058"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Leadership PACs",
+        "total": "381601"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Education",
+        "total": "318955"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Health Professionals",
+        "total": "280412"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Securities & Investment",
+        "total": "215877"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Real Estate",
+        "total": "187262"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Lobbyists",
+        "total": "151036"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "140504"
+    },
+    {
+        "crp_id": "N00029303",
+        "industry_name": "Environment",
+        "total": "140082"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Leadership PACs",
+        "total": "363371"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Securities & Investment",
+        "total": "264250"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Crop Production & Basic Processing",
+        "total": "244790"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Agricultural Services/Products",
+        "total": "217065"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Oil & Gas",
+        "total": "214629"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Commercial Banks",
+        "total": "206174"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Railroads",
+        "total": "201454"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "192203"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Health Professionals",
+        "total": "187287"
+    },
+    {
+        "crp_id": "N00005282",
+        "industry_name": "Insurance",
+        "total": "171825"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Oil & Gas",
+        "total": "831446"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Electric Utilities",
+        "total": "593062"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Leadership PACs",
+        "total": "423493"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Securities & Investment",
+        "total": "334453"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "302707"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Lobbyists",
+        "total": "234060"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Real Estate",
+        "total": "192150"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Misc Energy",
+        "total": "170950"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Sea Transport",
+        "total": "168000"
+    },
+    {
+        "crp_id": "N00026050",
+        "industry_name": "Health Professionals",
+        "total": "166800"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Retired",
+        "total": "1642350"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1242273"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Securities & Investment",
+        "total": "769096"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Health Professionals",
+        "total": "493537"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Education",
+        "total": "464110"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Real Estate",
+        "total": "412261"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Business Services",
+        "total": "330383"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Insurance",
+        "total": "291301"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Printing & Publishing",
+        "total": "251968"
+    },
+    {
+        "crp_id": "N00027566",
+        "industry_name": "Democratic/Liberal",
+        "total": "227649"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Retired",
+        "total": "957572"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "733562"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "606958"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Lobbyists",
+        "total": "507467"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Health Professionals",
+        "total": "472788"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Women's Issues",
+        "total": "427052"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Insurance",
+        "total": "384613"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Securities & Investment",
+        "total": "356445"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Leadership PACs",
+        "total": "332405"
+    },
+    {
+        "crp_id": "N00007876",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "329546"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Retired",
+        "total": "728723"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Health Professionals",
+        "total": "698656"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Securities & Investment",
+        "total": "448183"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Republican/Conservative",
+        "total": "447753"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Real Estate",
+        "total": "289373"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "220108"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Leadership PACs",
+        "total": "209500"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Misc Finance",
+        "total": "186217"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Mining",
+        "total": "162760"
+    },
+    {
+        "crp_id": "N00030836",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "149650"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1269424"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Retired",
+        "total": "818729"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Securities & Investment",
+        "total": "749943"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Real Estate",
+        "total": "583963"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Leadership PACs",
+        "total": "570550"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Health Professionals",
+        "total": "490670"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Insurance",
+        "total": "490550"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Environment",
+        "total": "446385"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Education",
+        "total": "411947"
+    },
+    {
+        "crp_id": "N00029277",
+        "industry_name": "Lobbyists",
+        "total": "382922"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Securities & Investment",
+        "total": "2774090"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Retired",
+        "total": "1868496"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1184252"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Real Estate",
+        "total": "1183087"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Insurance",
+        "total": "1080574"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "881133"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Lobbyists",
+        "total": "729431"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Leadership PACs",
+        "total": "725936"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Misc Finance",
+        "total": "641650"
+    },
+    {
+        "crp_id": "N00003682",
+        "industry_name": "Oil & Gas",
+        "total": "628542"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "467937"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Securities & Investment",
+        "total": "299138"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Lobbyists",
+        "total": "289681"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Leadership PACs",
+        "total": "270250"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Real Estate",
+        "total": "205110"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Insurance",
+        "total": "198350"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Misc Defense",
+        "total": "167600"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Retired",
+        "total": "154554"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Health Professionals",
+        "total": "146846"
+    },
+    {
+        "crp_id": "N00000362",
+        "industry_name": "Defense Aerospace",
+        "total": "116201"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Leadership PACs",
+        "total": "237373"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Oil & Gas",
+        "total": "135950"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Commercial Banks",
+        "total": "97500"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Pro-Israel",
+        "total": "79560"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Retired",
+        "total": "76841"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Real Estate",
+        "total": "72111"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Insurance",
+        "total": "71950"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Securities & Investment",
+        "total": "62000"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Electric Utilities",
+        "total": "61500"
+    },
+    {
+        "crp_id": "N00029441",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "50900"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Securities & Investment",
+        "total": "826050"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Retired",
+        "total": "584459"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Real Estate",
+        "total": "347525"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "117757"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Oil & Gas",
+        "total": "111818"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "111650"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Business Services",
+        "total": "99234"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Non-Profit Institutions",
+        "total": "63450"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Misc Finance",
+        "total": "61200"
+    },
+    {
+        "crp_id": "N00000286",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "50850"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Retired",
+        "total": "3143893"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1898994"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Education",
+        "total": "1398552"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Women's Issues",
+        "total": "1208749"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Securities & Investment",
+        "total": "1121436"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Real Estate",
+        "total": "803568"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Health Professionals",
+        "total": "682140"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "TV/Movies/Music",
+        "total": "595573"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Business Services",
+        "total": "578218"
+    },
+    {
+        "crp_id": "N00038734",
+        "industry_name": "Printing & Publishing",
+        "total": "517575"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Leadership PACs",
+        "total": "462500"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Securities & Investment",
+        "total": "413908"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Commercial Banks",
+        "total": "272960"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Insurance",
+        "total": "265900"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Oil & Gas",
+        "total": "231333"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Retired",
+        "total": "209461"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Real Estate",
+        "total": "207850"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Health Professionals",
+        "total": "191150"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "153110"
+    },
+    {
+        "crp_id": "N00035187",
+        "industry_name": "Lobbyists",
+        "total": "151200"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Retired",
+        "total": "3584766"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Securities & Investment",
+        "total": "1993250"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Real Estate",
+        "total": "1550484"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Republican/Conservative",
+        "total": "1178576"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "920838"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Misc Finance",
+        "total": "594175"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Oil & Gas",
+        "total": "541327"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Business Services",
+        "total": "504804"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Health Professionals",
+        "total": "470091"
+    },
+    {
+        "crp_id": "N00030612",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "463205"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Retired",
+        "total": "1045877"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Education",
+        "total": "370050"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Health Professionals",
+        "total": "179958"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Democratic/Liberal",
+        "total": "164723"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Civil Servants/Public Officials",
+        "total": "114291"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "96648"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "78803"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Other",
+        "total": "75236"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Business Services",
+        "total": "72832"
+    },
+    {
+        "crp_id": "N00000528",
+        "industry_name": "Real Estate",
+        "total": "72528"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Republican/Conservative",
+        "total": "681012"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Securities & Investment",
+        "total": "648360"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Retired",
+        "total": "363797"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Insurance",
+        "total": "281360"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Leadership PACs",
+        "total": "266382"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Real Estate",
+        "total": "248213"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "205550"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Health Professionals",
+        "total": "193840"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Oil & Gas",
+        "total": "189335"
+    },
+    {
+        "crp_id": "N00035544",
+        "industry_name": "Lobbyists",
+        "total": "187600"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1122083"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Real Estate",
+        "total": "659911"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Leadership PACs",
+        "total": "478200"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Retired",
+        "total": "399962"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Securities & Investment",
+        "total": "363475"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Lobbyists",
+        "total": "332033"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Sea Transport",
+        "total": "297950"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Environment",
+        "total": "284994"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Misc Finance",
+        "total": "222018"
+    },
+    {
+        "crp_id": "N00028138",
+        "industry_name": "Telecom Services",
+        "total": "214950"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Securities & Investment",
+        "total": "3333913"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1983125"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Real Estate",
+        "total": "1884915"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Insurance",
+        "total": "738134"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Lobbyists",
+        "total": "702077"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Health Professionals",
+        "total": "597772"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "TV/Movies/Music",
+        "total": "553806"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "535181"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Misc Finance",
+        "total": "524708"
+    },
+    {
+        "crp_id": "N00001093",
+        "industry_name": "Retired",
+        "total": "503358"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Securities & Investment",
+        "total": "1175576"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Insurance",
+        "total": "946725"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Real Estate",
+        "total": "656825"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "558703"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "507700"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Oil & Gas",
+        "total": "489326"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Leadership PACs",
+        "total": "475465"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Health Professionals",
+        "total": "442025"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Retired",
+        "total": "377535"
+    },
+    {
+        "crp_id": "N00031782",
+        "industry_name": "Electric Utilities",
+        "total": "340654"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Retired",
+        "total": "3002100"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Real Estate",
+        "total": "980123"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Republican/Conservative",
+        "total": "777145"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "501277"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Securities & Investment",
+        "total": "458699"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Health Professionals",
+        "total": "383468"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Insurance",
+        "total": "314636"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Misc Finance",
+        "total": "311433"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "General Contractors",
+        "total": "296539"
+    },
+    {
+        "crp_id": "N00043290",
+        "industry_name": "Misc Business",
+        "total": "240755"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "725277"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Retired",
+        "total": "697200"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Women's Issues",
+        "total": "598327"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Leadership PACs",
+        "total": "474600"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Lobbyists",
+        "total": "363274"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Real Estate",
+        "total": "361036"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Securities & Investment",
+        "total": "349408"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Education",
+        "total": "272325"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "Health Professionals",
+        "total": "255309"
+    },
+    {
+        "crp_id": "N00024790",
+        "industry_name": "TV/Movies/Music",
+        "total": "232945"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Securities & Investment",
+        "total": "479250"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Commercial Banks",
+        "total": "458271"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Insurance",
+        "total": "307300"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "214900"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Finance/Credit Companies",
+        "total": "209700"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Real Estate",
+        "total": "190725"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Leadership PACs",
+        "total": "161000"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Lobbyists",
+        "total": "125913"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Defense Aerospace",
+        "total": "121700"
+    },
+    {
+        "crp_id": "N00009920",
+        "industry_name": "Air Transport",
+        "total": "77300"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Retired",
+        "total": "1783913"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1481712"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Securities & Investment",
+        "total": "1147978"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Women's Issues",
+        "total": "850585"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Real Estate",
+        "total": "736498"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Education",
+        "total": "634420"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Democratic/Liberal",
+        "total": "530164"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Health Professionals",
+        "total": "520944"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Leadership PACs",
+        "total": "491574"
+    },
+    {
+        "crp_id": "N00033983",
+        "industry_name": "Business Services",
+        "total": "386655"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Retired",
+        "total": "866175"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "516274"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Women's Issues",
+        "total": "434404"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Leadership PACs",
+        "total": "407200"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Securities & Investment",
+        "total": "304503"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Education",
+        "total": "244800"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Democratic/Liberal",
+        "total": "203181"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Real Estate",
+        "total": "165945"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Business Services",
+        "total": "163039"
+    },
+    {
+        "crp_id": "N00042353",
+        "industry_name": "Health Professionals",
+        "total": "145791"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Retired",
+        "total": "1223134"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "982814"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Securities & Investment",
+        "total": "805417"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Women's Issues",
+        "total": "637574"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Health Professionals",
+        "total": "617987"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Real Estate",
+        "total": "535022"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Education",
+        "total": "450934"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Leadership PACs",
+        "total": "442250"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Insurance",
+        "total": "414333"
+    },
+    {
+        "crp_id": "N00004118",
+        "industry_name": "Lobbyists",
+        "total": "354094"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Securities & Investment",
+        "total": "1246418"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Retired",
+        "total": "665835"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Republican/Conservative",
+        "total": "589590"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Oil & Gas",
+        "total": "517399"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Real Estate",
+        "total": "485443"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Leadership PACs",
+        "total": "425100"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "313006"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Misc Finance",
+        "total": "282020"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "201530"
+    },
+    {
+        "crp_id": "N00035774",
+        "industry_name": "Chemical & Related Manufacturing",
+        "total": "180875"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "2443669"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Retired",
+        "total": "2320583"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Securities & Investment",
+        "total": "1765369"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Real Estate",
+        "total": "914448"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Lobbyists",
+        "total": "749166"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Education",
+        "total": "691040"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Environment",
+        "total": "672603"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Health Professionals",
+        "total": "630303"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Business Services",
+        "total": "546392"
+    },
+    {
+        "crp_id": "N00027605",
+        "industry_name": "Insurance",
+        "total": "526332"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Retired",
+        "total": "638670"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Securities & Investment",
+        "total": "513200"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Lobbyists",
+        "total": "442462"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Real Estate",
+        "total": "330539"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Insurance",
+        "total": "329231"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "287986"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Health Professionals",
+        "total": "283418"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Leadership PACs",
+        "total": "282115"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Air Transport",
+        "total": "246390"
+    },
+    {
+        "crp_id": "N00004572",
+        "industry_name": "Telecom Services",
+        "total": "216300"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Retired",
+        "total": "1198861"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Securities & Investment",
+        "total": "768375"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Real Estate",
+        "total": "755559"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Leadership PACs",
+        "total": "626775"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "532049"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Health Professionals",
+        "total": "463178"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Insurance",
+        "total": "326148"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Lobbyists",
+        "total": "305033"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "289850"
+    },
+    {
+        "crp_id": "N00035492",
+        "industry_name": "Oil & Gas",
+        "total": "288125"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Retired",
+        "total": "2542347"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Securities & Investment",
+        "total": "2319745"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Republican/Conservative",
+        "total": "1411830"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1262250"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Real Estate",
+        "total": "1044283"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Insurance",
+        "total": "1010099"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Commercial Banks",
+        "total": "795652"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Leadership PACs",
+        "total": "716200"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Health Professionals",
+        "total": "666466"
+    },
+    {
+        "crp_id": "N00001489",
+        "industry_name": "Oil & Gas",
+        "total": "580222"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1565341"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Retired",
+        "total": "1239842"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Real Estate",
+        "total": "734134"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Lobbyists",
+        "total": "499725"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Health Professionals",
+        "total": "475533"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Education",
+        "total": "400348"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Securities & Investment",
+        "total": "399048"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Civil Servants/Public Officials",
+        "total": "366215"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Business Services",
+        "total": "287389"
+    },
+    {
+        "crp_id": "N00013820",
+        "industry_name": "Non-Profit Institutions",
+        "total": "261368"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Securities & Investment",
+        "total": "1970375"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1533478"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Real Estate",
+        "total": "1177679"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Retired",
+        "total": "1018044"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Insurance",
+        "total": "609432"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Lobbyists",
+        "total": "572591"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Business Services",
+        "total": "428568"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Misc Finance",
+        "total": "407466"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Leadership PACs",
+        "total": "402600"
+    },
+    {
+        "crp_id": "N00002097",
+        "industry_name": "Electronics Mfg & Equip",
+        "total": "400277"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Retired",
+        "total": "3898290"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Democratic/Liberal",
+        "total": "1364287"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Education",
+        "total": "1219375"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "1219178"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Women's Issues",
+        "total": "1123186"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Health Professionals",
+        "total": "463972"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "TV/Movies/Music",
+        "total": "428962"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Real Estate",
+        "total": "421862"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Securities & Investment",
+        "total": "382809"
+    },
+    {
+        "crp_id": "N00033492",
+        "industry_name": "Printing & Publishing",
+        "total": "341019"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "795615"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Retired",
+        "total": "495735"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Securities & Investment",
+        "total": "380811"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Leadership PACs",
+        "total": "360060"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Real Estate",
+        "total": "283303"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Environment",
+        "total": "282656"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Lobbyists",
+        "total": "239517"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "TV/Movies/Music",
+        "total": "214538"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Health Professionals",
+        "total": "176062"
+    },
+    {
+        "crp_id": "N00027533",
+        "industry_name": "Democratic/Liberal",
+        "total": "152049"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Leadership PACs",
+        "total": "477300"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "327310"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Lobbyists",
+        "total": "309275"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Securities & Investment",
+        "total": "275867"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Oil & Gas",
+        "total": "249050"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Real Estate",
+        "total": "248042"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Telecom Services",
+        "total": "234000"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Health Professionals",
+        "total": "229277"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Insurance",
+        "total": "180010"
+    },
+    {
+        "crp_id": "N00003280",
+        "industry_name": "Misc Finance",
+        "total": "175500"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Securities & Investment",
+        "total": "1014010"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Insurance",
+        "total": "712779"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "704093"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Real Estate",
+        "total": "605114"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Health Professionals",
+        "total": "571351"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Lobbyists",
+        "total": "528482"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "513020"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Hospitals/Nursing Homes",
+        "total": "507543"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Retired",
+        "total": "452012"
+    },
+    {
+        "crp_id": "N00007724",
+        "industry_name": "Health Services/HMOs",
+        "total": "384199"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Retired",
+        "total": "1583634"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Securities & Investment",
+        "total": "1287559"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Real Estate",
+        "total": "966858"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Leadership PACs",
+        "total": "546930"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Health Professionals",
+        "total": "520623"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Lawyers/Law Firms",
+        "total": "495641"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Lobbyists",
+        "total": "492044"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Misc Manufacturing & Distributing",
+        "total": "463548"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Oil & Gas",
+        "total": "443446"
+    },
+    {
+        "crp_id": "N00030670",
+        "industry_name": "Pharmaceuticals/Health Products",
+        "total": "425350"
+    }
+]

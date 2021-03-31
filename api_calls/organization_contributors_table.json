@@ -1,0 +1,4667 @@
+[
+    {
+        "crp_id": "N00004367",
+        "org_name": "University of Wisconsin",
+        "total": "72206"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "Sierra Nevada Corp",
+        "total": "14450"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "State of Wisconsin",
+        "total": "10835"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "Joy Tomchin Real Estate",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "Epic Systems",
+        "total": "8257"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "US Dept of Agriculture",
+        "total": "7705"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "Cobbler",
+        "total": "7000"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "University of California",
+        "total": "6517"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "Medical College of Wisconsin",
+        "total": "6274"
+    },
+    {
+        "crp_id": "N00004367",
+        "org_name": "University of Texas",
+        "total": "6210"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "Neurological Surgery Pc",
+        "total": "43200"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "MedQuest Pharmacy",
+        "total": "16000"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "Vertex Pharmaceuticals",
+        "total": "12700"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "US Navy",
+        "total": "11230"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "Chartwell Hotels Arbor Realty",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "Clearpath Foundation",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "American Academy of Emergency Medicine",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "Cloud Peak Energy",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "Energy Fuels",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006236",
+        "org_name": "Free State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Ares Management",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Urology Center of Colorado",
+        "total": "13000"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Hogan Lovells",
+        "total": "12500"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Blackstone Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Centerbridge Partners",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Crei",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Oaktree Capital Management",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Seattle Fish Co",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Giddy Up PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00030608",
+        "org_name": "Great Lakes PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "Southwestern Family of Companies",
+        "total": "28000"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "Ingram Industries",
+        "total": "16325"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "Advance Financial",
+        "total": "14275"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "Pilot Corp",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "HCA Inc",
+        "total": "11400"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "Copart Inc",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "Curb Records",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "Franklin American Mortgage",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "M&M Industries",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00003105",
+        "org_name": "Yarbrough Capital LLC",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Microsoft Corp",
+        "total": "15701"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Granite Telecom",
+        "total": "15000"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Crawford Group",
+        "total": "12800"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Yale University",
+        "total": "11921"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Lone Pine Capital",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Centene Corp",
+        "total": "10018"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Freepoint Commodities",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Harvard University",
+        "total": "9805"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Foster & Foster",
+        "total": "9550"
+    },
+    {
+        "crp_id": "N00031685",
+        "org_name": "Oracle Corp",
+        "total": "9066"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "Jones Financial Companies",
+        "total": "54475"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "Charter Communications",
+        "total": "24050"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "National Assn of Broadcasters",
+        "total": "20300"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "Dot Foods",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "Harbour Group",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "Husch Blackwell LLP",
+        "total": "16375"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "Blackstone Group",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "Synergi Partners",
+        "total": "13200"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "CVS Health",
+        "total": "11700"
+    },
+    {
+        "crp_id": "N00005195",
+        "org_name": "Appleton Sr Care",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "United Airlines Holdings",
+        "total": "39537"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "Bain Capital",
+        "total": "33561"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "Comcast Corp",
+        "total": "23041"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "Lyft Inc",
+        "total": "21753"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "Service Employees International Union",
+        "total": "20005"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "Kirkland & Ellis",
+        "total": "19860"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "Centerview Partners",
+        "total": "19600"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "Lowenstein Sandler Llp",
+        "total": "19573"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "William Blair & Co",
+        "total": "18300"
+    },
+    {
+        "crp_id": "N00035267",
+        "org_name": "Alphabet Inc",
+        "total": "17900"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "ClearPath Foundation",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "Common Values PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "Dakota PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "Free State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "Heartland Values PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "Lank PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "Reclaim America PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "Rely on Your Beliefs",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "Together Holding Our Majority PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00013873",
+        "org_name": "SNAC International",
+        "total": "9500"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Bowen Engineering",
+        "total": "14200"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Cardon & Assoc",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Old Dominion Freight Line",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Specialty Equipment Market Assn",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Eli Lilly & Co",
+        "total": "6438"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Hall, Render et al",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Automotive Color & Supply",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Beck's Hybrids",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Lionshead Specialty Tire Wheel LLC",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00041731",
+        "org_name": "Pierpont",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "Ohio State University",
+        "total": "14208"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "Oberlin College",
+        "total": "10451"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "American Property Casualty Insurance Assn",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "Scotts Miracle-Gro",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "American Podiatric Medical Assn",
+        "total": "9500"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "Kent State University",
+        "total": "8007"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "L3Harris Technologies",
+        "total": "7800"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "St Ursula Academy",
+        "total": "7785"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "Cleveland-Cliffs",
+        "total": "7759"
+    },
+    {
+        "crp_id": "N00003535",
+        "org_name": "Citizens Capital Markets M&A Advisory",
+        "total": "7700"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Altria Group",
+        "total": "10600"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Alamo PAC",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Arkansas for Leadership",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Big Sky Opportunity PAC",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Common Values PAC",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Dakota PAC",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Defend America PAC",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Denali Leadership PAC",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Dirigo PAC",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00002221",
+        "org_name": "Free State PAC",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "University of Washington",
+        "total": "14188"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "Microsoft Corp",
+        "total": "5882"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "Puyallup Tribe of Indians",
+        "total": "5500"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "State of Washington",
+        "total": "5381"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "Fairwind Inc",
+        "total": "5100"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "Carnival Corp",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "Boeing Co",
+        "total": "3938"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "General Electric",
+        "total": "3113"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "American Medical Assn",
+        "total": "3000"
+    },
+    {
+        "crp_id": "N00007836",
+        "org_name": "Pacific6 Enterprises",
+        "total": "3000"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "GEO Group",
+        "total": "46000"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "FirstEnergy Corp",
+        "total": "44300"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "Elliott Management",
+        "total": "31500"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "Jennmar Corp",
+        "total": "28000"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "DISH Network",
+        "total": "27050"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "Williams Companies",
+        "total": "25800"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "NorPAC",
+        "total": "25500"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "Sullivan & Cromwell",
+        "total": "24700"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "Delta Air Lines",
+        "total": "23075"
+    },
+    {
+        "crp_id": "N00009771",
+        "org_name": "Dominion Energy",
+        "total": "22100"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "Kidney Care Partners",
+        "total": "9000"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "Massachusetts Mutual Life Insurance",
+        "total": "8500"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "AEGON NV",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "Pacific Mutual Holding",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "US Renal Care",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "USAA",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "Franklin Morris & Assoc",
+        "total": "4500"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "AXA",
+        "total": "3500"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "Guardian Life Insurance",
+        "total": "3500"
+    },
+    {
+        "crp_id": "N00001955",
+        "org_name": "Asurion Corp",
+        "total": "3000"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "eHealth Inc",
+        "total": "19200"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "US Acute Care Solutions",
+        "total": "15000"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "US Anesthesia Partners",
+        "total": "12500"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "Blackstone Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "Holland & Knight",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "Novo Nordisk",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "Hallmark Cards",
+        "total": "7000"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "Ballard Spahr LLP",
+        "total": "6300"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "Welsh, Carson et al",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00012508",
+        "org_name": "Ocean Atlantic Companies",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "Cohen, Placitella & Roth",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "Novocure Inc",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "Midlantic Urology LLC",
+        "total": "12750"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "Sony Corp",
+        "total": "12566"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "Gladwyne Partners LLC",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "University of Pennsylvania",
+        "total": "9561"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "Pride Mobility Products",
+        "total": "9500"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "Allen & Co",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "K&L Gates",
+        "total": "8125"
+    },
+    {
+        "crp_id": "N00027503",
+        "org_name": "JAMS Inc",
+        "total": "7850"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "KKR & Co",
+        "total": "60445"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "Ochsner Health System",
+        "total": "60240"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "NorPAC",
+        "total": "59200"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "Neurological Surgery Pc",
+        "total": "49600"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "Berkshire Hathaway",
+        "total": "47600"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "McNa Dental Plans",
+        "total": "44900"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "Acadian Companies",
+        "total": "30650"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "Citizens for Prosperity in America Today",
+        "total": "28650"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "Southern Brain & Spine",
+        "total": "23400"
+    },
+    {
+        "crp_id": "N00030245",
+        "org_name": "Jones Walker LLP",
+        "total": "21925"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "Votesane PAC",
+        "total": "115825"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "Blackstone Group",
+        "total": "87321"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "Republican Jewish Coalition",
+        "total": "62067"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "Goldman Sachs",
+        "total": "46875"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "41866"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "Sullivan & Cromwell",
+        "total": "39348"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "KKR & Co",
+        "total": "37035"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "McNa Dental Plans",
+        "total": "35600"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "Elliott Management",
+        "total": "34000"
+    },
+    {
+        "crp_id": "N00000491",
+        "org_name": "General Dynamics",
+        "total": "33603"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Young, Conaway et al",
+        "total": "97975"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Apollo Global Management",
+        "total": "79100"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Jane Street Capital",
+        "total": "54100"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "DuPont Co",
+        "total": "32727"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Democracy Engine",
+        "total": "31500"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Amgen Inc",
+        "total": "31000"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Centerview Partners",
+        "total": "28000"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Comcast Corp",
+        "total": "27514"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Microsoft Corp",
+        "total": "25020"
+    },
+    {
+        "crp_id": "N00031820",
+        "org_name": "Grant & Eisenhofer",
+        "total": "23500"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "Apollo Global Management",
+        "total": "138850"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "KKR & Co",
+        "total": "98615"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "Blackstone Group",
+        "total": "58930"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "Berkshire Hathaway",
+        "total": "56118"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "United Airlines Holdings",
+        "total": "50381"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "Pfizer Inc",
+        "total": "45535"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "State of Texas",
+        "total": "43501"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "SoftBank Corp",
+        "total": "42455"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "Paul, Weiss et al",
+        "total": "34900"
+    },
+    {
+        "crp_id": "N00024852",
+        "org_name": "NextEra Energy",
+        "total": "34876"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "Kansas City Urology Care",
+        "total": "26000"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "Rocky Research",
+        "total": "12400"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "11668"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "University of California",
+        "total": "11149"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "Carpenters & Joiners Union",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "Sorensen's Resort",
+        "total": "8800"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "University of Nevada",
+        "total": "7585"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "Harvard University",
+        "total": "7427"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "Rock Holdings",
+        "total": "6500"
+    },
+    {
+        "crp_id": "N00037161",
+        "org_name": "Alphabet Inc",
+        "total": "5959"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Apollo Global Management",
+        "total": "49035"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Pro-israel America PAC",
+        "total": "33550"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Stephens Group",
+        "total": "26325"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "McNa Dental Plans",
+        "total": "25400"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Reyes Holdings",
+        "total": "22400"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Wells Fargo",
+        "total": "20849"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Walmart Inc",
+        "total": "20461"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Amway/Alticor Inc",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Murphy Oil",
+        "total": "15875"
+    },
+    {
+        "crp_id": "N00033363",
+        "org_name": "Blackstone Group",
+        "total": "14413"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "Cloud Peak Energy",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "UBS AG",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "Pfizer Inc",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "M International",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "Reliance Telephone",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "Gray Television",
+        "total": "5200"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "Crop Insurance Professionals Assn",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "SpaceX",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "United Mine Workers of America",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00004614",
+        "org_name": "Exelon Corp",
+        "total": "4500"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Amgen Inc",
+        "total": "21300"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Huntsman Corp",
+        "total": "13750"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Clearpath Foundation",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Rock Holdings",
+        "total": "11000"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Arkansas for Leadership",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Common Values PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Dakota PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Free State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Heartland Values PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00006267",
+        "org_name": "Lank PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Bluewater International",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Doggett Industries",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Hilcorp Alaska",
+        "total": "15100"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Southwest Airlines Pilots Assn",
+        "total": "11500"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Boeing Co",
+        "total": "11452"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Carnival Corp",
+        "total": "11220"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "ALLCare Alliance Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Apollo Global Management",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Ariel Corp",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033085",
+        "org_name": "Avalon Advisors",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Club for Growth",
+        "total": "154698"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Senate Conservatives Fund",
+        "total": "152679"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Votesane PAC",
+        "total": "98850"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Langlas & Assoc",
+        "total": "79104"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Republican Jewish Coalition",
+        "total": "76435"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Susan B Anthony List",
+        "total": "70880"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Steelhead Partners",
+        "total": "61600"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Charles A Klein & Sons",
+        "total": "58637"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Democracy Engine",
+        "total": "51540"
+    },
+    {
+        "crp_id": "N00033054",
+        "org_name": "Charter Communications",
+        "total": "51276"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "AAR Corp",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "Select Medical Holdings",
+        "total": "10678"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "Bucher Medical Services",
+        "total": "10100"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "Honeywell International",
+        "total": "10095"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "American Orthotic & Prosthetic Assn",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "Prairie PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "University of Illinois",
+        "total": "9685"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "Berkshire Hathaway",
+        "total": "7744"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "NextEra Energy",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00027860",
+        "org_name": "State of Illinois",
+        "total": "7214"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "State of Illinois",
+        "total": "56114"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "Power Rogers LLP",
+        "total": "56066"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "Votesane PAC",
+        "total": "50600"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "United Airlines Holdings",
+        "total": "47221"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "Kirkland & Ellis",
+        "total": "45706"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "Simmons Hanly Conroy",
+        "total": "42750"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "Jenner & Block",
+        "total": "36448"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "Grosvenor Capital Management",
+        "total": "35800"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "General Dynamics",
+        "total": "32675"
+    },
+    {
+        "crp_id": "N00004981",
+        "org_name": "AAR Corp",
+        "total": "32049"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "Votesane PAC",
+        "total": "100150"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "Raytheon Technologies",
+        "total": "60515"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "Blackstone Group",
+        "total": "55546"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "NextEra Energy",
+        "total": "43500"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "Elliott Management",
+        "total": "38300"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "Apollo",
+        "total": "35000"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "Susan B Anthony List",
+        "total": "32735"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "Republican Jewish Coalition",
+        "total": "31752"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "NorPAC",
+        "total": "29000"
+    },
+    {
+        "crp_id": "N00035483",
+        "org_name": "Apollo Global Management",
+        "total": "28170"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Simon Youth Foundation",
+        "total": "3000"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Microsoft Corp",
+        "total": "2900"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Intuit Inc",
+        "total": "2800"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Ingram Industries",
+        "total": "2500"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Phillips 66",
+        "total": "2500"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Procter & Gamble",
+        "total": "2500"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Clorox Co",
+        "total": "2000"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "Cummins Inc",
+        "total": "2000"
+    },
+    {
+        "crp_id": "N00007364",
+        "org_name": "RELX Group",
+        "total": "2000"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "Free State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "Republican Majority Fund",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "Southern Co",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "Union Pacific Corp",
+        "total": "9501"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "HDR Inc",
+        "total": "8500"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "BGR Group",
+        "total": "8000"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "Leidos Inc",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "National Tank Truck Carriers Inc",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "NiSource Inc",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00033443",
+        "org_name": "NTCA/Rural Broadband Assn",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Nessel Development",
+        "total": "11300"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Goodrx",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Mona Shah & Assoc",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Neuride Transportation",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Nuride Transportation Group",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Los Angeles Women's Giving Collective",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Interns for America",
+        "total": "4025"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Segal Ventures",
+        "total": "3300"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Brown & Brown Insurance",
+        "total": "2800"
+    },
+    {
+        "crp_id": "N00027658",
+        "org_name": "Indivisible Action",
+        "total": "2700"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "Republican Jewish Coalition",
+        "total": "93790"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "US Dept of Defense",
+        "total": "54161"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "Wells Fargo",
+        "total": "48513"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "Bank of America",
+        "total": "46003"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "US Government",
+        "total": "44447"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "Boeing Co",
+        "total": "43068"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "Blackstone Group",
+        "total": "38366"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "37045"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "US Army",
+        "total": "36264"
+    },
+    {
+        "crp_id": "N00009975",
+        "org_name": "IBM Corp",
+        "total": "35973"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "33500"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "Bluff Point Assoc",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "New Jersey Urology",
+        "total": "11600"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "Laura & John Arnold Foundation",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "Wellhead Electric",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "American Assn of Nurse Anesthetists",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "Fresenius Medical Care",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "Wine Institute",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "Bluewater International",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00001758",
+        "org_name": "Charles Schwab Corp",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "Plumbers/Pipefitters Union",
+        "total": "16000"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "Bad Robot Productions",
+        "total": "15955"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "Seafarers International Union",
+        "total": "14500"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "United Food & Commercial Workers Union",
+        "total": "12205"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "Guardant Health",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "Marquis Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "Nirvana Software",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "Walt Disney Co",
+        "total": "10856"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "University of Southern California",
+        "total": "10086"
+    },
+    {
+        "crp_id": "N00036915",
+        "org_name": "Service Employees International Union",
+        "total": "10011"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "Harvard University",
+        "total": "14210"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "US Acute Care Solutions",
+        "total": "12000"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "Aloha Partners",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "Cozen O'Connor",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "Lone Pine Capital",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "Dartmouth College",
+        "total": "10974"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "US Anesthesia Partners",
+        "total": "10500"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "A New Direction PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "All For Our Country",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00038397",
+        "org_name": "American Podiatric Medical Assn",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Jones Financial Companies",
+        "total": "36485"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Diamond Pet Foods",
+        "total": "27700"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Hunter Engineering",
+        "total": "22400"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Orscheln Group",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Hallmark Cards",
+        "total": "16019"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Bayer AG",
+        "total": "11250"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Charles Schwab Corp",
+        "total": "11225"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Bodley Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Cepia",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00041620",
+        "org_name": "Clawson Farms",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "Intellectual Ventures LLC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "National Assn of Health Underwriters",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "Plumbers/Pipefitters Union",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "University of New Mexico",
+        "total": "6917"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "SpaceX",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "Allison Transmission",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "Assured Guaranty US Holdings",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "Blue Origin",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "Burns & McDonnell",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00029835",
+        "org_name": "Cigna Corp",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "Intellectual Ventures LLC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "University of Hawaii",
+        "total": "8961"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "State of Hawaii",
+        "total": "7625"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "Kobayashi, Sugita & Goda",
+        "total": "7300"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "Hawaiian Electric Industries",
+        "total": "7000"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "Covington & Burling",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "US Navy",
+        "total": "5636"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "Wilson, Sonsini et al",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "Corning Inc",
+        "total": "5025"
+    },
+    {
+        "crp_id": "N00028139",
+        "org_name": "Parsons Corp",
+        "total": "5005"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "MacAndrews & Forbes",
+        "total": "15800"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Plains Cotton Growers",
+        "total": "11000"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Arkansas for Leadership",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Cloud Peak Energy",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Common Values PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Crop Insurance Professionals Assn",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Free State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Freedom Fund",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Heartland Values PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031688",
+        "org_name": "Lank PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Seemann Composites",
+        "total": "36300"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Telapex Inc",
+        "total": "29180"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "NorPAC",
+        "total": "24320"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Addicus",
+        "total": "22100"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Ergon Inc",
+        "total": "19400"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Huntington Ingalls Industries",
+        "total": "18778"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Pruet Oil",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Yates Construction",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Sanderson Farms",
+        "total": "16400"
+    },
+    {
+        "crp_id": "N00043298",
+        "org_name": "Community Bancshares of Mississippi",
+        "total": "15500"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Lockheed Martin",
+        "total": "80844"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Kratos",
+        "total": "40000"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Collazo Enterprises",
+        "total": "39200"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Valero Energy",
+        "total": "32600"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Kratos Defense & Security Solutions",
+        "total": "31900"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Williams Companies",
+        "total": "25200"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Loves Travel Stops & Country Stores",
+        "total": "22400"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Boeing Co",
+        "total": "22120"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "General Dynamics",
+        "total": "20500"
+    },
+    {
+        "crp_id": "N00005582",
+        "org_name": "Midfirst Bank",
+        "total": "20110"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "Roth Feeder Pigs",
+        "total": "13900"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "SC Johnson & Son",
+        "total": "8900"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "Institute of Makers of Explosives",
+        "total": "6250"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "Johnsonville Sausage",
+        "total": "6225"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "Benefit Services Group",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "Cadian LLC",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "Direct Supply Inc",
+        "total": "5046"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "Oshkosh Corp",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "UBS AG",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00032546",
+        "org_name": "Deutsche Telekom",
+        "total": "4500"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Holland & Knight",
+        "total": "18775"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Cyberdata Technologies",
+        "total": "15100"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Cerberus Capital Management",
+        "total": "12800"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Lone Pine Capital",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Putnam Bridge",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Royal Business Bank",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Welsh, Carson et al",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Wize Solutions",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Verizon Communications",
+        "total": "10567"
+    },
+    {
+        "crp_id": "N00033177",
+        "org_name": "Argentum",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00044223",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Tellurian Inc",
+        "total": "26325"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Performance Contractors Inc",
+        "total": "14250"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Blessey Marine Service",
+        "total": "13100"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Builders Supply Co",
+        "total": "11250"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "LHC Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Kinsey Interests",
+        "total": "11000"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Common Values PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Continuing America's Strength & Security",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Access Radiology",
+        "total": "8600"
+    },
+    {
+        "crp_id": "N00026823",
+        "org_name": "Argo Fine Imports",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "Act III Holdings",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "Atlas Holdings",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "Bessemer Venture Partners",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "CC Industries",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "Edridge",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "Gottesman Real Estate Partners",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "Hanover Co",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "Henry Crown & Co",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "Keewin Real Property Co",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00034580",
+        "org_name": "NFC Legal",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "Starkey Hearing Technologies",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "Wachtell, Lipton et al",
+        "total": "13594"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "Unitedhealth Group",
+        "total": "11196"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "Best Buy",
+        "total": "9410"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "Lockridge Grindal Nauen PLLP",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "University of Minnesota",
+        "total": "6812"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "Ecolab Inc",
+        "total": "6675"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "US Bancorp",
+        "total": "6498"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "University of California",
+        "total": "5690"
+    },
+    {
+        "crp_id": "N00027500",
+        "org_name": "Danaher Corp",
+        "total": "5648"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Pfizer Inc",
+        "total": "13500"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Blackstone Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "American Health Care Assn",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Arkansas for Leadership",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Common Values PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Continuing America's Strength & Security",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Dakota PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Free State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Freedom Fund",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031129",
+        "org_name": "Kratos Defense & Security Solutions",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "Boeing Co",
+        "total": "36957"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "Burton Snowboards",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "BAE Systems",
+        "total": "6020"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "Textron Inc",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "McArthurGlen Group",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "Woodbranch Investments",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "Rapoza Assoc",
+        "total": "5489"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "Friends of Medical Research",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "Indivisible Action",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00009918",
+        "org_name": "Laborers Union",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Blackstone Group",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Deason Capital Services",
+        "total": "16200"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "First Republic Bank",
+        "total": "16200"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Uline Inc",
+        "total": "10800"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Medquest Pharmacy",
+        "total": "10400"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Together Holding Our Majority PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Continental Investors",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Lime Rock Management",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Magnolia Oil & Gas",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00031696",
+        "org_name": "Pivotal Group",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00046125",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "Democracy Engine",
+        "total": "75268"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "Votesane PAC",
+        "total": "65500"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "University of New Mexico",
+        "total": "34699"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "National Assn of Broadcasters",
+        "total": "34600"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "Comcast Corp",
+        "total": "31229"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "University of California",
+        "total": "25856"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "Digidems PAC",
+        "total": "24343"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "Centerbridge Partners",
+        "total": "23400"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "Alphabet Inc",
+        "total": "22243"
+    },
+    {
+        "crp_id": "N00029562",
+        "org_name": "Akin, Gump et al",
+        "total": "22067"
+    },
+    {
+        "crp_id": "N00029788",
+        "industry_name": null,
+        "total": null
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "Greenberg Traurig LLP",
+        "total": "13000"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "Duchossois Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "Capitol Counsel",
+        "total": "10400"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "SpaceX",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "United Mine Workers of America",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "Idaho Forest Group",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "General Atomics",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "Act III Holdings",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "Atlas Holdings",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00032838",
+        "org_name": "Bessemer Venture Partners",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Democracy Engine",
+        "total": "128733"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Harvard University",
+        "total": "102483"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Apollo Global Management",
+        "total": "69389"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Alphabet Inc",
+        "total": "51514"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Commonwealth of Massachusetts",
+        "total": "48685"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Blackstone Group",
+        "total": "41375"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Wilmerhale Llp",
+        "total": "38600"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Boston University",
+        "total": "36205"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Mass General Brigham",
+        "total": "35425"
+    },
+    {
+        "crp_id": "N00000270",
+        "org_name": "Massachusetts Institute of Technology",
+        "total": "31521"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Nueterra Capital",
+        "total": "43600"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Poet LLC",
+        "total": "32500"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Burns & McDonnell",
+        "total": "22036"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Susan B Anthony List",
+        "total": "20200"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Watco Companies",
+        "total": "20000"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Bukaty Companies",
+        "total": "19500"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Cox Enterprises",
+        "total": "19400"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Goldman Sachs",
+        "total": "19100"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Bristol-Myers Squibb",
+        "total": "17600"
+    },
+    {
+        "crp_id": "N00037034",
+        "org_name": "Innovative Livestock Services",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "NorPAC",
+        "total": "163575"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "Votesane PAC",
+        "total": "126800"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "Blackstone Group",
+        "total": "109502"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "United Parcel Service",
+        "total": "107570"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "KKR & Co",
+        "total": "88131"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "NextEra Energy",
+        "total": "71091"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "Apollo Global Management",
+        "total": "63575"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "Capital Group Companies",
+        "total": "59250"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "Humana Inc",
+        "total": "58383"
+    },
+    {
+        "crp_id": "N00003389",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "54484"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "General Atomics",
+        "total": "30600"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "Miami International Holdings",
+        "total": "28700"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "Daybreak Express",
+        "total": "21465"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "Inserra Supermarkets",
+        "total": "18800"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "Public Service Enterprise Group",
+        "total": "16640"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "NorPAC",
+        "total": "15500"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "Carella, Byrne et al",
+        "total": "13300"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "Eli Lilly & Co",
+        "total": "13100"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "Federated Investors Inc",
+        "total": "12500"
+    },
+    {
+        "crp_id": "N00000699",
+        "org_name": "Academy Bus",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "League of Conservation Voters",
+        "total": "54347"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "Oregon Health & Science University",
+        "total": "33179"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "State of Oregon",
+        "total": "30557"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "Oregon State University",
+        "total": "21342"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "Service Employees International Union",
+        "total": "20035"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "University of Oregon",
+        "total": "17726"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "Kleiner, Perkins et al",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "Intel Corp",
+        "total": "15528"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "Comcast Corp",
+        "total": "11374"
+    },
+    {
+        "crp_id": "N00029303",
+        "org_name": "Bad Robot Productions",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Live Nation Entertainment",
+        "total": "20500"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Spirit Aerosystems",
+        "total": "20050"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Hilltop Holdings",
+        "total": "18400"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Veterans United Home Loans",
+        "total": "15000"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Triwest Healthcare Alliance",
+        "total": "14100"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Hallmark Cards",
+        "total": "12504"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Van Scoyoc Assoc",
+        "total": "11800"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Anschutz Corp",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "ClearPath Foundation",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00005282",
+        "org_name": "Northrock Inc",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "US Anesthesia Partners",
+        "total": "15000"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "ConocoPhillips",
+        "total": "13050"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "US Acute Care Solutions",
+        "total": "12000"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "Laura & John Arnold Foundation",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "Free State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "Parsons Corp",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "8525"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "Vigor Industrial",
+        "total": "8500"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "Robertson, Monagle & Eastaugh",
+        "total": "7600"
+    },
+    {
+        "crp_id": "N00026050",
+        "org_name": "American Gas Assn",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "Yale University",
+        "total": "18393"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "State of Connecticut",
+        "total": "5725"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "Pinstripe Capital",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "General Motors",
+        "total": "5238"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "Massachusetts Mutual Life Insurance",
+        "total": "5117"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "Spinnaker Real Estate Partners",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "University of Connecticut",
+        "total": "4897"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "AT&T Inc",
+        "total": "4137"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "American Council of Engineering Cos",
+        "total": "3000"
+    },
+    {
+        "crp_id": "N00027566",
+        "org_name": "Epizyme",
+        "total": "2800"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "University of Washington",
+        "total": "28608"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "28474"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "US Acute Care Solutions",
+        "total": "18500"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "K&L Gates",
+        "total": "18391"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "US Anesthesia Partners",
+        "total": "15425"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "Microsoft Corp",
+        "total": "13857"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "Madrona Venture Group",
+        "total": "11700"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "Covington & Burling",
+        "total": "11600"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "State of Washington",
+        "total": "10517"
+    },
+    {
+        "crp_id": "N00007876",
+        "org_name": "Plumbers/Pipefitters Union",
+        "total": "10030"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "LHC Group",
+        "total": "27650"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "Huffines Communities",
+        "total": "22600"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "Herring Networks",
+        "total": "17200"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "Manchester Financial Group",
+        "total": "17200"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "Marquette Transportation",
+        "total": "16620"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "Harvey Gulf International Marine",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "Hung Vu Auditor LLC",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "McKinley Inc",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "Q Sushi",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030836",
+        "org_name": "Susquehanna International Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "University of Michigan",
+        "total": "538959"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "Democracy Engine",
+        "total": "245106"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "Alphabet Inc",
+        "total": "234921"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "University of California",
+        "total": "181174"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "Michigan State University",
+        "total": "160733"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "Microsoft Corp",
+        "total": "124914"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "State of Michigan",
+        "total": "114895"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "Goldman Sachs",
+        "total": "106885"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "Henry Ford Health System",
+        "total": "98245"
+    },
+    {
+        "crp_id": "N00029277",
+        "org_name": "Walt Disney Co",
+        "total": "91702"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "American Financial Group",
+        "total": "58800"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "BlackRock Inc",
+        "total": "31775"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "River Trading",
+        "total": "27600"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "Gbx Group",
+        "total": "26200"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "North American Properties",
+        "total": "23800"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "Hunt Development",
+        "total": "22400"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "Travelers Companies",
+        "total": "22000"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "Procter & Gamble",
+        "total": "18500"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "Hunt Companies",
+        "total": "17800"
+    },
+    {
+        "crp_id": "N00003682",
+        "org_name": "Crestview Partners",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "Lockheed Martin",
+        "total": "54800"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "L3Harris Technologies",
+        "total": "44625"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "General Dynamics",
+        "total": "29525"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "Walt Disney Co",
+        "total": "23491"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "General Atomics",
+        "total": "22650"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "Century 21 Department Stores",
+        "total": "20000"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "Service Employees International Union",
+        "total": "17500"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "Comcast Corp",
+        "total": "16600"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "Greenberg Traurig LLP",
+        "total": "16400"
+    },
+    {
+        "crp_id": "N00000362",
+        "org_name": "Kramer, Levin et al",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "Delta Air Lines",
+        "total": "34225"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "General Atomics",
+        "total": "29600"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "Apollo Global Management",
+        "total": "24400"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "Goldman Sachs",
+        "total": "17900"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "Hunt Companies",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "Idaho Forest Group",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "BGR Group",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "Bridgewater Assoc",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "PotlatchDeltic Corp",
+        "total": "14000"
+    },
+    {
+        "crp_id": "N00029441",
+        "org_name": "Chevron Corp",
+        "total": "12505"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Bain Capital",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Edwards Lifesciences",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "L3Harris Technologies",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Sotheby's",
+        "total": "8400"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Cornell University",
+        "total": "5625"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Tiger Management",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Welsh, Carson et al",
+        "total": "5400"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Bristol-Myers Squibb",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Capital Group Companies",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00000286",
+        "org_name": "Fresenius Medical Care",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Duchossois Group",
+        "total": "22400"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Top Rank Inc",
+        "total": "16805"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Rocky Research",
+        "total": "15000"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Sierra Nevada Corp",
+        "total": "13205"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Capital Group Companies",
+        "total": "12900"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Gottesman Real Estate Partners",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Harvey & Leslie Wagner Foundation",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Henry Crown & Co",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "NFC Legal",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00038734",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "11141"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "Sanford Health",
+        "total": "27250"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "State of South Dakota",
+        "total": "23648"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "Rock Holdings",
+        "total": "22700"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "Avairpros",
+        "total": "22400"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "US Bancorp",
+        "total": "20115"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "Amway/Alticor Inc",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "Avera Health Systems",
+        "total": "15400"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "Blackstone Group",
+        "total": "15020"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "Capital Group Companies",
+        "total": "14400"
+    },
+    {
+        "crp_id": "N00035187",
+        "org_name": "Blessey Marine Service",
+        "total": "14150"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "Votesane PAC",
+        "total": "103625"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "BGR Group",
+        "total": "12000"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "Sutton Properties",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "AmerisourceBergen Corp",
+        "total": "10025"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "Arkansas for Leadership",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "Continuing America's Strength & Security",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "Dirigo PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "Free State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "Freedom Fund",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00030612",
+        "org_name": "Hawkeye PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "University of California",
+        "total": "40613"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "Amazon.com",
+        "total": "27472"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "Alphabet Inc",
+        "total": "19574"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "City of New York, NY",
+        "total": "16788"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "Microsoft Corp",
+        "total": "16341"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "Apple Inc",
+        "total": "14455"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "US Postal Service",
+        "total": "14416"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "Kaiser Permanente",
+        "total": "13508"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "University of Washington",
+        "total": "11395"
+    },
+    {
+        "crp_id": "N00000528",
+        "org_name": "University of Michigan",
+        "total": "10471"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "Club for Growth",
+        "total": "49701"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "DCI Group",
+        "total": "41900"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "NorPAC",
+        "total": "29300"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "Mountain Group Partners",
+        "total": "22200"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "Stephens Group",
+        "total": "21600"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "Affiliated Managers Group",
+        "total": "20600"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "Microsoft Corp",
+        "total": "20420"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "Prudential Financial",
+        "total": "19500"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "Alphabet Inc",
+        "total": "18725"
+    },
+    {
+        "crp_id": "N00035544",
+        "org_name": "Capital Group",
+        "total": "18000"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Matson Inc",
+        "total": "19599"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Purpose PAC",
+        "total": "15000"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Rock Holdings",
+        "total": "13400"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Matson",
+        "total": "12319"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Fisherman's Finest",
+        "total": "12200"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Comcast Corp",
+        "total": "11700"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Kobayashi, Sugita & Goda",
+        "total": "10625"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Hawaiian Electric Industries",
+        "total": "10535"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Pop Fishing & Marine",
+        "total": "10300"
+    },
+    {
+        "crp_id": "N00028138",
+        "org_name": "Treasure State PAC",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "New York Life Insurance",
+        "total": "70783"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "MetLife Inc",
+        "total": "38231"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "National Assn of Broadcasters",
+        "total": "24750"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "Akin, Gump et al",
+        "total": "24705"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "Horizon Media",
+        "total": "23150"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "Welsh, Carson et al",
+        "total": "21200"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "Subject Matter",
+        "total": "16100"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "Crowell & Moring",
+        "total": "14500"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "CVS Health",
+        "total": "13733"
+    },
+    {
+        "crp_id": "N00001093",
+        "org_name": "Brownstein, Hyatt et al",
+        "total": "12750"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Capital Group",
+        "total": "40705"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Miller Strategies",
+        "total": "22400"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Prudential Financial",
+        "total": "20500"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Capital Group Companies",
+        "total": "19160"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "PI Holdings",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Penn Mutual Life",
+        "total": "16200"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Real Estate Investors",
+        "total": "15000"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Capital World Investors",
+        "total": "13600"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Vicardia Therapeutics",
+        "total": "11300"
+    },
+    {
+        "crp_id": "N00031782",
+        "org_name": "Abercrombie & Kent",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "Shutts & Bowen",
+        "total": "35031"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "US Senate",
+        "total": "26622"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "Select Medical Holdings",
+        "total": "17500"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "Bank of America",
+        "total": "16375"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "L3Harris Technologies",
+        "total": "15111"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "Welsh, Carson et al",
+        "total": "13000"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "Heartland Dental Care",
+        "total": "11240"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "Amscot Financial",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "Banknote Capital",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00043290",
+        "org_name": "Beasley Media Group",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "Emily's List",
+        "total": "148737"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "Dartmouth College",
+        "total": "61927"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "Votesane PAC",
+        "total": "55500"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "University of New Hampshire",
+        "total": "52222"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "Capital Group",
+        "total": "51805"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "Harvard University",
+        "total": "47061"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "State of New Hampshire",
+        "total": "36613"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "US Government",
+        "total": "33513"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "University of California",
+        "total": "32885"
+    },
+    {
+        "crp_id": "N00024790",
+        "org_name": "Comcast Corp",
+        "total": "30677"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "Air Line Pilots Assn",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "Ball Corp",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "Maynard, Cooper & Gale",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "Oshkosh Corp",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "Prudential Financial",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "1st Edge LLC",
+        "total": "0"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "Adams & Reese",
+        "total": "0"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "AEGON NV",
+        "total": "0"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "AFLAC Inc",
+        "total": "0"
+    },
+    {
+        "crp_id": "N00009920",
+        "org_name": "Airbus Group",
+        "total": "0"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "DaVita Inc",
+        "total": "55845"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Crescent Capital Group",
+        "total": "54900"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "34832"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Blackstone Group",
+        "total": "33600"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Arizona State University",
+        "total": "29886"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Freedom Financial Network",
+        "total": "29800"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Rock Holdings",
+        "total": "28100"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Charter Communications",
+        "total": "26600"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Pinnacle West Capital",
+        "total": "24735"
+    },
+    {
+        "crp_id": "N00033983",
+        "org_name": "Salt River Project",
+        "total": "22936"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "University of Minnesota",
+        "total": "161456"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "Emily's List",
+        "total": "155247"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "Democracy Engine",
+        "total": "104063"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "Signature Bank",
+        "total": "67650"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "State of Minnesota",
+        "total": "63075"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "47102"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "Mayo Clinic",
+        "total": "41411"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "Comcast Corp",
+        "total": "40015"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "Pohlad Companies",
+        "total": "39500"
+    },
+    {
+        "crp_id": "N00042353",
+        "org_name": "Dorsey & Whitney",
+        "total": "38475"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "University of Michigan",
+        "total": "15029"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "Western Michigan University",
+        "total": "10137"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "Fortis Inc",
+        "total": "10025"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "Whirlpool Corp",
+        "total": "10008"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "Champoeg Wine Cellars",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "Hamp Advisors",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "Johnson Law",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "Pacific Foods of Oregon",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "Michigan State University",
+        "total": "8785"
+    },
+    {
+        "crp_id": "N00004118",
+        "org_name": "AmerisourceBergen Corp",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Rpm International",
+        "total": "48875"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Goldman Sachs",
+        "total": "47200"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Calfee, Halter & Griswold",
+        "total": "44800"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Elliott Management",
+        "total": "44700"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Citizens for Prosperity in America Today",
+        "total": "30554"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Paul, Weiss et al",
+        "total": "25950"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "General Atomics",
+        "total": "25250"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Blackstone Group",
+        "total": "24900"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Trident Seafoods",
+        "total": "23800"
+    },
+    {
+        "crp_id": "N00035774",
+        "org_name": "Apollo Global Management",
+        "total": "23410"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "Painters & Allied Trades Union",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "USAA",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "Rock Holdings",
+        "total": "8800"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "AT&T Inc",
+        "total": "7875"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "BAE Systems",
+        "total": "7585"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "Electronic Transactions Assn",
+        "total": "6500"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "Hartford Financial Services",
+        "total": "6500"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "Emerald Expositions",
+        "total": "6200"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "Asurion Corp",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00027605",
+        "org_name": "Confederated Salish & Kootenai Tribes",
+        "total": "5836"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "New York Life Insurance",
+        "total": "37100"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "Capital Group Companies",
+        "total": "27900"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "Capital Group",
+        "total": "18900"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "Kansas City Southern",
+        "total": "18799"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "Lyft Inc",
+        "total": "16805"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "Schneider National",
+        "total": "13000"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "National Indian Gaming Assn",
+        "total": "12000"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "Target Corp",
+        "total": "12000"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "Bartlett Grain",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00004572",
+        "org_name": "National Assn of Broadcasters",
+        "total": "11000"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Blackstone Group",
+        "total": "93286"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Truist Financial",
+        "total": "78155"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Goldman Sachs",
+        "total": "58475"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Bank of America",
+        "total": "57890"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Wells Fargo",
+        "total": "57294"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Charter Communications",
+        "total": "50341"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Duke Energy",
+        "total": "44439"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Apollo Global Management",
+        "total": "43402"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Elliott Management",
+        "total": "41900"
+    },
+    {
+        "crp_id": "N00035492",
+        "org_name": "Capital Group Companies",
+        "total": "41250"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "Apollo Global Management",
+        "total": "65500"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "Blackstone Group",
+        "total": "40200"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "Paul, Weiss et al",
+        "total": "37350"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "Otis Eastern",
+        "total": "34100"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "FMR Corp",
+        "total": "27900"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "Truist Financial",
+        "total": "25050"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "Elliott Greenleaf PC",
+        "total": "19800"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "Medquest Pharmacy",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "PPL Corp",
+        "total": "16085"
+    },
+    {
+        "crp_id": "N00001489",
+        "org_name": "NASDAQ Inc",
+        "total": "15500"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Arent Fox LLP",
+        "total": "22408"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Northwestern Mutual",
+        "total": "14750"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Montgomery County Public Schools",
+        "total": "13919"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "NASDAQ Inc",
+        "total": "12600"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Dentons",
+        "total": "12425"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Arnold & Porter Kaye Scholer",
+        "total": "12103"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Nextnav LLC",
+        "total": "11450"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Politics & Prose Bookstore",
+        "total": "11250"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Beowulf Energy",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00013820",
+        "org_name": "Chartwell Hotels",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "Wachtell, Lipton et al",
+        "total": "100451"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "Apollo Global Management",
+        "total": "64553"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "Goldman Sachs",
+        "total": "49400"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "Amazon.com",
+        "total": "48896"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "Akin, Gump et al",
+        "total": "43706"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "Covington & Burling",
+        "total": "41496"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "WPP Group",
+        "total": "38250"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "Truist Financial",
+        "total": "36295"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "MasterCard Inc",
+        "total": "36205"
+    },
+    {
+        "crp_id": "N00002097",
+        "org_name": "Sullivan & Cromwell",
+        "total": "35865"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "University of California",
+        "total": "40926"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "Alphabet Inc",
+        "total": "24537"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "Harvard University",
+        "total": "20329"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "Apple Inc",
+        "total": "18541"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "State of California",
+        "total": "11751"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "Massachusetts Institute of Technology",
+        "total": "11139"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "University of Pennsylvania",
+        "total": "11097"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "University of Texas",
+        "total": "11064"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "Boston University",
+        "total": "10480"
+    },
+    {
+        "crp_id": "N00033492",
+        "org_name": "Climate Corp",
+        "total": "10146"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "Larkspur Services",
+        "total": "12200"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "Eleanor Briggs Phoenix Studio",
+        "total": "7125"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "Democracy Engine",
+        "total": "7100"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "Anbau Enterprises",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "Boilermakers Union",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "Operating Engineers Union",
+        "total": "5000"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "Painters & Allied Trades Union",
+        "total": "3500"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "State of Rhode Island",
+        "total": "3250"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "National Air Traffic Controllers Assn",
+        "total": "3000"
+    },
+    {
+        "crp_id": "N00027533",
+        "org_name": "Karen Dixon",
+        "total": "2800"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "Novocure Inc",
+        "total": "22200"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "American Airlines Group",
+        "total": "10018"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "Granite Telecommunications",
+        "total": "10000"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "BGR Group",
+        "total": "9800"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "Carnival Corp",
+        "total": "9500"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "National Assn of Broadcasters",
+        "total": "7500"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "Jetblue Airways",
+        "total": "6000"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "1st Financial Bank USA",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "Harvey Gulf International Marine",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00003280",
+        "org_name": "Rock Holdings",
+        "total": "5600"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Associated Medical Professionals",
+        "total": "26100"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Capitol Counsel",
+        "total": "16100"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Berkshire Hathaway",
+        "total": "14580"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Riverlake Partners",
+        "total": "12200"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Pacific Mutual Holding",
+        "total": "11300"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Columbia Sportswear",
+        "total": "11225"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Amir Development",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Beam Development",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Gotham Construction",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00007724",
+        "org_name": "Greenbrier Companies",
+        "total": "11200"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "Votesane PAC",
+        "total": "103025"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "LHC Group",
+        "total": "31500"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "DaVita Inc",
+        "total": "30300"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "Blue Cross/Blue Shield",
+        "total": "24745"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "National Assn of Broadcasters",
+        "total": "18850"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "Townsend Corp",
+        "total": "16800"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "Barnes & Thornburg",
+        "total": "15450"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "Masimo Corp",
+        "total": "14400"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "Kelley Automotive Group",
+        "total": "14336"
+    },
+    {
+        "crp_id": "N00030670",
+        "org_name": "Blessey Marine Service",
+        "total": "14100"
+    }
+]

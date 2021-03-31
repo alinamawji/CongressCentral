@@ -1,0 +1,5802 @@
+[
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s995-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s942-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s898-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s754-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s642-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s576-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s285-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s287-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s236-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s179-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4961-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4687-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4686-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4645-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4570-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s918-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s819-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s855-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s828-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s758-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4897-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4694-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4589-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s3971-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s3591-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s3590-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3390-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s3051-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s3047-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s2917-116"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "sres141-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s711-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s386-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s274-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s173-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s5028-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s5015-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4760-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4741-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4640-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4641-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4642-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s4446-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4358-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4336-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s924-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres130-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s903-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s822-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s820-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s835-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres119-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s710-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s365-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s364-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s298-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s88-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s113-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s17-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s25-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s1028-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1027-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s899-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s851-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s852-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s763-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s637-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s591-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s571-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s505-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s454-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s394-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s315-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s303-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s190-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s967-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s1030-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s836-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s5076-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres805-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres803-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres801-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4967-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres787-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sconres45-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres696-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres619-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres585-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3625-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sconres38-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s992-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s888-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s791-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s713-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres95-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s599-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sconres6-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s457-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres75-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s366-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s341-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s346-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s317-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s300-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres45-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s657-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5007-116"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s4925-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres774-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4613-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4404-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "sconres42-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s4365-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s4086-116"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sjres73-116"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sjres72-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s3187-116"
+    },
+    {
+        "committee_name": "House Committee on House Administration",
+        "bill_id": "sjres65-116"
+    },
+    {
+        "committee_name": "House Committee on House Administration",
+        "bill_id": "sjres66-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s2933-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "sres136-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "sres147-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s950-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s894-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s848-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s847-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres121-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s730-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres102-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s579-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s546-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s472-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s471-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s474-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s489-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres137-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres144-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "sjres16-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s823-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s800-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s771-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s727-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s646-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s581-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s547-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres74-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s385-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s336-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres51-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5044-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s821-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres111-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres110-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s654-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s450-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s4762-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4742-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4593-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4356-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4109-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3675-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s3404-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s3260-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s2939-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres390-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s877-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s316-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres56-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s5075-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "sres748-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4623-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s3959-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s3861-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s3771-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s3718-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3582-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s3192-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres461-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3002-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s2968-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s586-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s539-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s451-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s360-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s41-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s5021-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4966-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s4778-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4532-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4075-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s3648-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3532-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres543-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3067-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s2866-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s825-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s832-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres124-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s614-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s597-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s552-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres76-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s449-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s448-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s456-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s481-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres58-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres35-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s212-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s213-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s975-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s985-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s857-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s596-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres49-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s51-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s4914-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4524-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s3984-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s3896-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3735-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "sres537-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s3269-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s2857-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres422-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1002-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s911-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s880-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s853-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s782-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s709-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s712-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s630-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s643-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s639-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s556-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s440-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s441-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s439-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s453-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s839-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s787-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s801-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s775-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s500-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s415-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s320-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s250-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s128-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s5078-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4990-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4953-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres765-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4859-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres738-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s886-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s883-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s885-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s876-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s804-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s723-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s634-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s594-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s557-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s444-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s436-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4973-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres786-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4854-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres731-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s998-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1034-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1057-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres131-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s879-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s869-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s871-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s799-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres114-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s675-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres98-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres80-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s379-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s396-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s389-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1046-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s941-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s922-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s921-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s895-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s881-117"
+    },
+    {
+        "committee_name": "Senate Intelligence (Select) Committee",
+        "bill_id": "s849-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s781-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s734-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s658-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s503-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres67-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s233-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s172-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s37-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s1004-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres135-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s767-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s768-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s766-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s769-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s726-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s695-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s694-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s696-117"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s650-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s652-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s647-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s648-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s649-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres138-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s968-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s1050-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s785-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s621-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s619-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s602-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s478-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s429-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "sres72-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s417-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s33-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s5016-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4998-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4978-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s563-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s243-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres710-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4463-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4389-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4154-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s4117-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres554-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s3572-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s3533-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s3502-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3236-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sconres23-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s2392-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s2293-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s743-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s435-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s357-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s23-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5051-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres775-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres722-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3350-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3129-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3085-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s2794-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres320-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s2379-116"
+    },
+    {
+        "committee_name": "Senate Intelligence (Select) Committee",
+        "bill_id": "s2316-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s2204-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s1011-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s1012-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s1029-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s960-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s930-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s931-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s928-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s929-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s890-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s842-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s706-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s705-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s676-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s524-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s523-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s525-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s501-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s480-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres68-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s156-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s171-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s145-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sconres4-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s106-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s48-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5019-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "sres766-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres758-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4751-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s4746-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1020-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1021-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s914-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s872-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s795-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s796-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s738-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres106-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "sres86-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s476-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s399-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s305-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s304-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s266-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5037-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1013-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1014-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s1022-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1024-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1023-117"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s962-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s964-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s961-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s963-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s936-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s873-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s807-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s686-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s685-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s644-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s1049-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s897-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s827-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s761-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s760-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s636-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s544-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s535-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s446-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres71-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s372-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s191-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s80-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "sres17-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s21-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s933-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s854-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres123-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s752-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s736-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s588-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s580-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s572-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s311-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s273-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s253-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s144-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s138-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s102-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s58-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s951-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s792-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s700-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s662-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s620-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s543-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s5046-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s5043-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4906-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4722-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4720-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s4647-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4486-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres659-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4216-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s952-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s954-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s901-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s867-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s868-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s605-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s485-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s484-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s486-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s382-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s377-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s244-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s248-117"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s34-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s32-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s944-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s943-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s959-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s61-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s5036-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s5020-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s4996-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres750-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s4802-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres733-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres720-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4662-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4632-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres709-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4587-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s977-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s949-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s935-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s818-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s831-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s840-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s742-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s587-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s589-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres92-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s409-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s391-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s71-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5064-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5045-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s980-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres107-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s519-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s488-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4781-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4519-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4513-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s4455-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4401-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4397-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4399-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4273-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4248-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4207-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4188-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4118-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4048-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4047-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s3963-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "sres143-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s1038-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s1036-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s749-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s672-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s671-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s584-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s551-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s517-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s445-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s350-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s217-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s164-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s70-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s52-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s720-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s555-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s536-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s62-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres18-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4999-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4983-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4976-116"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s4893-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres752-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4639-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4543-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4337-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4301-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4241-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "sjres14-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s990-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1017-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1016-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s1015-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s846-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s780-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s627-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s256-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s180-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s177-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s182-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4782-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4750-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4599-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s945-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres133-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s912-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s937-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s913-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s728-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s632-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s554-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s181-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s5010-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4986-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4915-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres761-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4837-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4831-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s1053-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s759-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s661-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s359-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres779-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres770-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres764-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres732-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s4522-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s4152-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4151-116"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s4090-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4017-116"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s3597-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres476-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s755-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s702-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sjres6-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s78-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s77-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres664-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3998-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s3806-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s3072-116"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s2581-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres313-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s2410-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s2209-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1687-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s1182-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres132-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s863-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s678-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s419-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s75-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s39-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres713-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres704-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s4156-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s4049-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres586-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres583-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s3419-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3360-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s3131-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1006-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s628-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s367-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s114-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s111-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s4489-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4236-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4204-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4157-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4153-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4210-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4197-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4165-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4133-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s4148-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s1000-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s864-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s610-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sjres10-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres91-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s540-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s470-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s345-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4849-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres737-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4502-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4390-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4349-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4271-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4269-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s708-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s371-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s327-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1045-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1055-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1056-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1051-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s956-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s957-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s896-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s875-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s858-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s859-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s756-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s590-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s398-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s83-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s86-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s891-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s850-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s491-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4974-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4980-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4943-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4942-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4938-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4940-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s4927-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4761-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4615-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres688-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4315-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s4171-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s997-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1026-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1018-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1019-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s902-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s917-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s905-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s889-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s833-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s745-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s744-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres112-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres113-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s740-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s670-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s1001-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s946-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s860-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s618-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s522-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s533-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s401-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s95-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4977-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4693-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4691-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4692-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4708-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4678-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4658-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s878-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s845-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sjres8-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s38-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s4544-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4438-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4263-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s3889-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s3420-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s3348-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s2936-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s2916-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s2814-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres403-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s2694-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s1008-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s1052-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "sres134-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s884-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s882-117"
+    },
+    {
+        "committee_name": "Senate Budget Committee",
+        "bill_id": "s793-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s805-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s719-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s718-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s721-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s715-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s716-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s739-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s717-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s677-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s5012-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5011-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s4858-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4828-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres747-116"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s4721-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4649-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4630-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4580-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4563-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "sres686-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s4520-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres668-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4424-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4425-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s724-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s741-117"
+    },
+    {
+        "committee_name": "House Natural Resources Committee",
+        "bill_id": "hr8564-116"
+    },
+    {
+        "committee_name": "House Energy and Commerce Committee",
+        "bill_id": "hr8127-116"
+    },
+    {
+        "committee_name": "House Energy and Commerce Committee",
+        "bill_id": "hr7973-116"
+    },
+    {
+        "committee_name": "House Energy and Commerce Committee",
+        "bill_id": "hr7750-116"
+    },
+    {
+        "committee_name": "House Transportation and Infrastructure Committee",
+        "bill_id": "hr6772-116"
+    },
+    {
+        "committee_name": "House Education and Labor Committee",
+        "bill_id": "hr6056-116"
+    },
+    {
+        "committee_name": "House Ways and Means Committee",
+        "bill_id": "hr5967-116"
+    },
+    {
+        "committee_name": "House Oversight and Reform Committee",
+        "bill_id": "hr5968-116"
+    },
+    {
+        "committee_name": "House Science, Space, and Technology Committee",
+        "bill_id": "hr5965-116"
+    },
+    {
+        "committee_name": "House Education and Labor Committee",
+        "bill_id": "hr5964-116"
+    },
+    {
+        "committee_name": "House Science, Space, and Technology Committee",
+        "bill_id": "hr5966-116"
+    },
+    {
+        "committee_name": "House Energy and Commerce Committee",
+        "bill_id": "hr5453-116"
+    },
+    {
+        "committee_name": "House Energy and Commerce Committee",
+        "bill_id": "hr5199-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s973-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s76-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s22-117"
+    },
+    {
+        "committee_name": "House Education and Labor",
+        "bill_id": "hr5517-114"
+    },
+    {
+        "committee_name": "House Natural Resources Committee",
+        "bill_id": "hr3527-114"
+    },
+    {
+        "committee_name": "House Ways and Means Committee",
+        "bill_id": "hr2611-114"
+    },
+    {
+        "committee_name": "House Energy and Commerce Committee",
+        "bill_id": "hr2544-114"
+    },
+    {
+        "committee_name": "House Natural Resources Committee",
+        "bill_id": "hr2273-114"
+    },
+    {
+        "committee_name": "House Budget Committee",
+        "bill_id": "hr2272-114"
+    },
+    {
+        "committee_name": "House Natural Resources Committee",
+        "bill_id": "hr1667-114"
+    },
+    {
+        "committee_name": "House Ways and Means Committee",
+        "bill_id": "hr1366-114"
+    },
+    {
+        "committee_name": "House Natural Resources Committee",
+        "bill_id": "hr974-114"
+    },
+    {
+        "committee_name": "House Natural Resources Committee",
+        "bill_id": "hr945-114"
+    },
+    {
+        "committee_name": "House Natural Resources Committee",
+        "bill_id": "hr845-114"
+    },
+    {
+        "committee_name": "House Oversight and Reform Committee",
+        "bill_id": "hr417-114"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s698-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s622-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres60-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s184-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s27-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sconres3-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4894-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres742-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4758-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres718-116"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s4515-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4435-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4282-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4285-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3954-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s965-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s966-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s972-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s971-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s982-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s813-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s811-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s690-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s683-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s684-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s492-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s475-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s424-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s430-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s434-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s1047-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s803-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s788-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s778-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s777-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres118-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s87-117"
+    },
+    {
+        "committee_name": "House Energy and Commerce Committee",
+        "bill_id": "hr8677-116"
+    },
+    {
+        "committee_name": "House Small Business Committee",
+        "bill_id": "hr7792-116"
+    },
+    {
+        "committee_name": "House Agriculture Committee",
+        "bill_id": "hr7108-116"
+    },
+    {
+        "committee_name": "House Energy and Commerce Committee",
+        "bill_id": "hr6910-116"
+    },
+    {
+        "committee_name": "House Agriculture Committee",
+        "bill_id": "hr6067-116"
+    },
+    {
+        "committee_name": "House Judiciary Committee",
+        "bill_id": "hr5289-116"
+    },
+    {
+        "committee_name": "House Science, Space, and Technology Committee",
+        "bill_id": "hr5136-116"
+    },
+    {
+        "committee_name": "House Agriculture Committee",
+        "bill_id": "hr4881-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres32-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres5-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sconres2-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sconres1-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres1-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres4-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres3-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres2-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s5085-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres792-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s4775-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4706-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4547-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres676-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres601-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres142-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s974-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s1039-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s1040-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s1041-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s1064-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s893-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s865-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s834-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s862-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s812-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s765-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres117-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres99-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s616-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s984-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s910-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s1-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s806-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s809-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s722-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres105-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s655-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s606-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s564-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s559-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s482-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s413-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s395-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s393-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s887-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s824-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s701-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s585-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s516-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s469-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s466-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s414-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s321-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s221-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s134-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s5009-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4905-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4838-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4792-116"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "sres125-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s776-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s593-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s549-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s550-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s548-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s464-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s467-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s325-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s220-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4898-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4891-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4889-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4868-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4696-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s1003-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s932-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s753-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s669-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s635-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s529-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s483-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s237-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s240-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s238-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s168-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s5060-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s5059-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4936-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4924-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s981-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1025-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1063-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s1065-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s926-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sjres13-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s837-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s674-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres90-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s455-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s420-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres55-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s200-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s205-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4740-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres82-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s747-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s969-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s1005-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s970-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s826-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s667-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s665-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s668-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s666-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s664-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s575-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s573-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s463-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s406-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s323-117"
+    },
+    {
+        "committee_name": "Senate Budget Committee",
+        "bill_id": "s232-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1033-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s1037-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1035-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s1044-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s583-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s442-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres48-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s272-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s231-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s258-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s5008-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sconres51-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4907-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4719-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4585-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres146-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s987-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s1061-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s923-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s829-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s790-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s772-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s746-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres109-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s732-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s653-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "sres101-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s612-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s521-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s537-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s907-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s808-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s566-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres50-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s288-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s284-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s242-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s252-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s254-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s178-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s96-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s127-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s5071-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s5072-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4960-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s904-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres122-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s802-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s814-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s816-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres120-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s687-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres97-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s239-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres798-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres689-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres684-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4392-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4272-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s4127-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres89-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4378-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4323-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4215-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s3556-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s3214-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres475-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s3075-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s2733-116"
+    },
+    {
+        "committee_name": "House Foreign Affairs Committee",
+        "bill_id": "s2547-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s2519-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s2117-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1806-116"
+    },
+    {
+        "committee_name": "Senate Budget Committee",
+        "bill_id": "s1579-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1384-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s958-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s697-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s693-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s624-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres96-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s513-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "sres73-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s198-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s201-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s176-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s121-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s122-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s94-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5067-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres783-116"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s789-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s107-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4743-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s4704-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4698-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4715-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s4508-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres669-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s4420-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s4419-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres640-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres635-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s3932-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s3917-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s3871-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s993-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s1048-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s1054-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s1059-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1060-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s947-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s841-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres126-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s815-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres116-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s699-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s703-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s689-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s623-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s626-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s991-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s994-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s908-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s916-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s938-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s920-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s915-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s909-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s794-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres66-117"
+    },
+    {
+        "committee_name": "Senate Budget Committee",
+        "bill_id": "sconres5-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s53-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s5063-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4890-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4887-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s123-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s3892-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s3630-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3631-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s3601-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sjres58-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s2440-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s2441-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s1910-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s1348-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s1255-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s909-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s695-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s311-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres19-116"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s989-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s988-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s919-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s817-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s797-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s680-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s561-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres54-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s199-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s204-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s120-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s5025-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s5027-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s5026-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s5029-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres129-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres127-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres128-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres108-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres79-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres78-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres47-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres40-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres39-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres38-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres46-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres41-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres28-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres30-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres27-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s762-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s656-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s578-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s526-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s368-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres25-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s143-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s74-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s19-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s13-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4709-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres706-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4586-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4410-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4319-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s1062-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s948-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s925-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s798-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s688-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres103-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s629-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s568-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "sres88-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres84-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s459-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s332-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s343-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres42-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s301-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s1009-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1010-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s1043-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s748-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres100-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s562-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s499-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s257-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s209-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s202-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s194-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s142-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s141-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s30-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres784-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sjres12-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres93-117"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s4320-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s3363-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres456-116"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s2474-116"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s1900-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sjres19-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s1145-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sconres4-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sconres47-115"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sconres46-115"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s3159-115"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres375-115"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s1662-115"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s906-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s843-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s856-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s528-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s387-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s112-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s89-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s91-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s4922-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4475-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s4341-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4308-116"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4224-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4178-116"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s4168-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s978-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s986-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s861-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s660-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s565-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s531-117"
+    },
+    {
+        "committee_name": "Senate Appropriations Committee",
+        "bill_id": "s410-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s347-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s267-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s261-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s265-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s262-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s167-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s165-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s166-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres139-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s870-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s866-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres115-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s560-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s452-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s363-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres52-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres727-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4584-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s4451-116"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s4453-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres656-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4081-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s3976-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s497-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s509-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s437-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres61-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres36-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres782-116"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s4650-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s4384-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres665-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4211-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres618-116"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s3898-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s3830-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s3831-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s3730-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres145-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s976-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s955-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s810-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sjres11-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s751-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s750-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s737-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s731-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s692-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s682-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s625-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres94-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres77-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s458-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s1058-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s844-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s773-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s617-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s569-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s534-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s495-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s468-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s402-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s358-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s370-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s218-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s193-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s189-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s163-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s927-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s774-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s613-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s574-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s322-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s169-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s59-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s60-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s4793-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4764-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4716-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "s4675-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4605-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s4542-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4479-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s408-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres33-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s42-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "sres804-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4949-116"
+    },
+    {
+        "committee_name": "Senate Budget Committee",
+        "bill_id": "s4879-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4820-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4788-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4702-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4497-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres663-116"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s4135-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s3989-116"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s3798-116"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "sres509-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s1007-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "sjres15-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s940-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s838-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s830-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s770-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s663-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s638-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s595-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s428-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s416-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s392-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s355-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s306-117"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s130-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s90-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s999-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s934-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s757-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s779-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s603-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s604-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s354-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s352-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres53-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s299-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s245-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s203-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s4766-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4521-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4507-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres140-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s1032-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s1031-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s1042-117"
+    },
+    {
+        "committee_name": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "bill_id": "s278-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres23-117"
+    },
+    {
+        "committee_name": "House Commerce; House Ways and Means",
+        "bill_id": "hr4248-104"
+    },
+    {
+        "committee_name": "House Judiciary",
+        "bill_id": "hr4193-104"
+    },
+    {
+        "committee_name": "House Economic and Educational Opportunities",
+        "bill_id": "hconres223-104"
+    },
+    {
+        "committee_name": "House Rules",
+        "bill_id": "hres536-104"
+    },
+    {
+        "committee_name": "House Rules",
+        "bill_id": "hres522-104"
+    },
+    {
+        "committee_name": "House Rules",
+        "bill_id": "hres488-104"
+    },
+    {
+        "committee_name": "House Rules",
+        "bill_id": "hres460-104"
+    },
+    {
+        "committee_name": "House Rules",
+        "bill_id": "hres427-104"
+    },
+    {
+        "committee_name": "House Rules",
+        "bill_id": "hres422-104"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s874-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s783-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s729-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s679-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s681-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres104-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s598-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s515-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s512-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s510-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres85-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s324-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s328-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s268-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s188-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s983-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s939-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s900-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s714-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s725-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s645-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s443-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s147-117"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s146-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres19-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s140-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4908-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "sres759-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "sres757-116"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s4727-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s996-117"
+    },
+    {
+        "committee_name": "Senate Banking, Housing, and Urban Affairs Committee",
+        "bill_id": "s707-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s735-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s592-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s558-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s479-117"
+    },
+    {
+        "committee_name": "Senate Environment and Public Works Committee",
+        "bill_id": "s400-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s381-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s373-117"
+    },
+    {
+        "committee_name": "Senate Small Business and Entrepreneurship Committee",
+        "bill_id": "s310-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s330-117"
+    },
+    {
+        "committee_name": "Senate Foreign Relations Committee",
+        "bill_id": "s319-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s255-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s92-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s5024-116"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s979-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s953-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s892-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s784-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s764-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s704-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s641-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s490-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s487-117"
+    },
+    {
+        "committee_name": "Senate Indian Affairs Committee",
+        "bill_id": "s421-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "sres63-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s223-117"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s249-117"
+    },
+    {
+        "committee_name": "Senate Energy and Natural Resources Committee",
+        "bill_id": "s192-117"
+    },
+    {
+        "committee_name": "Senate Rules and Administration Committee",
+        "bill_id": "s136-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s786-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s733-117"
+    },
+    {
+        "committee_name": "Senate Commerce, Science, and Transportation Committee",
+        "bill_id": "s659-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s518-117"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres83-117"
+    },
+    {
+        "committee_name": "Senate Homeland Security and Governmental Affairs Committee",
+        "bill_id": "s403-117"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s186-117"
+    },
+    {
+        "committee_name": "Senate Veterans&#39; Affairs Committee",
+        "bill_id": "s5083-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4970-116"
+    },
+    {
+        "committee_name": "",
+        "bill_id": "sres785-116"
+    },
+    {
+        "committee_name": "Senate Judiciary Committee",
+        "bill_id": "s4779-116"
+    },
+    {
+        "committee_name": "Senate Armed Services Committee",
+        "bill_id": "s4765-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4574-116"
+    },
+    {
+        "committee_name": "Senate Finance Committee",
+        "bill_id": "s4436-116"
+    },
+    {
+        "committee_name": "Senate Health, Education, Labor, and Pensions Committee",
+        "bill_id": "s4302-116"
+    }
+]

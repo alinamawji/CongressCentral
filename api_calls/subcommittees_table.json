@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Commodities, Risk Management, and Trade",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry"
+    },
+    {
+        "name": "Conservation, Forestry, and Natural Resources",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry"
+    },
+    {
+        "name": "Rural Development and Energy",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry"
+    },
+    {
+        "name": "Livestock, Marketing, and Agriculture Security",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry"
+    },
+    {
+        "name": "Nutrition, Agricultural Research, and Specialty Crops",
+        "committee_name": "Committee on Agriculture, Nutrition, and Forestry"
+    },
+    {
+        "name": "Departments of Labor, Health and Human Services, and Education, and Related Agencies",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Commerce, Justice, Science, and Related Agencies Subcommittee",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Energy and Water Development",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "State, Foreign Operations, and Related Programs",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Department of Homeland Security",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Department of the Interior, Environment, and Related Agencies",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Transportation, Housing and Urban Development, and Related Agencies",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Legislative Branch",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Agriculture, Rural Development, Food and Drug Administration, and Related Agencies",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Department of Defense",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Military Construction and Veterans Affairs, and Related Agencies",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Financial Services and General Government",
+        "committee_name": "Committee on Appropriations"
+    },
+    {
+        "name": "Strategic Forces",
+        "committee_name": "Committee on Armed Services"
+    },
+    {
+        "name": "Emerging Threats and Capabilities",
+        "committee_name": "Committee on Armed Services"
+    },
+    {
+        "name": "Personnel Subcommittee",
+        "committee_name": "Committee on Armed Services"
+    },
+    {
+        "name": "SeaPower",
+        "committee_name": "Committee on Armed Services"
+    },
+    {
+        "name": "Airland",
+        "committee_name": "Committee on Armed Services"
+    },
+    {
+        "name": "Readiness and Management Support",
+        "committee_name": "Committee on Armed Services"
+    },
+    {
+        "name": "Cybersecurity Subcommittee",
+        "committee_name": "Committee on Armed Services"
+    },
+    {
+        "name": "Securities, Insurance, and Investment",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs"
+    },
+    {
+        "name": "Housing, Transportation, and Community Development",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs"
+    },
+    {
+        "name": "Economic Policy",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs"
+    },
+    {
+        "name": "National Security and International Trade and Finance",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs"
+    },
+    {
+        "name": "Financial Institutions and Consumer Protection",
+        "committee_name": "Committee on Banking, Housing, and Urban Affairs"
+    },
+    {
+        "name": "Communications, Technology, Innovation, and the Internet",
+        "committee_name": "Committee on Commerce, Science, and Transportation"
+    },
+    {
+        "name": "Tourism, Competitiveness, and Innovation",
+        "committee_name": "Committee on Commerce, Science, and Transportation"
+    },
+    {
+        "name": "Transportation and Safety",
+        "committee_name": "Committee on Commerce, Science, and Transportation"
+    },
+    {
+        "name": "Security",
+        "committee_name": "Committee on Commerce, Science, and Transportation"
+    },
+    {
+        "name": "Manufacturing, Trade, and Consumer Protection",
+        "committee_name": "Committee on Commerce, Science, and Transportation"
+    },
+    {
+        "name": "Aviation and Space",
+        "committee_name": "Committee on Commerce, Science, and Transportation"
+    },
+    {
+        "name": "Science, Oceans, Fisheries, and Weather",
+        "committee_name": "Committee on Commerce, Science, and Transportation"
+    },
+    {
+        "name": "Public Lands, Forests, and Mining",
+        "committee_name": "Committee on Energy and Natural Resources"
+    },
+    {
+        "name": "National Parks",
+        "committee_name": "Committee on Energy and Natural Resources"
+    },
+    {
+        "name": "Water and Power Subcommittee",
+        "committee_name": "Committee on Energy and Natural Resources"
+    },
+    {
+        "name": "Energy",
+        "committee_name": "Committee on Energy and Natural Resources"
+    },
+    {
+        "name": "Fisheries, Water, and Wildlife",
+        "committee_name": "Committee on Environment and Public Works"
+    },
+    {
+        "name": "Superfund, Waste Management, and Regulatory Oversight",
+        "committee_name": "Committee on Environment and Public Works"
+    },
+    {
+        "name": "Clean Air and Nuclear Safety",
+        "committee_name": "Committee on Environment and Public Works"
+    },
+    {
+        "name": "Green Jobs and the New Economy",
+        "committee_name": "Committee on Environment and Public Works"
+    },
+    {
+        "name": "Transportation and Infrastructure",
+        "committee_name": "Committee on Environment and Public Works"
+    },
+    {
+        "name": "Oversight",
+        "committee_name": "Committee on Environment and Public Works"
+    },
+    {
+        "name": "International Trade, Customs, and Global Competitiveness",
+        "committee_name": "Committee on Finance"
+    },
+    {
+        "name": "Energy, Natural Resources, and Infrastructure",
+        "committee_name": "Committee on Finance"
+    },
+    {
+        "name": "Fiscal Responsibility and Economic Growth",
+        "committee_name": "Committee on Finance"
+    },
+    {
+        "name": "Health Care",
+        "committee_name": "Committee on Finance"
+    },
+    {
+        "name": "Social Security, Pensions, and Family Policy",
+        "committee_name": "Committee on Finance"
+    },
+    {
+        "name": "Taxation and IRS Oversight",
+        "committee_name": "Committee on Finance"
+    },
+    {
+        "name": "International Development and Foreign Assistance, Economic Affairs, International Environmental Protection, and Peace Corps",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "International Operations and Organizations, Human Rights, Democracy, and Global Women's Issues",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "Africa and Global Health Policy",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "Europe and Regional Security Cooperation Subcommittee",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "East Asia, the Pacific, and International Cybersecurity Policy",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "Near East, South Asia, Central Asia, and Counterterrorism",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "Western Hemisphere, Transnational Crime, Civilian Security, Democracy, Human Rights, and Global Women's Issues",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "State Department and USAID Management, International Operations, and Bilateral International Development",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "Multilateral International Development, Multilateral Institutions, and International Economic, Energy, and Environmental Policy",
+        "committee_name": "Committee on Foreign Relations"
+    },
+    {
+        "name": "Children and Families",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions"
+    },
+    {
+        "name": "Employment and Workplace Safety",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions"
+    },
+    {
+        "name": "Primary Health and Retirement Security Subcommittee",
+        "committee_name": "Committee on Health, Education, Labor, and Pensions"
+    },
+    {
+        "name": "Permanent Subcommittee on Investigations",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs"
+    },
+    {
+        "name": "Financial and Contracting Oversight",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs"
+    },
+    {
+        "name": "Emergency Management, Intergovernmental Relations, and the District of Columbia",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs"
+    },
+    {
+        "name": "the Efficiency and Effectiveness of Federal Programs and the Federal Workforce",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs"
+    },
+    {
+        "name": "Regulatory Affairs and Federal Management",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs"
+    },
+    {
+        "name": "Federal Spending Oversight and Emergency Management",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs"
+    },
+    {
+        "name": "Emerging Threats and Spending Oversight Subcommittee",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs"
+    },
+    {
+        "name": "Governmental Operations and Border Management",
+        "committee_name": "Committee on Homeland Security and Governmental Affairs"
+    },
+    {
+        "name": "Competition Policy, Antitrust, and Consumer Rights",
+        "committee_name": "Committee on the Judiciary"
+    },
+    {
+        "name": "Border Security and Immigration",
+        "committee_name": "Committee on the Judiciary"
+    },
+    {
+        "name": "Crime and Terrorism",
+        "committee_name": "Committee on the Judiciary"
+    },
+    {
+        "name": "the Constitution",
+        "committee_name": "Committee on the Judiciary"
+    },
+    {
+        "name": "Federal Courts, Oversight, Agency Action, and Federal Rights",
+        "committee_name": "Committee on the Judiciary"
+    },
+    {
+        "name": "Intellectual Property",
+        "committee_name": "Committee on the Judiciary"
+    }
+]

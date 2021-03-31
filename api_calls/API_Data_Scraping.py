@@ -1,5 +1,6 @@
 import requests
 import json
+import time
 
 CONGRESS = '117'
 headers_pro = {'X-API-Key': 'X0BcSc7q8L5uuSHKNCCBaPrfrRReYzFOoOfZ3NNc'}
@@ -148,7 +149,6 @@ def populate_financial_information_tables(financial_information_table, industry_
             print("ERROR: candidate contributors not found for " + current_mem)
             current_industry_contribution = {'crp_id':current_mem, 'industry_name':None, 'total':None}
             industry_contributors_table.append(current_industry_contribution)
-            continue
 
 
         # Contributors
@@ -169,7 +169,6 @@ def populate_financial_information_tables(financial_information_table, industry_
             print("ERROR: candidate contributors not found for " + current_mem)
             current_org_contribution = {'crp_id':current_mem, 'org_name':None, 'total':None}
             organization_contributors_table.append(current_org_contribution)
-            continue
 
 
         # Sectors
@@ -190,7 +189,6 @@ def populate_financial_information_tables(financial_information_table, industry_
             print("ERROR: candidate contributors not found for " + current_mem)
             current_sect_contribution = {'crp_id':current_mem, 'sector_name':None, 'total':None}
             sector_contributors_table.append(current_sect_contribution)
-            continue
 
 
 def populate_committees_subcommittees_hearings_table(committees_table, subcommittees_table, hearings_table, discuss_table):
@@ -299,6 +297,8 @@ def populate_legislation_and_actions_table(legislation_table, actions_table, is_
 
 
 def main():
+    startTime = time.time()
+
     try:
         print('\n\nBEGINING MEMBERS CALL\n\n')
         populate_members_table(members_table, are_part_of_table)
@@ -363,6 +363,9 @@ def main():
         print('\n\nFAILURE ON LEGISLATION CALL\n\n')
 
     print('\n\nENDING API CALLS\n\n')
+    
+    executionTime = (time.time() - startTime)
+    print('Execution time in seconds: ' + str(executionTime))
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,410 @@
+[
+    {
+        "member_id": "B001230",
+        "crp_id": "N00004367"
+    },
+    {
+        "member_id": "B001261",
+        "crp_id": "N00006236"
+    },
+    {
+        "member_id": "B001267",
+        "crp_id": "N00030608"
+    },
+    {
+        "member_id": "B001243",
+        "crp_id": "N00003105"
+    },
+    {
+        "member_id": "B001277",
+        "crp_id": "N00031685"
+    },
+    {
+        "member_id": "B000575",
+        "crp_id": "N00005195"
+    },
+    {
+        "member_id": "B001288",
+        "crp_id": "N00035267"
+    },
+    {
+        "member_id": "B001236",
+        "crp_id": "N00013873"
+    },
+    {
+        "member_id": "B001310",
+        "crp_id": "N00041731"
+    },
+    {
+        "member_id": "B000944",
+        "crp_id": "N00003535"
+    },
+    {
+        "member_id": "B001135",
+        "crp_id": "N00002221"
+    },
+    {
+        "member_id": "C000127",
+        "crp_id": "N00007836"
+    },
+    {
+        "member_id": "C001047",
+        "crp_id": "N00009771"
+    },
+    {
+        "member_id": "C000141",
+        "crp_id": "N00001955"
+    },
+    {
+        "member_id": "C000174",
+        "crp_id": "N00012508"
+    },
+    {
+        "member_id": "C001070",
+        "crp_id": "N00027503"
+    },
+    {
+        "member_id": "C001075",
+        "crp_id": "N00030245"
+    },
+    {
+        "member_id": "C001035",
+        "crp_id": "N00000491"
+    },
+    {
+        "member_id": "C001088",
+        "crp_id": "N00031820"
+    },
+    {
+        "member_id": "C001056",
+        "crp_id": "N00024852"
+    },
+    {
+        "member_id": "C001113",
+        "crp_id": "N00037161"
+    },
+    {
+        "member_id": "C001095",
+        "crp_id": "N00033363"
+    },
+    {
+        "member_id": "C001096",
+        "crp_id": "N00004614"
+    },
+    {
+        "member_id": "C000880",
+        "crp_id": "N00006267"
+    },
+    {
+        "member_id": "C001098",
+        "crp_id": "N00033085"
+    },
+    {
+        "member_id": "D000618",
+        "crp_id": "N00033054"
+    },
+    {
+        "member_id": "D000622",
+        "crp_id": "N00027860"
+    },
+    {
+        "member_id": "D000563",
+        "crp_id": "N00004981"
+    },
+    {
+        "member_id": "E000295",
+        "crp_id": "N00035483"
+    },
+    {
+        "member_id": "F000062",
+        "crp_id": "N00007364"
+    },
+    {
+        "member_id": "F000463",
+        "crp_id": "N00033443"
+    },
+    {
+        "member_id": "G000555",
+        "crp_id": "N00027658"
+    },
+    {
+        "member_id": "G000359",
+        "crp_id": "N00009975"
+    },
+    {
+        "member_id": "G000386",
+        "crp_id": "N00001758"
+    },
+    {
+        "member_id": "H000601",
+        "crp_id": null
+    },
+    {
+        "member_id": "H001075",
+        "crp_id": "N00036915"
+    },
+    {
+        "member_id": "H001076",
+        "crp_id": "N00038397"
+    },
+    {
+        "member_id": "H001089",
+        "crp_id": "N00041620"
+    },
+    {
+        "member_id": "H001046",
+        "crp_id": "N00029835"
+    },
+    {
+        "member_id": "H000273",
+        "crp_id": null
+    },
+    {
+        "member_id": "H001042",
+        "crp_id": "N00028139"
+    },
+    {
+        "member_id": "H001061",
+        "crp_id": "N00031688"
+    },
+    {
+        "member_id": "H001079",
+        "crp_id": "N00043298"
+    },
+    {
+        "member_id": "I000024",
+        "crp_id": "N00005582"
+    },
+    {
+        "member_id": "J000293",
+        "crp_id": "N00032546"
+    },
+    {
+        "member_id": "K000384",
+        "crp_id": "N00033177"
+    },
+    {
+        "member_id": "K000377",
+        "crp_id": "N00044223"
+    },
+    {
+        "member_id": "K000393",
+        "crp_id": "N00026823"
+    },
+    {
+        "member_id": "K000383",
+        "crp_id": "N00034580"
+    },
+    {
+        "member_id": "K000367",
+        "crp_id": "N00027500"
+    },
+    {
+        "member_id": "L000575",
+        "crp_id": "N00031129"
+    },
+    {
+        "member_id": "L000174",
+        "crp_id": "N00009918"
+    },
+    {
+        "member_id": "L000577",
+        "crp_id": "N00031696"
+    },
+    {
+        "member_id": "L000594",
+        "crp_id": "N00046125"
+    },
+    {
+        "member_id": "L000570",
+        "crp_id": "N00029562"
+    },
+    {
+        "member_id": "L000571",
+        "crp_id": "N00029788"
+    },
+    {
+        "member_id": "M001183",
+        "crp_id": "N00032838"
+    },
+    {
+        "member_id": "M000133",
+        "crp_id": "N00000270"
+    },
+    {
+        "member_id": "M001198",
+        "crp_id": "N00037034"
+    },
+    {
+        "member_id": "M000355",
+        "crp_id": "N00003389"
+    },
+    {
+        "member_id": "M000639",
+        "crp_id": "N00000699"
+    },
+    {
+        "member_id": "M001176",
+        "crp_id": "N00029303"
+    },
+    {
+        "member_id": "M000934",
+        "crp_id": "N00005282"
+    },
+    {
+        "member_id": "M001153",
+        "crp_id": "N00026050"
+    },
+    {
+        "member_id": "M001169",
+        "crp_id": "N00027566"
+    },
+    {
+        "member_id": "M001111",
+        "crp_id": "N00007876"
+    },
+    {
+        "member_id": "O000174",
+        "crp_id": null
+    },
+    {
+        "member_id": "P000145",
+        "crp_id": null
+    },
+    {
+        "member_id": "P000603",
+        "crp_id": "N00030836"
+    },
+    {
+        "member_id": "P000595",
+        "crp_id": "N00029277"
+    },
+    {
+        "member_id": "P000449",
+        "crp_id": "N00003682"
+    },
+    {
+        "member_id": "R000122",
+        "crp_id": "N00000362"
+    },
+    {
+        "member_id": "R000584",
+        "crp_id": "N00029441"
+    },
+    {
+        "member_id": "R000615",
+        "crp_id": "N00000286"
+    },
+    {
+        "member_id": "R000608",
+        "crp_id": "N00038734"
+    },
+    {
+        "member_id": "R000605",
+        "crp_id": "N00035187"
+    },
+    {
+        "member_id": "R000595",
+        "crp_id": "N00030612"
+    },
+    {
+        "member_id": "S000033",
+        "crp_id": "N00000528"
+    },
+    {
+        "member_id": "S001197",
+        "crp_id": "N00035544"
+    },
+    {
+        "member_id": "S001194",
+        "crp_id": "N00028138"
+    },
+    {
+        "member_id": "S000148",
+        "crp_id": "N00001093"
+    },
+    {
+        "member_id": "S001184",
+        "crp_id": "N00031782"
+    },
+    {
+        "member_id": "S001217",
+        "crp_id": "N00043290"
+    },
+    {
+        "member_id": "S001181",
+        "crp_id": "N00024790"
+    },
+    {
+        "member_id": "S000320",
+        "crp_id": "N00009920"
+    },
+    {
+        "member_id": "S001191",
+        "crp_id": "N00033983"
+    },
+    {
+        "member_id": "S001203",
+        "crp_id": "N00042353"
+    },
+    {
+        "member_id": "S000770",
+        "crp_id": "N00004118"
+    },
+    {
+        "member_id": "S001198",
+        "crp_id": "N00035774"
+    },
+    {
+        "member_id": "T000464",
+        "crp_id": "N00027605"
+    },
+    {
+        "member_id": "T000250",
+        "crp_id": "N00004572"
+    },
+    {
+        "member_id": "T000476",
+        "crp_id": "N00035492"
+    },
+    {
+        "member_id": "T000461",
+        "crp_id": "N00001489"
+    },
+    {
+        "member_id": "T000278",
+        "crp_id": null
+    },
+    {
+        "member_id": "V000128",
+        "crp_id": "N00013820"
+    },
+    {
+        "member_id": "W000805",
+        "crp_id": "N00002097"
+    },
+    {
+        "member_id": "W000790",
+        "crp_id": null
+    },
+    {
+        "member_id": "W000817",
+        "crp_id": "N00033492"
+    },
+    {
+        "member_id": "W000802",
+        "crp_id": "N00027533"
+    },
+    {
+        "member_id": "W000437",
+        "crp_id": "N00003280"
+    },
+    {
+        "member_id": "W000779",
+        "crp_id": "N00007724"
+    },
+    {
+        "member_id": "Y000064",
+        "crp_id": "N00030670"
+    }
+]
