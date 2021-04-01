@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<!-- Style content CDN -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!-- Font for icons like check mark -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<!-- Local stylesheet elements -->
+<link rel="stylesheet" href="{{ url_for('static',filename='profile.css') }}">
+
+<!-- favicon -->
+<link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='images/favicon.png') }}"/>
+
+  <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-light static-top">
+        <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('index')}}">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('members')}}">Members</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('committees')}}">Committees</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('legislation')}}">Legislation</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('about')}}">About</a>
+            </li>
+          </ul>
+            <form class="form-inline my-2 my-lg-0">
+              <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success my-2 my-sm-0 disabled" type="submit">Search</button>
+            </form>
+        </div>
+</nav>
+
+<div class="container bootdey flex-grow-1 container-p-y">
+  {% for i in members %}
+    {% if i.member_id == member %}
+      <div class="media align-items-center py-3 mb-3">
+        <img src="../static/images/{{i.member_id}}.jpg" alt="" class="d-block ui-w-100 rounded-circle">
+        <div class="media-body ml-4">
+          <h4 class="font-weight-bold mb-0">Senator {{i.Lname}} {{ i.suffix if i.suffix is not none else '' }}, {{i.Fname}} {{ i.MI if i.MI is not none else '' }}
+    {% endif %}
+  {% endfor %}
+  {% for i in twitter %}
+    {% if i.member_id == member %}
+            <a class="text-muted font-weight-normal" href="https://twitter.com/SenatorBaldwin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">{{i.twitter_handle}}
+            </a>
+          </h4>
+    {% endif %}
+  {% endfor %}
+  {% for i in members %}
+    {% if i.member_id == member %}
+          <div class="text-muted mb-2">{{i.party}} | {{i.state}}</div>
+        </div>
+      </div>
+
+            <div class="card mb-4">
+              <div class="card-body">
+                <table class="table user-view-table m-0">
+                  <tbody>
+                    <tr>
+                      <td>Website:</td>
+                        <td>
+                          <a class="" href="{{i.url}}">{{i.url}}</a>
+                        </td>
+                    </tr>
+                    <tr>
+                      <td>Verified:</td>
+                      <td><span class="fa fa-check text-primary"></span>&nbsp; Yes</td>
+                    </tr>
+                    <tr>
+                      <td>Party:</td>
+                      <td>{{i.party}}</td>
+                    </tr>
+                    <tr>
+                      <td>Votes with Party %:</td>
+                      <td>{{i.votes_w_party}}</td>
+                    </tr>
+                    <tr>
+                      <td>Votes against Party %:</td>
+                      <td>{{i.votes_ag_party}}</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+
+    {% endif %}
+  {% endfor %}
+            <hr class="border-light m-0">
+              <div class="table-responsive">
+                <table class="table card-table m-0">
+                  <tbody>
+                    <tr>
+                      <th>Committees</th>
+                    </tr>
+                    {% for i in committees %}
+                      {% if i.member_id == member %}
+                        <tr>
+                          <td>
+                            <a href="{{url_for('committees')}}#sen_approp">{{i.name}}</a>
+                          </td>
+                        </tr>
+                      {% endif %}
+                    {% endfor %}
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+  {% for i in twitter %}
+    {% if i.member_id == member %}
+            <div class="card mb-4">
+              <div class="row no-gutters row-bordered">
+                <div class="d-flex col-md align-items-center">
+                  <a class="card-body d-block text-body">
+                    <div class="text-muted small line-height-1">Tweets</div>
+                    <div class="text-xlarge">{{i.number_tweets}}</div>
+                  </a>
+                </div>
+                <div class="d-flex col-md align-items-center">
+                  <a class="card-body d-block text-body">
+                    <div class="text-muted small line-height-1">Followers</div>
+                    <div class="text-xlarge">{{i.number_followers}}</div>
+                  </a>
+                </div>
+                <div class="d-flex col-md align-items-center">
+                  <a class="card-body d-block text-body">
+                    <div class="text-muted small line-height-1">Following</div>
+                    <div class="text-xlarge">{{i.number_following}}</div>
+                  </a>
+                </div>
+              </div>
+              <hr class="border-light m-0">
+              <div class="card-body">
+    {% endif %}
+  {% endfor %}
+  {% for i in members %}
+    {% if i.member_id == member %}
+                <table class="table user-view-table m-0">
+                <h6 class="mt-4 mb-3">Contacts</h6>
+
+                <table class="table user-view-table m-0">
+                  <tbody>
+                    <tr>
+                      <td>Phone:</td>
+                      <td>{{i.phone}}</td>
+                    </tr>
+                    <tr>
+                      <td>Mail:</td>
+                      <td>{{i.mailing_address}}</td>
+                    </tr>
+                  </tbody>
+                </table>
+
+              </div>
+            </div>
+    {% endif %}
+  {% endfor %}
+
+            <div class="card mb-4">
+              <div class="row no-gutters row-bordered">
+                <div class="d-flex col-md align-items-center">
+                  <a class="card-body d-block text-body">
+                    <div class="text-large">Legislative Activity</div>
+                  </a>
+                  <div class="table-responsive">
+                    <table class="table card-table m-0">
+                      <tbody>
+                        {% for i in legislation %}
+                          {% if i.member_id == member %}
+                          <tr>
+                            <td>
+                              <p>
+                                <h6><a href="{{url_for('{{i.bill_id}}')}}">{{i.bill_number}}<a></h6>
+                                <br>
+                                {{i.summary}}
+                                <br>
+                                <br>
+                                Introduced: {{i.date_introduced}}
+                              </p>
+                            </td>
+                          </tr>
+                          {% endif %}
+                        {% endfor %}
+
+                        <tr>
+                          <td>
+                            <a href="{{url_for('legislation')}}">Click here to view more</a>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card mb-4">
+              <div class="row no-gutters row-bordered">
+                <div class="d-flex col-md align-items-center">
+                  <a class="card-body d-block text-body">
+                    <div class="text-large">Twitter</div>
+                  </a>
+                  <div class="table-responsive">
+                    <table class="table card-table m-0">
+                      <tbody>
+                        {% for i in twitter %}
+                          {% if i.member_id == member %}
+                          <tr>
+                            <td>
+                              <p>
+                                <br>
+                                {{i.timeline_html}}
+                                <br>
+                              </p>
+                            </td>
+                          </tr>
+                          {% endif %}
+                        {% endfor %}
+
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card mb-4">
+              <div class="row no-gutters row-bordered">
+                <div class="d-flex col-md align-items-center">
+                  <a class="card-body d-block text-body">
+                    <div class="text-large">Financial Contributors</div>
+                  </a>
+                  <div class="table-responsive">
+                    <table class="table card-table m-0">
+                      <tbody>
+                        {% for i in financial %}
+                          {% if i.member_id == member %}
+                            {% set crp_id = i.crp_id -%}
+                              {% for j in industry_contributors %}
+                                {% if j.crp_id == crp_id %}
+                                <tr>
+                                  <td>
+                                    <p>
+                                      <h6>{{j.industry_name}}</h6>
+                                      <br>
+                                      {{j.total}}
+                                    </p>
+                                  </td>
+                                </tr>
+                              {% endif %}
+                            {% endfor %}
+                            {% for j in organizaation_contributors %}
+                                {% if j.crp_id == crp_id %}
+                                <tr>
+                                  <td>
+                                    <p>
+                                      <h6>{{j.organization_name}}</h6>
+                                      <br>
+                                      {{j.total}}
+                                    </p>
+                                  </td>
+                                </tr>
+                              {% endif %}
+                            {% endfor %}
+                            {% for j in sector_contributors %}
+                                {% if j.crp_id == crp_id %}
+                                <tr>
+                                  <td>
+                                    <p>
+                                      <h6>{{j.sector_name}}</h6>
+                                      <br>
+                                      {{j.total}}
+                                    </p>
+                                  </td>
+                                </tr>
+                              {% endif %}
+                            {% endfor %}
+                          {% endif %}
+                        {% endfor %}
+
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+        </div>
