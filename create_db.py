@@ -27,7 +27,7 @@ def create_Committees():
         branch = one_committee['branch']
         chair_id = one_committee['chair_id']
         ranking_id = one_committee['ranking_id']
-        newCommittee = Committee(name = name, website = website, branch = branch, chair_id = chair_id, ranking_id)
+        newCommittee = Committee(name = name, website = website, branch = branch, chair_id = chair_id, ranking_id = ranking_id)
 
         # add it to our session
         db.session.add(newCommittee)

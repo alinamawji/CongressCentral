@@ -117,14 +117,14 @@ class Member(db.Model):
           'fname': self.fname,
           'lname': self.lname,
           'mname': self.mname,
-          'namesuffix': self.namesuffix
-          'party': self.party
-          'state': self.state
-          'state_rank': self.state_rank
-          'phone': self.phone
-          'mailing_address': self.mailing_address
-          'url': self.url
-          'vote_w_party': self.vote_w_party
+          'namesuffix': self.namesuffix,
+          'party': self.party,
+          'state': self.state,
+          'state_rank': self.state_rank,
+          'phone': self.phone,
+          'mailing_address': self.mailing_address,
+          'url': self.url,
+          'vote_w_party': self.vote_w_party,
           'vote_against_party': self.vote_against_party
         }
 
@@ -149,8 +149,8 @@ class Legislation(db.Model):
     summary = db.Column(db.String(255), nullable = False)
     type = db.Column(db.String(10))
     data_introduced = db.Column(db.String(20), nullable = False)
-    member_id = db.column(db.String(20), db.ForeignKey('member.id'))
-    bill_number = db.column(db.String(20), nullable = False)
+    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
+    bill_number = db.Column(db.String(20), nullable = False)
 
     # show the relationship
     action = db.relationship('Action', backref = 'legislation')
@@ -169,9 +169,9 @@ class Legislation(db.Model):
           'cosponsors': self.cosponsors,
           'summary': self.summary,
           'type': self.type,
-          'data_introduced': self.data_introduced
+          'data_introduced': self.data_introduced,
           # not sure whether this is right or not about foreign key return
-          'member_id': self.member_id
+          'member_id': self.member_id,
           'bill_number': self.bill_number
         }
 
@@ -191,7 +191,7 @@ class Twitter_Account(db.Model):
     __tablename__ = 'twitter_account'
 
     twitter_handle = db.Column(db.String(40), primary_key = True)
-    member_id = db.column(db.String(20), db.ForeignKey('member.id'))
+    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
     number_following = db.Column(db.Integer)
     number_followers = db.Column(db.Integer)
     number_tweets = db.Column(db.Integer)
@@ -209,7 +209,7 @@ class Twitter_Account(db.Model):
           'member_id': self.member_id,
           'number_following': self.number_following,
           'number_followers': self.number_followers,
-          'number_tweets': self.number_tweets
+          'number_tweets': self.number_tweets,
           'timeline_html': self.timeline_html
         }
 
@@ -225,7 +225,7 @@ class Financial_Information(db.Model):
     __tablename__ = 'financial_information'
 
     crp_id = db.Column(db.String(20), primary_key = True)
-    member_id = db.column(db.String(20), db.ForeignKey('member.id'))
+    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
 
     # show the relationship
     industry_contr = db.relationship('Industry_Contributor', backref = 'financial_information')
@@ -258,9 +258,9 @@ class Industry_Contributor(db.Model):
     __tablename__ = 'industry_contributor'
 
     industry_name = db.Column(db.String(40), primary_key = True)
-    crp_id = db.column(db.String(20), db.ForeignKey('financial_information.crp_id'))
-    member_id = db.column(db.String(20), db.ForeignKey('member.id'))
-    total = db.column(db.String(20))
+    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'))
+    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
+    total = db.Column(db.String(20))
 
     # ------------
     # serialize
@@ -290,9 +290,9 @@ class Organization_Contributor(db.Model):
     __tablename__ = 'organ_contributor'
 
     org_name = db.Column(db.String(40), primary_key = True)
-    crp_id = db.column(db.String(20), db.ForeignKey('financial_information.crp_id'))
-    member_id = db.column(db.String(20), db.ForeignKey('member.id'))
-    total = db.column(db.String(20))
+    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'))
+    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
+    total = db.Column(db.String(20))
 
     # ------------
     # serialize
@@ -322,9 +322,9 @@ class Sector_Contributor(db.Model):
     __tablename__ = 'sector_contributor'
 
     sector_name = db.Column(db.String(40), primary_key = True)
-    crp_id = db.column(db.String(20), db.ForeignKey('financial_information.crp_id'))
-    member_id = db.column(db.String(20), db.ForeignKey('member.id'))
-    total = db.column(db.String(20))
+    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'))
+    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
+    total = db.Column(db.String(20))
 
     # ------------
     # serialize
@@ -352,7 +352,7 @@ class Subcommittee(db.Model):
     __tablename__ = 'subcommittee'
     
     name = db.Column(db.String(80), primary_key = True)
-    committee_name = db.column(db.String(80), db.ForeignKey('committee.name'))
+    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
 
     # ------------
     # serialize
@@ -381,7 +381,7 @@ class Hearing(db.Model):
     __tablename__ = 'hearing'
 
     date = db.Column(db.String(20), primary_key = True)
-    committee_name = db.column(db.String(80), db.ForeignKey('committee.name'))
+    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
     time = db.Column(db.String(20), primary_key = True)
     location = db.Column(db.String(20), primary_key = True)
     description = db.Column(db.String(255))
@@ -418,7 +418,7 @@ class Action(db.Model):
     __tablename__ = 'action'
 
     action_id = db.Column(db.String(20), primary_key = True)
-    bill_id = db.column(db.String(80), db.ForeignKey('legislation.bill_id'))
+    bill_id = db.Column(db.String(80), db.ForeignKey('legislation.bill_id'))
     date = db.Column(db.String(20))
     description = db.Column(db.String(255))
 
@@ -447,8 +447,8 @@ class Are_Part_Of(db.Model):
     """
     __tablename__ = 'are_part_of'
 
-    committee_name = db.column(db.String(80), db.ForeignKey('committee.name'))
-    member_id = db.column(db.String(20), db.ForeignKey('member.id'))
+    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
+    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
 
 
     # ------------
@@ -474,8 +474,8 @@ class Is_Pushed_Through(db.Model):
     """
     __tablename__ = 'is_pushed_through'
 
-    committee_name = db.column(db.String(80), db.ForeignKey('committee.name'))
-    bill_id = db.column(db.String(80), db.ForeignKey('legislation.bill_id'))
+    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
+    bill_id = db.Column(db.String(80), db.ForeignKey('legislation.bill_id'))
 
     # ------------
     # serialize
@@ -502,10 +502,10 @@ class Discuss(db.Model):
     """
     __tablename__ = 'is_pushed_through'
 
-    hearing_date = db.column(db.String(20), db.ForeignKey('hearing.date'))
-    hearing_time = db.column(db.String(20), db.ForeignKey('hearing.time'))
-    hearing_location = db.column(db.String(20), db.ForeignKey('hearing.location'))
-    bill_id = db.column(db.String(80), db.ForeignKey('legislation.bill_id'))
+    hearing_date = db.Column(db.String(20), db.ForeignKey('hearing.date'))
+    hearing_time = db.Column(db.String(20), db.ForeignKey('hearing.time'))
+    hearing_location = db.Column(db.String(20), db.ForeignKey('hearing.location'))
+    bill_id = db.Column(db.String(80), db.ForeignKey('legislation.bill_id'))
 
     # ------------
     # serialize
