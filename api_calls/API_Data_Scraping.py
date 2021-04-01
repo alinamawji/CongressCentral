@@ -233,6 +233,12 @@ def populate_committees_subcommittees_hearings_table(committees_table, subcommit
             print("APPEND: " + current_hearing['committee_name'] + ' ' + current_hearing['date'])
             hearings_table.append(current_hearing)
 
+            if j['bill_ids'] == []:
+                current_discussion = {'hearing_date':j['date'], 'hearing_time':j['time'],
+                'hearing_location':j['location'], 'bill_id':None}
+                print("APPEND: No bills discussed on " + current_discussion['hearing_date'])
+                discuss_table.append(current_discussion)
+
             for k in j['bill_ids']:
                 current_discussion = {'hearing_date':j['date'], 'hearing_time':j['time'],
                 'hearing_location':j['location'], 'bill_id':k}

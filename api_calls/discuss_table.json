@@ -1,1 +1,1154 @@
-[]
+[
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SR-301",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-11",
+        "hearing_time": "10:15:00",
+        "hearing_location": "SR-301",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-11",
+        "hearing_time": "10:15:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-02",
+        "hearing_time": "10:30:00",
+        "hearing_location": "SR-301",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "12:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "09:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-18",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-16",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-11",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-09",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-04",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-02",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-25",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-23",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-04",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-02",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-19",
+        "hearing_time": "15:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-19",
+        "hearing_time": "15:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-12",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-18",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-16",
+        "hearing_time": "14:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-09",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-04",
+        "hearing_time": "10:15:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-02",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-25",
+        "hearing_time": "09:30:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-18",
+        "hearing_time": "11:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-11",
+        "hearing_time": "11:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-04",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SR-325",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-04",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-28",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-253",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-253",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-253",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-11",
+        "hearing_time": "10:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-11",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-325",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-03",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SR-325",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-27",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-325",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-26",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-253",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-21",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-253",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-366",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "09:45:00",
+        "hearing_location": "SD-366",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-366",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-16",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-366",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-11",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-11",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-366",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-04",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-04",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-366",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-366",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-23",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-366",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-12",
+        "hearing_time": "00:00:00",
+        "hearing_location": "S-207",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-27",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-562",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "10:15:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-03",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "09:30:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-18",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-16",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-215",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-25",
+        "hearing_time": "09:45:00",
+        "hearing_location": "SD-215",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-215",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-13",
+        "hearing_time": "11:30:00",
+        "hearing_location": "S-207",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-22",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-19",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-215",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-19",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-106/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-106/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-22",
+        "hearing_time": "18:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-15",
+        "hearing_time": "18:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-11",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-11",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "09:45:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-08",
+        "hearing_time": "18:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-04",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-325",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-03",
+        "hearing_time": "09:45:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-27",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-325",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-27",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-26",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-19",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SR-301/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-430",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-430",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-430",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-18",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-430",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-16",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-09",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-430",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-11",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-430",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-04",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-430",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-430",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "10:15:00",
+        "hearing_location": "SD-342/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-342/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-342/VTC",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-342",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-18",
+        "hearing_time": "10:15:00",
+        "hearing_location": "SD-342/WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SD-342",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "09:45:00",
+        "hearing_location": "SD-342",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-04",
+        "hearing_time": "10:15:00",
+        "hearing_location": "SD-342/WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50/WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-02",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-342/WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-02",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-342",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-342",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-11",
+        "hearing_time": "11:40:00",
+        "hearing_location": "SD-342",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-09",
+        "hearing_time": "09:15:00",
+        "hearing_location": "SD-342",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-26",
+        "hearing_time": "11:00:00",
+        "hearing_location": "SD-342",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-19",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-342/WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-628",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-628",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-628",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-11",
+        "hearing_time": "11:00:00",
+        "hearing_location": "SD-628",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-301",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-22",
+        "hearing_time": "17:45:00",
+        "hearing_location": "S-219",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-22",
+        "hearing_time": "17:30:00",
+        "hearing_location": "S-219",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-215",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SR-301",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-215",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-03",
+        "hearing_time": "10:30:00",
+        "hearing_location": "SR-301",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "11:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "11:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "14:30:00",
+        "hearing_location": "S-207",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "00:00:00",
+        "hearing_location": "S-207",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-02",
+        "hearing_time": "11:00:00",
+        "hearing_location": "SD-608",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-25",
+        "hearing_time": "10:15:00",
+        "hearing_location": "SD-608",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "00:00:00",
+        "hearing_location": "S-207",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-10",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-608",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-25",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-226",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-18",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-17",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-226",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-11",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-226",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "15:00:00",
+        "hearing_location": "SD-226",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-226",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-09",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-09",
+        "hearing_time": "09:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-02",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-01",
+        "hearing_time": "13:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-23",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-22",
+        "hearing_time": "09:30:00",
+        "hearing_location": "SH-216",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-12",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "15:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-18",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "15:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-04",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-03",
+        "hearing_time": "10:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "16:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "15:00:00",
+        "hearing_location": "SD-G50",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-02",
+        "hearing_time": "00:00:00",
+        "hearing_location": "TBA",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-27",
+        "hearing_time": "15:00:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-24",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-23",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-16",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-10",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-09",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-02",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-24",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SR-301",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-23",
+        "hearing_time": "14:30:00",
+        "hearing_location": "SD-106",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-02-11",
+        "hearing_time": "11:45:00",
+        "hearing_location": "S-207",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-27",
+        "hearing_time": "14:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-19",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SD-215/WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-15",
+        "hearing_time": "12:00:00",
+        "hearing_location": "WEBEX",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-01-06",
+        "hearing_time": "10:00:00",
+        "hearing_location": "SVC-217",
+        "bill_id": null
+    },
+    {
+        "hearing_date": "2021-03-18",
+        "hearing_time": "09:30:00",
+        "hearing_location": "VTC",
+        "bill_id": null
+    }
+]
