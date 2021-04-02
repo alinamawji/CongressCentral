@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
 
     <!-- Local stylesheet elements -->
-    <link rel="stylesheet" href="{{ url_for('static',filename='legislation.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static',filename='committees.css') }}">
 
     <!-- favicon -->
     <link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='images/favicon.png') }}"/>
@@ -57,8 +57,8 @@
 
 <!-- HEADER -->
     <div class="header">
-        <h1>Legislation</h1>
-        <p>Search current or other important legislation in the Congress</p>
+        <h1>Committees</h1>
+        <p>Search committees where senators debate and ammend legislation</p>
     </div>
 
 <!-- SEARCH BAR -->
@@ -83,14 +83,14 @@
       <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
         <button class="dropdown-item" id="titleSortA">Title A-Z</button>
         <button class="dropdown-item" id="titleSortD">Title Z-A</button>
-        <button class="dropdown-item" id="memSortA">Member A-Z</button>
-        <button class="dropdown-item" id="memSortD">Member Z-A</button>
-        <button class="dropdown-item" id="dateSortA">Date</button>
-        <button class="dropdown-item" id="dateSortD">Date</button>
-        <button class="dropdown-item" id="origSortA">Origin A-Z</button>
-        <button class="dropdown-item" id="origSortD">Origin Z-A</button>
-        <button class="dropdown-item" id="typeSortA">Type A-Z</button>
-        <button class="dropdown-item" id="typeSortD">Type Z-A</button>
+        <button class="dropdown-item" id="chairSortA">Chair A-Z</button>
+        <button class="dropdown-item" id="chairSortD">Chair Z-A</button>
+        <button class="dropdown-item" id="rankingSortA">Ranking A-Z</button>
+        <button class="dropdown-item" id="rankingSortD">Ranking Z-A</button>
+        <button class="dropdown-item" id="membersSortA">Members Ascending</button>
+        <button class="dropdown-item" id="membersSortD">Members Descending</button>
+        <button class="dropdown-item" id="hearingSortA">Last Hearing Recent</button>
+        <button class="dropdown-item" id="hearingSortD">Last Hearing Past</button>
       </div>
     </div>
   </div>
@@ -107,52 +107,56 @@
           return $(a).find(".card-title").text() < $(b).find(".card-title").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("memSortA").addEventListener("click", sortMemAsc);
-    function sortMemAsc (){
+
+    document.getElementById("chairSortA").addEventListener("click", sortChairAsc);
+    function sortChairAsc (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".sponsor").text() > $(b).find(".sponsor").text() ? 1 : -1;
+          return $(a).find(".chair").text() > $(b).find(".chair").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("memSortD").addEventListener("click", sortMemDes);
-    function sortMemDes (){
+    document.getElementById("chairSortD").addEventListener("click", sortChairDes);
+    function sortChairDes (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".sponsor").text() < $(b).find(".sponsor").text() ? 1 : -1;
+          return $(a).find(".chair").text() < $(b).find(".chair").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("dateSortA").addEventListener("click", sortDateAsc);
-    function sortDateAsc (){
+
+    document.getElementById("rankingSortA").addEventListener("click", sortRankingAsc);
+    function sortRankingAsc (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".date").text() > $(b).find(".date").text() ? 1 : -1;
+          return $(a).find(".ranking").text() > $(b).find(".ranking").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("dateSortD").addEventListener("click", sortDateDes);
-    function sortDateDes (){
+    document.getElementById("rankingSortD").addEventListener("click", sortRankingDes);
+    function sortRankingDes (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".date").text() < $(b).find(".date").text() ? 1 : -1;
+          return $(a).find(".ranking").text() < $(b).find(".ranking").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("origSortA").addEventListener("click", sortOrigAsc);
-    function sortOrigAsc (){
+
+    document.getElementById("membersSortA").addEventListener("click", sortMemsAsc);
+    function sortMemsAsc (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".origin").text() > $(b).find(".origin").text() ? 1 : -1;
+          return $(a).find(".totalmems").text() > $(b).find(".totalmems").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("origSortD").addEventListener("click", sortOrigDes);
-    function sortOrigDes (){
+    document.getElementById("membersSortD").addEventListener("click", sortMemsDes);
+    function sortMemsDes (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".origin").text() < $(b).find(".origin").text() ? 1 : -1;
+          return $(a).find(".totalmems").text() < $(b).find(".totalmems").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("typeSortA").addEventListener("click", sortTypeAsc);
-    function sortTypeAsc (){
+
+    document.getElementById("hearingSortA").addEventListener("click", sortHearingAsc);
+    function sortHearingAsc (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".card-header").text() > $(b).find(".card-header").text() ? 1 : -1;
+          return $(a).find(".lasthearing").text() > $(b).find(".lasthearing").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("typeSortD").addEventListener("click", sortTypeDes);
-    function sortTypeDes (){
+    document.getElementById("hearingSortD").addEventListener("click", sortHearingDes);
+    function sortHearingDes (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".card-header").text() < $(b).find(".card-header").text() ? 1 : -1;
+          return $(a).find(".lasthearing").text() < $(b).find(".lasthearing").text() ? 1 : -1;
       }).appendTo(".card-deck")};
   </script>
 
@@ -164,13 +168,13 @@
         <div class="card-body">
           <h2 class="card-title"><a class="card-link" href="{{url_for('s287')}}">Agriculture, Nutrition, and Forestry</a></h2>
             <p>
-              <a href="{{url_for('members')}}" class="card-link committee-chair">Chair: Stabenow, Debbie (D-MI)</a>
-              <a href="{{url_for('boozman')}}" class="card-link committee-ranking">Ranking Member: Boozman, John (R-AR)</a>
+              <a href="{{url_for('members')}}" class="card-link chair">Chair: Stabenow, Debbie (D-MI)</a>
+              <a href="{{url_for('boozman')}}" class="card-link ranking">Ranking Member: Boozman, John (R-AR)</a>
             </p>
             <div class="row">
             <div class="col-4">
                 <p class="card-text-att">Total Members: <br>
-                  <p class="date card-text">22</p>
+                  <p class="date card-text totalmems">22</p>
                 </p>
             </div>
             <div class="col-4">
@@ -180,7 +184,37 @@
             </div>
             <div class="col-4">
                 <p class="card-text-att">Last Hearing Date: <br>
-                  <p class="date card-text">1/22/21</p>
+                  <p class="date card-text lasthearing">1/22/21</p>
+                </p>
+            </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <a href="https://www.rules.senate.gov/" class="card-link" target="_blank">Official Senate Site</a>
+        </div>
+      </div>
+
+      <div class="card mb-4">
+        <div class="card-body">
+          <h2 class="card-title"><a class="card-link" href="{{url_for('s287')}}">Test</a></h2>
+            <p>
+              <a href="{{url_for('members')}}" class="card-link chair">Chair: ZZZZ</a>
+              <a href="{{url_for('boozman')}}" class="card-link ranking">Ranking Member: A man</a>
+            </p>
+            <div class="row">
+            <div class="col-4">
+                <p class="card-text-att">Total Members: <br>
+                  <p class="date card-text .totalmems">12</p>
+                </p>
+            </div>
+            <div class="col-4">
+                <p class="card-text-att">Total Subcommittees: <br>
+                  <p class="date card-text">22</p>
+                </p>
+            </div>
+            <div class="col-4">
+                <p class="card-text-att">Last Hearing Date: <br>
+                  <p class="date card-text .lasthearing">1/27/21</p>
                 </p>
             </div>
             </div>

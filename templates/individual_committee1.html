@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+
+<!-- Style content CDN -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!-- Font for icons like check mark -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<!-- Local stylesheet elements -->
+<link rel="stylesheet" href="{{ url_for('static',filename='profile.css') }}">
+
+<!-- favicon -->
+<link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='images/favicon.png') }}"/>
+
+  <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-light static-top">
+        <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('index')}}">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('members')}}">Members</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('committees')}}">Committees</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('legislation')}}">Legislation</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('about')}}">About</a>
+            </li>
+          </ul>
+            <form class="form-inline my-2 my-lg-0">
+              <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+              <button class="btn btn-outline-success my-2 my-sm-0 disabled" type="submit">Search</button>
+            </form>
+        </div>
+</nav>
+
+<div class="container bootdey flex-grow-1 container-p-y">
+
+{% for i in committees %}
+    {% if i.name == id %}
+
+  <div class="media align-items-center py-3 mb-3">
+    <div class="media-body ml-4">
+      <h3 class="mb-0">{{i.name}}</h3>
+      <div class="text-muted text-medium mb-0">Senate</div>
+    </div>
+  </div>
+
+  <div class="card mb-4">
+    <div class="card-body">
+      <table class="table user-view-table m-0">
+        <tbody>
+          <tr>
+            <td>Description:</td>
+              <td>
+                {{i.summary}}
+              </td>
+          </tr>
+          <tr>
+            <td>Chair Person:</td>
+              <td>
+                {% set member_id = i.member_id -%}
+                {% for j in members %}
+                  {% if j.member_id == member_id %}
+                <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.Fname}} {{j.Lname}} ({{j.party}}-{{j.state}})</a>
+                  {% endif %}
+                {% endfor %}
+              </td>
+          </tr>
+          <tr>
+            <td>Ranking Member:</td>
+              <td>
+                {% set member_id = i.member_id -%}
+                {% for j in members %}
+                  {% if j.member_id == member_id %}
+                <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.Fname}} {{j.Lname}} ({{j.party}}-{{j.state}})</a>
+                  {% endif %}
+                {% endfor %}
+              </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <hr class="border-light m-0">
+    <div class="table-responsive">
+      <table class="table card-table m-0">
+        <tbody>
+          <tr>
+            <th>Subcommittees</th>
+          </tr>
+          {% for j in subcommittees %}
+            {% if j.name == id %}
+              <tr>
+                <td>{{j.committee_name}}</td>
+              </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="card mb-4">
+    <div class="card-body">
+      <table class="table user-view-table m-0">
+        <h3 class="text-medium mt-2 mb-3">All Members:</h3>
+        <tbody>
+          {% for j in are_part_of %}
+            {% if j.committee_name == id %}
+          <tr>
+            <td>
+              {% for k in members %}
+                  {% if k.member_id == j.member_id %}
+              <a href="{{url_for('{{k.member_id}}')}}" class="disabled">Senator {{k.Fname}} {{k.Lname}} ({{k.party}}-{{k.state}})</a>
+            </td>
+          </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="card mb-4">
+    <div class="card-body">
+      <table class="table user-view-table m-0">
+        <h3 class="text-medium mt-2 mb-3">Hearings:</h3>
+        <thead>
+          <th>
+            Date
+          </th>
+          <th>
+            Time
+          </th>
+          <th>
+            Location
+          </th>
+          <th>
+            Description
+          </th>
+          <th>
+            Bills Discussed
+          </th>
+        </thead>
+        <tbody>
+          {% for j in hearings %}
+            {% if j.committee_name == id %}
+          <tr>
+            <td>
+              {{j.date}}
+            </td>
+            <td>
+              {{j.time}}
+            </td>
+            <td>
+              {{j.location}}
+            </td>
+            <td>
+              {{j.description}}
+            </td>
+            <td>
+              {% for k in discuss %}
+                {% if k.date == j.date and k.time == j.time and k.location == j.location %}
+                <a href="{{url_for('{{k.bill_id}}')}}" class="disabled">{{k.bill_id}}</a>
+                {% endif %}
+              {% endfor %}
+            </td>
+          </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+    {% endif %}
+  {% endfor %}
+</div>
+

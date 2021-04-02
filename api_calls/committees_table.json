@@ -3,147 +3,140 @@
         "name": "Committee on Agriculture, Nutrition, and Forestry",
         "website": "http://www.agriculture.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "S000770",
+        "ranking_id": "B001236"
     },
     {
         "name": "Committee on Appropriations",
         "website": "http://www.appropriations.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "L000174",
+        "ranking_id": "S000320"
     },
     {
         "name": "Committee on Armed Services",
         "website": "http://www.armed-services.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "R000122",
+        "ranking_id": "I000024"
     },
     {
         "name": "Committee on Banking, Housing, and Urban Affairs",
         "website": "http://banking.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "B000944",
+        "ranking_id": "T000461"
     },
     {
         "name": "Committee on Commerce, Science, and Transportation",
         "website": "http://www.commerce.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "C000127",
+        "ranking_id": "W000437"
     },
     {
         "name": "Committee on Energy and Natural Resources",
         "website": "http://www.energy.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "M001183",
+        "ranking_id": "B001261"
     },
     {
         "name": "Committee on Environment and Public Works",
         "website": "http://www.epw.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "C000174",
+        "ranking_id": "C001047"
     },
     {
         "name": "Committee on Finance",
         "website": "http://www.finance.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "W000779",
+        "ranking_id": "C000880"
     },
     {
         "name": "Committee on Foreign Relations",
         "website": "http://www.foreign.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "M000639",
+        "ranking_id": "R000584"
     },
     {
         "name": "Committee on Health, Education, Labor, and Pensions",
         "website": "http://www.help.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "M001111",
+        "ranking_id": "B001135"
     },
     {
         "name": "Committee on Homeland Security and Governmental Affairs",
         "website": "http://www.hsgac.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "P000595",
+        "ranking_id": "P000449"
     },
     {
         "name": "Committee on Indian Affairs",
         "website": "http://www.indian.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "S001194",
+        "ranking_id": "M001153"
     },
     {
         "name": "Committee on Rules and Administration",
         "website": "http://www.rules.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "K000367",
+        "ranking_id": "B000575"
     },
     {
         "name": "Committee on Small Business and Entrepreneurship",
         "website": "http://www.sbc.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "C000141",
+        "ranking_id": "P000603"
     },
     {
         "name": "Committee on the Budget",
         "website": "http://www.budget.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "S000033",
+        "ranking_id": "G000359"
     },
     {
         "name": "Committee on the Judiciary",
         "website": "http://www.judiciary.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "D000563",
+        "ranking_id": "G000386"
     },
     {
         "name": "Committee on Veterans' Affairs",
         "website": "http://www.veterans.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "T000464",
+        "ranking_id": "M000934"
     },
     {
         "name": "Select Committee on Ethics",
         "website": "http://www.ethics.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "C001088",
+        "ranking_id": "L000575"
     },
     {
         "name": "Select Committee on Intelligence",
         "website": "http://www.intelligence.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "W000805",
+        "ranking_id": "R000595"
     },
     {
         "name": "Special Committee on Aging",
         "website": "http://www.aging.senate.gov/",
         "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
+        "chair_id": "C001070",
+        "ranking_id": "S001184"
     },
-    {
-        "name": "United States Caucus on International Narcotics Control",
-        "website": "http://www.drugcaucus.senate.gov/",
-        "branch": "senate",
-        "chair_id": null,
-        "ranking_id": null
-    }
 ]
