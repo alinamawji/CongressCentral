@@ -42,8 +42,6 @@ class Committee(db.Model):
     # show the relationship
     subcommittee = db.relationship('Subcommittee', backref = 'committee')
     hearing = db.relationship('Hearing', backref = 'committee')
-    are_part_of = db.relationship('Are_Part_Of', backref = 'committee')
-    is_pushed_through = db.relationship('Is_Pushed_Through', backref = 'committee')
 
     # ------------
     # serialize
@@ -77,8 +75,8 @@ class Member(db.Model):
     phone
     mailing_address
     url
-    vote_w_party
-    vote_against_party
+    votes_w_party
+    votes_against_party
     """
     __tablename__ = 'member'
 
@@ -90,11 +88,11 @@ class Member(db.Model):
     party = db.Column(db.String(10), nullable = False)
     state = db.Column(db.String(10), nullable = False)
     state_rank = db.Column(db.String(10), nullable = False)
-    phone = db.Column(db.String(20), nullable = False)
-    mailing_address = db.Column(db.String(255), nullable = False)
+    phone = db.Column(db.String(20))
+    mailing_address = db.Column(db.String(255))
     url = db.Column(db.String(255), nullable = False)
-    vote_w_party = db.Column(db.Integer, nullable = False)
-    vote_against_party = db.Column(db.Integer, nullable = False)
+    votes_w_party = db.Column(db.Integer, nullable = False)
+    votes_against_party = db.Column(db.Integer, nullable = False)
     
     # show the relationship betwenn all entities
     legislation = db.relationship('Legislation', backref = 'member')
@@ -103,7 +101,6 @@ class Member(db.Model):
     industry_contributor = db.relationship('Industry_Contributor', backref = 'member')
     organization_contributor = db.relationship('Organization_Contributor', backref = 'member')
     sector_contributor = db.relationship('Sector_Contributor', backref = 'member')
-    are_part_of = db.relationship('Are_Part_Of', backref = 'member')
 
     # ------------
     # serialize
@@ -124,8 +121,8 @@ class Member(db.Model):
           'phone': self.phone,
           'mailing_address': self.mailing_address,
           'url': self.url,
-          'vote_w_party': self.vote_w_party,
-          'vote_against_party': self.vote_against_party
+          'votes_w_party': self.votes_w_party,
+          'votes_against_party': self.votes_against_party
         }
 
 # ------------
@@ -148,14 +145,13 @@ class Legislation(db.Model):
     cosponsors = db.Column(db.Integer, nullable = False)
     summary = db.Column(db.String(255), nullable = False)
     type = db.Column(db.String(10))
-    data_introduced = db.Column(db.String(20), nullable = False)
-    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
+    date_introduced = db.Column(db.String(20), nullable = False)
+    # sponsor_id is same as id in member's attributes.
+    sponsor_id = db.Column(db.String(20), db.ForeignKey('member.id'))
     bill_number = db.Column(db.String(20), nullable = False)
 
     # show the relationship
     action = db.relationship('Action', backref = 'legislation')
-    is_pushed_through = db.relationship('Is_Pushed_Through', backref = 'legislation')
-    discuss = db.relationship('Discuss', backref = 'legislation')
 
     # ------------
     # serialize
@@ -169,9 +165,9 @@ class Legislation(db.Model):
           'cosponsors': self.cosponsors,
           'summary': self.summary,
           'type': self.type,
-          'data_introduced': self.data_introduced,
+          'date_introduced': self.date_introduced,
           # not sure whether this is right or not about foreign key return
-          'member_id': self.member_id,
+          'sponsor_id': self.sponsor_id,
           'bill_number': self.bill_number
         }
 
@@ -363,7 +359,7 @@ class Subcommittee(db.Model):
        """
        return {
           'sector_name': self.name,
-          'crp_id': self.committee_name
+          'committee_name': self.committee_name
         }
 
 # ------------
@@ -385,9 +381,6 @@ class Hearing(db.Model):
     time = db.Column(db.String(20), primary_key = True)
     location = db.Column(db.String(20), primary_key = True)
     description = db.Column(db.String(255))
-
-    # show the relationship
-    discuss = db.relationship('Discuss', backref = 'hearing')
 
     # ------------
     # serialize
@@ -447,8 +440,8 @@ class Are_Part_Of(db.Model):
     """
     __tablename__ = 'are_part_of'
 
-    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
-    member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
+    committee_name = db.Column(db.String(80), primary_key = True)
+    member_id = db.Column(db.String(20), primary_key = True)
 
 
     # ------------
@@ -474,8 +467,8 @@ class Is_Pushed_Through(db.Model):
     """
     __tablename__ = 'is_pushed_through'
 
-    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
-    bill_id = db.Column(db.String(80), db.ForeignKey('legislation.bill_id'))
+    committee_name = db.Column(db.String(80), primary_key = True)
+    bill_id = db.Column(db.String(80), primary_key = True)
 
     # ------------
     # serialize
@@ -500,12 +493,12 @@ class Discuss(db.Model):
     hearing_location (foreign key)
     bill_ID (foreign key)
     """
-    __tablename__ = 'is_pushed_through'
+    __tablename__ = 'discuss'
 
-    hearing_date = db.Column(db.String(20), db.ForeignKey('hearing.date'))
-    hearing_time = db.Column(db.String(20), db.ForeignKey('hearing.time'))
-    hearing_location = db.Column(db.String(20), db.ForeignKey('hearing.location'))
-    bill_id = db.Column(db.String(80), db.ForeignKey('legislation.bill_id'))
+    hearing_date = db.Column(db.String(20), primary_key = True)
+    hearing_time = db.Column(db.String(20), primary_key = True)
+    hearing_location = db.Column(db.String(20), primary_key = True)
+    bill_id = db.Column(db.String(80), primary_key = True)
 
     # ------------
     # serialize

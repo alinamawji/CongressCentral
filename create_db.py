@@ -52,9 +52,9 @@ def create_Members():
         phone = one_member['phone']
         mailing_address = one_member['mailing_address']
         url = one_member['url']
-        vote_w_party = one_member['vote_w_party']
+        votes_w_party = one_member['votes_w_party']
         votes_against_party = one_member['votes_against_party']
-        newMember = Member(id = id, fname = fname, lname = lname, mname = mname, namesuffix = namesuffix, party = party, state = state, state_rank = state_rank, phone = phone, mailing_address = mailing_address, url = url, vote_w_party = vote_w_party, votes_against_party = votes_against_party)
+        newMember = Member(id = id, fname = fname, lname = lname, mname = mname, namesuffix = namesuffix, party = party, state = state, state_rank = state_rank, phone = phone, mailing_address = mailing_address, url = url, votes_w_party = votes_w_party, votes_against_party = votes_against_party)
 
         # add it to our session
         db.session.add(newMember)
@@ -76,7 +76,7 @@ def create_Legislation():
         date_introduced = legi_info['date_introduced']
         sponsor_id = legi_info['sponsor_id']
         bill_number = legi_info['bill_number']
-        newLegislation = Legislation(bill_id = bill_id, consponsors = consponsors, summary = summary, type = type, date_introduced = date_introduced, sponsor_id = sponsor_id, bill_number = bill_number)
+        newLegislation = Legislation(bill_id = bill_id, cosponsors = cosponsors, summary = summary, type = type, date_introduced = date_introduced, sponsor_id = sponsor_id, bill_number = bill_number)
 
         # add it to our session
         db.session.add(newLegislation)
