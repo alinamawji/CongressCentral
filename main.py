@@ -46,8 +46,8 @@ def legislation():
     legislation = Legislation.query.paginate(page=page, per_page=ROWS_PER_PAGE)
     action = Action.query.all()
     is_pushed_through = Is_Pushed_Through.query.all()
-    member = Member.query(members).all()
-    return render_template('legislation.html', legislation=legislation, action=action, is_pushed_through=is_pushed_through, member=member)
+    member = Member.query.all()
+    return render_template('legislation.html', legislation=legislation, member=member, action=action, is_pushed_through=is_pushed_through)
 
 @app.route('/legislation/<bill_id>')
 def individual_legislation():

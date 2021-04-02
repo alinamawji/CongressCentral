@@ -161,12 +161,23 @@
     <div class="card-deck">
       {% for i in legislation.items %}
         <div class="card mb-4">
-          <div class="card-header">{{i.type}}</div>
+          <div class="card-header">
+            {% if i.type == "s" %} Bill {% endif %}
+            {% if i.type == "sres" %} Resolution {% endif %}
+            {% if i.type == "sjres" %} Joint Resolution {% endif %}
+            {% if i.type == "sconres" %} Concurrent Resolution {% endif %}
+            {% if i.type == "sres" %} Resolution {% endif %}
+          </div>
           <div class="card-body">
-            <h5 class="card-title"><a href="{{url_for('sres58')}}">{{i.bill_number}}</a></h5>
+            <h5 class="card-title"><a href="{{url_for('about')}}">{{i.bill_number}}</a></h5>
             <p id="description" class="card-text">{{i.summary}}</p>
             <p class="card-text-att">Sponsor: <br>
-              <p class="sponsor card-text"><a href="{{url_for('cardin')}}" class="card-text">Cardin, Senator Benjamin L. (D-MD)</a></p>
+            {% set sponsor_id = i.sponsor_id %}
+            {% for j in member %}
+              {% if j.id == sponsor_id %}
+                <p class="sponsor card-text"><a href="{{url_for('about')}}" class="card-text">Senator {{j.lname}}{{ j.namesuffix if j.namesuffix is not none else '' }}, {{j.fname}} {{ j.mname if j.mname is not none else '' }} ({{ j.party }}-{{ j.state }}) </a></p>
+              {% endif %}
+            {% endfor %}
             </p>
             <p class="card-text-att">Introduced: <br>
               <p class="date card-text">{{i.date_introduced}}</p>
@@ -188,17 +199,17 @@
               <ul class="pagination pagination-split mt-5 float-right">
                   <li class="page-item">
 
-                      {% if member.has_prev %}
-                          <a href="{{ url_for('members', page=member.prev_num) }}" class="btn btn-light {% if member.page == 1 %}disabled{% endif %}">
+                      {% if legislation.has_prev %}
+                          <a href="{{ url_for('legislation', page=legislation.prev_num) }}" class="btn btn-light {% if legislation.page == 1 %}disabled{% endif %}">
                             <span aria-hidden="true">&laquo;</span>
                           </a>
                       {% endif %}
 
-                      {% for page in member.iter_pages(left_edge=1, right_edge=1, left_current=2, right_current=2) %}
+                      {% for page in legislation.iter_pages(left_edge=1, right_edge=1, left_current=2, right_current=2) %}
 
                           {% if page %}
-                            {% if page != member.page %}
-                              <a href="{{ url_for('members', page=page) }}" class="btn btn-light">{{ page }}</a>
+                            {% if page != legislation.page %}
+                              <a href="{{ url_for('legislation', page=page) }}" class="btn btn-light">{{ page }}</a>
                             {% else %}
                               <strong class="btn btn-light">{{ page }}</strong>
                             {% endif %}
@@ -208,8 +219,8 @@
 
                       {% endfor %}
 
-                      {% if member.has_next %}
-                          <a href="{{ url_for('members', page=member.next_num) }}" class="btn btn-light {% if member.has_next and member.page == member.pages %}disabled{% endif %}">
+                      {% if legislation.has_next %}
+                          <a href="{{ url_for('legislation', page=legislation.next_num) }}" class="btn btn-light {% if legislation.has_next and legislation.page == legislation.pages %}disabled{% endif %}">
                               <span aria-hidden="true">&raquo;</span>
                           </a>
                       {% endif %}
