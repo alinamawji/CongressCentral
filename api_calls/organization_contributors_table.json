@@ -2200,11 +2200,6 @@
         "total": "10000"
     },
     {
-        "crp_id": "N00044223",
-        "industry_name": null,
-        "total": null
-    },
-    {
         "crp_id": "N00026823",
         "org_name": "Tellurian Inc",
         "total": "26325"
@@ -2505,11 +2500,6 @@
         "total": "8400"
     },
     {
-        "crp_id": "N00046125",
-        "industry_name": null,
-        "total": null
-    },
-    {
         "crp_id": "N00029562",
         "org_name": "Democracy Engine",
         "total": "75268"
@@ -2558,11 +2548,6 @@
         "crp_id": "N00029562",
         "org_name": "Akin, Gump et al",
         "total": "22067"
-    },
-    {
-        "crp_id": "N00029788",
-        "industry_name": null,
-        "total": null
     },
     {
         "crp_id": "N00032838",

@@ -81,8 +81,7 @@ def populate_twitter_account_table(twitter_account_table):
         'number_followers':None, 'number_tweets':None, 'timeline_html':None}
 
         if current_twitter_account['twitter_handle'] == None:
-            twitter_account_table.append(current_twitter_account)
-            print("APPEND (W/O Twitter Data): " + current_twitter_account['member_id'])
+            print("ERROR: No twitter handle for " + current_twitter_account['member_id'])
             continue
         else:
             url = 'https://api.twitter.com/1.1/users/show.json?screen_name=' + current_twitter_account['twitter_handle']
@@ -122,14 +121,14 @@ def populate_financial_information_tables(financial_information_table, industry_
 
     for i in table_list['results'][0]['members']:
         current_mem = {'member_id':i['id'], 'crp_id':i['crp_id']}
+        
+        if i['crp_id'] == None:
+            continue
+
         print("APPEND: " + current_mem['member_id'])
         financial_information_table.append(current_mem)
 
-
         current_mem = i['crp_id']
-
-        if current_mem == None:
-            continue
 
         # Industries
         parameters_open = {'method':'candIndustry', 'cid':current_mem,
@@ -147,9 +146,6 @@ def populate_financial_information_tables(financial_information_table, industry_
             print("APPEND: " + current_mem + ' industry information')
         except:
             print("ERROR: candidate contributors not found for " + current_mem)
-            current_industry_contribution = {'crp_id':current_mem, 'industry_name':None, 'total':None}
-            industry_contributors_table.append(current_industry_contribution)
-
 
         # Contributors
         parameters_open = {'method':'candContrib', 'cid':current_mem,
@@ -167,8 +163,6 @@ def populate_financial_information_tables(financial_information_table, industry_
             print("APPEND: " + current_mem + ' contributors information')
         except:
             print("ERROR: candidate contributors not found for " + current_mem)
-            current_org_contribution = {'crp_id':current_mem, 'org_name':None, 'total':None}
-            organization_contributors_table.append(current_org_contribution)
 
 
         # Sectors
@@ -187,8 +181,6 @@ def populate_financial_information_tables(financial_information_table, industry_
             print("APPEND: " + current_mem + ' sector information')
         except:
             print("ERROR: candidate contributors not found for " + current_mem)
-            current_sect_contribution = {'crp_id':current_mem, 'sector_name':None, 'total':None}
-            sector_contributors_table.append(current_sect_contribution)
 
 
 def populate_committees_subcommittees_hearings_table(committees_table, subcommittees_table, hearings_table, discuss_table):
@@ -234,10 +226,7 @@ def populate_committees_subcommittees_hearings_table(committees_table, subcommit
             hearings_table.append(current_hearing)
 
             if j['bill_ids'] == []:
-                current_discussion = {'hearing_date':j['date'], 'hearing_time':j['time'],
-                'hearing_location':j['location'], 'bill_id':None}
                 print("APPEND: No bills discussed on " + current_discussion['hearing_date'])
-                discuss_table.append(current_discussion)
 
             for k in j['bill_ids']:
                 current_discussion = {'hearing_date':j['date'], 'hearing_time':j['time'],

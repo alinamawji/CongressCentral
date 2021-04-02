@@ -143,7 +143,7 @@ class Legislation(db.Model):
 
     bill_id = db.Column(db.String(20), nullable = False, primary_key = True)
     cosponsors = db.Column(db.Integer, nullable = False)
-    summary = db.Column(db.String(255), nullable = False)
+    summary = db.Column(db.String(1000), nullable = False)
     type = db.Column(db.String(10))
     date_introduced = db.Column(db.String(20), nullable = False)
     # sponsor_id is same as id in member's attributes.
@@ -253,8 +253,8 @@ class Industry_Contributor(db.Model):
     """
     __tablename__ = 'industry_contributor'
 
-    industry_name = db.Column(db.String(40), primary_key = True)
-    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'))
+    industry_name = db.Column(db.String(100), primary_key = True)
+    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'), primary_key = True)
     member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
     total = db.Column(db.String(20))
 
@@ -285,8 +285,8 @@ class Organization_Contributor(db.Model):
     """
     __tablename__ = 'organ_contributor'
 
-    org_name = db.Column(db.String(40), primary_key = True)
-    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'))
+    org_name = db.Column(db.String(100), primary_key = True)
+    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'), primary_key = True)
     member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
     total = db.Column(db.String(20))
 
@@ -317,8 +317,8 @@ class Sector_Contributor(db.Model):
     """
     __tablename__ = 'sector_contributor'
 
-    sector_name = db.Column(db.String(40), primary_key = True)
-    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'))
+    sector_name = db.Column(db.String(100), primary_key = True)
+    crp_id = db.Column(db.String(20), db.ForeignKey('financial_information.crp_id'), primary_key = True)
     member_id = db.Column(db.String(20), db.ForeignKey('member.id'))
     total = db.Column(db.String(20))
 
@@ -347,7 +347,7 @@ class Subcommittee(db.Model):
     """
     __tablename__ = 'subcommittee'
     
-    name = db.Column(db.String(80), primary_key = True)
+    name = db.Column(db.String(150), primary_key = True)
     committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
 
     # ------------
@@ -377,10 +377,10 @@ class Hearing(db.Model):
     __tablename__ = 'hearing'
 
     date = db.Column(db.String(20), primary_key = True)
-    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
+    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'), primary_key = True)
     time = db.Column(db.String(20), primary_key = True)
     location = db.Column(db.String(20), primary_key = True)
-    description = db.Column(db.String(255))
+    description = db.Column(db.String(4000))
 
     # ------------
     # serialize
@@ -411,9 +411,9 @@ class Action(db.Model):
     __tablename__ = 'action'
 
     action_id = db.Column(db.String(20), primary_key = True)
-    bill_id = db.Column(db.String(80), db.ForeignKey('legislation.bill_id'))
+    bill_id = db.Column(db.String(80), db.ForeignKey('legislation.bill_id'), primary_key = True)
     date = db.Column(db.String(20))
-    description = db.Column(db.String(255))
+    description = db.Column(db.String(1500))
 
     # ------------
     # serialize

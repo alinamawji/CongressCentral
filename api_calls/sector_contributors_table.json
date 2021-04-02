@@ -2860,11 +2860,6 @@
         "total": "3044513"
     },
     {
-        "crp_id": "N00044223",
-        "industry_name": null,
-        "total": null
-    },
-    {
         "crp_id": "N00026823",
         "sector_name": "Agribusiness",
         "total": "379563"
@@ -3255,11 +3250,6 @@
         "total": "471780"
     },
     {
-        "crp_id": "N00046125",
-        "industry_name": null,
-        "total": null
-    },
-    {
         "crp_id": "N00029562",
         "sector_name": "Agribusiness",
         "total": "24510"
@@ -3323,11 +3313,6 @@
         "crp_id": "N00029562",
         "sector_name": "Other",
         "total": "64636"
-    },
-    {
-        "crp_id": "N00029788",
-        "industry_name": null,
-        "total": null
     },
     {
         "crp_id": "N00032838",

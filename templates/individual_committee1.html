@@ -58,32 +58,28 @@
       <table class="table user-view-table m-0">
         <tbody>
           <tr>
-            <td>Description:</td>
-              <td>
-                {{i.summary}}
-              </td>
-          </tr>
-          <tr>
             <td>Chair Person:</td>
               <td>
-                {% set member_id = i.member_id -%}
+                {% set member_id = i.chair_id -%}
                 {% for j in members %}
                   {% if j.member_id == member_id %}
                 <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.Fname}} {{j.Lname}} ({{j.party}}-{{j.state}})</a>
                   {% endif %}
                 {% endfor %}
               </td>
+              <td><img src="../static/images/{{member_id}}.jpg" alt="" class="d-block ui-w-100 rounded-circle"></td>
           </tr>
           <tr>
             <td>Ranking Member:</td>
               <td>
-                {% set member_id = i.member_id -%}
+                {% set member_id = i.ranking_id -%}
                 {% for j in members %}
                   {% if j.member_id == member_id %}
                 <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.Fname}} {{j.Lname}} ({{j.party}}-{{j.state}})</a>
                   {% endif %}
                 {% endfor %}
               </td>
+              <td><img src="../static/images/{{member_id}}.jpg" alt="" class="d-block ui-w-100 rounded-circle"></td>
           </tr>
         </tbody>
       </table>

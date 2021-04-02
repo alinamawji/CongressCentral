@@ -120,14 +120,6 @@
         "timeline_html": "<a class=\"twitter-timeline\" href=\"https://twitter.com/SenBobCasey?ref_src=twsrc%5Etfw\">Tweets by SenBobCasey</a>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n"
     },
     {
-        "member_id": "C001075",
-        "twitter_handle": null,
-        "number_following": null,
-        "number_followers": null,
-        "number_tweets": null,
-        "timeline_html": null
-    },
-    {
         "member_id": "C001035",
         "twitter_handle": "SenatorCollins",
         "number_following": 961,
@@ -342,14 +334,6 @@
         "number_followers": 238865,
         "number_tweets": 6284,
         "timeline_html": "<a class=\"twitter-timeline\" href=\"https://twitter.com/SenRonJohnson?ref_src=twsrc%5Etfw\">Tweets by SenRonJohnson</a>\n<script async src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script>\n"
-    },
-    {
-        "member_id": "K000384",
-        "twitter_handle": null,
-        "number_following": null,
-        "number_followers": null,
-        "number_tweets": null,
-        "timeline_html": null
     },
     {
         "member_id": "K000377",

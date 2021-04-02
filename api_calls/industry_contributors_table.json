@@ -2200,11 +2200,6 @@
         "total": "404693"
     },
     {
-        "crp_id": "N00044223",
-        "industry_name": null,
-        "total": null
-    },
-    {
         "crp_id": "N00026823",
         "industry_name": "Lawyers/Law Firms",
         "total": "862150"
@@ -2510,11 +2505,6 @@
         "total": "181452"
     },
     {
-        "crp_id": "N00046125",
-        "industry_name": null,
-        "total": null
-    },
-    {
         "crp_id": "N00029562",
         "industry_name": "Health Professionals",
         "total": "148249"
@@ -2563,11 +2553,6 @@
         "crp_id": "N00029562",
         "industry_name": "Lobbyists",
         "total": "57550"
-    },
-    {
-        "crp_id": "N00029788",
-        "industry_name": null,
-        "total": null
     },
     {
         "crp_id": "N00032838",

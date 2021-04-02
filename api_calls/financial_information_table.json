@@ -136,10 +136,6 @@
         "crp_id": "N00001758"
     },
     {
-        "member_id": "H000601",
-        "crp_id": null
-    },
-    {
         "member_id": "H001075",
         "crp_id": "N00036915"
     },
@@ -154,10 +150,6 @@
     {
         "member_id": "H001046",
         "crp_id": "N00029835"
-    },
-    {
-        "member_id": "H000273",
-        "crp_id": null
     },
     {
         "member_id": "H001042",
@@ -264,14 +256,6 @@
         "crp_id": "N00007876"
     },
     {
-        "member_id": "O000174",
-        "crp_id": null
-    },
-    {
-        "member_id": "P000145",
-        "crp_id": null
-    },
-    {
         "member_id": "P000603",
         "crp_id": "N00030836"
     },
@@ -372,20 +356,12 @@
         "crp_id": "N00001489"
     },
     {
-        "member_id": "T000278",
-        "crp_id": null
-    },
-    {
         "member_id": "V000128",
         "crp_id": "N00013820"
     },
     {
         "member_id": "W000805",
         "crp_id": "N00002097"
-    },
-    {
-        "member_id": "W000790",
-        "crp_id": null
     },
     {
         "member_id": "W000817",

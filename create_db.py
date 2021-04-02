@@ -9,9 +9,9 @@ def load_json(filename):
     return a python dict jsn
     filename a json file
     """
-    with open(filename) as file:
-        jsn = json.load(file)
-        file.close()
+    file = open(filename)
+    jsn = json.load(file)
+    file.close()
 
     return jsn
 
@@ -101,7 +101,7 @@ def create_Twitter_accounts():
         newAccount = Twitter_Account(member_id = member_id, twitter_handle = twitter_handle, number_following = number_following, number_followers = number_followers, number_tweets = number_tweets, timeline_html = timeline_html)
 
         # add it to our session
-        db.session.add(newLegislation)
+        db.session.add(newAccount)
         # commit the session to our DB.
         db.session.commit()
 
