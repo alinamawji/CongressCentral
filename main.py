@@ -1,7 +1,7 @@
 # application.py
 from flask import Flask, render_template, request, send_from_directory
 from sqlalchemy.sql import text
-from models import db, app, Committee, Member, Legislation, Twitter_Account, Financial_Information, Industry_Contributor, Organization_Contributor, Sector_Contributor, Subcommittee, Hearing, Action, Are_Part_Of, Is_Pushed_Through, Discuss
+from create_db import db, app, Committee, Member, Legislation, Twitter_Account, Financial_Information, Industry_Contributor, Organization_Contributor, Sector_Contributor, Subcommittee, Hearing, Action, Are_Part_Of, Is_Pushed_Through, Discuss
 
 
 @app.route('/')
@@ -10,11 +10,18 @@ def index():
 
 ROWS_PER_PAGE = 10
 
+# /members?page=2
+
 # MEMBERS
 @app.route('/members/', methods=['GET'])
 def members():
     page = request.args.get('page', 1, type=int)
-    member = Member.query.paginate(page=page, per_page=ROWS_PER_PAGE)
+    member = Member.query.paginate(page, per_page=ROWS_PER_PAGE)
+    print(member.items, len(member.items))
+    # for i in member:
+    #     print("<Model '{}'".format(table))
+    #     for column in inspector.get_columns(table):
+    #         print(column)
     return render_template('members.html', member=member)
 
 @app.route('/members/<member_id>')
