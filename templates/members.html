@@ -77,301 +77,73 @@
             <thead class="thead-dark">
                 <tr>
                     <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(1)')">Name <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
-                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(2)')">Branch <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
+                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(2)')">State Rank <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
                     <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(3)')">Party <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
                     <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(4)')">State <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
-                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(5)')">Twitter <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
+                    <th onclick="w3.sortHTML('#usersTable', '.item', 'td:nth-child(5)')">Votes With Party % <img src="{{ url_for('static',filename='images/updown.png') }}" class="img-arrow"></th>
                 </tr>
             </thead>
             <tbody>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('baldwin')}}" class="text-name">Senator Baldwin, Tammy</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001230.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Democratic</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Wisconsin</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenatorBaldwin</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('barrasso')}}" class="text-name">Senator Barrasso, John</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001261.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Republican</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Wyoming</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenJohnBarrasso</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('bennet')}}" class="text-name">Senator Bennet, Michael F.</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001267.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Democratic</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Colorado</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenatorBennet</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('blackburn')}}" class="text-name">Senator Blackburn, Marsha</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001243.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Republican</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Tennessee</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@MarshaBlackburn</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('blumenthal')}}" class="text-name">Senator Blumenthal, Richard</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001277.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Democratic</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Connecticut</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenBlumenthal</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('blunt')}}" class="text-name">Senator Blunt, Roy</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b000575.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Republican</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Missouri</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@RoyBlunt</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('booker')}}" class="text-name">Senator Booker, Cory A.</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001288.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Democratic</p>
-                    </td>
-                    <td>
-                        <p class="text-state">New Jersey</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@CoryBooker</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('boozman')}}" class="text-name">Senator Boozman, John</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001236.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Republican</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Arkansas</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@JohnBoozman</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('braun')}}" class="text-name">Senator Braun, Mike</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001310.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Republican</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Indiana</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenatorBraun</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('brown')}}" class="text-name">Senator Brown, Sherrod</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b000944.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Democratic</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Ohio</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenSherrodBrown</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('burr')}}" class="text-name">Senator Burr, Richard</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/b001135.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Republican</p>
-                    </td>
-                    <td>
-                        <p class="text-state">North Carolina</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenatorBurr</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('cantwell')}}" class="text-name">Senator Cantwell, Maria</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/c000127.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Democratic</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Washington</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenatorCantwell</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('capito')}}" class="text-name">Senator Capito, Shelley M.</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/c001047.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Republican</p>
-                    </td>
-                    <td>
-                        <p class="text-state">West Virginia</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenCapito</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('cardin')}}" class="text-name">Senator Cardin, Benjamin L.</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/c000141.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Democratic</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Maryland</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenatorCardin</p>
-                    </td>
-                </tr>
-                <tr class="item">
-                    <td>
-                        <a href="{{url_for('carper')}}" class="text-name">Senator Carper, Thomas R.</a>
-                        <div class="image-fluid"><img src="{{ url_for('static',filename='images/c000174.jpg') }}" class="img-thumbnail"></div>
-                    </td>
-                    <td>
-                        <p class="text-muted">Senate</p>
-                    </td>
-                    <td>
-                        <p class="text-muted">Democratic</p>
-                    </td>
-                    <td>
-                        <p class="text-state">Delaware</p>
-                    </td>
-                    <td>
-                        <p class="text-twitter">@SenatorCarper</p>
-                    </td>
-                </tr>
+                {% for i in member.items %}
+                    <tr class="item">
+                        <td>
+                            <a href="{{url_for('about')}}" class="text-name">Senator {{i.lname}}{{ i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}<br><img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></a>
+                        </td>
+                        <td>
+                            <p class="text-muted">{{'Junior' if i.state_rank == 'junior' else 'Senior'}}</p>
+                        </td>
+                        <td>
+                            <p class="text-muted">{{'Democratic' if i.party == 'D' else 'Republican'}}</p>
+                        </td>
+                        <td>
+                            <p class="text-state">{{i.state}}</p>
+                        </td>
+                        <td>
+                            <p class="text-twitter">{{i.votes_w_party}}%</p>
+                        </td>
+                    </tr>
+                {% endfor %}
             </tbody>
         </table>
     </div>
 
-            <!-- pagination bar -->
-            <div class="d-flex justify-content-center">
-                <div class="col-12">
-                    <div class="text-right">
-                        <ul class="pagination pagination-split mt-5 float-right">
-                            <li class="page-item"><a class="page-link disabled" href="#" aria-label="Previous"><span aria-hidden="true">«</span> <span class="sr-only">Previous</span></a></li>
-                            <li class="page-item active"><a class="page-link disabled" href="#">1</a></li>
-                            <li class="page-item"><a class="page-link disabled" href="#">2</a></li>
-                            <li class="page-item"><a class="page-link disabled" href="#">3</a></li>
-                            <li class="page-item"><a class="page-link disabled" href="#">4</a></li>
-                            <li class="page-item"><a class="page-link disabled" href="#">5</a></li>
-                            <li class="page-item"><a class="page-link disabled" href="#" aria-label="Next"><span aria-hidden="true">»</span> <span class="sr-only">Next</span></a></li>
-                        </ul>
-                    </div>
-                </div>
+    <!-- PAGINATION BAR -->
+    <div class="d-flex justify-content-center">
+        <div class="col-12">
+            <div class="text-right">
+                <ul class="pagination pagination-split mt-5 float-right">
+                    <li class="page-item">
+
+                        {% if member.has_prev %}
+                            <a href="{{ url_for('members', page=member.prev_num) }}" class="btn btn-light {% if member.page == 1 %}disabled{% endif %}">
+                              <span aria-hidden="true">&laquo;</span>
+                            </a>
+                        {% endif %}
+
+                        {% for page in member.iter_pages(left_edge=1, right_edge=1, left_current=2, right_current=2) %}
+
+                            {% if page %}
+                              {% if page != member.page %}
+                                <a href="{{ url_for('members', page=page) }}" class="btn btn-light">{{ page }}</a>
+                              {% else %}
+                                <strong class="btn btn-light">{{ page }}</strong>
+                              {% endif %}
+                            {% else %}
+                              <span class=ellipsis>…</span>
+                            {% endif %}
+
+                        {% endfor %}
+
+                        {% if member.has_next %}
+                            <a href="{{ url_for('members', page=member.next_num) }}" class="btn btn-light {% if member.has_next and member.page == member.pages %}disabled{% endif %}">
+                                <span aria-hidden="true">&raquo;</span>
+                            </a>
+                        {% endif %}
+
+                    </li>
+                </ul>
             </div>
+        </div>
+    </div>
+
 </body>
