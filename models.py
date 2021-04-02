@@ -93,7 +93,7 @@ class Member(db.Model):
     url = db.Column(db.String(255), nullable = False)
     votes_w_party = db.Column(db.Integer, nullable = False)
     votes_against_party = db.Column(db.Integer, nullable = False)
-    
+
     # show the relationship betwenn all entities
     legislation = db.relationship('Legislation', backref = 'member')
     twitter_account = db.relationship('Twitter_Account', backref = 'member')
@@ -346,7 +346,7 @@ class Subcommittee(db.Model):
     committee_name (foreign key)
     """
     __tablename__ = 'subcommittee'
-    
+
     name = db.Column(db.String(150), primary_key = True)
     committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
 

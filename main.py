@@ -1,111 +1,63 @@
 # application.py
 from flask import Flask, render_template, request, send_from_directory
+from sqlalchemy.sql import text
+from models import db, app, Committee, Member, Legislation, Twitter_Account, Financial_Information, Industry_Contributor, Organization_Contributor, Sector_Contributor, Subcommittee, Hearing, Action, Are_Part_Of, Is_Pushed_Through, Discuss
 
-app = Flask(__name__)
 
 @app.route('/')
 def index():
     return render_template('index.html')
 
+ROWS_PER_PAGE = 10
+
 # MEMBERS
 @app.route('/members/', methods=['GET'])
 def members():
-    return render_template('members.html')
+    page = request.args.get('page', 1, type=int)
+    member = Member.query.paginate(page=page, per_page=ROWS_PER_PAGE)
+    return render_template('members.html', member=member)
 
-@app.route('/members/baldwin')
-def baldwin():
-    return render_template('baldwin.html')
-
-@app.route('/members/barrasso')
-def barrasso():
-    return render_template('barrasso.html')
-
-@app.route('/members/bennet')
-def bennet():
-    return render_template('bennet.html')
-
-@app.route('/members/blackburn')
-def blackburn():
-    return render_template('blackburn.html')
-
-@app.route('/members/blumenthal')
-def blumenthal():
-    return render_template('blumenthal.html')
-
-@app.route('/members/blunt')
-def blunt():
-    return render_template('blunt.html')
-
-@app.route('/members/booker')
-def booker():
-    return render_template('booker.html')
-
-@app.route('/members/boozman')
-def boozman():
-    return render_template('boozman.html')
-
-@app.route('/members/braun')
-def braun():
-    return render_template('braun.html')
-
-@app.route('/members/brown')
-def brown():
-    return render_template('brown.html')
-
-@app.route('/members/burr')
-def burr():
-    return render_template('burr.html')
-
-@app.route('/members/cantwell')
-def cantwell():
-    return render_template('cantwell.html')
-
-@app.route('/members/capito')
-def capito():
-    return render_template('capito.html')
-
-@app.route('/members/cardin')
-def cardin():
-    return render_template('cardin.html')
-
-@app.route('/members/carper')
-def carper():
-    return render_template('carper.html')
+@app.route('/members/<member_id>')
+def individual_member():
+    member = Member.query.all()
+    committee = Committee.query.all()
+    twitter = Twitter_Account.query.all()
+    financial = Financial_Information.query.all()
+    industry_contributor = Industry_Contributor.query.all()
+    organization_contributor = Organization_Contributor.query.all()
+    sector_contributor = Sector_Contributor.query.all()
+    legislation = db.session.query(legislation).all()
+    return render_template('individual_member.html', id=member_id, member=member, committee=committee, twitter=twitter, financial=financial, industry_contributor=industry_contributor, organization_contributor=organization_contributor, sector_contributor=sector_contributor, legislation=legislation)
 
 # COMMITTEES
 @app.route('/committees/')
 def committees():
-    return render_template('committees.html')
+    page = request.args.get('page', 1, type=int)
+    committee = Committee.query.paginate(page=page, per_page=ROWS_PER_PAGE)
+    hearing = Heraring.query.all()
+    is_pushed_through = Is_Pushed_Through.query.all()
+    member = Member.query.all()
+    return render_template('committees.html', committee=committee, hearing=hearing, is_pushed_through=is_pushed_through, member=member)
 
 # LEGISLATION
 @app.route('/legislation/')
 def legislation():
-    return render_template('legislation.html')
+    page = request.args.get('page', 1, type=int)
+    legislation = Legislation.query.paginate(page=page, per_page=ROWS_PER_PAGE)
+    action = Action.query.all()
+    is_pushed_through = Is_Pushed_Through.query.all()
+    member = Member.query(members).all()
+    return render_template('legislation.html', legislation=legislation, action=action, is_pushed_through=is_pushed_through, member=member)
 
-@app.route('/legislation/hr1188')
-def hr1188():
-    return render_template('hr1188.html')
+@app.route('/legislation/<bill_id>')
+def individual_legislation():
+    legislation = Legislation.query(legislation).all()
+    member = Member.query.all()
+    is_pushed_through = Is_Pushed_Through.query.all()
+    action = Action.query.all()
+    return render_template('individual_legislation.html', id=bill_id,  legislation=legislation, member=member, is_pushed_through=is_pushed_through, action=action)
 
-@app.route('/legislation/velazquez')
-def velazquez():
-    return render_template('velazquez.html')
-
-@app.route('/legislation/hr1083')
-def hr1083():
-    return render_template('hr1083.html')
-
-@app.route('/legislation/sres58')
-def sres58():
-    return render_template('sres58.html')
-
-@app.route('/legislation/s287.html')
-def s287():
-    return render_template('s287.html')
-
-@app.route('/legislation/samdt643.html')
-def samdt643():
-    return render_template('samdt643.html')
-
+# ABOUT
 @app.route('/about/')
 def about():
     return render_template('about.html')
