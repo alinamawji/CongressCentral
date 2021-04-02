@@ -60,10 +60,10 @@
           <tr>
             <td>Chair Person:</td>
               <td>
-                {% set member_id = i.chair_id -%}
+                {% set member_id = i.chair_id %}
                 {% for j in members %}
                   {% if j.member_id == member_id %}
-                <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.Fname}} {{j.Lname}} ({{j.party}}-{{j.state}})</a>
+                <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.lname}}{{ j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
                   {% endif %}
                 {% endfor %}
               </td>
@@ -75,7 +75,7 @@
                 {% set member_id = i.ranking_id -%}
                 {% for j in members %}
                   {% if j.member_id == member_id %}
-                <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.Fname}} {{j.Lname}} ({{j.party}}-{{j.state}})</a>
+                <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.lname}}{{ j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
                   {% endif %}
                 {% endfor %}
               </td>

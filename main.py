@@ -30,14 +30,28 @@ def individual_member():
     return render_template('individual_member.html', id=member_id, member=member, committee=committee, twitter=twitter, financial=financial, industry_contributor=industry_contributor, organization_contributor=organization_contributor, sector_contributor=sector_contributor, legislation=legislation)
 
 # COMMITTEES
-@app.route('/committees/')
+@app.route('/committees/', methods=['GET'])
 def committees():
     page = request.args.get('page', 1, type=int)
     committee = Committee.query.paginate(page=page, per_page=ROWS_PER_PAGE)
     hearing = Hearing.query.all()
     is_pushed_through = Is_Pushed_Through.query.all()
     member = Member.query.all()
-    return render_template('committees.html', committee=committee, hearing=hearing, is_pushed_through=is_pushed_through, member=member)
+    subcommittees = Subcommittee.query.all()
+    are_part_of = Are_Part_Of.query.all()
+    return render_template('committees.html', committee=committee, hearing=hearing, is_pushed_through=is_pushed_through, member=member, subcommittees=subcommittees, are_part_of=are_part_of)
+
+@app.route('/committee/<committee_name>')
+def individual_committee():
+    member = Member.query.all()
+    committee = Committee.query.all()
+    legislation = db.session.query(legislation).all()
+    hearing = Heraring.query.all()
+    is_pushed_through = Is_Pushed_Through.query.all()
+    are_part_of = Are_Part_Of.query.all()
+    discuss = Discuss.query.all()
+    subcommittees = Subcommittee.query.all()
+    return render_template('individual_committee.html', name=committee_name, member=member, committee=committee, legislation=legislation, hearing=hearing, is_pushed_through=is_pushed_through, are_part_of=are_part_of, discuss=discuss, subcommittees=subcommittees)
 
 # LEGISLATION
 @app.route('/legislation/')

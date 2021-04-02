@@ -87,7 +87,7 @@
                 {% for i in member.items %}
                     <tr class="item">
                         <td>
-                            <a href="{{url_for('about')}}" class="text-name">Senator {{i.lname}}{{ i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}<br><img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></a>
+                            <a href="{{url_for('about')}}" class="text-name">Senator {{i.lname}}{{ ' '~i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}<br><img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></a>
                         </td>
                         <td>
                             <p class="text-muted">{{'Junior' if i.state_rank == 'junior' else 'Senior'}}</p>
