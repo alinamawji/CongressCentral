@@ -34,7 +34,7 @@ def individual_member():
 def committees():
     page = request.args.get('page', 1, type=int)
     committee = Committee.query.paginate(page=page, per_page=ROWS_PER_PAGE)
-    hearing = Heraring.query.all()
+    hearing = Hearing.query.all()
     is_pushed_through = Is_Pushed_Through.query.all()
     member = Member.query.all()
     return render_template('committees.html', committee=committee, hearing=hearing, is_pushed_through=is_pushed_through, member=member)
