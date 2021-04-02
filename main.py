@@ -10,18 +10,11 @@ def index():
 
 ROWS_PER_PAGE = 10
 
-# /members?page=2
-
 # MEMBERS
 @app.route('/members/', methods=['GET'])
 def members():
     page = request.args.get('page', 1, type=int)
     member = Member.query.paginate(page, per_page=ROWS_PER_PAGE)
-    print(member.items, len(member.items))
-    # for i in member:
-    #     print("<Model '{}'".format(table))
-    #     for column in inspector.get_columns(table):
-    #         print(column)
     return render_template('members.html', member=member)
 
 @app.route('/members/<member_id>')
