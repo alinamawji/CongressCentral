@@ -111,6 +111,9 @@
     <div class="collapse" id="collapseSubs">
       <div class="table-responsive">
         <table class="table card-table m-0">
+          <thead>
+            <th class="h5">Subcommittees</th>
+          </thead>
           <tbody>
             {% for j in subcommittees %}
               {% if j.committee_name == id %}
@@ -139,6 +142,9 @@
     <div class="collapse" id="collapseMems">
       <div class="table-responsive">
         <table class="table card-table m-0">
+          <thead>
+            <th class="h5">Members</th>
+          </thead>
           <tbody>
             {% for j in are_part_of %}
               {% if j.committee_name == id %}
@@ -146,7 +152,7 @@
               <td>
                 {% for k in member %}
                   {% if k.id == j.member_id %}
-                <a href="{{ url_for('about') }}">Senator {{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
+                <a href="{{ url_for('about') }}">{{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
                   {% endif %}
                 {% endfor %}
               </td>

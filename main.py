@@ -9,6 +9,7 @@ def index():
     return render_template('index.html')
 
 ROWS_PER_PAGE = 10
+ROWS_PER_PAGE_COMMITTEE = 5
 
 # MEMBERS
 @app.route('/members/', methods=['GET'])
@@ -33,7 +34,7 @@ def individual_member():
 @app.route('/committees/', methods=['GET'])
 def committees():
     page = request.args.get('page', 1, type=int)
-    committee = Committee.query.paginate(page=page, per_page=ROWS_PER_PAGE)
+    committee = Committee.query.paginate(page=page, per_page=ROWS_PER_PAGE_COMMITTEE)
     hearing = Hearing.query.all()
     is_pushed_through = Is_Pushed_Through.query.all()
     member = Member.query.all()
