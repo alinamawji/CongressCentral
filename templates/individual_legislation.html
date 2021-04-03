@@ -44,14 +44,25 @@
 <div class="container bootdey flex-grow-1 container-p-y">
 
 {% for i in legislation %}
-    {% if i.bill_id == id %}
+    {% if i.bill_id == bill_id %}
 
   <div class="media align-items-center py-3 mb-3">
     <div class="media-body ml-4">
       <h3 class="mb-0">{{i.bill_number}}</h3>
       <div class="text-muted text-medium mb-0">Senate</div>
     </div>
-    <img src="../static/images/{{i.type}}.png" alt="" class="d-block ui-w-100">
+    {% if i.type == 's' %}
+      <img src="{{ url_for('static',filename='images/bill.png')}}" class="d-block ui-w-100"/>
+    {% endif %}
+    {% if i.type == 'sres' %}
+      <img src="{{ url_for('static',filename='images/resolution.png')}}" class="d-block ui-w-100"/>
+    {% endif %}
+    {% if i.type == 'sjres' %}
+      <img src="{{ url_for('static',filename='images/jointresolution.png')}}" class="d-block ui-w-100"/>
+    {% endif %}
+    {% if i.type == 'sconres' %}
+      <img src="{{ url_for('static',filename='images/concurrentresolution.png')}}" class="d-block ui-w-100"/>
+    {% endif %}
   </div>
 
   <div class="card mb-4">
@@ -67,17 +78,17 @@
           <tr>
             <td>Sponsor:</td>
               <td>
-                {% set member_id = i.member_id -%}
-                {% for j in members %}
-                  {% if j.member_id == member_id %}
-                <a href="{{url_for('{{j.member_id}}')}}" class="disabled">Senator {{j.Fname}} {{j.Lname}} ({{j.party}}-{{j.state}})</a>
+                {% set sponsor_id = i.sponsor_id %}
+                {% for j in member %}
+                  {% if j.id == sponsor_id %}
+                <a href="{{url_for('individual_member', member_id=sponsor_id)}}">Senator {{j.lname}}{{ j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }} ({{j.party}}-{{j.state}})</a>
                   {% endif %}
                 {% endfor %}
               </td>
           </tr>
           <tr>
             <td>Introduced:</td>
-            <td>{{j.date_introduced}}</td>
+            <td>{{i.date_introduced}}</td>
           </tr>
         </tbody>
       </table>
@@ -90,10 +101,10 @@
             <th>Committees</th>
           </tr>
           {% for j in is_pushed_through %}
-            {% if j.bill_id == id %}
+            {% if j.bill_id == bill_id %}
               <tr>
                 <td>
-                  <a href="{{url_for('committees')}}">{{j.committee_name}}</a>
+                  <a href="{{url_for('about')}}">{{j.committee_name}}</a>
                 </td>
               </tr>
             {% endif %}
@@ -116,8 +127,8 @@
           </th>
         </thead>
         <tbody>
-          {% for j in actions %}
-            {% if j.bill_id == id %}
+          {% for j in action %}
+            {% if j.bill_id == bill_id %}
           <tr>
             <td>
               {{j.date}}
@@ -141,15 +152,22 @@
       <table class="table user-view-table m-0">
         <h3 class="text-medium mt-2 mb-4">Other Legislation by this Sponsor</h3>
         <tbody>
-          {% for j in legislation %}
-            {% if j.bill_id == id %}
+      {% for j in legislation %}
+        {% if j.sponsor_id == sponsor_id %}
           <tr>
-            <a href="{{url_for('{{j.bill_number}}')}}">{{j.bill_number}}</a>
+            <td>
+              <a href="{{url_for('individual_legislation', bill_id=j.bill_id)}}">{{j.bill_number}}</a><p>{{j.summary}}</p>
+            </td>
           </tr>
+        {% endif %}
+      {% endfor %}
         </tbody>
       </table>
     </div>
   </div>
+
+  {% endif %}
+{% endfor %}
 
 </div>
 

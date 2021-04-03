@@ -42,27 +42,23 @@
 </nav>
 
 <div class="container bootdey flex-grow-1 container-p-y">
-  {% for i in members %}
-    {% if i.member_id == member %}
+  {% for i in member %}
+    {% if i.id == member_id %}
       <div class="media align-items-center py-3 mb-3">
         <img src="../static/images/{{i.member_id}}.jpg" alt="" class="d-block ui-w-100 rounded-circle">
         <div class="media-body ml-4">
-          <h4 class="font-weight-bold mb-0">Senator {{i.Lname}} {{ i.suffix if i.suffix is not none else '' }}, {{i.Fname}} {{ i.MI if i.MI is not none else '' }}
-    {% endif %}
-  {% endfor %}
-  {% for i in twitter %}
-    {% if i.member_id == member %}
-            <a class="text-muted font-weight-normal" href="https://twitter.com/SenatorBaldwin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">{{i.twitter_handle}}
+          <img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" align="left"/>
+          <h4 class="font-weight-bold mb-0">Senator {{i.lname}}{{ i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}
+    {% for j in twitter %}
+      {% if j.member_id == member_id %}
+            <a class="text-muted font-weight-normal" href="https://twitter.com/{{j.twitter_handle}}?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">@{{j.twitter_handle}}
             </a>
           </h4>
-    {% endif %}
-  {% endfor %}
-  {% for i in members %}
-    {% if i.member_id == member %}
+      {% endif %}
+    {% endfor %}
           <div class="text-muted mb-2">{{i.party}} | {{i.state}}</div>
         </div>
       </div>
-
             <div class="card mb-4">
               <div class="card-body">
                 <table class="table user-view-table m-0">
@@ -79,20 +75,19 @@
                     </tr>
                     <tr>
                       <td>Party:</td>
-                      <td>{{i.party}}</td>
+                      <td>{{'Democratic' if i.party == 'D' else 'Republican'}}</td>
                     </tr>
                     <tr>
-                      <td>Votes with Party %:</td>
-                      <td>{{i.votes_w_party}}</td>
+                      <td>Votes with Party:</td>
+                      <td>{{i.votes_w_party}}%</td>
                     </tr>
                     <tr>
-                      <td>Votes against Party %:</td>
-                      <td>{{i.votes_ag_party}}</td>
+                      <td>Votes against Party:</td>
+                      <td>{{i.votes_against_party}}%</td>
                     </tr>
                   </tbody>
                 </table>
               </div>
-
     {% endif %}
   {% endfor %}
             <hr class="border-light m-0">
@@ -102,49 +97,50 @@
                     <tr>
                       <th>Committees</th>
                     </tr>
-                    {% for i in committees %}
-                      {% if i.member_id == member %}
-                        <tr>
-                          <td>
-                            <a href="{{url_for('committees')}}#sen_approp">{{i.name}}</a>
-                          </td>
-                        </tr>
-                      {% endif %}
-                    {% endfor %}
+                {% for i in committee %}
+                  {% if i.chair_id == member_id %}
+                    <tr>
+                      <td>
+                        <a href="{{url_for('committees')}}">{{i.name}}</a>
+                      </td>
+                    </tr>
+                  {% endif %}
+                {% endfor %}
                   </tbody>
                 </table>
               </div>
             </div>
 
+              <div class="card mb-4">
+                <div class="row no-gutters row-bordered">
+
   {% for i in twitter %}
-    {% if i.member_id == member %}
-            <div class="card mb-4">
-              <div class="row no-gutters row-bordered">
-                <div class="d-flex col-md align-items-center">
-                  <a class="card-body d-block text-body">
-                    <div class="text-muted small line-height-1">Tweets</div>
-                    <div class="text-xlarge">{{i.number_tweets}}</div>
-                  </a>
+    {% if i.member_id == member_id %}
+                  <div class="d-flex col-md align-items-center">
+                    <a class="card-body d-block text-body">
+                      <div class="text-muted small line-height-1">Tweets</div>
+                      <div class="text-xlarge">{{i.number_tweets}}</div>
+                    </a>
+                  </div>
+                  <div class="d-flex col-md align-items-center">
+                    <a class="card-body d-block text-body">
+                      <div class="text-muted small line-height-1">Followers</div>
+                      <div class="text-xlarge">{{i.number_followers}}</div>
+                    </a>
+                  </div>
+                  <div class="d-flex col-md align-items-center">
+                    <a class="card-body d-block text-body">
+                      <div class="text-muted small line-height-1">Following</div>
+                      <div class="text-xlarge">{{i.number_following}}</div>
+                    </a>
+                  </div>
                 </div>
-                <div class="d-flex col-md align-items-center">
-                  <a class="card-body d-block text-body">
-                    <div class="text-muted small line-height-1">Followers</div>
-                    <div class="text-xlarge">{{i.number_followers}}</div>
-                  </a>
-                </div>
-                <div class="d-flex col-md align-items-center">
-                  <a class="card-body d-block text-body">
-                    <div class="text-muted small line-height-1">Following</div>
-                    <div class="text-xlarge">{{i.number_following}}</div>
-                  </a>
-                </div>
-              </div>
-              <hr class="border-light m-0">
-              <div class="card-body">
+                <hr class="border-light m-0">
+                <div class="card-body">
     {% endif %}
   {% endfor %}
-  {% for i in members %}
-    {% if i.member_id == member %}
+  {% for i in member %}
+    {% if i.id == member_id %}
                 <table class="table user-view-table m-0">
                 <h6 class="mt-4 mb-3">Contacts</h6>
 
@@ -175,23 +171,22 @@
                   <div class="table-responsive">
                     <table class="table card-table m-0">
                       <tbody>
-                        {% for i in legislation %}
-                          {% if i.member_id == member %}
-                          <tr>
-                            <td>
-                              <p>
-                                <h6><a href="{{url_for('{{i.bill_id}}')}}">{{i.bill_number}}<a></h6>
-                                <br>
-                                {{i.summary}}
-                                <br>
-                                <br>
-                                Introduced: {{i.date_introduced}}
-                              </p>
-                            </td>
-                          </tr>
-                          {% endif %}
-                        {% endfor %}
-
+                      {% for i in legislation %}
+                        {% if i.sponsor_id == member_id %}
+                        <tr>
+                          <td>
+                            <p>
+                              <h6><a href="{{url_for('individual_legislation', bill_id=i.bill_id)}}">{{i.bill_number}}<a></h6>
+                              <br>
+                              {{i.summary}}
+                              <br>
+                              <br>
+                              Introduced: {{i.date_introduced}}
+                            </p>
+                          </td>
+                        </tr>
+                        {% endif %}
+                      {% endfor %}
                         <tr>
                           <td>
                             <a href="{{url_for('legislation')}}">Click here to view more</a>
@@ -214,7 +209,7 @@
                     <table class="table card-table m-0">
                       <tbody>
                         {% for i in twitter %}
-                          {% if i.member_id == member %}
+                          {% if i.member_id == member_id %}
                           <tr>
                             <td>
                               <p>
@@ -244,47 +239,68 @@
                     <table class="table card-table m-0">
                       <tbody>
                         {% for i in financial %}
-                          {% if i.member_id == member %}
-                            {% set crp_id = i.crp_id -%}
-                              {% for j in industry_contributors %}
+                          {% if i.member_id == member_id %}
+                            {% set crp_id = i.crp_id %}
+                              <tr>
+                                <td>
+                                  <br>
+                                  <h6 style="color:blue;">Industry Contributors</h6>
+                                  <br>
+                                </td>
+                              </tr>
+                              {% for j in industry_contributor %}
                                 {% if j.crp_id == crp_id %}
                                 <tr>
                                   <td>
                                     <p>
                                       <h6>{{j.industry_name}}</h6>
                                       <br>
-                                      {{j.total}}
+                                      Contribution: ${{j.total}}
                                     </p>
                                   </td>
                                 </tr>
-                              {% endif %}
-                            {% endfor %}
-                            {% for j in organizaation_contributors %}
+                                {% endif %}
+                              {% endfor %}
+                              <tr>
+                                <td>
+                                  <br>
+                                  <h6 style="color:blue;">Organization Contributors</h6>
+                                  <br>
+                                </td>
+                              </tr>
+                              {% for j in organization_contributor %}
                                 {% if j.crp_id == crp_id %}
                                 <tr>
                                   <td>
                                     <p>
-                                      <h6>{{j.organization_name}}</h6>
+                                      <h6>{{j.org_name}}</h6>
                                       <br>
-                                      {{j.total}}
+                                      Contribution: ${{j.total}}
                                     </p>
                                   </td>
                                 </tr>
-                              {% endif %}
-                            {% endfor %}
-                            {% for j in sector_contributors %}
+                                {% endif %}
+                              {% endfor %}
+                              <tr>
+                                <td>
+                                  <br>
+                                  <h6 style="color:blue;">Sector Contributors</h6>
+                                  <br>
+                                </td>
+                              </tr>
+                              {% for j in sector_contributor %}
                                 {% if j.crp_id == crp_id %}
                                 <tr>
                                   <td>
                                     <p>
                                       <h6>{{j.sector_name}}</h6>
                                       <br>
-                                      {{j.total}}
+                                      Contribution: ${{j.total}}
                                     </p>
                                   </td>
                                 </tr>
-                              {% endif %}
-                            {% endfor %}
+                                {% endif %}
+                              {% endfor %}
                           {% endif %}
                         {% endfor %}
 

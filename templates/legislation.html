@@ -166,16 +166,15 @@
             {% if i.type == "sres" %} Resolution {% endif %}
             {% if i.type == "sjres" %} Joint Resolution {% endif %}
             {% if i.type == "sconres" %} Concurrent Resolution {% endif %}
-            {% if i.type == "sres" %} Resolution {% endif %}
           </div>
           <div class="card-body">
-            <h5 class="card-title"><a href="{{url_for('about')}}">{{i.bill_number}}</a></h5>
+            <h5 class="card-title"><a href="{{url_for('individual_legislation', bill_id=i.bill_id)}}">{{i.bill_number}}</a></h5>
             <p id="description" class="card-text">{{i.summary}}</p>
             <p class="card-text-att">Sponsor: <br>
             {% set sponsor_id = i.sponsor_id %}
             {% for j in member %}
               {% if j.id == sponsor_id %}
-                <p class="sponsor card-text"><a href="{{url_for('about')}}" class="card-text">Senator {{j.lname}}{{ j.namesuffix if j.namesuffix is not none else '' }}, {{j.fname}} {{ j.mname if j.mname is not none else '' }} ({{ j.party }}-{{ j.state }}) </a></p>
+                <p class="sponsor card-text"><a href="{{url_for('individual_member', member_id=sponsor_id)}}" class="card-text">Senator {{j.lname}}{{ j.namesuffix if j.namesuffix is not none else '' }}, {{j.fname}} {{ j.mname if j.mname is not none else '' }} ({{ j.party }}-{{ j.state }}) </a></p>
               {% endif %}
             {% endfor %}
             </p>
