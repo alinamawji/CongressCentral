@@ -78,6 +78,12 @@ def individual_legislation(bill_id):
 def about():
     return render_template('about.html')
 
+@app.route('/api/')
+def api():
+    member_list = Member.query.all()
+    print(member_list)
+    return str([Member.lname for mem in member_list])
+
 if __name__ == '__main__':
     app.debug = True
     app.run(host='0.0.0.0', port = 8080)
