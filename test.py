@@ -18,14 +18,14 @@ class DBTestCases(unittest.TestCase):
     # ---------
 
     def test_source_insert_1(self):
-        s = Committee(name="committee1", website="https://www.committee1.com/", branch="senate", chair_id=1234, ranking_id=5678)
+        s = Committee(id="ABCD",name="committee1", website="https://www.committee1.com/", branch="senate", chair_id=1234, ranking_id=5678)
         db.session.add(s)
         db.session.commit()
 
-        r = db.session.query(Committee).filter_by(name = "committee1").one()
-        self.assertEqual(str(r.name), "committee1")
+        r = db.session.query(Committee).filter_by(id = "ABCD").one()
+        self.assertEqual(str(r.id), "ABCD")
 
-        db.session.query(Committee).filter_by(name = "committee1").delete()
+        db.session.query(Committee).filter_by(id = "ABCD").delete()
         db.session.commit()
 
     def test_source_insert_2(self):
@@ -53,15 +53,15 @@ class DBTestCases(unittest.TestCase):
         db.session.commit()
 
     def test_source_update_1(self):
-        s = Committee(name="committee1", website="https://www.committee1.com/", branch="senate", chair_id="1234", ranking_id="5678")
+        s = Committee(id = "ABCD", name="committee1", website="https://www.committee1.com/", branch="senate", chair_id="1234", ranking_id="5678")
         db.session.add(s)
         db.session.commit()
 
-        r = db.session.query(Committee).filter_by(name = "committee1").one()
+        r = db.session.query(Committee).filter_by(id = "ABCD").one()
         r.branch = "house"
         self.assertEqual(str(r.branch), "house")
 
-        db.session.query(Committee).filter_by(name = "committee1").delete()
+        db.session.query(Committee).filter_by(id = "ABCD").delete()
         db.session.commit()
 
     def test_source_update_2(self):

@@ -27,7 +27,8 @@ db = SQLAlchemy(app)
 class Committee(db.Model):
     """
     Committee class has 5 attributes
-    name (primary key)
+    id (primary key)
+    name
     website
     branch
     chair_id
@@ -134,7 +135,7 @@ class Member(db.Model):
 # ------------
 class Legislation(db.Model):
     """
-    Legislation class has 5 attributes
+    Legislation class has 7 attributes
     bill_id (primary key)
     cosponsors
     summary
@@ -170,7 +171,6 @@ class Legislation(db.Model):
           'summary': self.summary,
           'type': self.type,
           'date_introduced': self.date_introduced,
-          # not sure whether this is right or not about foreign key return
           'sponsor_id': self.sponsor_id,
           'bill_number': self.bill_number
         }
@@ -408,7 +408,7 @@ class Action(db.Model):
     """
     Action class has 4 attributes
     action_id (primary key)
-    bill_id (foreign key)
+    bill_id (foreign, primary key)
     date
     description
     """
@@ -439,8 +439,8 @@ class Action(db.Model):
 class Are_Part_Of(db.Model):
     """
     Are_Part_Of class has 2 attributes
-    committee_name (foreign key)
-    member_id (foreign key)
+    committee_name (primary key)
+    member_id (primary key)
     """
     __tablename__ = 'are_part_of'
 
@@ -466,8 +466,8 @@ class Are_Part_Of(db.Model):
 class Is_Pushed_Through(db.Model):
     """
     Is_Pushed_Through class has 2 attributes
-    committee_name (foreign key)
-    bill_id (foreign key)
+    committee_name (primary key)
+    bill_id (primary key)
     """
     __tablename__ = 'is_pushed_through'
 
@@ -492,10 +492,10 @@ class Is_Pushed_Through(db.Model):
 class Discuss(db.Model):
     """
     Discuss class has 4 attributes
-    hearing_date (foreign key)
-    hearing_time (foreign key)
-    hearing_location (foreign key)
-    bill_ID (foreign key)
+    hearing_date (primary key)
+    hearing_time (primary key)
+    hearing_location (primary key)
+    bill_ID (primary key)
     """
     __tablename__ = 'discuss'
 
