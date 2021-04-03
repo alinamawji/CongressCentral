@@ -27,7 +27,8 @@ def individual_member(member_id):
     organization_contributor = Organization_Contributor.query.all()
     sector_contributor = Sector_Contributor.query.all()
     legislation = Legislation.query.all()
-    return render_template('individual_member.html', member_id=member_id, member=member, committee=committee, twitter=twitter, financial=financial, industry_contributor=industry_contributor, organization_contributor=organization_contributor, sector_contributor=sector_contributor, legislation=legislation)
+    are_part_of = Are_Part_Of.query.all()
+    return render_template('individual_member.html', member_id=member_id, member=member, committee=committee, twitter=twitter, financial=financial, industry_contributor=industry_contributor, organization_contributor=organization_contributor, sector_contributor=sector_contributor, legislation=legislation, are_part_of=are_part_of)
 
 # COMMITTEES
 @app.route('/committees/', methods=['GET'])

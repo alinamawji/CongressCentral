@@ -152,7 +152,7 @@
               <td>
                 {% for k in member %}
                   {% if k.id == j.member_id %}
-                <a href="{{ url_for('individual_member', member_id=j.id) }}">{{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
+                <a href="{{ url_for('individual_member', member_id=k.id) }}">{{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
                   {% endif %}
                 {% endfor %}
               </td>

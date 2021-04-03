@@ -48,7 +48,7 @@
         <img src="../static/images/{{i.member_id}}.jpg" alt="" class="d-block ui-w-100 rounded-circle">
         <div class="media-body ml-4">
           <img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" align="left"/>
-          <h4 class="font-weight-bold mb-0">Senator {{i.lname}}{{ i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}
+          <h4 class="font-weight-bold mb-0">Senator {{i.lname}}{{ ' '~i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}
     {% for j in twitter %}
       {% if j.member_id == member_id %}
             <a class="text-muted font-weight-normal" href="https://twitter.com/{{j.twitter_handle}}?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">@{{j.twitter_handle}}
@@ -97,11 +97,20 @@
                     <tr>
                       <th>Committees</th>
                     </tr>
-                {% for i in committee %}
-                  {% if i.chair_id == member_id %}
+                {% for i in are_part_of %}
+                  {% if i.member_id == member_id %}
                     <tr>
                       <td>
-                        <a href="{{url_for('individual_committee', committee_name=i.name)}}">{{i.name}}</a>
+                        <a href="{{url_for('individual_committee', committee_name=i.committee_name)}}">{{i.committee_name}} 
+                        {% for j in committee %}
+                          {% if j.name == i.committee_name and j.chair_id == member_id %}
+                            (Chair)
+                          {% endif %}
+                          {% if j.name == i.committee_name and j.ranking_id == member_id %}
+                            (Ranking Member)
+                          {% endif %}
+                        {% endfor %}
+                        </a>
                       </td>
                     </tr>
                   {% endif %}
@@ -214,7 +223,7 @@
                             <td>
                               <p>
                                 <br>
-                                {{i.timeline_html}}
+                                {{i.timeline_html|safe}}
                                 <br>
                               </p>
                             </td>
