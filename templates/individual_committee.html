@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+<!-- Style content CDN -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!-- Font for icons like check mark -->
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"/>
+<!-- Local stylesheet elements -->
+<link rel="stylesheet" href="{{ url_for('static',filename='profile.css') }}">
+
+<!-- favicon -->
+<link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='images/favicon.png') }}"/>
+
+<!-- Bootstrap js -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js" integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf" crossorigin="anonymous"></script>
+
+<nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-light static-top">
+      <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="{{url_for('index')}}">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{url_for('members')}}">Members</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{url_for('committees')}}">Committees</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{url_for('legislation')}}">Legislation</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{url_for('about')}}">About</a>
+          </li>
+        </ul>
+          <form class="form-inline my-2 my-lg-0">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success my-2 my-sm-0 disabled" type="submit">Search</button>
+          </form>
+      </div>
+</nav>
+
+<div class="container bootdey flex-grow-1 container-p-y">
+
+{% for i in committee %}
+  {% if i.name == id %}
+
+  <div class="media align-items-center py-3 mb-3 mt-2 bg-white">
+    <div class="media-body ml-4">
+      <h1 class="mb-0">{{i.name}}</h1>
+      <div class="text-muted text-medium mb-0">Senate Committee</div>
+    </div>
+  </div>
+
+  <div class="card mb-4">
+    <div class="card-body">
+      <h3 class="card-title text-center pb-3">Leadership</h3>
+      <table class="table user-view-table m-0">
+        <tbody>
+          <tr>
+            {% set member_id = i.chair_id %}
+            {% for j in member %}
+              {% if j.id == member_id %}
+
+            <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
+            <td class="align-middle">
+              <a href="{{ url_for('about') }}">Chair: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
+            </td>
+              {% endif %}
+
+            {% else %}
+            <td class="align-middle">No Chair Person<td class="align-middle">
+
+            {% endfor %}
+
+            {% set member_id = i.ranking_id %}
+            {% for j in member %}
+              {% if j.id == member_id %}
+
+            <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
+            <td class="align-middle">
+              <a href="{{ url_for('about') }}">Ranking Member: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
+            </td>
+              {% endif %}
+
+            {% else %}
+            <td class="align-middle">No Ranking Member<td class="align-middle">
+
+            {% endfor %}
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="card mb-4 card-body">
+    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSubs" aria-expanded="false" aria-controls="collapseSubs">
+    View all Subcommittees 
+    {% set count = namespace(value=0) %}
+    {% for j in subcommittees %}
+      {% if j.committee_name == id %}
+        {% set count.value = count.value + 1 %}
+      {% endif %}
+    {% endfor %}
+    ({{ count.value }})
+    </button>
+    <div class="collapse" id="collapseSubs">
+      <div class="table-responsive">
+        <table class="table card-table m-0">
+          <tbody>
+            {% for j in subcommittees %}
+              {% if j.committee_name == id %}
+                <tr>
+                  <td>{{j.name}}</td>
+                </tr>
+              {% endif %}
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-4 card-body">
+    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMems" aria-expanded="false" aria-controls="collapseMems">
+    View all Members 
+    {% set count = namespace(value=0) %}
+    {% for j in are_part_of %}
+      {% if j.committee_name == id %}
+        {% set count.value = count.value + 1 %}
+      {% endif %}
+    {% endfor %}
+    ({{ count.value }})
+    </button>
+    <div class="collapse" id="collapseMems">
+      <div class="table-responsive">
+        <table class="table card-table m-0">
+          <tbody>
+            {% for j in are_part_of %}
+              {% if j.committee_name == id %}
+            <tr>
+              <td>
+                {% for k in member %}
+                  {% if k.id == j.member_id %}
+                <a href="{{ url_for('about') }}">Senator {{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
+                  {% endif %}
+                {% endfor %}
+              </td>
+            </tr>
+              {% endif %}
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-4 card-body">
+    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHear" aria-expanded="false" aria-controls="collapseHear">
+    View all Hearings 
+    {% set count = namespace(value=0) %}
+    {% for j in hearing %}
+      {% if j.committee_name == id %}
+        {% set count.value = count.value + 1 %}
+      {% endif %}
+    {% endfor %}
+    ({{ count.value }})
+    </button>
+    <div class="collapse" id="collapseHear">
+      <div class="table-responsive">
+        <table class="table card-table m-0 text-center">
+        <thead>
+          <th>
+            Date
+          </th>
+          <th>
+            Time
+          </th>
+          <th>
+            Location
+          </th>
+          <th>
+            Description
+          </th>
+          <th>
+            Bills Discussed
+          </th>
+        </thead>
+        <tbody>
+          {% for j in hearing %}
+            {% if j.committee_name == id %}
+          <tr>
+            <td>
+              {{j.date}}
+            </td>
+            <td>
+              {{j.time}}
+            </td>
+            <td>
+              {{j.location}}
+            </td>
+            <td>
+              {{j.description}}
+            </td>
+            <td>
+              {% for k in discuss %}
+                {% if k.date == j.date and k.time == j.time and k.location == j.location %}
+                <a href="{{ url_for('about') }}">{{k.bill_id}}</a>
+                {% endif %}
+                {% else %}
+                No bills discussed
+              {% endfor %}
+            </td>
+          </tr>
+            {% endif %}
+          {% endfor %}
+        </tbody>
+      </table>
+      </div>
+    </div>
+  </div>
+
+    {% endif %}
+  {% endfor %}
+</div>
+

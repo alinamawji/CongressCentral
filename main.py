@@ -26,7 +26,7 @@ def individual_member():
     industry_contributor = Industry_Contributor.query.all()
     organization_contributor = Organization_Contributor.query.all()
     sector_contributor = Sector_Contributor.query.all()
-    legislation = db.session.query(legislation).all()
+    legislation = db.session.query(Legislation).all()
     return render_template('individual_member.html', id=member_id, member=member, committee=committee, twitter=twitter, financial=financial, industry_contributor=industry_contributor, organization_contributor=organization_contributor, sector_contributor=sector_contributor, legislation=legislation)
 
 # COMMITTEES
@@ -42,16 +42,15 @@ def committees():
     return render_template('committees.html', committee=committee, hearing=hearing, is_pushed_through=is_pushed_through, member=member, subcommittees=subcommittees, are_part_of=are_part_of)
 
 @app.route('/committee/<committee_name>')
-def individual_committee():
+def individual_committee(committee_name):
     member = Member.query.all()
     committee = Committee.query.all()
-    legislation = db.session.query(legislation).all()
-    hearing = Heraring.query.all()
+    hearing = Hearing.query.all()
     is_pushed_through = Is_Pushed_Through.query.all()
     are_part_of = Are_Part_Of.query.all()
     discuss = Discuss.query.all()
     subcommittees = Subcommittee.query.all()
-    return render_template('individual_committee.html', name=committee_name, member=member, committee=committee, legislation=legislation, hearing=hearing, is_pushed_through=is_pushed_through, are_part_of=are_part_of, discuss=discuss, subcommittees=subcommittees)
+    return render_template('individual_committee.html', id=committee_name, member=member, committee=committee, hearing=hearing, is_pushed_through=is_pushed_through, are_part_of=are_part_of, discuss=discuss, subcommittees=subcommittees)
 
 # LEGISLATION
 @app.route('/legislation/')
