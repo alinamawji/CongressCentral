@@ -217,36 +217,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s298-117",
-        "date": "2021-02-08",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s88-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s113-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s17-117",
-        "date": "2021-01-22",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s25-117",
-        "date": "2021-01-22",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s1028-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
@@ -303,36 +273,6 @@
         "action_id": "1",
         "bill_id": "s505-117",
         "date": "2021-03-01",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s454-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s394-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s315-117",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s303-117",
-        "date": "2021-02-08",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s190-117",
-        "date": "2021-02-03",
         "description": "Read twice and referred to the Committee on the Judiciary."
     },
     {
@@ -430,36 +370,6 @@
         "bill_id": "s366-117",
         "date": "2021-02-23",
         "description": "Read twice and referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s341-117",
-        "date": "2021-02-22",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s346-117",
-        "date": "2021-02-22",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s317-117",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s300-117",
-        "date": "2021-02-08",
-        "description": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres45-117",
-        "date": "2021-02-08",
-        "description": "Referred to the Committee on the Judiciary. (text: CR S581-582)"
     },
     {
         "action_id": "1",
@@ -630,36 +540,6 @@
         "description": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent."
     },
     {
-        "action_id": "1",
-        "bill_id": "s546-117",
-        "date": "2021-03-02",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s472-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s471-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s474-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s489-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
         "action_id": "2",
         "bill_id": "sres137-117",
         "date": "2021-03-25",
@@ -730,48 +610,6 @@
         "bill_id": "s547-117",
         "date": "2021-03-02",
         "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres74-117",
-        "date": "2021-02-24",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres74-117",
-        "date": "2021-02-24",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S869; text: CR S866-867)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s385-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s336-117",
-        "date": "2021-02-22",
-        "description": "Read twice and referred to the Committee on Energy and Natural Resources."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sres51-117",
-        "date": "2021-02-12",
-        "description": "Referred to the Committee on Rules and Administration. (text: CR S712-713)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres51-117",
-        "date": "2021-02-12",
-        "description": "Referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres51-117",
-        "date": "2021-02-12",
-        "description": "Committee on Banking, Housing, and Urban Affairs. Original measure reported to Senate by Senator Brown. Without written report."
     },
     {
         "action_id": "2",
@@ -967,72 +805,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s481-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sres58-117",
-        "date": "2021-02-13",
-        "description": "Referred to the Committee on Rules and Administration. (text: CR S743-744)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres58-117",
-        "date": "2021-02-13",
-        "description": "Referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres58-117",
-        "date": "2021-02-13",
-        "description": "Committee on Small Business and Entrepreneurship. Original measure reported to Senate by Senator Cardin. Without written report."
-    },
-    {
-        "action_id": "5",
-        "bill_id": "sres35-117",
-        "date": "2021-03-24",
-        "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 26."
-    },
-    {
-        "action_id": "4",
-        "bill_id": "sres35-117",
-        "date": "2021-03-24",
-        "description": "Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sres35-117",
-        "date": "2021-03-24",
-        "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres35-117",
-        "date": "2021-02-04",
-        "description": "Referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres35-117",
-        "date": "2021-02-04",
-        "description": "Referred to the Committee on Foreign Relations. (text: CR S487-488)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s212-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s213-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s975-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Finance."
@@ -1138,36 +910,6 @@
         "bill_id": "s639-117",
         "date": "2021-03-09",
         "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s556-117",
-        "date": "2021-03-03",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s440-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s441-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s439-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s453-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Finance."
     },
     {
         "action_id": "1",
@@ -1422,18 +1164,6 @@
         "description": "Read twice and referred to the Committee on Veterans' Affairs."
     },
     {
-        "action_id": "2",
-        "bill_id": "s436-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S864-865)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s436-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
         "action_id": "1",
         "bill_id": "s998-117",
         "date": "2021-03-25",
@@ -1524,48 +1254,6 @@
         "description": "Read twice and referred to the Committee on the Judiciary."
     },
     {
-        "action_id": "2",
-        "bill_id": "sres98-117",
-        "date": "2021-03-09",
-        "description": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S1428)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres98-117",
-        "date": "2021-03-09",
-        "description": "Referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres80-117",
-        "date": "2021-03-01",
-        "description": "Referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres80-117",
-        "date": "2021-03-01",
-        "description": "Referred to the Committee on Rules and Administration. (text: CR S958)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s379-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s396-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s389-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Small Business and Entrepreneurship."
-    },
-    {
         "action_id": "1",
         "bill_id": "s1046-117",
         "date": "2021-03-25",
@@ -1633,42 +1321,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s503-117",
-        "date": "2021-03-01",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres67-117",
-        "date": "2021-02-22",
-        "description": "Referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres67-117",
-        "date": "2021-02-22",
-        "description": "Referred to the Committee on Foreign Relations. (text: CR S773-774)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s233-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s172-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Energy and Natural Resources."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s37-117",
-        "date": "2021-01-25",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s1004-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Energy and Natural Resources."
@@ -1732,36 +1384,6 @@
         "bill_id": "s696-117",
         "date": "2021-03-10",
         "description": "Read twice and referred to the Committee on Energy and Natural Resources."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s650-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Appropriations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s652-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s647-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s648-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Indian Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s649-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
     },
     {
         "action_id": "2",
@@ -1834,18 +1456,6 @@
         "bill_id": "sres72-117",
         "date": "2021-02-24",
         "description": "Referred to the Committee on Banking, Housing, and Urban Affairs. (text: CR S865-866)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s417-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s33-117",
-        "date": "2021-01-22",
-        "description": "Read twice and referred to the Committee on the Judiciary."
     },
     {
         "action_id": "2",
@@ -1948,36 +1558,6 @@
         "bill_id": "s842-117",
         "date": "2021-03-18",
         "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s706-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s705-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s676-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s524-117",
-        "date": "2021-03-02",
-        "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s523-117",
-        "date": "2021-03-02",
-        "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
     },
     {
         "action_id": "1",
@@ -2118,30 +1698,6 @@
         "description": "Read twice and referred to the Committee on the Judiciary."
     },
     {
-        "action_id": "1",
-        "bill_id": "s399-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s305-117",
-        "date": "2021-02-08",
-        "description": "Read twice and referred to the Committee on Energy and Natural Resources."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s304-117",
-        "date": "2021-02-08",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s266-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-    },
-    {
         "action_id": "2",
         "bill_id": "s1013-117",
         "date": "2021-03-25",
@@ -2262,66 +1818,6 @@
         "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S1712-1713)"
     },
     {
-        "action_id": "2",
-        "bill_id": "s873-117",
-        "date": "2021-03-18",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s873-117",
-        "date": "2021-03-18",
-        "description": "Read twice and referred to the Committee on Finance. (text: CR S1649-1651)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s807-117",
-        "date": "2021-03-17",
-        "description": "Read twice and referred to the Committee on the Judiciary. (text: CR S1617)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s807-117",
-        "date": "2021-03-17",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s686-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Finance. (text: CR S1469-1471)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s686-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s685-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Finance. (text: CR S1461-1469)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s685-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s644-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Finance. (text: CR S1426)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s644-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
         "action_id": "1",
         "bill_id": "s1049-117",
         "date": "2021-03-25",
@@ -2392,42 +1888,6 @@
         "bill_id": "sres71-117",
         "date": "2021-02-24",
         "description": "Referred to the Committee on the Judiciary. (text: CR S865)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s372-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s191-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s80-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres17-117",
-        "date": "2021-01-27",
-        "description": "Referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres17-117",
-        "date": "2021-01-27",
-        "description": "Referred to the Committee on Environment and Public Works. (text: CR S178)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s21-117",
-        "date": "2021-01-22",
-        "description": "Read twice and referred to the Committee on Armed Services."
     },
     {
         "action_id": "2",
@@ -2550,66 +2010,6 @@
         "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (Sponsor introductory remarks on measure: CR S574-575)"
     },
     {
-        "action_id": "2",
-        "bill_id": "s253-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s253-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S477-478)"
-    },
-    {
-        "action_id": "4",
-        "bill_id": "s144-117",
-        "date": "2021-03-24",
-        "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 21."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "s144-117",
-        "date": "2021-03-24",
-        "description": "Committee on Indian Affairs. Reported by Senator Schatz without amendment. With written report No. 117-5."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s144-117",
-        "date": "2021-03-10",
-        "description": "Committee on Indian Affairs. Ordered to be reported without amendment favorably."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s144-117",
-        "date": "2021-02-01",
-        "description": "Read twice and referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S213)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s138-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs. (Sponsor introductory remarks on measure: CR S201-202)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s102-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs. (Sponsor introductory remarks on measure: CR S201)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s58-117",
-        "date": "2021-01-27",
-        "description": "Read twice and referred to the Committee on Energy and Natural Resources."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s58-117",
-        "date": "2021-01-27",
-        "description": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S177)"
-    },
-    {
         "action_id": "1",
         "bill_id": "s951-117",
         "date": "2021-03-24",
@@ -2704,36 +2104,6 @@
         "bill_id": "s382-117",
         "date": "2021-02-23",
         "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s377-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s244-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s248-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s34-117",
-        "date": "2021-01-22",
-        "description": "Read twice and referred to the Committee on Appropriations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s32-117",
-        "date": "2021-01-22",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
     },
     {
         "action_id": "1",
@@ -2845,30 +2215,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s409-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s391-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s391-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S824-825)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s71-117",
-        "date": "2021-01-27",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s980-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
@@ -2977,90 +2323,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s350-117",
-        "date": "2021-02-22",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s217-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "10",
-        "bill_id": "s164-117",
-        "date": "2021-03-08",
-        "description": "Held at the desk."
-    },
-    {
-        "action_id": "9",
-        "bill_id": "s164-117",
-        "date": "2021-03-08",
-        "description": "Received in the House."
-    },
-    {
-        "action_id": "8",
-        "bill_id": "s164-117",
-        "date": "2021-03-08",
-        "description": "Message on Senate action sent to the House."
-    },
-    {
-        "action_id": "7",
-        "bill_id": "s164-117",
-        "date": "2021-03-03",
-        "description": "Passed Senate without amendment by Unanimous Consent. (consideration: CR S1021; text: CR S1021)"
-    },
-    {
-        "action_id": "6",
-        "bill_id": "s164-117",
-        "date": "2021-03-03",
-        "description": "Passed Senate without amendment by Unanimous Consent. (text: CR S1021)"
-    },
-    {
-        "action_id": "5",
-        "bill_id": "s164-117",
-        "date": "2021-03-03",
-        "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S1021)"
-    },
-    {
-        "action_id": "4",
-        "bill_id": "s164-117",
-        "date": "2021-03-03",
-        "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent. (consideration: CR S1021; text: CR S1021)"
-    },
-    {
-        "action_id": "3",
-        "bill_id": "s164-117",
-        "date": "2021-03-03",
-        "description": "Passed Senate without amendment by Unanimous Consent."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s164-117",
-        "date": "2021-03-03",
-        "description": "Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s164-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s70-117",
-        "date": "2021-01-27",
-        "description": "Read twice and referred to the Committee on Armed Services."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s52-117",
-        "date": "2021-01-26",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s720-117",
         "date": "2021-03-11",
         "description": "Read twice and referred to the Committee on the Judiciary."
@@ -3152,18 +2414,6 @@
     {
         "action_id": "1",
         "bill_id": "s180-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Energy and Natural Resources."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s177-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Energy and Natural Resources."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s182-117",
         "date": "2021-02-02",
         "description": "Read twice and referred to the Committee on Energy and Natural Resources."
     },
@@ -3619,60 +2869,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s756-117",
-        "date": "2021-03-16",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "5",
-        "bill_id": "s590-117",
-        "date": "2021-03-08",
-        "description": "Held at the desk."
-    },
-    {
-        "action_id": "4",
-        "bill_id": "s590-117",
-        "date": "2021-03-08",
-        "description": "Received in the House."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "s590-117",
-        "date": "2021-03-08",
-        "description": "Message on Senate action sent to the House."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s590-117",
-        "date": "2021-03-04",
-        "description": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1043; text: CR S1043)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s590-117",
-        "date": "2021-03-04",
-        "description": "Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s398-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s83-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s86-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s891-117",
         "date": "2021-03-23",
         "description": "Read twice and referred to the Committee on Finance."
@@ -3748,48 +2944,6 @@
         "bill_id": "s745-117",
         "date": "2021-03-15",
         "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s744-117",
-        "date": "2021-03-15",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres112-117",
-        "date": "2021-03-15",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres112-117",
-        "date": "2021-03-15",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1529; text: CR S1528)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres113-117",
-        "date": "2021-03-15",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres113-117",
-        "date": "2021-03-15",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S1529; text: CR S1528)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s740-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s670-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
     },
     {
         "action_id": "1",
@@ -3937,36 +3091,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s715-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s716-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s739-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s717-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s677-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s724-117",
         "date": "2021-03-11",
         "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
@@ -4018,48 +3142,6 @@
         "bill_id": "hr1667-114",
         "date": "2021-03-08",
         "description": "Referred to the House Committee on Energy and Commerce."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "hr1366-114",
-        "date": "2021-02-25",
-        "description": "Referred to the House Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "hr974-114",
-        "date": "2021-02-11",
-        "description": "Referred to the Committee on the Budget, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "hr945-114",
-        "date": "2021-02-08",
-        "description": "Referred to the House Committee on Energy and Commerce."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "hr845-114",
-        "date": "2021-03-22",
-        "description": "Referred to the Subcommittee on Oversight and Investigations."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "hr845-114",
-        "date": "2021-03-22",
-        "description": "Referred to the Subcommittee on Health."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "hr845-114",
-        "date": "2021-02-04",
-        "description": "Referred to the House Committee on Veterans' Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "hr417-114",
-        "date": "2021-01-21",
-        "description": "Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned."
     },
     {
         "action_id": "1",
@@ -4174,36 +3256,6 @@
         "bill_id": "s684-117",
         "date": "2021-03-10",
         "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s492-117",
-        "date": "2021-03-01",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s475-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s424-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s430-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s434-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
     },
     {
         "action_id": "1",
@@ -4507,84 +3559,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s812-117",
-        "date": "2021-03-17",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s765-117",
-        "date": "2021-03-16",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "5",
-        "bill_id": "sres117-117",
-        "date": "2021-03-24",
-        "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 20."
-    },
-    {
-        "action_id": "4",
-        "bill_id": "sres117-117",
-        "date": "2021-03-24",
-        "description": "Committee on Foreign Relations. Reported by Senator Menendez with an amendment in the nature of a substitute and with an amended preamble. Without written report."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sres117-117",
-        "date": "2021-03-24",
-        "description": "Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres117-117",
-        "date": "2021-03-16",
-        "description": "Referred to the Committee on Foreign Relations. (text: CR S1573-1574)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres117-117",
-        "date": "2021-03-16",
-        "description": "Referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "5",
-        "bill_id": "sres99-117",
-        "date": "2021-03-24",
-        "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 19."
-    },
-    {
-        "action_id": "4",
-        "bill_id": "sres99-117",
-        "date": "2021-03-24",
-        "description": "Committee on Foreign Relations. Reported by Senator Menendez without amendment and with a preamble. Without written report."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sres99-117",
-        "date": "2021-03-24",
-        "description": "Committee on Foreign Relations. Ordered to be reported without amendment favorably."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres99-117",
-        "date": "2021-03-09",
-        "description": "Referred to the Committee on Foreign Relations. (text: CR S1428-1429)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres99-117",
-        "date": "2021-03-09",
-        "description": "Referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s616-117",
-        "date": "2021-03-06",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s984-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Finance."
@@ -4656,42 +3630,6 @@
         "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
     },
     {
-        "action_id": "2",
-        "bill_id": "s559-117",
-        "date": "2021-03-10",
-        "description": "Committee on Indian Affairs. Ordered to be reported without amendment favorably."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s559-117",
-        "date": "2021-03-03",
-        "description": "Read twice and referred to the Committee on Indian Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s482-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s413-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s395-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s393-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
         "action_id": "1",
         "bill_id": "s887-117",
         "date": "2021-03-22",
@@ -4750,12 +3688,6 @@
         "bill_id": "s221-117",
         "date": "2021-02-04",
         "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s134-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs."
     },
     {
         "action_id": "5",
@@ -4927,12 +3859,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s168-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s981-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Environment and Public Works."
@@ -5014,42 +3940,6 @@
         "bill_id": "s455-117",
         "date": "2021-02-25",
         "description": "Read twice and referred to the Committee on Energy and Natural Resources."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s420-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sres55-117",
-        "date": "2021-02-12",
-        "description": "Referred to the Committee on Rules and Administration. (text: CR S714)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres55-117",
-        "date": "2021-02-12",
-        "description": "Referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres55-117",
-        "date": "2021-02-12",
-        "description": "Committee on Health, Education, Labor, and Pensions. Original measure reported to Senate by Senator Murray. Without written report."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s200-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s205-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
     },
     {
         "action_id": "2",
@@ -5134,36 +4024,6 @@
         "bill_id": "s575-117",
         "date": "2021-03-03",
         "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s573-117",
-        "date": "2021-03-03",
-        "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s463-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s406-117",
-        "date": "2021-02-24",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s323-117",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s232-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on the Budget."
     },
     {
         "action_id": "1",
@@ -5352,42 +4212,6 @@
         "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
     },
     {
-        "action_id": "1",
-        "bill_id": "s653-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres101-117",
-        "date": "2021-03-09",
-        "description": "Referred to the Committee on Finance. (text: CR S1431)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres101-117",
-        "date": "2021-03-09",
-        "description": "Referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s612-117",
-        "date": "2021-03-05",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s521-117",
-        "date": "2021-03-02",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s537-117",
-        "date": "2021-03-02",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
         "action_id": "2",
         "bill_id": "s907-117",
         "date": "2021-03-23",
@@ -5500,18 +4324,6 @@
         "bill_id": "s178-117",
         "date": "2021-02-02",
         "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s96-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Finance. (Sponsor introductory remarks on measure: CR S200-201)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s127-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S201)"
     },
     {
         "action_id": "1",
@@ -5760,24 +4572,6 @@
         "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
     },
     {
-        "action_id": "1",
-        "bill_id": "s121-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s122-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s94-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
         "action_id": "2",
         "bill_id": "s789-117",
         "date": "2021-03-24",
@@ -5866,36 +4660,6 @@
         "bill_id": "sres116-117",
         "date": "2021-03-16",
         "description": "Referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s699-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s703-117",
-        "date": "2021-03-11",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s689-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s623-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s626-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
     },
     {
         "action_id": "1",
@@ -5988,148 +4752,10 @@
         "description": "Referred to the Committee on Rules and Administration. (text: CR S773)"
     },
     {
-        "action_id": "16",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-05",
-        "description": "Pursuant to the provisions of H. Res. 101, S. Con. Res. 5 is considered passed House. (consideration: CR H447-455)"
-    },
-    {
-        "action_id": "15",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-05",
-        "description": "Rule H. Res. 101 passed House."
-    },
-    {
-        "action_id": "14",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-05",
-        "description": "Rules Committee Resolution H. Res. 101 Reported to House. Rule provides for consideration of S. Con. Res. 5 with 1 hour of general debate."
-    },
-    {
-        "action_id": "13",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-05",
-        "description": "Received in the House."
-    },
-    {
-        "action_id": "12",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-05",
-        "description": "Message on Senate action sent to the House."
-    },
-    {
-        "action_id": "11",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-05",
-        "description": "Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 54. (text: 02/04/21 CR S460-467)"
-    },
-    {
-        "action_id": "10",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-04",
-        "description": "Considered by Senate. (consideration: CR S413-415, S418-460)"
-    },
-    {
-        "action_id": "9",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-03",
-        "description": "Considered by Senate. (consideration: CR S273-303, S304-314)"
-    },
-    {
-        "action_id": "8",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-02",
-        "description": "Placed on Senate Legislative Calendar under General Orders. Calendar No. 4."
-    },
-    {
-        "action_id": "7",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-02",
-        "description": "Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act."
-    },
-    {
-        "action_id": "6",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-02",
-        "description": "Measure laid before Senate by motion. (consideration: CR S226-232, S236-239)"
-    },
-    {
-        "action_id": "5",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-02",
-        "description": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 13. (CR S225)"
-    },
-    {
-        "action_id": "4",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-02",
-        "description": "Referred to the Committee on the Budget. (text: CR S253-258)"
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-02",
-        "description": "Measure laid before Senate by motion."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-02",
-        "description": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 13."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sconres5-117",
-        "date": "2021-02-02",
-        "description": "Referred to the Committee on the Budget."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s53-117",
-        "date": "2021-01-26",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
         "action_id": "1",
         "bill_id": "s123-117",
         "date": "2021-01-28",
         "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s909-116",
-        "date": "2021-03-23",
-        "description": "Committee on Health, Education, Labor, and Pensions Subcommittee on Primary Health and Retirement Security. Hearings held."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s909-116",
-        "date": "2021-03-23",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s695-116",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s311-116",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S708)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s311-116",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres19-116",
-        "date": "2021-01-28",
-        "description": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S202)"
     },
     {
         "action_id": "1",
@@ -6202,12 +4828,6 @@
         "bill_id": "s204-117",
         "date": "2021-02-03",
         "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s120-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
     },
     {
         "action_id": "2",
@@ -6322,36 +4942,6 @@
         "bill_id": "sres38-117",
         "date": "2021-02-08",
         "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S588; text: CR S577-578)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres46-117",
-        "date": "2021-02-08",
-        "description": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S582-583)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres41-117",
-        "date": "2021-02-08",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S588; text: CR S578-579)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres28-117",
-        "date": "2021-02-03",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S303; text: CR S322)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres30-117",
-        "date": "2021-02-03",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S303-304; text: CR S322)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres27-117",
-        "date": "2021-02-03",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S303; text: CR S321-322)"
     },
     {
         "action_id": "1",
@@ -6535,36 +5125,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s459-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s332-117",
-        "date": "2021-02-22",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s343-117",
-        "date": "2021-02-22",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres42-117",
-        "date": "2021-02-08",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S584-585; text: CR S579)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s301-117",
-        "date": "2021-02-08",
-        "description": "Read twice and referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s1009-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
@@ -6628,30 +5188,6 @@
         "bill_id": "s202-117",
         "date": "2021-02-03",
         "description": "Read twice and referred to the Committee on Veterans' Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s194-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Armed Services."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s142-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s141-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s30-117",
-        "date": "2021-01-22",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
     },
     {
         "action_id": "1",
@@ -6790,36 +5326,6 @@
         "bill_id": "s261-117",
         "date": "2021-02-04",
         "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s265-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s262-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s167-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s165-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s166-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
     },
     {
         "action_id": "2",
@@ -7014,54 +5520,6 @@
         "description": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs."
     },
     {
-        "action_id": "1",
-        "bill_id": "s682-117",
-        "date": "2021-03-10",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s625-117",
-        "date": "2021-03-09",
-        "description": "Read twice and referred to the Committee on Armed Services."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sres94-117",
-        "date": "2021-03-03",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S1022, S1034; text: CR S1034)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres94-117",
-        "date": "2021-03-03",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S1022; text: CR S1034)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres94-117",
-        "date": "2021-03-03",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres77-117",
-        "date": "2021-02-25",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote. (consideration: CR S905; text: CR S901)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres77-117",
-        "date": "2021-02-25",
-        "description": "Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s458-117",
-        "date": "2021-02-25",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs."
-    },
-    {
         "action_id": "2",
         "bill_id": "s1058-117",
         "date": "2021-03-25",
@@ -7156,48 +5614,6 @@
         "bill_id": "s358-117",
         "date": "2021-02-23",
         "description": "Read twice and referred to the Committee on Indian Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s370-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry."
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s218-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Environment and Public Works."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s218-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Environment and Public Works. (text: CR S476-477)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s193-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Environment and Public Works. (text: S320)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s189-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs. (text: CR S319)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "s163-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S250-251)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s163-117",
-        "date": "2021-02-02",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
     },
     {
         "action_id": "1",
@@ -7339,36 +5755,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s392-117",
-        "date": "2021-02-23",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s355-117",
-        "date": "2021-02-22",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s306-117",
-        "date": "2021-02-08",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s130-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Armed Services."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s90-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s999-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Finance."
@@ -7438,18 +5824,6 @@
         "bill_id": "s299-117",
         "date": "2021-02-08",
         "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s245-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s203-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Finance."
     },
     {
         "action_id": "2",
@@ -7597,36 +5971,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "sres85-117",
-        "date": "2021-03-01",
-        "description": "Referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s324-117",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s328-117",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on the Judiciary."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s268-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s188-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s983-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions."
@@ -7684,12 +6028,6 @@
         "bill_id": "sres19-117",
         "date": "2021-01-28",
         "description": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S202)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s140-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
     },
     {
         "action_id": "1",
@@ -7771,30 +6109,6 @@
     },
     {
         "action_id": "1",
-        "bill_id": "s330-117",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on Veterans' Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s319-117",
-        "date": "2021-02-12",
-        "description": "Read twice and referred to the Committee on Foreign Relations."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s255-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s92-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
         "bill_id": "s979-117",
         "date": "2021-03-25",
         "description": "Read twice and referred to the Committee on Commerce, Science, and Transportation."
@@ -7858,48 +6172,6 @@
         "bill_id": "s421-117",
         "date": "2021-02-24",
         "description": "Read twice and referred to the Committee on Indian Affairs."
-    },
-    {
-        "action_id": "3",
-        "bill_id": "sres63-117",
-        "date": "2021-02-19",
-        "description": "Referred to the Committee on Rules and Administration. (text: CR S769-770)"
-    },
-    {
-        "action_id": "2",
-        "bill_id": "sres63-117",
-        "date": "2021-02-19",
-        "description": "Referred to the Committee on Rules and Administration."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "sres63-117",
-        "date": "2021-02-19",
-        "description": "Committee on Finance. Original measure reported to Senate by Senator Wyden under authority of the order of the Senate of 02/13/2021. Without written report."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s223-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s249-117",
-        "date": "2021-02-04",
-        "description": "Read twice and referred to the Committee on Finance."
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s192-117",
-        "date": "2021-02-03",
-        "description": "Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor Introductory remarks on measure: CR S319-320)"
-    },
-    {
-        "action_id": "1",
-        "bill_id": "s136-117",
-        "date": "2021-01-28",
-        "description": "Read twice and referred to the Committee on Rules and Administration."
     },
     {
         "action_id": "1",

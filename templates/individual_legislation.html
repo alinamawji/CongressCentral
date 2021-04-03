@@ -46,22 +46,22 @@
 {% for i in legislation %}
     {% if i.bill_id == bill_id %}
 
-  <div class="media align-items-center py-3 mb-3">
+  <div class="media align-items-center py-3 mb-3 mt-3 bg-white">
     <div class="media-body ml-4">
       <h3 class="mb-0">{{i.bill_number}}</h3>
       <div class="text-muted text-medium mb-0">Senate</div>
     </div>
     {% if i.type == 's' %}
-      <img src="{{ url_for('static',filename='images/bill.png')}}" class="d-block ui-w-100"/>
+      <img src="{{ url_for('static',filename='images/bill.png')}}" class="d-block ui-w-100 mr-5"/>
     {% endif %}
     {% if i.type == 'sres' %}
-      <img src="{{ url_for('static',filename='images/resolution.png')}}" class="d-block ui-w-100"/>
+      <img src="{{ url_for('static',filename='images/resolution.png')}}" class="d-block ui-w-100 mr-5"/>
     {% endif %}
     {% if i.type == 'sjres' %}
-      <img src="{{ url_for('static',filename='images/jointresolution.png')}}" class="d-block ui-w-100"/>
+      <img src="{{ url_for('static',filename='images/jointresolution.png')}}" class="d-block ui-w-100 mr-5"/>
     {% endif %}
     {% if i.type == 'sconres' %}
-      <img src="{{ url_for('static',filename='images/concurrentresolution.png')}}" class="d-block ui-w-100"/>
+      <img src="{{ url_for('static',filename='images/concurrentresolution.png')}}" class="d-block ui-w-100 mr-5"/>
     {% endif %}
   </div>
 
@@ -104,7 +104,13 @@
             {% if j.bill_id == bill_id %}
               <tr>
                 <td>
-                  <a href="{{url_for('individual_committee', committee_name=j.committee_name)}}">{{j.committee_name}}</a>
+                  <a href="{{url_for('individual_committee', committee_id=j.committee_id)}}">
+                    {% for k in committee %}
+                      {% if k.id == j.committee_id %}
+                        {{k.name}}
+                      {% endif %}
+                    {% endfor %}
+                  </a>
                 </td>
               </tr>
             {% endif %}

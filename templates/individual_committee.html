@@ -47,9 +47,9 @@
 <div class="container bootdey flex-grow-1 container-p-y">
 
 {% for i in committee %}
-  {% if i.name == id %}
+  {% if i.id == id %}
 
-  <div class="media align-items-center py-3 mb-3 mt-2 bg-white">
+  <div class="media align-items-center py-3 mb-3 mt-3 bg-white">
     <div class="media-body ml-4">
       <h1 class="mb-0">{{i.name}}</h1>
       <div class="text-muted text-medium mb-0">Senate Committee</div>
@@ -97,63 +97,133 @@
     </div>
   </div>
 
-  <div class="card mb-4 card-body">
-    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSubs" aria-expanded="false" aria-controls="collapseSubs">
+  <div class="card mb-4">
+    <button class="btn btn-outline-primary btn-lg" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSubs" aria-expanded="false" aria-controls="collapseSubs">
     View all Subcommittees
     {% set count = namespace(value=0) %}
     {% for j in subcommittees %}
-      {% if j.committee_name == id %}
+      {% if j.committee_id == id %}
         {% set count.value = count.value + 1 %}
       {% endif %}
     {% endfor %}
     ({{ count.value }})
     </button>
     <div class="collapse" id="collapseSubs">
-      <div class="table-responsive">
-        <table class="table card-table m-0">
-          <thead>
-            <th class="h5">Subcommittees</th>
-          </thead>
-          <tbody>
-            {% for j in subcommittees %}
-              {% if j.committee_name == id %}
-                <tr>
-                  <td>{{j.name}}</td>
-                </tr>
-              {% endif %}
-            {% endfor %}
-          </tbody>
-        </table>
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table card-table m-0">
+            <thead>
+              <th class="h5">Subcommittees</th>
+            </thead>
+            <tbody>
+              {% for j in subcommittees %}
+                {% if j.committee_id == id %}
+                  <tr>
+                    <td>{{j.name}}</td>
+                  </tr>
+                {% endif %}
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   </div>
 
-  <div class="card mb-4 card-body">
-    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMems" aria-expanded="false" aria-controls="collapseMems">
+  <div class="card mb-4">
+    <button class="btn btn-outline-primary btn-lg" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMems" aria-expanded="false" aria-controls="collapseMems">
     View all Members
     {% set count = namespace(value=0) %}
     {% for j in are_part_of %}
-      {% if j.committee_name == id %}
+      {% if j.committee_id == id %}
         {% set count.value = count.value + 1 %}
       {% endif %}
     {% endfor %}
     ({{ count.value }})
     </button>
     <div class="collapse" id="collapseMems">
-      <div class="table-responsive">
-        <table class="table card-table m-0">
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table card-table m-0">
+            <thead>
+              <th class="h5">Members</th>
+            </thead>
+            <tbody>
+              {% for j in are_part_of %}
+                {% if j.committee_id == id %}
+              <tr>
+                <td>
+                  {% for k in member %}
+                    {% if k.id == j.member_id %}
+                  <a href="{{ url_for('individual_member', member_id=k.id) }}">{{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
+                    {% endif %}
+                  {% endfor %}
+                </td>
+              </tr>
+                {% endif %}
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-4">
+    <button class="btn btn-outline-primary btn-lg" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHear" aria-expanded="false" aria-controls="collapseHear">
+    View all Hearings
+    {% set count = namespace(value=0) %}
+    {% for j in hearing %}
+      {% if j.committee_id == id %}
+        {% set count.value = count.value + 1 %}
+      {% endif %}
+    {% endfor %}
+    ({{ count.value }})
+    </button>
+    <div class="collapse" id="collapseHear">
+      <div class="card-body">
+        <div class="table-responsive">
+          <table class="table card-table m-0 text-center">
           <thead>
-            <th class="h5">Members</th>
+            <th>
+              Date
+            </th>
+            <th>
+              Time
+            </th>
+            <th>
+              Location
+            </th>
+            <th>
+              Description
+            </th>
+            <th>
+              Bills Discussed
+            </th>
           </thead>
           <tbody>
-            {% for j in are_part_of %}
-              {% if j.committee_name == id %}
+            {% for j in hearing %}
+              {% if j.committee_id == id %}
             <tr>
               <td>
-                {% for k in member %}
-                  {% if k.id == j.member_id %}
-                <a href="{{ url_for('individual_member', member_id=k.id) }}">{{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
+                {{j.date}}
+              </td>
+              <td>
+                {{j.time}}
+              </td>
+              <td>
+                {{j.location}}
+              </td>
+              <td>
+                {{j.description}}
+              </td>
+              <td>
+                {% for k in discuss %}
+                  {% if k.date == j.date and k.time == j.time and k.location == j.location %}
+                  <a href="{{ url_for('individual_legislation', bill_id=k.bill_id) }}">{{k.bill_id}}</a>
                   {% endif %}
+                  {% else %}
+                  No bills discussed
                 {% endfor %}
               </td>
             </tr>
@@ -161,71 +231,7 @@
             {% endfor %}
           </tbody>
         </table>
-      </div>
-    </div>
-  </div>
-
-  <div class="card mb-4 card-body">
-    <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHear" aria-expanded="false" aria-controls="collapseHear">
-    View all Hearings
-    {% set count = namespace(value=0) %}
-    {% for j in hearing %}
-      {% if j.committee_name == id %}
-        {% set count.value = count.value + 1 %}
-      {% endif %}
-    {% endfor %}
-    ({{ count.value }})
-    </button>
-    <div class="collapse" id="collapseHear">
-      <div class="table-responsive">
-        <table class="table card-table m-0 text-center">
-        <thead>
-          <th>
-            Date
-          </th>
-          <th>
-            Time
-          </th>
-          <th>
-            Location
-          </th>
-          <th>
-            Description
-          </th>
-          <th>
-            Bills Discussed
-          </th>
-        </thead>
-        <tbody>
-          {% for j in hearing %}
-            {% if j.committee_name == id %}
-          <tr>
-            <td>
-              {{j.date}}
-            </td>
-            <td>
-              {{j.time}}
-            </td>
-            <td>
-              {{j.location}}
-            </td>
-            <td>
-              {{j.description}}
-            </td>
-            <td>
-              {% for k in discuss %}
-                {% if k.date == j.date and k.time == j.time and k.location == j.location %}
-                <a href="{{ url_for('individual_legislation', bill_id=k.bill_id) }}">{{k.bill_id}}</a>
-                {% endif %}
-                {% else %}
-                No bills discussed
-              {% endfor %}
-            </td>
-          </tr>
-            {% endif %}
-          {% endfor %}
-        </tbody>
-      </table>
+        </div>
       </div>
     </div>
   </div>

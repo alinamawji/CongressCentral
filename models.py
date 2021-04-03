@@ -35,7 +35,8 @@ class Committee(db.Model):
     """
     __tablename__ = 'committee'
 
-    name = db.Column(db.String(80), nullable = False, primary_key = True)
+    id = db.Column(db.String(10), nullable = False, primary_key = True)
+    name = db.Column(db.String(80), nullable = False)
     website = db.Column(db.String(255), nullable = False)
     branch = db.Column(db.String(40), nullable = False)
     chair_id = db.Column(db.String(80))
@@ -53,6 +54,7 @@ class Committee(db.Model):
        returns a dictionary
        """
        return {
+          'id': self.id,
           'name': self.name,
           'website': self.website,
           'branch': self.branch,
@@ -350,7 +352,7 @@ class Subcommittee(db.Model):
     __tablename__ = 'subcommittee'
 
     name = db.Column(db.String(150), primary_key = True)
-    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'))
+    committee_id = db.Column(db.String(10), db.ForeignKey('committee.id'))
 
     # ------------
     # serialize
@@ -361,7 +363,7 @@ class Subcommittee(db.Model):
        """
        return {
           'sector_name': self.name,
-          'committee_name': self.committee_name
+          'committee_id': self.committee_id
         }
 
 # ------------
@@ -379,7 +381,7 @@ class Hearing(db.Model):
     __tablename__ = 'hearing'
 
     date = db.Column(db.String(20), primary_key = True)
-    committee_name = db.Column(db.String(80), db.ForeignKey('committee.name'), primary_key = True)
+    committee_id = db.Column(db.String(10), db.ForeignKey('committee.id'), primary_key = True)
     time = db.Column(db.String(20), primary_key = True)
     location = db.Column(db.String(20), primary_key = True)
     description = db.Column(db.String(4000))
@@ -393,7 +395,7 @@ class Hearing(db.Model):
        """
        return {
           'date': self.date,
-          'committee_name': self.committee_name,
+          'committee_id': self.committee_id,
           'time': self.time,
           'location': self.location,
           'description': self.description
@@ -442,7 +444,7 @@ class Are_Part_Of(db.Model):
     """
     __tablename__ = 'are_part_of'
 
-    committee_name = db.Column(db.String(80), primary_key = True)
+    committee_id = db.Column(db.String(10), primary_key = True)
     member_id = db.Column(db.String(20), primary_key = True)
 
 
@@ -454,7 +456,7 @@ class Are_Part_Of(db.Model):
        returns a dictionary
        """
        return {
-          'committee_name': self.committee_name,
+          'committee_id': self.committee_id,
           'member_id': self.member_id
         }
 
@@ -469,7 +471,7 @@ class Is_Pushed_Through(db.Model):
     """
     __tablename__ = 'is_pushed_through'
 
-    committee_name = db.Column(db.String(80), primary_key = True)
+    committee_id = db.Column(db.String(10), primary_key = True)
     bill_id = db.Column(db.String(80), primary_key = True)
 
     # ------------
@@ -480,7 +482,7 @@ class Is_Pushed_Through(db.Model):
        returns a dictionary
        """
        return {
-          'committee_name': self.committee_name,
+          'committee_id': self.committee_id,
           'bill_id': self.bill_id
         }
 

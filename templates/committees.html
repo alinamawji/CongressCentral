@@ -168,7 +168,7 @@
 
       <div class="card mb-4">
         <div class="card-body">
-          <h2 class="card-title"><a class="card-link" href="{{ url_for('individual_committee', committee_name=i.name) }}">{{i.name}}</a></h2>
+          <h2 class="card-title"><a class="card-link" href="{{ url_for('individual_committee', committee_id=i.id) }}">{{i.name}}</a></h2>
             <p>
               <a href="{{url_for('individual_member', member_id=i.chair_id)}}" class="card-link chair">Chair:
                 {% set member_id = i.chair_id %}
@@ -191,7 +191,7 @@
                   <p class="date card-text totalmems">
                     {% set count = namespace(value=0) %}
                     {% for j in are_part_of %}
-                      {% if j.committee_name == i.name %}
+                      {% if j.committee_id == i.id %}
                         {% set count.value = count.value + 1 %}
                       {% endif %}
                     {% endfor %}
@@ -204,7 +204,7 @@
                   <p class="date card-text">
                     {% set count = namespace(value=0) %}
                     {% for j in subcommittees %}
-                      {% if j.committee_name == i.name %}
+                      {% if j.committee_id == i.id %}
                         {% set count.value = count.value + 1 %}
                       {% endif %}
                     {% endfor %}
@@ -217,7 +217,7 @@
                   <p class="date card-text lasthearing">
                     {% set date = [] %}
                     {% for j in hearing %}
-                      {% if j.committee_name == i.name %}
+                      {% if j.committee_id == i.id %}
                         {{ date.append(j.date) or ""}}
                       {% endif %}
                     {% endfor %}

@@ -22,12 +22,13 @@ def create_Committees():
     committee = load_json('./api_calls/committees_table.json')
 
     for one_committee in committee:
+        id = one_committee['id']
         name = one_committee['name']
         website = one_committee['website']
         branch = one_committee['branch']
         chair_id = one_committee['chair_id']
         ranking_id = one_committee['ranking_id']
-        newCommittee = Committee(name = name, website = website, branch = branch, chair_id = chair_id, ranking_id = ranking_id)
+        newCommittee = Committee(id = id, name = name, website = website, branch = branch, chair_id = chair_id, ranking_id = ranking_id)
 
         # add it to our session
         db.session.add(newCommittee)
@@ -188,9 +189,9 @@ def create_Subcommittees():
     subcommittees = load_json('./api_calls/subcommittees_table.json')
     for subcommittee_info in subcommittees:
         name = subcommittee_info['name']
-        committee_name = subcommittee_info['committee_name']
+        committee_id = subcommittee_info['committee_id']
 
-        newSubcommittee = Subcommittee(name = name, committee_name = committee_name)
+        newSubcommittee = Subcommittee(name = name, committee_id = committee_id)
 
         # add it to our session
         db.session.add(newSubcommittee)
@@ -206,12 +207,12 @@ def create_Hearings():
     Hearings = load_json('./api_calls/hearings_table.json')
     for info in Hearings:
         date = info['date']
-        committee_name = info['committee_name']
+        committee_id = info['committee_id']
         time = info['time']
         location = info['location']
         description = info['description']
 
-        newHearing = Hearing(date = date, committee_name = committee_name, time = time, location = location, description = description)
+        newHearing = Hearing(date = date, committee_id = committee_id, time = time, location = location, description = description)
         # add it to our session
         db.session.add(newHearing)
         # commit the session to our DB.
@@ -244,10 +245,10 @@ def create_Actions():
 def create_Be_Part_of():
     Parts = load_json('./api_calls/are_part_of_table.json')
     for part in Parts:
-        committee_name = part['committee_name']
+        committee_id = part['committee_id']
         member_id = part['member_id']
 
-        newPart = Are_Part_Of(committee_name = committee_name, member_id = member_id)
+        newPart = Are_Part_Of(committee_id = committee_id, member_id = member_id)
         # add it to our session
         db.session.add(newPart)
         # commit the session to our DB.
@@ -261,10 +262,10 @@ def create_Be_Part_of():
 def create_Be_Pushed_through():
     Pushs = load_json('./api_calls/is_pushed_through_table.json')
     for push in Pushs:
-        committee_name = push['committee_name']
+        committee_id = push['committee_id']
         bill_id = push['bill_id']
 
-        newPush = Is_Pushed_Through(committee_name = committee_name, bill_id = bill_id)
+        newPush = Is_Pushed_Through(committee_id = committee_id, bill_id = bill_id)
         # add it to our session
         db.session.add(newPush)
         # commit the session to our DB.

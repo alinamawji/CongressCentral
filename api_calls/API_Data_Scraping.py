@@ -58,8 +58,8 @@ def populate_members_table(members_table, are_part_of_table):
         current_mem_coms = response.json()
 
         for j in current_mem_coms['results'][0]['roles'][0]['committees']:
-            current_com = {'committee_name':j['name'], 'member_id':i['id']}
-            print("APPEND: " + current_com['committee_name'] + ' for ' + current_com['member_id'])
+            current_com = {'committee_id':j['code'], 'member_id':i['id']}
+            print("APPEND: " + current_com['committee_id'] + ' for ' + current_com['member_id'])
             are_part_of_table.append(current_com)
 
 
@@ -124,6 +124,7 @@ def populate_financial_information_tables(financial_information_table, industry_
         
         if i['crp_id'] == None:
             continue
+            print('ERROR: No CRP ID found')
 
         print("APPEND: " + current_mem['member_id'])
         financial_information_table.append(current_mem)
@@ -145,7 +146,7 @@ def populate_financial_information_tables(financial_information_table, industry_
                 industry_contributors_table.append(current_industry_contribution)
             print("APPEND: " + current_mem + ' industry information')
         except:
-            print("ERROR: candidate contributors not found for " + current_mem)
+            print("ERROR: industry contributors not found for " + current_mem)
 
         # Contributors
         parameters_open = {'method':'candContrib', 'cid':current_mem,
@@ -180,7 +181,7 @@ def populate_financial_information_tables(financial_information_table, industry_
                 sector_contributors_table.append(current_sect_contribution)
             print("APPEND: " + current_mem + ' sector information')
         except:
-            print("ERROR: candidate contributors not found for " + current_mem)
+            print("ERROR: sectors contributors not found for " + current_mem)
 
 
 def populate_committees_subcommittees_hearings_table(committees_table, subcommittees_table, hearings_table, discuss_table):
@@ -197,14 +198,14 @@ def populate_committees_subcommittees_hearings_table(committees_table, subcommit
     table_list = response.json()
         
     for i in table_list['results'][0]['committees']:
-        current_com = {'name':i['name'], 'website':i['url'], 'branch':'senate',
+        current_com = {'id': i['id'], 'name':i['name'], 'website':i['url'], 'branch':'senate',
         'chair_id':i['chair_id'], 'ranking_id':i['ranking_member_id']}
         print("APPEND: " + current_com['name'])
         committees_table.append(current_com)
 
 
         for j in i['subcommittees']:
-            current_subcom = {'name':j['name'], 'committee_name':i['name']}
+            current_subcom = {'name':j['name'], 'committee_id':i['id']}
             print("APPEND: " + current_subcom['name'])
             subcommittees_table.append(current_subcom)
 
@@ -220,13 +221,14 @@ def populate_committees_subcommittees_hearings_table(committees_table, subcommit
         current_hearing_com = response.json()
 
         for j in current_hearing_com['results'][0]['hearings']:
-            current_hearing = {'date':j['date'], 'committee_name':j['committee'], 'time':j['time'],
+            current_hearing = {'date':j['date'], 'committee_id':i['id'], 'time':j['time'],
             'location':j['location'], 'description':j['description']}
-            print("APPEND: " + current_hearing['committee_name'] + ' ' + current_hearing['date'])
+            print("APPEND: " + current_hearing['committee_id'] + ' ' + current_hearing['date'])
             hearings_table.append(current_hearing)
 
+
             if j['bill_ids'] == []:
-                print("APPEND: No bills discussed on " + current_discussion['hearing_date'])
+                print("APPEND: No bills discussed on " + current_hearing['date'])
 
             for k in j['bill_ids']:
                 current_discussion = {'hearing_date':j['date'], 'hearing_time':j['time'],
@@ -247,7 +249,7 @@ def populate_legislation_and_actions_table(legislation_table, actions_table, is_
 
         table_list = response.json()
 
-        for j in table_list['results'][0]['bills'][:15]:
+        for j in table_list['results'][0]['bills'][:10]:
 
             # prevents bill repeats
             bill_present = False
@@ -264,25 +266,22 @@ def populate_legislation_and_actions_table(legislation_table, actions_table, is_
             print("APPEND: " + i['id'] + ' bill ' + current_leg['bill_number'])
             legislation_table.append(current_leg)
 
-            current_leg_com = {'committee_name':j['committees'], 'bill_id':j['bill_id']}
-            print("APPEND: " + current_leg_com['bill_id'] + ': ' + current_leg_com['committee_name'])
-            is_pushed_through_table.append(current_leg_com)
-
             current_leg_slug = j['bill_id'][:-4]
 
             url = 'https://api.propublica.org/congress/v1/' + CONGRESS + '/bills/' + current_leg_slug + '.json'
 
             response = requests.get(url, headers=headers_pro)
 
-            if response.status_code != 200:
-                print('ERROR: bill ' + current_leg_slug + ' information not found')
-                continue
-
             sub_table_list = response.json()
 
             if sub_table_list['status'] != 'OK':
                 print('ERROR: bill ' + current_leg_slug + ' information not found')
                 continue
+
+            for k in sub_table_list['results'][0]['committee_codes']:
+                current_leg_com = {'committee_id':k, 'bill_id':j['bill_id']}
+                print("APPEND: " + current_leg_com['bill_id'] + ': ' + current_leg_com['committee_id'])
+                is_pushed_through_table.append(current_leg_com)
 
             for k in sub_table_list['results'][0]['actions']:
                 current_action = {'action_id':str(k['id']), 'bill_id':j['bill_id'],

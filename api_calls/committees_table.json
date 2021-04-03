@@ -1,5 +1,6 @@
 [
     {
+        "id": "SSAF",
         "name": "Committee on Agriculture, Nutrition, and Forestry",
         "website": "http://www.agriculture.senate.gov/",
         "branch": "senate",
@@ -7,6 +8,7 @@
         "ranking_id": "B001236"
     },
     {
+        "id": "SSAP",
         "name": "Committee on Appropriations",
         "website": "http://www.appropriations.senate.gov/",
         "branch": "senate",
@@ -14,6 +16,7 @@
         "ranking_id": "S000320"
     },
     {
+        "id": "SSAS",
         "name": "Committee on Armed Services",
         "website": "http://www.armed-services.senate.gov/",
         "branch": "senate",
@@ -21,6 +24,7 @@
         "ranking_id": "I000024"
     },
     {
+        "id": "SSBK",
         "name": "Committee on Banking, Housing, and Urban Affairs",
         "website": "http://banking.senate.gov/",
         "branch": "senate",
@@ -28,6 +32,7 @@
         "ranking_id": "T000461"
     },
     {
+        "id": "SSCM",
         "name": "Committee on Commerce, Science, and Transportation",
         "website": "http://www.commerce.senate.gov/",
         "branch": "senate",
@@ -35,6 +40,7 @@
         "ranking_id": "W000437"
     },
     {
+        "id": "SSEG",
         "name": "Committee on Energy and Natural Resources",
         "website": "http://www.energy.senate.gov/",
         "branch": "senate",
@@ -42,6 +48,7 @@
         "ranking_id": "B001261"
     },
     {
+        "id": "SSEV",
         "name": "Committee on Environment and Public Works",
         "website": "http://www.epw.senate.gov/",
         "branch": "senate",
@@ -49,6 +56,7 @@
         "ranking_id": "C001047"
     },
     {
+        "id": "SSFI",
         "name": "Committee on Finance",
         "website": "http://www.finance.senate.gov/",
         "branch": "senate",
@@ -56,6 +64,7 @@
         "ranking_id": "C000880"
     },
     {
+        "id": "SSFR",
         "name": "Committee on Foreign Relations",
         "website": "http://www.foreign.senate.gov/",
         "branch": "senate",
@@ -63,6 +72,7 @@
         "ranking_id": "R000584"
     },
     {
+        "id": "SSHR",
         "name": "Committee on Health, Education, Labor, and Pensions",
         "website": "http://www.help.senate.gov/",
         "branch": "senate",
@@ -70,6 +80,7 @@
         "ranking_id": "B001135"
     },
     {
+        "id": "SSGA",
         "name": "Committee on Homeland Security and Governmental Affairs",
         "website": "http://www.hsgac.senate.gov/",
         "branch": "senate",
@@ -77,6 +88,7 @@
         "ranking_id": "P000449"
     },
     {
+        "id": "SLIA",
         "name": "Committee on Indian Affairs",
         "website": "http://www.indian.senate.gov/",
         "branch": "senate",
@@ -84,6 +96,7 @@
         "ranking_id": "M001153"
     },
     {
+        "id": "SSRA",
         "name": "Committee on Rules and Administration",
         "website": "http://www.rules.senate.gov/",
         "branch": "senate",
@@ -91,6 +104,7 @@
         "ranking_id": "B000575"
     },
     {
+        "id": "SSSB",
         "name": "Committee on Small Business and Entrepreneurship",
         "website": "http://www.sbc.senate.gov/",
         "branch": "senate",
@@ -98,6 +112,7 @@
         "ranking_id": "P000603"
     },
     {
+        "id": "SSBU",
         "name": "Committee on the Budget",
         "website": "http://www.budget.senate.gov/",
         "branch": "senate",
@@ -105,6 +120,7 @@
         "ranking_id": "G000359"
     },
     {
+        "id": "SSJU",
         "name": "Committee on the Judiciary",
         "website": "http://www.judiciary.senate.gov/",
         "branch": "senate",
@@ -112,6 +128,7 @@
         "ranking_id": "G000386"
     },
     {
+        "id": "SSVA",
         "name": "Committee on Veterans' Affairs",
         "website": "http://www.veterans.senate.gov/",
         "branch": "senate",
@@ -119,6 +136,7 @@
         "ranking_id": "M000934"
     },
     {
+        "id": "SLET",
         "name": "Select Committee on Ethics",
         "website": "http://www.ethics.senate.gov/",
         "branch": "senate",
@@ -126,6 +144,7 @@
         "ranking_id": "L000575"
     },
     {
+        "id": "SLIN",
         "name": "Select Committee on Intelligence",
         "website": "http://www.intelligence.senate.gov/",
         "branch": "senate",
@@ -133,6 +152,7 @@
         "ranking_id": "R000595"
     },
     {
+        "id": "SPAG",
         "name": "Special Committee on Aging",
         "website": "http://www.aging.senate.gov/",
         "branch": "senate",
