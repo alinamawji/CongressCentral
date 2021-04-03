@@ -142,7 +142,7 @@
         <div class="container bg-light">
             <div class="header bg-light">
                 <h1 class="text-dark">Repository Info</h1>
-                <p class="text-dark">Stats and links to our gitlab repository</p>
+                <p class="text-dark">Stats and links to our gitlab repository, visit our <a href="https://gitlab.com/alinamawji/cs331e-idb/-/wikis/home" target="_blank">wiki</a> to learn more</p>
             </div>
             <div class="row">
                 <div class="col-4">
@@ -151,7 +151,7 @@
                             <div class="features-icons-icon d-flex">
                                 <i class="fas fa-code-branch m-auto text-dark"></i>
                             </div>
-                            <h1>94</h1>
+                            <h1>103</h1>
                             <h3 class="lead mb-0">Commits</h3>
                             <br/>
                             <p class="text-muted">To our Repository</p>
@@ -164,25 +164,45 @@
                             <div class="features-icons-icon d-flex">
                                 <i class="fas fa-bug m-auto text-dark"></i>
                             </div>
-                            <h1>56</h1>
+                            <h1>57</h1>
                             <h3 class="lead mb-0">Issues</h3>
                             <br/>
-                            <p class="text-muted">To our Issue Tracker</p>
+                            <p class="text-muted">Completed in our Issue Tracker</p>
                         </div>
                     </a>
                 </div>
                 <div class="col-4">
-                    <a href="https://gitlab.com/alinamawji/cs331e-idb/-/wikis/home" target="_blank">
+                    <a data-toggle="modal" href="#testsModal" role="button" aria-expanded="false" aria-controls="testsModal">
                         <div class="features-icons-item mx-auto mb-0 mb-lg-3">
                             <div class="features-icons-icon d-flex">
                                 <i class="fas fa-code m-auto text-dark"></i>
                             </div>
-                            <h1>0</h1>
+                            <h1>6</h1>
                             <h3 class="lead mb-0">Unit Tests</h3>
                             <br/>
-                            <p class="text-muted">To our Wiki</p>
+                            <p class="text-muted">Successfuly implemented, click to run locally</p>
                         </div>
                     </a>
+                    <div class="modal fade" id="testsModal" tabindex="-1" role="dialog" aria-labelledby="testsModalLabel" aria-hidden="true">
+                      <div class="modal-dialog" role="document">
+                        <div class="modal-content">
+                          <div class="modal-header">
+                            <h5 class="modal-title" id="testsModalLabel">Unit Test Results</h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                              <span aria-hidden="true">&times;</span>
+                            </button>
+                          </div>
+                          <div class="modal-body">
+                            <div class="card">
+                              <img src="{{ url_for('static',filename='images/unittests.png')}}" class="card-img-top" alt="...">
+                            </div>
+                          </div>
+                          <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
                 </div>
             </div>
             <br/>
@@ -302,3 +322,5 @@
             <br/>
         </div>
     </section>
+</body>
+</html>
