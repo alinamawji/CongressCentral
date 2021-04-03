@@ -68,7 +68,7 @@
 
             <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
             <td class="align-middle">
-              <a href="{{ url_for('about') }}">Chair: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
+              <a href="{{ url_for('individual_member', member_id=j.id) }}">Chair: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
             </td>
               {% endif %}
 
@@ -83,7 +83,7 @@
 
             <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
             <td class="align-middle">
-              <a href="{{ url_for('about') }}">Ranking Member: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
+              <a href="{{ url_for('individual_member', member_id=j.id) }}">Ranking Member: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
             </td>
               {% endif %}
 
@@ -99,7 +99,7 @@
 
   <div class="card mb-4 card-body">
     <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSubs" aria-expanded="false" aria-controls="collapseSubs">
-    View all Subcommittees 
+    View all Subcommittees
     {% set count = namespace(value=0) %}
     {% for j in subcommittees %}
       {% if j.committee_name == id %}
@@ -130,7 +130,7 @@
 
   <div class="card mb-4 card-body">
     <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseMems" aria-expanded="false" aria-controls="collapseMems">
-    View all Members 
+    View all Members
     {% set count = namespace(value=0) %}
     {% for j in are_part_of %}
       {% if j.committee_name == id %}
@@ -152,7 +152,7 @@
               <td>
                 {% for k in member %}
                   {% if k.id == j.member_id %}
-                <a href="{{ url_for('about') }}">{{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
+                <a href="{{ url_for('individual_member', member_id=j.id) }}">{{k.lname}}{{ ' '~k.namesuffix if k.namesuffix is not none else ''}}, {{k.fname}} {{ k.mname if k.mname is not none else '' }} ({{k.party}}-{{k.state}})</a>
                   {% endif %}
                 {% endfor %}
               </td>
@@ -167,7 +167,7 @@
 
   <div class="card mb-4 card-body">
     <button class="btn btn-outline-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHear" aria-expanded="false" aria-controls="collapseHear">
-    View all Hearings 
+    View all Hearings
     {% set count = namespace(value=0) %}
     {% for j in hearing %}
       {% if j.committee_name == id %}
@@ -215,7 +215,7 @@
             <td>
               {% for k in discuss %}
                 {% if k.date == j.date and k.time == j.time and k.location == j.location %}
-                <a href="{{ url_for('about') }}">{{k.bill_id}}</a>
+                <a href="{{ url_for('individual_legislation', bill_id=k.bill_id) }}">{{k.bill_id}}</a>
                 {% endif %}
                 {% else %}
                 No bills discussed

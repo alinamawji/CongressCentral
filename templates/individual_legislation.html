@@ -104,7 +104,7 @@
             {% if j.bill_id == bill_id %}
               <tr>
                 <td>
-                  <a href="{{url_for('about')}}">{{j.committee_name}}</a>
+                  <a href="{{url_for('individual_committee', committee_name=j.committee_name)}}">{{j.committee_name}}</a>
                 </td>
               </tr>
             {% endif %}

@@ -170,14 +170,14 @@
         <div class="card-body">
           <h2 class="card-title"><a class="card-link" href="{{ url_for('individual_committee', committee_name=i.name) }}">{{i.name}}</a></h2>
             <p>
-              <a href="{{url_for('about')}}" class="card-link chair">Chair: 
+              <a href="{{url_for('individual_member', member_id=i.chair_id)}}" class="card-link chair">Chair:
                 {% set member_id = i.chair_id %}
                 {% for j in member %}
                   {% if j.id == member_id %}
                     Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}
                   {% endif %}
                 {% endfor %}</a>
-              <a href="{{url_for('about')}}" class="card-link ranking">Ranking Member: 
+              <a href="{{url_for('individual_member', member_id=i.ranking_id)}}" class="card-link ranking">Ranking Member:
                 {% set member_id = i.ranking_id %}
                 {% for j in member %}
                   {% if j.id == member_id %}

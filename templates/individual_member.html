@@ -101,7 +101,7 @@
                   {% if i.chair_id == member_id %}
                     <tr>
                       <td>
-                        <a href="{{url_for('committees')}}">{{i.name}}</a>
+                        <a href="{{url_for('individual_committee', committee_name=i.name)}}">{{i.name}}</a>
                       </td>
                     </tr>
                   {% endif %}

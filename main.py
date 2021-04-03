@@ -26,13 +26,8 @@ def individual_member(member_id):
     industry_contributor = Industry_Contributor.query.all()
     organization_contributor = Organization_Contributor.query.all()
     sector_contributor = Sector_Contributor.query.all()
-<<<<<<< HEAD
     legislation = Legislation.query.all()
     return render_template('individual_member.html', member_id=member_id, member=member, committee=committee, twitter=twitter, financial=financial, industry_contributor=industry_contributor, organization_contributor=organization_contributor, sector_contributor=sector_contributor, legislation=legislation)
-=======
-    legislation = db.session.query(Legislation).all()
-    return render_template('individual_member.html', id=member_id, member=member, committee=committee, twitter=twitter, financial=financial, industry_contributor=industry_contributor, organization_contributor=organization_contributor, sector_contributor=sector_contributor, legislation=legislation)
->>>>>>> b94343c29b3d8c857c01f8e327b12593c2f8093d
 
 # COMMITTEES
 @app.route('/committees/', methods=['GET'])
