@@ -89,8 +89,8 @@
         <button class="dropdown-item" id="rankingSortD">Ranking Z-A</button>
         <button class="dropdown-item" id="membersSortA">Members Ascending</button>
         <button class="dropdown-item" id="membersSortD">Members Descending</button>
-        <button class="dropdown-item" id="hearingSortA">Last Hearing Recent</button>
-        <button class="dropdown-item" id="hearingSortD">Last Hearing Past</button>
+        <button class="dropdown-item" id="billsSortA">Bills Ascending</button>
+        <button class="dropdown-item" id="billsSortD">Bills Descending</button>
       </div>
     </div>
   </div>
@@ -147,16 +147,16 @@
       }).appendTo(".card-deck")};
 
 
-    document.getElementById("hearingSortA").addEventListener("click", sortHearingAsc);
-    function sortHearingAsc (){
+    document.getElementById("billsSortA").addEventListener("click", sortBillsAsc);
+    function sortBillsAsc (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".lasthearing").text() > $(b).find(".lasthearing").text() ? 1 : -1;
+          return $(a).find(".totbills").text() > $(b).find(".totbills").text() ? 1 : -1;
       }).appendTo(".card-deck")};
 
-    document.getElementById("hearingSortD").addEventListener("click", sortHearingDes);
-    function sortHearingDes (){
+    document.getElementById("billsSortD").addEventListener("click", sortBillsDes);
+    function sortBillsDes (){
       $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".lasthearing").text() < $(b).find(".lasthearing").text() ? 1 : -1;
+          return $(a).find(".totbills").text() < $(b).find(".totbills").text() ? 1 : -1;
       }).appendTo(".card-deck")};
   </script>
 
@@ -213,18 +213,15 @@
                 </p>
             </div>
             <div class="col-4">
-                <p class="card-text-att">Last Hearing Date: <br>
-                  <p class="date card-text lasthearing">
-                    {% set date = [] %}
-                    {% for j in hearing %}
+                <p class="card-text-att">Total Bills in Committee: <br>
+                  <p class="date card-text totbills">
+                    {% set count = namespace(value=0) %}
+                    {% for j in is_pushed_through %}
                       {% if j.committee_id == i.id %}
-                        {{ date.append(j.date) or ""}}
+                        {% set count.value = count.value + 1 %}
                       {% endif %}
                     {% endfor %}
-                    {% if date == [] %}
-                      {{"Committee has not held hearings"}}
-                    {% endif%}
-                    {{ date[0] }}
+                    {{ count.value }}
                   </p>
                 </p>
             </div>

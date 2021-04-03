@@ -154,6 +154,43 @@
   </div>
 
   <div class="card mb-4">
+    <button class="btn btn-outline-primary btn-lg" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBills" aria-expanded="false" aria-controls="collapseBills">
+    View all Legislation in Committee
+    {% set count = namespace(value=0) %}
+    {% for j in is_pushed_through %}
+      {% if j.committee_id == id %}
+        {% set count.value = count.value + 1 %}
+      {% endif %}
+    {% endfor %}
+    ({{ count.value }})
+    </button>
+    <div class="collapse" id="collapseBills">
+      <div class="card-body">
+        <h3 class="card-title text-center pb-3">Legislation</h3>
+        <div class="table-responsive">
+          <table class="table card-table m-0">
+            <tbody>
+              {% for j in is_pushed_through %}
+                {% if j.committee_id == id %}
+              <tr>
+                <td>
+                  {% for k in legislation %}
+                    {% if k.bill_id == j.bill_id %}
+                  <a href="{{ url_for('individual_legislation', bill_id=k.bill_id) }}">{{k.bill_number}}: {{k.summary}}</a>
+                    {% endif %}
+                  {% endfor %}
+                </td>
+              </tr>
+                {% endif %}
+              {% endfor %}
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-4">
     <div class="card-body">
       <h3 class="card-title text-center pb-3">Hearings</h3>
       <div class="table-responsive">

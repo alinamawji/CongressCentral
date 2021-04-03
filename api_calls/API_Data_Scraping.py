@@ -21,7 +21,60 @@ are_part_of_table = []
 is_pushed_through_table = []
 discuss_table = []
 
-def populate_members_table(members_table, are_part_of_table):
+def populate_committees_subcommittees_hearings_table(committees_table, subcommittees_table, hearings_table, discuss_table):
+    url = 'https://api.propublica.org/congress/v1/' + CONGRESS + '/senate/committees.json'
+
+    response = requests.get(url, headers=headers_pro)
+
+    if response.status_code != 200:
+        print("ERROR: committee API call failed")
+        return
+    else:
+        print("Committee API call successful")
+
+    table_list = response.json()
+        
+    for i in table_list['results'][0]['committees']:
+        current_com = {'id': i['id'], 'name':i['name'], 'website':i['url'], 'branch':'senate',
+        'chair_id':i['chair_id'], 'ranking_id':i['ranking_member_id']}
+        print("APPEND: " + current_com['name'])
+        committees_table.append(current_com)
+
+
+        for j in i['subcommittees']:
+            current_subcom = {'name':j['name'], 'committee_id':i['id']}
+            print("APPEND: " + current_subcom['name'])
+            subcommittees_table.append(current_subcom)
+
+
+        url = 'https://api.propublica.org/congress/v1/' + CONGRESS + '/senate/committees/' + i['id'] + '/hearings.json'
+        
+        response = requests.get(url, headers=headers_pro)
+        
+        if response.status_code != 200:
+            print("ERROR: hearings API call failed")
+            continue
+        
+        current_hearing_com = response.json()
+
+        for j in current_hearing_com['results'][0]['hearings']:
+            current_hearing = {'date':j['date'], 'committee_id':i['id'], 'time':j['time'],
+            'location':j['location'], 'description':j['description']}
+            print("APPEND: " + current_hearing['committee_id'] + ' ' + current_hearing['date'])
+            hearings_table.append(current_hearing)
+
+
+            if j['bill_ids'] == []:
+                print("APPEND: No bills discussed on " + current_hearing['date'])
+
+            for k in j['bill_ids']:
+                current_discussion = {'hearing_date':j['date'], 'hearing_time':j['time'],
+                'hearing_location':j['location'], 'bill_id':k}
+                print("APPEND: " + current_discussion['bill_id'] + ' ' + current_discussion['hearing_date'])
+                discuss_table.append(current_discussion)
+
+
+def populate_members_table(members_table, are_part_of_table, committees_table):
     url = 'https://api.propublica.org/congress/v1/' + CONGRESS + '/senate/members.json'
 
     response = requests.get(url, headers=headers_pro)
@@ -62,6 +115,16 @@ def populate_members_table(members_table, are_part_of_table):
             print("APPEND: " + current_com['committee_id'] + ' for ' + current_com['member_id'])
             are_part_of_table.append(current_com)
 
+            if j['title'] == "Chair":
+                for k in committees_table:
+                    if j['code'] == k['id']:
+                        k['chair_id'] = i['id']
+                        break
+            if j['title'] == "Ranking Member":
+                for k in committees_table:
+                    if j['code'] == k['id']:
+                        k['ranking_id'] = i['id']
+                        break
 
 def populate_twitter_account_table(twitter_account_table):
     url = 'https://api.propublica.org/congress/v1/' + CONGRESS + '/senate/members.json'
@@ -184,59 +247,6 @@ def populate_financial_information_tables(financial_information_table, industry_
             print("ERROR: sectors contributors not found for " + current_mem)
 
 
-def populate_committees_subcommittees_hearings_table(committees_table, subcommittees_table, hearings_table, discuss_table):
-    url = 'https://api.propublica.org/congress/v1/' + CONGRESS + '/senate/committees.json'
-
-    response = requests.get(url, headers=headers_pro)
-
-    if response.status_code != 200:
-        print("ERROR: committee API call failed")
-        return
-    else:
-        print("Committee API call successful")
-
-    table_list = response.json()
-        
-    for i in table_list['results'][0]['committees']:
-        current_com = {'id': i['id'], 'name':i['name'], 'website':i['url'], 'branch':'senate',
-        'chair_id':i['chair_id'], 'ranking_id':i['ranking_member_id']}
-        print("APPEND: " + current_com['name'])
-        committees_table.append(current_com)
-
-
-        for j in i['subcommittees']:
-            current_subcom = {'name':j['name'], 'committee_id':i['id']}
-            print("APPEND: " + current_subcom['name'])
-            subcommittees_table.append(current_subcom)
-
-
-        url = 'https://api.propublica.org/congress/v1/' + CONGRESS + '/senate/committees/' + i['id'] + '/hearings.json'
-        
-        response = requests.get(url, headers=headers_pro)
-        
-        if response.status_code != 200:
-            print("ERROR: hearings API call failed")
-            continue
-        
-        current_hearing_com = response.json()
-
-        for j in current_hearing_com['results'][0]['hearings']:
-            current_hearing = {'date':j['date'], 'committee_id':i['id'], 'time':j['time'],
-            'location':j['location'], 'description':j['description']}
-            print("APPEND: " + current_hearing['committee_id'] + ' ' + current_hearing['date'])
-            hearings_table.append(current_hearing)
-
-
-            if j['bill_ids'] == []:
-                print("APPEND: No bills discussed on " + current_hearing['date'])
-
-            for k in j['bill_ids']:
-                current_discussion = {'hearing_date':j['date'], 'hearing_time':j['time'],
-                'hearing_location':j['location'], 'bill_id':k}
-                print("APPEND: " + current_discussion['bill_id'] + ' ' + current_discussion['hearing_date'])
-                discuss_table.append(current_discussion)
-
-
 def populate_legislation_and_actions_table(legislation_table, actions_table, is_pushed_through_table):
     for i in members_table:
         url = 'https://api.propublica.org/congress/v1/members/' + i['id'] + '/bills/introduced.json'
@@ -294,12 +304,27 @@ def main():
     startTime = time.time()
 
     try:
+        print('\n\nBEGINING COMMITTEES CALL\n\n')
+        populate_committees_subcommittees_hearings_table(committees_table, subcommittees_table, hearings_table, discuss_table)
+        with open('subcommittees_table.json', 'w', encoding='utf-8') as f:
+            json.dump(subcommittees_table, f, ensure_ascii=False, indent=4)
+        with open('hearings_table.json', 'w', encoding='utf-8') as f:
+            json.dump(hearings_table, f, ensure_ascii=False, indent=4)
+        with open('discuss_table.json', 'w', encoding='utf-8') as f:
+            json.dump(discuss_table, f, ensure_ascii=False, indent=4)
+        print('\n\nENDING COMMITTEES CALL\n\n')
+    except:
+        print('\n\nFAILURE ON COMMITTEES CALL\n\n')
+
+    try:
         print('\n\nBEGINING MEMBERS CALL\n\n')
-        populate_members_table(members_table, are_part_of_table)
+        populate_members_table(members_table, are_part_of_table, committees_table)
         with open('members_table.json', 'w', encoding='utf-8') as f:
             json.dump(members_table, f, ensure_ascii=False, indent=4)
         with open('are_part_of_table.json', 'w', encoding='utf-8') as f:
             json.dump(are_part_of_table, f, ensure_ascii=False, indent=4)
+        with open('committees_table.json', 'w', encoding='utf-8') as f:
+            json.dump(committees_table, f, ensure_ascii=False, indent=4)
         print('\n\nENDING MEMBERS CALL\n\n')
     except:
         print('\n\nFAILURE ON MEMBERS CALL\n\n')
@@ -327,21 +352,6 @@ def main():
         print('\n\nENDING FINANCIAL CALL\n\n')
     except:
         print('\n\nFAILURE ON FINANCIAL CALL\n\n')
-
-    try:
-        print('\n\nBEGINING COMMITTEES CALL\n\n')
-        populate_committees_subcommittees_hearings_table(committees_table, subcommittees_table, hearings_table, discuss_table)
-        with open('committees_table.json', 'w', encoding='utf-8') as f:
-            json.dump(committees_table, f, ensure_ascii=False, indent=4)
-        with open('subcommittees_table.json', 'w', encoding='utf-8') as f:
-            json.dump(subcommittees_table, f, ensure_ascii=False, indent=4)
-        with open('hearings_table.json', 'w', encoding='utf-8') as f:
-            json.dump(hearings_table, f, ensure_ascii=False, indent=4)
-        with open('discuss_table.json', 'w', encoding='utf-8') as f:
-            json.dump(discuss_table, f, ensure_ascii=False, indent=4)
-        print('\n\nENDING COMMITTEES CALL\n\n')
-    except:
-        print('\n\nFAILURE ON COMMITTEES CALL\n\n')
 
     try:
         print('\n\nBEGINING LEGISLATION CALL\n\n')

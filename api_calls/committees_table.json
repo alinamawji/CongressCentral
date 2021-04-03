@@ -158,5 +158,13 @@
         "branch": "senate",
         "chair_id": "C001070",
         "ranking_id": "S001184"
+    },
+    {
+        "id": "SCNC",
+        "name": "United States Caucus on International Narcotics Control",
+        "website": "http://www.drugcaucus.senate.gov/",
+        "branch": "senate",
+        "chair_id": "F000062",
+        "ranking_id": "C001056"
     }
 ]

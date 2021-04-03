@@ -51,7 +51,8 @@ def individual_committee(committee_id):
     are_part_of = Are_Part_Of.query.all()
     discuss = Discuss.query.all()
     subcommittees = Subcommittee.query.all()
-    return render_template('individual_committee.html', id=committee_id, member=member, committee=committee, hearing=hearing, is_pushed_through=is_pushed_through, are_part_of=are_part_of, discuss=discuss, subcommittees=subcommittees)
+    legislation = Legislation.query.all()
+    return render_template('individual_committee.html', id=committee_id, member=member, committee=committee, hearing=hearing, is_pushed_through=is_pushed_through, are_part_of=are_part_of, discuss=discuss, subcommittees=subcommittees, legislation=legislation)
 
 # LEGISLATION
 @app.route('/legislation/')
