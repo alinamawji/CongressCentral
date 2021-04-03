@@ -59,7 +59,7 @@
   <div class="card mb-4">
     <div class="card-body">
       <h3 class="card-title text-center pb-3">Leadership</h3>
-      <table class="table user-view-table m-0">
+      <table class="table user-view-table m-0 text-center">
         <tbody>
           <tr>
             {% set member_id = i.chair_id %}
@@ -81,10 +81,10 @@
             {% for j in member %}
               {% if j.id == member_id %}
 
-            <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
             <td class="align-middle">
               <a href="{{ url_for('individual_member', member_id=j.id) }}">Ranking Member: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
             </td>
+            <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
               {% endif %}
 
             {% else %}
@@ -94,39 +94,6 @@
           </tr>
         </tbody>
       </table>
-    </div>
-  </div>
-
-  <div class="card mb-4">
-    <button class="btn btn-outline-primary btn-lg" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSubs" aria-expanded="false" aria-controls="collapseSubs">
-    View all Subcommittees
-    {% set count = namespace(value=0) %}
-    {% for j in subcommittees %}
-      {% if j.committee_id == id %}
-        {% set count.value = count.value + 1 %}
-      {% endif %}
-    {% endfor %}
-    ({{ count.value }})
-    </button>
-    <div class="collapse" id="collapseSubs">
-      <div class="card-body">
-        <div class="table-responsive">
-          <table class="table card-table m-0">
-            <thead>
-              <th class="h5">Subcommittees</th>
-            </thead>
-            <tbody>
-              {% for j in subcommittees %}
-                {% if j.committee_id == id %}
-                  <tr>
-                    <td>{{j.name}}</td>
-                  </tr>
-                {% endif %}
-              {% endfor %}
-            </tbody>
-          </table>
-        </div>
-      </div>
     </div>
   </div>
 
@@ -143,11 +110,9 @@
     </button>
     <div class="collapse" id="collapseMems">
       <div class="card-body">
+        <h3 class="card-title text-center pb-3">Members</h3>
         <div class="table-responsive">
           <table class="table card-table m-0">
-            <thead>
-              <th class="h5">Members</th>
-            </thead>
             <tbody>
               {% for j in are_part_of %}
                 {% if j.committee_id == id %}
@@ -170,19 +135,28 @@
   </div>
 
   <div class="card mb-4">
-    <button class="btn btn-outline-primary btn-lg" type="button" data-bs-toggle="collapse" data-bs-target="#collapseHear" aria-expanded="false" aria-controls="collapseHear">
-    View all Hearings
-    {% set count = namespace(value=0) %}
-    {% for j in hearing %}
-      {% if j.committee_id == id %}
-        {% set count.value = count.value + 1 %}
-      {% endif %}
-    {% endfor %}
-    ({{ count.value }})
-    </button>
-    <div class="collapse" id="collapseHear">
-      <div class="card-body">
-        <div class="table-responsive">
+    <div class="card-body">
+      <h3 class="card-title text-center pb-3">Subcommittees</h3>
+      <div class="table-responsive">
+        <table class="table card-table m-0">
+          <tbody>
+            {% for j in subcommittees %}
+              {% if j.committee_id == id %}
+                <tr>
+                  <td>{{j.name}}</td>
+                </tr>
+              {% endif %}
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="card mb-4">
+    <div class="card-body">
+      <h3 class="card-title text-center pb-3">Hearings</h3>
+      <div class="table-responsive">
           <table class="table card-table m-0 text-center">
           <thead>
             <th>
@@ -231,7 +205,6 @@
             {% endfor %}
           </tbody>
         </table>
-        </div>
       </div>
     </div>
   </div>
