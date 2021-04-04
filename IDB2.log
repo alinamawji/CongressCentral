@@ -1,3 +1,22 @@
+commit de717338fc4f727239ba806612210f428182f3f4
+Merge: eb93bdd 8289741
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Apr 3 15:01:43 2021 -0500
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit eb93bdd9c2e99da03b9e2e7b95ee345c66355441
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Apr 3 15:01:39 2021 -0500
+
+    adding models.html, IDB2.log, updated about.html
+
+commit 82897415bc550aac181142cca4e4fe6a7e9ddbac
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Sat Apr 3 14:57:55 2021 -0500
+
+    added individual unit tests and information on data scraping
+
 commit 0b8324f8449e036d144d44401a10cc5e834f2587
 Author: Andrew Kim <ksb0724@utexas.edu>
 Date:   Sat Apr 3 12:27:24 2021 -0700
