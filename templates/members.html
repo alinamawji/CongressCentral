@@ -9,6 +9,34 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://www.w3schools.com/lib/w3.js"></script>
+    <script>
+        function search() {
+          // Declare variables
+          var input, filter, table, tr, td, i, j, txtValue, cells;
+          input = document.getElementById("input")
+          filter = input.value.toLowerCase();
+          table = document.getElementById("usersTable");
+          tbody = table.getElementsByTagName("tbody");
+          tr = table.getElementsByTagName("tr");
+
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 0; i < tr.length; i++) {
+            cells = tr[i].getElementsByTagName("td");
+            for (j = 0; j < cells.length; j++) {
+                if (j == 0) {
+                    txtValue = cells[j].innerText;
+                }
+                if (txtValue.toLowerCase().indexOf(filter) == -1) {
+                    tr[i].style.display = "none";
+                    break;
+                } else {
+                    tr[i].style.display = "";
+                    break;
+                }
+            }
+          }
+        }
+    </script>
     <!-- Font -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
     <!-- Local stylesheet elements -->
@@ -45,7 +73,7 @@
               </li>
             </ul>
             <form class="form-inline my-2 my-lg-0">
-              <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+              <input class="form-control mr-sm-2" type="search" placeholder="Search" onkeyup="search()" aria-label="Search">
               <button class="btn btn-outline-success my-2 my-sm-0" type="submit" disabled="">Search</button>
             </form>
         </div>
@@ -61,12 +89,12 @@
     <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
         <form>
             <div class="form-row">
-                <div class="col-12 col-md-9 mb-2 mb-md-0">
-                    <input type="search" class="form-control form-control-lg" placeholder="Start here...">
+                <div class="col-12 col-md-12 mb-2 mb-md-0">
+                    <input type="search" id="input" class="form-control form-control-lg" onkeyup="search()" placeholder="Find a member...">
                 </div>
-                <div class="col-12 col-md-3">
+                <!-- <div class="col-12 col-md-3">
                     <button type="submit" class="btn btn-block btn-lg btn-primary" disabled="">Search</button>
-                </div>
+                </div> -->
             </div>
         </form>
         <br/>
@@ -87,7 +115,7 @@
                 {% for i in member.items %}
                     <tr class="item">
                         <td>
-                            <a href="{{url_for('individual_member', member_id=i.id)}}" class="text-name">Senator {{i.lname}}{{ i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}<br><img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></a>
+                            <a href="{{url_for('individual_member', member_id=i.id)}}" id="name" class="text-name">Senator {{i.lname}}{{ i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}<br></a><img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/>
                         </td>
                         <td>
                             <p class="text-muted">{{'Junior' if i.state_rank == 'junior' else 'Senior'}}</p>

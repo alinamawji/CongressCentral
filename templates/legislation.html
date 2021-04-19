@@ -9,6 +9,76 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script>
+        $(document).ready(function () {
+            $('#searchbuttonid').on('click',function(){
+                $(".card h5").each(function(){
+                    alert($(this).attr('Id'));
+                });
+            });
+        });
+    </script>
+    <script>
+      document.getElementById("titleSortA").addEventListener("click", sortTitleAsc)
+      function sortTitleAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".card-title").text() > $(b).find(".card-title").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("titleSortD").addEventListener("click", sortTitleDes)
+      function sortTitleDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".card-title").text() < $(b).find(".card-title").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("memSortA").addEventListener("click", sortMemAsc);
+      function sortMemAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".sponsor").text() > $(b).find(".sponsor").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("memSortD").addEventListener("click", sortMemDes);
+      function sortMemDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".sponsor").text() < $(b).find(".sponsor").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("dateSortA").addEventListener("click", sortDateAsc);
+      function sortDateAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".date").text() > $(b).find(".date").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("dateSortD").addEventListener("click", sortDateDes);
+      function sortDateDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".date").text() < $(b).find(".date").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("origSortA").addEventListener("click", sortOrigAsc);
+      function sortOrigAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".origin").text() > $(b).find(".origin").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("origSortD").addEventListener("click", sortOrigDes);
+      function sortOrigDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".origin").text() < $(b).find(".origin").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("typeSortA").addEventListener("click", sortTypeAsc);
+      function sortTypeAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".card-header").text() > $(b).find(".card-header").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("typeSortD").addEventListener("click", sortTypeDes);
+      function sortTypeDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".card-header").text() < $(b).find(".card-header").text() ? 1 : -1;
+        }).appendTo(".card-deck")};
+    </script>
 
     <!-- Font -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
@@ -66,17 +136,17 @@
         <form>
             <div class="form-row">
                 <div class="col-12 col-md-9 mb-2 mb-md-0">
-                    <input type="search" class="form-control form-control-lg" placeholder="Start here...">
+                    <input type="search" id="input" class="form-control form-control-lg" placeholder="Find legislation...">
                 </div>
                 <div class="col-12 col-md-3">
-                    <button type="submit" class="btn btn-block btn-lg btn-primary" disabled="">Search</button>
+                    <button id="searchbuttonid" type="submit" class="btn btn-block btn-lg btn-primary">Search</button>
                 </div>
             </div>
         </form>
         <br/>
     </div>
 
-<!-- SORT EXAMPLE -->
+<!-- SORT -->
   <div class="row justify-content-center mb-4">
     <div class="dropdown">
       <button class="btn btn-secondary mr-3 dropdown-toggle" type="button" style="float: right;" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sort By</button>
@@ -94,67 +164,7 @@
       </div>
     </div>
   </div>
-  <script>
-    document.getElementById("titleSortA").addEventListener("click", sortTitleAsc)
-    function sortTitleAsc (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".card-title").text() > $(b).find(".card-title").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
 
-    document.getElementById("titleSortD").addEventListener("click", sortTitleDes)
-    function sortTitleDes (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".card-title").text() < $(b).find(".card-title").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-
-    document.getElementById("memSortA").addEventListener("click", sortMemAsc);
-    function sortMemAsc (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".sponsor").text() > $(b).find(".sponsor").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-
-    document.getElementById("memSortD").addEventListener("click", sortMemDes);
-    function sortMemDes (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".sponsor").text() < $(b).find(".sponsor").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-
-    document.getElementById("dateSortA").addEventListener("click", sortDateAsc);
-    function sortDateAsc (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".date").text() > $(b).find(".date").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-
-    document.getElementById("dateSortD").addEventListener("click", sortDateDes);
-    function sortDateDes (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".date").text() < $(b).find(".date").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-
-    document.getElementById("origSortA").addEventListener("click", sortOrigAsc);
-    function sortOrigAsc (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".origin").text() > $(b).find(".origin").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-
-    document.getElementById("origSortD").addEventListener("click", sortOrigDes);
-    function sortOrigDes (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".origin").text() < $(b).find(".origin").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-
-    document.getElementById("typeSortA").addEventListener("click", sortTypeAsc);
-    function sortTypeAsc (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".card-header").text() > $(b).find(".card-header").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-
-    document.getElementById("typeSortD").addEventListener("click", sortTypeDes);
-    function sortTypeDes (){
-      $('.card-deck .card').sort(function(a,b) {
-          return $(a).find(".card-header").text() < $(b).find(".card-header").text() ? 1 : -1;
-      }).appendTo(".card-deck")};
-  </script>
 
 <!-- CARDS -->
   <div class="container-fluid justify-content-center">
