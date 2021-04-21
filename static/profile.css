@@ -52,3 +52,9 @@ body{
     list-style-type: none;
 }
 
+footer {
+  margin-top: 0.75rem;
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 0.7rem;
+}

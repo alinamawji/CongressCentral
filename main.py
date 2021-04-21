@@ -7,20 +7,21 @@ from create_db import db, app, Committee, Member, Legislation, Twitter_Account, 
 def index():
     return render_template('index.html')
 
-ROWS_PER_PAGE = 10
-ROWS_PER_PAGE_COMMITTEE = 5
+ROWS_PER_PAGE_MEMBERS = 20
+ROWS_PER_PAGE_COMMITTEE = 10
+ROWS_PER_PAGE_LEG = 15
 
 # MEMBERS
 @app.route('/members/', methods=['GET', 'POST'])
 def members():
     page = request.args.get('page', 1, type=int)
-    member = Member.query.paginate(page, per_page=ROWS_PER_PAGE)
+    member = Member.query.paginate(page, per_page=ROWS_PER_PAGE_MEMBERS)
     if request.method == 'POST':
         member = Member.query.filter(Member.lname.ilike('%' + str(request.form['user_input']) + '%') |
             Member.fname.ilike('%' + str(request.form['user_input']) + '%') | 
             Member.state.ilike('%' + str(request.form['user_input']) + '%') |
             Member.state_rank.ilike('%' + str(request.form['user_input']) + '%') |
-            Member.party.ilike('%' + str(request.form['user_input']) + '%')).paginate(page=page, per_page=ROWS_PER_PAGE)
+            Member.party.ilike('%' + str(request.form['user_input']) + '%')).paginate(page=page, per_page=ROWS_PER_PAGE_MEMBERS)
     else:
         pass
 
@@ -72,12 +73,12 @@ def individual_committee(committee_id):
 @app.route('/legislation/', methods=['GET','POST'])
 def legislation():
     page = request.args.get('page', 1, type=int)
-    legislation = Legislation.query.paginate(page=page, per_page=ROWS_PER_PAGE)
+    legislation = Legislation.query.paginate(page=page, per_page=ROWS_PER_PAGE_LEG)
     action = Action.query.all()
     is_pushed_through = Is_Pushed_Through.query.all()
     member = Member.query.all()
     if request.method == 'POST':
-        legislation = Legislation.query.filter(Legislation.bill_number.ilike('%' + str(request.form['user_input']) + '%') | Legislation.summary.ilike('%' + str(request.form['user_input']) + '%')).paginate(page=page, per_page=ROWS_PER_PAGE)
+        legislation = Legislation.query.filter(Legislation.bill_number.ilike('%' + str(request.form['user_input']) + '%') | Legislation.summary.ilike('%' + str(request.form['user_input']) + '%')).paginate(page=page, per_page=ROWS_PER_PAGE_LEG)
     else:
         pass
 

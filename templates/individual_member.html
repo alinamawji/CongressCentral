@@ -55,7 +55,7 @@
       <div class="media align-items-center py-3 mb-3 mt-3 bg-white">
         <!-- <img src="../static/images/{{i.member_id}}.jpg" alt="" class="d-block ui-w-100 rounded-circle"> -->
         <div class="media-body text-center">
-          <img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="mb-2" />
+          <img src="{{ url_for('static',filename='images/democratic.png') if i.party == 'D' else url_for('static',filename='images/independent.png') if i.party == 'ID' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="mb-2" />
           <h4 class="font-weight-bold mb-0">Senator {{i.lname}}{{ ' '~i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }}
     {% for j in twitter %}
       {% if j.member_id == member_id %}
@@ -83,7 +83,7 @@
                     </tr>
                     <tr>
                       <td>Party:</td>
-                      <td>{{'Democratic' if i.party == 'D' else 'Republican'}}</td>
+                      <td>{{'Democratic' if i.party == 'D' else 'Independent' if i.party == 'ID' else 'Republican'}}</td>
                     </tr>
                     <tr>
                       <td>Votes with Party:</td>
@@ -328,5 +328,12 @@
               </div>
             </div>
           </div>
+          <footer class="bg-light text-center align-middle">
+            <div class="row">
+              <p class="col">Last Edited: <script>document.write(document.lastModified);</script></p>
+              <p class="col">Created by Andrew Kim, Alina Mawji, Michael DiLeo, and Robert Everson</p>
+              <p class="col"><a href="https://gitlab.com/alinamawji/cs331e-idb" target="_blank" style="text-decoration: underline">GitLab Repository</a></p>
+            </div>
+          </footer>
         </body>
         </html>

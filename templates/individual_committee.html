@@ -71,7 +71,7 @@
             {% for j in member %}
               {% if j.id == member_id %}
 
-            <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
+            <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/independent.png') if j.party == 'ID' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
             <td class="align-middle">
               <a href="{{ url_for('individual_member', member_id=j.id) }}">Chair: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
             </td>
@@ -89,7 +89,7 @@
             <td class="align-middle">
               <a href="{{ url_for('individual_member', member_id=j.id) }}">Ranking Member: Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}</a>
             </td>
-            <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
+            <td><img src="{{ url_for('static',filename='images/democratic.png') if j.party == 'D' else url_for('static',filename='images/independent.png') if j.party == 'ID' else url_for('static',filename='images/republican.png')}}" width="70" height="61" class="img-flag"/></td>
               {% endif %}
 
             {% else %}
@@ -254,5 +254,12 @@
     {% endif %}
   {% endfor %}
   </div>
+  <footer class="bg-light text-center align-middle">
+    <div class="row">
+      <p class="col">Last Edited: <script>document.write(document.lastModified);</script></p>
+      <p class="col">Created by Andrew Kim, Alina Mawji, Michael DiLeo, and Robert Everson</p>
+      <p class="col"><a href="https://gitlab.com/alinamawji/cs331e-idb" target="_blank" style="text-decoration: underline">GitLab Repository</a></p>
+    </div>
+  </footer>
 </body>
 </html>
