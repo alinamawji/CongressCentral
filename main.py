@@ -16,7 +16,11 @@ def members():
     page = request.args.get('page', 1, type=int)
     member = Member.query.paginate(page, per_page=ROWS_PER_PAGE)
     if request.method == 'POST':
-        member = Member.query.filter(Member.lname.ilike('%' + str(request.form['user_input']) + '%')).paginate(page=page, per_page=ROWS_PER_PAGE)
+        member = Member.query.filter(Member.lname.ilike('%' + str(request.form['user_input']) + '%') |
+            Member.fname.ilike('%' + str(request.form['user_input']) + '%') | 
+            Member.state.ilike('%' + str(request.form['user_input']) + '%') |
+            Member.state_rank.ilike('%' + str(request.form['user_input']) + '%') |
+            Member.party.ilike('%' + str(request.form['user_input']) + '%')).paginate(page=page, per_page=ROWS_PER_PAGE)
     else:
         pass
 
@@ -73,7 +77,7 @@ def legislation():
     is_pushed_through = Is_Pushed_Through.query.all()
     member = Member.query.all()
     if request.method == 'POST':
-        legislation = Legislation.query.filter(Legislation.bill_number.ilike('%' + str(request.form['user_input']) + '%')).paginate(page=page, per_page=ROWS_PER_PAGE)
+        legislation = Legislation.query.filter(Legislation.bill_number.ilike('%' + str(request.form['user_input']) + '%') | Legislation.summary.ilike('%' + str(request.form['user_input']) + '%')).paginate(page=page, per_page=ROWS_PER_PAGE)
     else:
         pass
 

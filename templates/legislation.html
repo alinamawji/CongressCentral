@@ -9,67 +9,6 @@
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-    <script>
-      document.getElementById("titleSortA").addEventListener("click", sortTitleAsc)
-      function sortTitleAsc (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".card-title").text() > $(b).find(".card-title").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("titleSortD").addEventListener("click", sortTitleDes)
-      function sortTitleDes (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".card-title").text() < $(b).find(".card-title").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("memSortA").addEventListener("click", sortMemAsc);
-      function sortMemAsc (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".sponsor").text() > $(b).find(".sponsor").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("memSortD").addEventListener("click", sortMemDes);
-      function sortMemDes (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".sponsor").text() < $(b).find(".sponsor").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("dateSortA").addEventListener("click", sortDateAsc);
-      function sortDateAsc (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".date").text() > $(b).find(".date").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("dateSortD").addEventListener("click", sortDateDes);
-      function sortDateDes (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".date").text() < $(b).find(".date").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("origSortA").addEventListener("click", sortOrigAsc);
-      function sortOrigAsc (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".origin").text() > $(b).find(".origin").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("origSortD").addEventListener("click", sortOrigDes);
-      function sortOrigDes (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".origin").text() < $(b).find(".origin").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("typeSortA").addEventListener("click", sortTypeAsc);
-      function sortTypeAsc (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".card-header").text() > $(b).find(".card-header").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-
-      document.getElementById("typeSortD").addEventListener("click", sortTypeDes);
-      function sortTypeDes (){
-        $('.card-deck .card').sort(function(a,b) {
-            return $(a).find(".card-header").text() < $(b).find(".card-header").text() ? 1 : -1;
-        }).appendTo(".card-deck")};
-    </script>
 
     <!-- Font -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
@@ -148,13 +87,74 @@
         <button class="dropdown-item" id="memSortD">Member Z-A</button>
         <button class="dropdown-item" id="dateSortA">Date Low-Hi</button>
         <button class="dropdown-item" id="dateSortD">Date Hi-Low</button>
-        <button class="dropdown-item" id="origSortA">Origin A-Z</button>
-        <button class="dropdown-item" id="origSortD">Origin Z-A</button>
-        <button class="dropdown-item" id="typeSortA">Cosponsors Low-Hi</button>
-        <button class="dropdown-item" id="typeSortD">Cosponsors Hi-Low</button>
+        <button class="dropdown-item" id="origSortA">Cosponsors Low-Hi</button>
+        <button class="dropdown-item" id="origSortD">Cosponsors Hi-Low</button>
+        <button class="dropdown-item" id="typeSortA">Bill Type A-Z</button>
+        <button class="dropdown-item" id="typeSortD">Bill Type Z-A</button>
       </div>
     </div>
   </div>
+  <script>
+      document.getElementById("titleSortA").addEventListener("click", sortTitleAsc)
+      function sortTitleAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".card-title").text().trim() > $(b).find(".card-title").text().trim() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("titleSortD").addEventListener("click", sortTitleDes)
+      function sortTitleDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".card-title").text().trim() < $(b).find(".card-title").text().trim() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("memSortA").addEventListener("click", sortMemAsc);
+      function sortMemAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".sponsor").text().trim() > $(b).find(".sponsor").text().trim() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("memSortD").addEventListener("click", sortMemDes);
+      function sortMemDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".sponsor").text().trim() < $(b).find(".sponsor").text().trim() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("dateSortA").addEventListener("click", sortDateAsc);
+      function sortDateAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".date").text().trim() > $(b).find(".date").text().trim() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("dateSortD").addEventListener("click", sortDateDes);
+      function sortDateDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".date").text().trim() < $(b).find(".date").text().trim() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("origSortA").addEventListener("click", sortOrigAsc);
+      function sortOrigAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return parseInt($(a).find(".origin").text().trim()) > parseInt($(b).find(".origin").text().trim()) ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("origSortD").addEventListener("click", sortOrigDes);
+      function sortOrigDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return parseInt($(a).find(".origin").text().trim()) < parseInt($(b).find(".origin").text().trim()) ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("typeSortA").addEventListener("click", sortTypeAsc);
+      function sortTypeAsc (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".card-header").text().trim() > $(b).find(".card-header").text().trim() ? 1 : -1;
+        }).appendTo(".card-deck")};
+
+      document.getElementById("typeSortD").addEventListener("click", sortTypeDes);
+      function sortTypeDes (){
+        $('.card-deck .card').sort(function(a,b) {
+            return $(a).find(".card-header").text().trim() < $(b).find(".card-header").text().trim() ? 1 : -1;
+        }).appendTo(".card-deck")};
+    </script>
 
 
 <!-- CARDS -->
