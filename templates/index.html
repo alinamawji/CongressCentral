@@ -30,7 +30,7 @@
 
 </head>
 
-<body>
+<body class="bg-light">
 
   <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-light static-top">
         <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
@@ -72,7 +72,7 @@
           <form action="{{url_for('index')}}" method="POST">
             <div class="form-row">
                 <div class="col-12 col-md-9 mb-2 mb-md-0" class="form-row">
-                    <input type="search" id="input" class="form-control form-control-lg" placeholder="Start here... (Case Sensitive)" name="user_input">
+                    <input type="search" id="input" class="form-control form-control-lg" placeholder="Start here..." name="user_input">
                 </div>
                 <div class="col-12 col-md-3">
                     <input type="submit" id="searchbuttonid" class="btn btn-block btn-lg btn-primary" value="Search" name="action"></input>
@@ -124,5 +124,12 @@
       </div>
     </div>
   </section>
+  <footer class="bg-light text-center align-middle">
+    <div class="row">
+      <p class="col">Last Edited: <script>document.write(document.lastModified);</script></p>
+      <p class="col">Created by Andrew Kim, Alina Mawji, Michael DiLeo, and Robert Everson</p>
+      <p class="col"><a href="https://gitlab.com/alinamawji/cs331e-idb" target="_blank" style="text-decoration: underline">GitLab Repository</a></p>
+    </div>
+  </footer>
 </body>
 </html>

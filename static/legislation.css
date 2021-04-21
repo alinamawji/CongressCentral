@@ -51,3 +51,10 @@ body{
   display: block;
   flex-basis: 100%; /* change this value for each breakpoint*/
 }
+
+footer {
+  margin-top: 0.75rem;
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
+  font-size: 0.7rem;
+}
