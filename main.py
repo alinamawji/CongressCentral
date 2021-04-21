@@ -1,16 +1,28 @@
 # application.py
-from flask import Flask, render_template, request, send_from_directory
+from flask import Flask, redirect, render_template, request, send_from_directory
 from sqlalchemy.sql import text
 from create_db import db, app, Committee, Member, Legislation, Twitter_Account, Financial_Information, Industry_Contributor, Organization_Contributor, Sector_Contributor, Subcommittee, Hearing, Action, Are_Part_Of, Is_Pushed_Through, Discuss
-
-@app.route('/')
-def index():
-    return render_template('index.html')
 
 ROWS_PER_PAGE = 10
 ROWS_PER_PAGE_COMMITTEE = 5
 
-# MEMBERS
+@app.route('/', methods=['GET', 'POST'])
+def index():
+    if request.method == 'POST':
+        user_input = request.form['user_input']
+        member = Member.query.filter(Member.lname.ilike('%' + str(user_input) + '%'))
+        committee = Committee.query.filter(Committee.name.ilike('%' + str(user_input) + '%'))
+        hearing = Hearing.query.all()
+        subcommittees = Subcommittee.query.all()
+        are_part_of = Are_Part_Of.query.all()
+        legislation = Legislation.query.filter(Legislation.bill_number.ilike('%' + str(user_input) + '%'))
+        action = Action.query.all()
+        is_pushed_through = Is_Pushed_Through.query.all()
+        return render_template('index_search_results.html', user_input=user_input, member=member, legislation=legislation, action=action, is_pushed_through=is_pushed_through, committee=committee, hearing=hearing, subcommittees=subcommittees, are_part_of=are_part_of)
+    else:
+        return render_template('index.html')
+
+# MEMBER
 @app.route('/members/', methods=['GET', 'POST'])
 def members():
     page = request.args.get('page', 1, type=int)

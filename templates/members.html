@@ -72,9 +72,9 @@
                 <a class="nav-link" href="{{url_for('about')}}">About</a>
               </li>
             </ul>
-            <form class="form-inline my-2 my-lg-0">
-              <input class="form-control mr-sm-2" type="search" placeholder="Search" onkeyup="search()" aria-label="Search">
-              <button class="btn btn-outline-success my-2 my-sm-0" type="submit" disabled="">Search</button>
+            <form class="form-inline my-2 my-lg-0" action="{{url_for('index')}}" method="POST">
+              <input type="search" id="input" class="form-control mr-sm-2" placeholder="Search" name="user_input">
+              <input type="submit" id="searchbuttonid" class="btn btn-outline-success my-2 my-sm-0" value="Search" name="action"></input>
             </form>
         </div>
     </nav>
@@ -90,7 +90,7 @@
         <form action="{{url_for('members')}}" method="POST">
             <div class="form-row">
                 <div class="col-12 col-md-9 mb-2 mb-md-0" class="form-row">
-                    <input type="search" id="input" class="form-control form-control-lg" placeholder="Find a member..." name="user_input">
+                    <input type="search" id="input" class="form-control form-control-lg" placeholder="Find a member... (Case Sensitive)" name="user_input">
                 </div>
                 <div class="col-12 col-md-3">
                     <input type="submit" id="searchbuttonid" class="btn btn-block btn-lg btn-primary" value="Search" name="action"></input>

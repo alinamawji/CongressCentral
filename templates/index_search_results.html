@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Style content CDN -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+    <!-- Font -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"/>
+
+    <!-- Local stylesheet elements -->
+    <link rel="stylesheet" href="{{ url_for('static',filename='legislation.css') }}">
+
+    <!-- favicon -->
+    <link rel="shortcut icon" type="image/png" href="{{ url_for('static',filename='images/favicon.png') }}"/>
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+    <nav class="navbar navbar-expand-md navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <a class="navbar-brand" href="{{url_for('index')}}">CongressCentral</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('index')}}">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('members')}}">Members</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('committees')}}">Committees</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('legislation')}}">Legislation</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="{{url_for('about')}}">About</a>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0" action="{{url_for('index')}}" method="POST">
+            <input type="search" id="input" class="form-control mr-sm-2" placeholder="Search" name="user_input">
+            <input type="submit" id="searchbuttonid" class="btn btn-outline-success my-2 my-sm-0" value="Search" name="action"></input>
+          </form>
+        </div>
+    </nav>
+
+<!-- CARDS -->
+  <div class="header">
+      <h3>You searched for "{{user_input}}"</h3>
+      <h1>Member Results</h1>
+  </div>
+
+  <div class="container-fluid justify-content-center">
+    <div class="card-deck">
+
+      {% for i in member %}
+
+      <div class="card mb-4">
+        <div class="card-body">
+            <p>
+                <a href="{{url_for('individual_member', member_id=i.id)}}" id="name" class="text-name">Senator {{i.lname}}{{ i.namesuffix if i.namesuffix is not none else ''}}, {{i.fname}} {{ i.mname if i.mname is not none else '' }} ({{i.party}} - {{i.state}})<br></a>
+            </p>
+            <p class="card-text-att">State Rank: <br>
+              <p class="text-muted">{{'Junior' if i.state_rank == 'junior' else 'Senior'}}</p>
+            </p>
+            <p class="card-text-att">% Votes with Party: <br>
+              <p class="text-twitter">{{i.votes_w_party}}%</p>
+            </p>
+        </div>
+      </div>
+
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <div class="header">
+      <h1>Committee Results</h1>
+  </div>
+
+  <div class="container-fluid justify-content-center">
+    <div class="card-deck">
+
+      {% for i in committee %}
+
+      <div class="card mb-4">
+        <div class="card-body">
+          <h2 class="card-title"><a class="card-link" href="{{ url_for('individual_committee', committee_id=i.id) }}">{{i.name}}</a></h2>
+            <p>
+              <a href="{{url_for('individual_member', member_id=i.chair_id)}}" class="card-link chair">Chair:
+                {% set member_id = i.chair_id %}
+                {% for j in member %}
+                  {% if j.id == member_id %}
+                    Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}
+                  {% endif %}
+                {% endfor %}</a>
+              <a href="{{url_for('individual_member', member_id=i.ranking_id)}}" class="card-link ranking">Ranking Member:
+                {% set member_id = i.ranking_id %}
+                {% for j in member %}
+                  {% if j.id == member_id %}
+                    Senator {{j.lname}}{{ ' '~j.namesuffix if j.namesuffix is not none else ''}}, {{j.fname}} {{ j.mname if j.mname is not none else '' }}
+                  {% endif %}
+                {% endfor %}</a>
+            </p>
+            <div class="row">
+            <div class="col-4">
+                <p class="card-text-att">Total Members: <br>
+                  <p class="date card-text totalmems">
+                    {% set count = namespace(value=0) %}
+                    {% for j in are_part_of %}
+                      {% if j.committee_id == i.id %}
+                        {% set count.value = count.value + 1 %}
+                      {% endif %}
+                    {% endfor %}
+                    {{ count.value }}
+                  </p>
+                </p>
+            </div>
+            <div class="col-4">
+                <p class="card-text-att">Total Subcommittees: <br>
+                  <p class="date card-text">
+                    {% set count = namespace(value=0) %}
+                    {% for j in subcommittees %}
+                      {% if j.committee_id == i.id %}
+                        {% set count.value = count.value + 1 %}
+                      {% endif %}
+                    {% endfor %}
+                    {{ count.value }}
+                  </p>
+                </p>
+            </div>
+            <div class="col-4">
+                <p class="card-text-att">Total Bills in Committee: <br>
+                  <p class="date card-text totbills">
+                    {% set count = namespace(value=0) %}
+                    {% for j in is_pushed_through %}
+                      {% if j.committee_id == i.id %}
+                        {% set count.value = count.value + 1 %}
+                      {% endif %}
+                    {% endfor %}
+                    {{ count.value }}
+                  </p>
+                </p>
+            </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <a href="{{i.website}}" class="card-link" target="_blank">Official Senate Site</a>
+        </div>
+      </div>
+
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <div class="header">
+      <h1>Legislation Results</h1>
+  </div>
+
+  <div class="container-fluid justify-content-center">
+    <div class="card-deck">
+      {% for i in legislation %}
+        <div class="card mb-4">
+          <div class="card-header">
+            {% if i.type == "s" %} Bill {% endif %}
+            {% if i.type == "sres" %} Resolution {% endif %}
+            {% if i.type == "sjres" %} Joint Resolution {% endif %}
+            {% if i.type == "sconres" %} Concurrent Resolution {% endif %}
+          </div>
+          <div class="card-body">
+            <h5 class="card-title"><a href="{{url_for('individual_legislation', bill_id=i.bill_id)}}">{{i.bill_number}}</a></h5>
+            <p id="description" class="card-text">{{i.summary}}</p>
+            <p class="card-text-att">Sponsor: <br>
+            {% set sponsor_id = i.sponsor_id %}
+            {% for j in member %}
+              {% if j.id == sponsor_id %}
+                <p class="sponsor card-text"><a href="{{url_for('individual_member', member_id=sponsor_id)}}" class="card-text">Senator {{j.lname}}{{ j.namesuffix if j.namesuffix is not none else '' }}, {{j.fname}} {{ j.mname if j.mname is not none else '' }} ({{ j.party }}-{{ j.state }}) </a></p>
+              {% endif %}
+            {% endfor %}
+            </p>
+            <p class="card-text-att">Introduced: <br>
+              <p class="date card-text">{{i.date_introduced}}</p>
+            </p>
+            <p class="card-text-att"># Cosponsors: <br>
+              <p class="origin card-text">{{i.cosponsors}}</p>
+            </p>
+          </div>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+
+</body>
+</html>
