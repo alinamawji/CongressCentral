@@ -138,12 +138,41 @@ def committeesjson():
 
     committee_list = Committee.query.all()
     subcommittee_list = Subcommittee.query.all()
-    for committee in committee_list:
-        for subcommittee in subcommittee_list:
-            if subcommittee.committee_id == committee.id:
-                response.append({str(committee.name) : str(subcommittee.name)})
+    for j in range(len(committee_list)):
+        has_sub = False
+        for i in range(len(subcommittee_list)):
+            if subcommittee_list[i].committee_id == committee_list[j].id:
+                response.append({str(committee_list[j].name) : str(subcommittee_list[i].name)})
+                has_sub = True
+            elif has_sub:
+                if j < len(committee_list) - 1:
+                    j += 1
+                else:
+                    break
+            else:
+                response.append({str(committee_list[j].name) : 'No subcommittees'})
+                if j < len(committee_list) - 1:
+                    j += 1
+                else:
+                    break
     
     return make_response({'Committees and Subcommittees' : response}, 200)
+
+# API for listing all legislation
+@app.route('/legislation/json/')
+def legislationjson():
+    response = list()
+
+    legislation_list = Legislation.query.all()
+    pushed_list = Is_Pushed_Through.query.all()
+    committee_list = Committee.query.all()
+    for legislation in legislation_list:
+        for pushed in pushed_list:
+            for committee in committee_list:
+                if (pushed.bill_id == legislation.bill_id) and (pushed.committee_id == committee.id):
+                    response.append({'Bill ID' : str(legislation.bill_id), 'Bill Summary' : str(legislation.summary), 'Committee Pushed Through' : str(committee.name)})
+
+    return make_response({'Legislation Bill IDs and Summary' : response}, 200)
 
 if __name__ == '__main__':
     app.debug = True
