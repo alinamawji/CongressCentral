@@ -131,6 +131,20 @@ def membersjson():
 
     return make_response({'Members' : response}, 200)
 
+# API for listing all committees and subcommittees
+@app.route('/committees/json/')
+def committeesjson():
+    response = list()
+
+    committee_list = Committee.query.all()
+    subcommittee_list = Subcommittee.query.all()
+    for committee in committee_list:
+        for subcommittee in subcommittee_list:
+            if subcommittee.committee_id == committee.id:
+                response.append({str(committee.name) : str(subcommittee.name)})
+    
+    return make_response({'Committees and Subcommittees' : response}, 200)
+
 if __name__ == '__main__':
     app.debug = True
     app.run(host='0.0.0.0', port = 8080)
