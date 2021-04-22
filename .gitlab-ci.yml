@@ -11,8 +11,8 @@ services:
 variables:
   POSTGRES_DB: congress
   POSTGRES_USER: postgres
-  POSTGRES_PASSWORD: "asd123"
-  POSTGRES_HOST_AUTH_METHOD: md5
+  POSTGRES_PASSWORD: ""
+  POSTGRES_HOST_AUTH_METHOD: trust
   DB_STRING: "postgresql://$POSTGRES_USER@postgres:5432/$POSTGRES_DB"
 
 before_script:
