@@ -1,5 +1,5 @@
 # application.py
-from flask import Flask, render_template, request, send_from_directory
+from flask import Flask, render_template, request, send_from_directory, url_for, redirect, json, jsonify, Response, make_response
 from sqlalchemy.sql import text
 from create_db import db, app, Committee, Member, Legislation, Twitter_Account, Financial_Information, Industry_Contributor, Organization_Contributor, Sector_Contributor, Subcommittee, Hearing, Action, Are_Part_Of, Is_Pushed_Through, Discuss
 
@@ -115,10 +115,21 @@ def about():
     return render_template('about.html')
 
 @app.route('/api/')
-def api():
+def apiTest():
     member_list = Member.query.all()
     print(member_list)
     return str([Member.lname for mem in member_list])
+
+# API for listing all member names and IDs
+@app.route('/members/json/')
+def membersjson():
+    response = list()
+
+    member_list = Member.query.all()
+    for mem in member_list:
+        response.append({'ID' : str(mem), 'Name' : str(mem.fname) + ' ' + str(mem.lname)})
+
+    return make_response({'Members' : response}, 200)
 
 if __name__ == '__main__':
     app.debug = True
