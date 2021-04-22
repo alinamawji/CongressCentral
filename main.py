@@ -167,12 +167,9 @@ def legislationjson():
     pushed_list = Is_Pushed_Through.query.all()
     committee_list = Committee.query.all()
     for legislation in legislation_list:
-        for pushed in pushed_list:
-            for committee in committee_list:
-                if (pushed.bill_id == legislation.bill_id) and (pushed.committee_id == committee.id):
-                    response.append({'Bill ID' : str(legislation.bill_id), 'Bill Summary' : str(legislation.summary), 'Committee Pushed Through' : str(committee.name)})
-
-    return make_response({'Legislation Bill IDs and Summary' : response}, 200)
+        response.append({'Bill ID' : str(legislation.bill_id), 'Bill Summary' : str(legislation.summary), 'Date introduced' : str(legislation.date_introduced)})
+    
+    return make_response({'Legislation Bill IDs, Summary and Date Introduced' : response}, 200)
 
 if __name__ == '__main__':
     app.debug = True
