@@ -1,0 +1,97 @@
+{
+	"id": "bd7c3343-7158-4787-8bb2-397c40b8240e",
+	"name": "Congress Central",
+	"timestamp": "2021-04-23T08:30:57.849Z",
+	"collection_id": "ecd22244-59e3-460e-a410-ecf6d11158d4",
+	"folder_id": 0,
+	"environment_id": "0",
+	"totalPass": 0,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "81da4503-be02-427f-8359-de2cad30b26d",
+			"name": "Get all member names and ID",
+			"time": 16,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				53,
+				26,
+				16
+			],
+			"allTests": [
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "cd212c9e-f52b-47a4-95f3-3baa158bc222",
+			"name": "Get all committees and sub committees",
+			"time": 13,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				13,
+				34,
+				13
+			],
+			"allTests": [
+				{},
+				{},
+				{}
+			]
+		},
+		{
+			"id": "d24d9b79-5f0f-40cb-95f0-794ffedb5aef",
+			"name": "Get all legislation bills",
+			"time": 106,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				87,
+				89,
+				106
+			],
+			"allTests": [
+				{},
+				{},
+				{}
+			]
+		}
+	],
+	"count": 3,
+	"totalTime": 437,
+	"collection": {
+		"requests": [
+			{
+				"id": "81da4503-be02-427f-8359-de2cad30b26d",
+				"method": "GET"
+			},
+			{
+				"id": "cd212c9e-f52b-47a4-95f3-3baa158bc222",
+				"method": "GET"
+			},
+			{
+				"id": "d24d9b79-5f0f-40cb-95f0-794ffedb5aef",
+				"method": "GET"
+			},
+			{
+				"id": "499309e4-0c8d-4caa-8e4f-28de730b85c7",
+				"method": "GET"
+			}
+		]
+	}
+}
