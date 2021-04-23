@@ -120,7 +120,7 @@ def apiTest():
     print(member_list)
     return str([Member.lname for mem in member_list])
 
-# API for listing all member names and IDs
+# API for listing all member names and ID
 @app.route('/members/json/')
 def membersjson():
     response = list()
