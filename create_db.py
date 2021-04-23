@@ -167,8 +167,8 @@ def create_Organization_contributors():
 
 
 def create_Sector_contributors():
-    OC_Info = load_json('./api_calls/sector_contributors_table.json')
-    for info in OC_Info:
+    SC_Info = load_json('./api_calls/sector_contributors_table.json')
+    for info in SC_Info:
         crp_id = info['crp_id']
         sector_name = info['sector_name']
         total = info['total']
