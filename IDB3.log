@@ -1,0 +1,810 @@
+commit a0927c9d0a5447fb2e90417148cbea4c9b6e7e6d
+Author: Trey Everson <teverson25@me.com>
+Date:   Fri Apr 23 14:43:52 2021 -0500
+
+    Finalize main.py file
+
+commit 7ac47a817f8cdd927f1785918d50aeafb32f1705
+Author: Trey Everson <teverson25@me.com>
+Date:   Fri Apr 23 14:43:02 2021 -0500
+
+    Update numbers
+
+commit 16ac2f7f2afdec5ae4e9a77f090ad38ff2a77c91
+Author: Trey Everson <teverson25@me.com>
+Date:   Fri Apr 23 19:37:51 2021 +0000
+
+    Delete Congress Central.postman_test_run.json
+
+commit e2e4e6903b13a5bff06d8aecf27d70c1b2a2a2ac
+Merge: 95dd910 fbbf3d3
+Author: Trey Everson <teverson25@me.com>
+Date:   Fri Apr 23 14:35:46 2021 -0500
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb into master
+
+commit 95dd9101f5fe43112afff3cd2f08c09e3d6406e6
+Author: Trey Everson <teverson25@me.com>
+Date:   Fri Apr 23 14:35:32 2021 -0500
+
+    Adding API JSON file
+
+commit fbbf3d31583d0c0e0865f7a931253cc76ac25529
+Merge: 50d6a4d 26b0d1d
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 23 13:52:26 2021 -0500
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit 50d6a4dbb74172c5c7f0e85c6fd351453177660d
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 23 13:52:17 2021 -0500
+
+    added speakerdeck presentation
+
+commit 26b0d1d819464e2238edcb5525d85f7413f962c1
+Author: Trey Everson <teverson25@me.com>
+Date:   Fri Apr 23 13:51:47 2021 -0500
+
+    Changing to GCP DB
+
+commit e06a459e40f7c295e2b2ab0a900173f9aad1fef9
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Fri Apr 23 02:20:43 2021 -0700
+
+    Add endpoint API in main.py, but failed test in Postman.
+
+commit 06902fd131833928f071d866463a9a67cd479e62
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Apr 22 18:13:22 2021 -0500
+
+    Reverted back to local database
+
+commit 1d337ea7a17fa5e367b3c2dd2a8c0ed0646bb53e
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Apr 22 16:41:41 2021 -0500
+
+    Changed db param for GCP testing
+
+commit 62689e687001bb734ef7340ca1698adbd42a7bf4
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Apr 22 16:40:22 2021 -0500
+
+    Added legislation API
+
+commit ca44c90d7e7d6674124affb0a9dc07bb12a2c494
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Apr 22 15:50:08 2021 -0500
+
+    Updated committees API
+
+commit 4ed6068c284e384f4f8f3228d303e061cf3817bb
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Apr 22 14:44:18 2021 -0500
+
+    Added committees API endpoint
+
+commit 9e3d7dea836a04f26f43c18a6172018e561725c1
+Author: Trey Everson <teverson25@me.com>
+Date:   Thu Apr 22 14:28:40 2021 -0500
+
+    Added members API endpoint
+
+commit 2fb75bf632d33db39643c2b88b5b63ade96d2279
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Apr 22 08:33:36 2021 -0700
+
+    error fix
+
+commit dbba4e3e5aef86887bd2ccc151b990efe98bf2df
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Apr 22 08:30:06 2021 -0700
+
+    pipeline modified
+
+commit b4d53f5fb083b7c6903a0be79ba294abbbd99a42
+Merge: 1d81130 394965b
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Apr 21 16:36:02 2021 -0500
+
+    global search added
+
+commit 1d81130336c640cfee12156b44406cc16bf40ab7
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Apr 21 15:35:44 2021 -0500
+
+    global search functionality added
+
+commit 394965beb084a01e18b6225130b2cb00259d0cb0
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Apr 21 14:23:00 2021 -0500
+
+    added footer and fixed independents
+
+commit 9746c5638aeaf273eb25b8d8edb0abf15628c862
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Apr 21 13:11:00 2021 -0500
+
+    improved sort and search, fixed independents
+
+commit 0a43e271b77bc2bd71c3f8da03b2349bd10925f5
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Tue Apr 20 20:31:15 2021 -0500
+
+    speaker deck link added on about.html
+
+commit d15d3c05f0b3cf18f530d7a927ace7af1196dc55
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Tue Apr 20 19:29:16 2021 -0500
+
+    search functionality
+
+commit 16f5edce6ee883c77aa7b243f9a972774e74e124
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Mon Apr 19 13:03:52 2021 -0500
+
+    members search functionality
+
+commit d3a9b45bac1e3642a0a05fb61cab2d21b35dda19
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Apr 3 20:22:19 2021 -0500
+
+    updated IDB2.log and about.html
+
+commit de717338fc4f727239ba806612210f428182f3f4
+Merge: eb93bdd 8289741
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Apr 3 15:01:43 2021 -0500
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit eb93bdd9c2e99da03b9e2e7b95ee345c66355441
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Apr 3 15:01:39 2021 -0500
+
+    adding models.html, IDB2.log, updated about.html
+
+commit 82897415bc550aac181142cca4e4fe6a7e9ddbac
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Sat Apr 3 14:57:55 2021 -0500
+
+    added individual unit tests and information on data scraping
+
+commit 0b8324f8449e036d144d44401a10cc5e834f2587
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Sat Apr 3 12:27:24 2021 -0700
+
+    fix number of issues
+
+commit 3f36f9fc9646021c75df6278b1250f635bc4d189
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Sat Apr 3 14:03:37 2021 -0500
+
+    minor fix to link in about.html
+
+commit fff3db0ee24b549ef9c07fdbbba9e2a2cbefd1af
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Sat Apr 3 13:58:52 2021 -0500
+
+    added unittests to about.html
+
+commit f02c2d9640ceb812d667d52d86d20f6edc7fa2e5
+Author: Trey Everson <teverson25@me.com>
+Date:   Sat Apr 3 12:08:45 2021 -0500
+
+    Changed DB_STRING for GCP
+
+commit 25517d24540d1a6410115e686d28bc2e38b028a7
+Author: Trey Everson <teverson25@me.com>
+Date:   Sat Apr 3 12:07:00 2021 -0500
+
+    Added api route
+
+commit 7f19d63d1ae6c850e1427f49d91e2fd85a512046
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Sat Apr 3 03:45:43 2021 -0700
+
+    Fix test case to pass all and update models.py
+
+commit 157d0f8588d02e1721c80b2bee70d56299806783
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Sat Apr 3 01:20:04 2021 -0500
+
+    added more connections between committees and legislation
+
+commit debf87409e97abee54bbac094f01ce72fc7ab504
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Sat Apr 3 00:30:36 2021 -0500
+
+    small tweaks to individual committees
+
+commit 1d93b2a07477ef94fcde704263aaffb482ef8cd5
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Apr 2 23:46:10 2021 -0500
+
+    fixed Michael personal page link
+
+commit 7187ebc48ebd17c5e1e00aa6941c5c1621f5f4da
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Apr 2 23:39:45 2021 -0500
+
+    fixed committee id error
+
+commit 162ac13797e3684674e0d204f99b3a404e07093d
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 2 21:54:17 2021 -0500
+
+    updated about.html stats
+
+commit 7ccdeb3887891e49b85078f9b03e19739e7bf81e
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Apr 2 21:18:46 2021 -0500
+
+    fixed issues on members individual page
+
+commit 586edd994a73c746566a605598592bbbfb6395a6
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 2 20:36:23 2021 -0500
+
+    updated links between instances
+
+commit 2e5a0a8e715653e5954ae02e3d962a4423a5d02a
+Merge: 0aa01f8 b94343c
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 2 20:12:45 2021 -0500
+
+    updated individual members and legislation
+
+commit 0aa01f8fd4d92f82d7cfebb1b987a817c0d3280c
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 2 20:05:38 2021 -0500
+
+    updated individual members and legislation
+
+commit b94343c29b3d8c857c01f8e327b12593c2f8093d
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Apr 2 19:22:57 2021 -0500
+
+    changed pagination on committees
+
+commit c8463482795f121d7d54004dce895a948be4ee30
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Apr 2 19:09:42 2021 -0500
+
+    finished dynamic individual committee pages
+
+commit 2ba9785235dd33d9a63d5788dddd5ca6b5bd4e18
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Apr 2 17:45:22 2021 -0500
+
+    fixed landing page image
+
+commit 6293e00e1251f9bfb92c19b37ae3b16cbf40ef12
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Apr 2 17:31:57 2021 -0500
+
+    fixing index css
+
+commit 3d956948b2b039e01a2a593d81eba0916e8d9314
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Apr 2 17:18:20 2021 -0500
+
+    dynamic committees page
+
+commit 51bd3a33f5559bce289376f04dfbfd2ba8fab952
+Merge: 595e2dd fab2f78
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 2 17:03:35 2021 -0500
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit 595e2dd41cb801895633f056d0cc406783c2e8d1
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 2 17:03:28 2021 -0500
+
+    updated legislation.html
+
+commit fab2f78dfb5870f6accdbd1a91b810c528b8a56c
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Fri Apr 2 14:43:24 2021 -0700
+
+    fix a syntax error.
+
+commit 26d846c5ffe3ae80ec4ea556572fc4fff1086ce1
+Merge: df3ac94 5fd6caa
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Fri Apr 2 12:04:37 2021 -0700
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit df3ac943a2bd8efb63f1805c1a112df0de09ce32
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Fri Apr 2 12:04:08 2021 -0700
+
+    Upload pipeline test
+
+commit 5fd6caaf7a2d6a6c4787d78c24eb283497f1fbfd
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 2 12:17:02 2021 -0500
+
+    members.html updated
+
+commit ed9ba8e9b8bd8e27f2ad0f4d8c4aaf00003a1634
+Author: Trey Everson <teverson25@me.com>
+Date:   Fri Apr 2 12:04:39 2021 -0500
+
+    Updated db_uri for GCP
+
+commit 3a6c687bda401172181dbeabc38b682715cad480
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Apr 2 11:27:05 2021 -0500
+
+    updated main.py
+
+commit 76363244471374212500c898bbe1fbd7ea586e19
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Apr 1 21:57:28 2021 -0700
+
+    set 6 testcases: add and modify
+
+commit f4fba3f699a7a32801886143df483b799638f44b
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Apr 1 23:03:08 2021 -0500
+
+    updated main.py
+
+commit 93b84a9c3aec7226706d469ecde66c7a7657cfea
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Thu Apr 1 21:12:48 2021 -0500
+
+    fixed database errors
+
+commit b1bc0bf565ad6cabd9f1b104a5222542397170f6
+Merge: 55ef4c0 21b5fe7
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Apr 1 17:47:26 2021 -0700
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit 55ef4c0f640240310ca894e407a8ae72940aa37c
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Apr 1 17:46:07 2021 -0700
+
+    Fixed primary key error, but have other semantic error:var character too long.
+
+commit 21b5fe775f7afdd72e09e5c5759fb36d96b36892
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Thu Apr 1 18:42:49 2021 -0500
+
+    fixed committees json
+
+commit f6c982700a6327b0d788a236facde83862baa8d2
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Apr 1 02:56:39 2021 -0700
+
+    debug syntax, but there exists semantic error such as sql error.
+
+commit 926ffd940f9f75f2d305fb86258202f89ad2f838
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Apr 1 02:32:28 2021 -0700
+
+    models.py upload! But, need to fix.
+
+commit 6a0f5ed5bb3305b4b6bf41933bb96e8b2fa70537
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Mar 31 21:22:11 2021 -0500
+
+    fixed discus json
+
+commit f74d0ef3eabbc684c5b4a849a7a5dc5306c9b2fb
+Merge: f8ff1fd b31f410
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Wed Mar 31 18:36:21 2021 -0700
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit f8ff1fd78dda0def93453b62036b521e2b97586b
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Wed Mar 31 18:32:28 2021 -0700
+
+    create_db.py complete. Please check whether there is typo or not. Models.py will be upload soon.
+
+commit b31f410666897ba21b47893723998b07e9d82238
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Mar 31 18:24:28 2021 -0500
+
+    dynamic templates - members & legislation
+
+commit 8df54e3fbe9f0bb49fede26cb50b4053cd94f2d9
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Mar 31 16:51:57 2021 -0500
+
+    added all json files
+
+commit 0665ce7e15e8b9896a6be78150573ea5781515b5
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Mon Mar 29 11:59:22 2021 -0500
+
+    added API pulling
+
+commit d067695879fa49de1165510807bb483949177485
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Mar 27 21:34:02 2021 -0500
+
+    resolves #54 unit tests
+
+commit ef8a99d98a095b8adac547d76ed82b8337899eae
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Mar 25 12:13:59 2021 -0500
+
+    resolves #38 about.html
+
+commit 226f3a761dce07daa3c522d23d364ff1f8a2baa7
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Mon Mar 22 09:49:54 2021 -0500
+
+    resolves #35 committee images & resolves #37 team leader
+
+commit 6001a696ef0a6864a8ab87f1fae471a7abc45ab7
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sun Mar 21 13:46:46 2021 -0500
+
+    favicon #36
+
+commit 9f0de849193fd1d80252fcb57209bd355c5603c1
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Mar 11 09:33:59 2021 -0800
+
+    update requirements
+
+commit 5537da6f11fcb8601d41f8b41ad539fe6a5ffcf1
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Feb 26 14:43:40 2021 -0600
+
+    final update: about stats and git log
+
+commit bb2cbc2b73fb6b4723fba23bab3ce76535dc264b
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Fri Feb 26 14:11:29 2021 -0600
+
+    added links to committee pages
+
+commit 5c5374afa23f7fec4dfae14af047d4dd96f9afc7
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Feb 26 13:13:43 2021 -0600
+
+    update log
+
+commit 2da1799c193d22a98399a3f495316c53df45fa51
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Feb 26 12:49:12 2021 -0600
+
+    update about
+
+commit 73e5267f8cac1a280f5ce0b5fffbe12cdbeb6037
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Feb 26 12:44:58 2021 -0600
+
+    linked instances of different pillars
+
+commit b1134f96efc4cf2d7f78b796a7147a49c5b4e444
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 25 21:55:10 2021 -0600
+
+    update about.html stats
+
+commit 3480b0105de821c40aae4ed99336926dafe77441
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Thu Feb 25 21:21:34 2021 -0600
+
+    fixed image scaling on about
+
+commit 53e098299a41b13d3e473d26edcba21be317af61
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 25 20:55:42 2021 -0600
+
+    updated about.html
+
+commit 4b9988d218d78a55302ba46cbaa2796236781f93
+Merge: 2d3ebe6 6d81d49
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 16:59:34 2021 -0800
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit 2d3ebe66cd7e00f97a2ffd81ea53693a54ce4634
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 16:56:48 2021 -0800
+
+    Update about.html
+
+commit 6d81d49156fb5525c945d665fcd7c4ce1133c48c
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 25 15:52:30 2021 -0600
+
+    update git log
+
+commit 7cfe7a0bfca793a8bb2ad4550f05d0c19c64ada8
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 10:36:03 2021 -0800
+
+    Update Andrew's info
+
+commit e11710beb75fabb0ecb2d537bc667057b8aa31ad
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 10:25:41 2021 -0800
+
+    Merge dev
+
+commit e3bfbe273f0e3ee64656780de629d10f5d5e7093
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 25 10:53:51 2021 -0600
+
+    resolves #25 committees sorting and legislation links
+
+commit 615feb1ba8b63bfdb33dc3d5705188898f00cbdd
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Thu Feb 25 02:56:04 2021 -0800
+
+    update html and css files of members and fix some path parts
+
+commit f5355984ac6fac10c817a3c898d6e43d52fd59d6
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 20:19:38 2021 -0600
+
+    Adding deploy.sh
+
+commit a975017b5ab773b03c60dcfdea4d309b9963c77a
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 20:09:15 2021 -0600
+
+    Flask can now find senator pictures
+
+commit 740720698e255ad797665d45df4bfc3a287fdb40
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:56:51 2021 -0600
+
+    Flask can now find css, js, and images
+
+commit bf374d377b95a0c82e450cd3b45395b1d1a5611b
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:53:41 2021 -0600
+
+    Flask can now find css, js, and images
+
+commit 425156b64fc64d6cee312e05258c2f2130abf2c8
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:44:14 2021 -0600
+
+    Flask can now find CSS files
+
+commit edf9dd2789816878f19ce593d913db209408310a
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:33:14 2021 -0600
+
+    Updated legislation pages for Flask
+
+commit 7d0c48381d4e1202888328d774090b996cc8db07
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:30:54 2021 -0600
+
+    Updated individual member pages for Flask
+
+commit b09989dc0a89126a95e3ce4f910b8fb23fe40fe3
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:18:04 2021 -0600
+
+    Added picture of Robert for about page
+
+commit f9ca484d4d4c114cd68db2498e30d05a4b3da638
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 19:12:53 2021 -0600
+
+    Updated legislation for Flask
+
+commit d989185d509713ebb7ebc7c8687982c09efe03fc
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 18:58:42 2021 -0600
+
+    Finished updating members
+
+commit 6e7b68f0ffd6547d03edf9be7c8a6ac9f23ddc44
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 18:52:32 2021 -0600
+
+    Updating files for Flask
+
+commit 9c58ca68bdad49f8d6cb94fea2e850356c72b901
+Merge: 10fba11 9607e5e
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 18:33:18 2021 -0600
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb into master
+
+commit 10fba1196dd983b6dbe24695533116511a232a8b
+Author: Trey Everson <teverson25@me.com>
+Date:   Wed Feb 24 18:31:24 2021 -0600
+
+    Updating files for Flask, in process
+
+commit 9607e5e186fd900a4a44546b09378442b4a48818
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Feb 24 18:25:03 2021 -0600
+
+    reordered icons on about
+
+commit 69016361f27e964be76b7de1590c73db710baaac
+Merge: aaa676e 37dacdd
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Feb 24 18:20:29 2021 -0600
+
+    updated about and improved committees sorting
+
+commit aaa676e56d1503c12ad6a6c63bb9fbc5089b7b2b
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Feb 24 18:15:29 2021 -0600
+
+    updated about and improved sorting for committees
+
+commit 37dacddf96cd7fae192c7e474dd26e3f6baec5d9
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 24 18:06:08 2021 -0600
+
+    update idb1.log
+
+commit 979c6074d46d82aa3835a4af0eebe241a982f782
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 24 18:02:25 2021 -0600
+
+    deployment files
+
+commit af111d6bbf4212bacf953c6034cb19b943848bc0
+Author: Andrew Kim <ksb0724@utexas.edu>
+Date:   Wed Feb 24 03:50:23 2021 -0600
+
+    update about.html
+
+commit 8bcd93fd47a1e69c6c7be4c177ea0f9630d89c66
+Author: Trey Everson <teverson25@me.com>
+Date:   Tue Feb 23 12:59:30 2021 -0600
+
+    Creating flask back-end file
+
+commit 2cc9336ab0f5d6f438dc6b6b36070752868ca4a6
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Mon Feb 22 15:04:36 2021 -0600
+
+    added sorting for committees
+
+commit 0d0906eb4c329ce59cd59f647e5617de946069ea
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sun Feb 21 22:27:55 2021 -0600
+
+    resolves #20 sorting legislation.html
+
+commit 386b8f4a4dadb2078a99960359b7fb9e22fe86d3
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Sun Feb 21 17:47:47 2021 -0600
+
+    added michael and alina bio
+
+commit fb9b90e8e1b9da4ee65b5c01d88f15f674307a72
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 20 21:45:55 2021 -0600
+
+    alina picture
+
+commit af3dafe15d526ac44c6fe92d83793638331026e1
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 18 20:07:45 2021 -0600
+
+    individual legislation pages
+
+commit aa5cc1e53019e341a5c667e7658ada034d1b096f
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 18 18:44:33 2021 -0600
+
+    resolves #8, update navbar
+
+commit 4bb9b07362a042a8f4312959a111d7aafd827c61
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 17 18:44:41 2021 -0600
+
+    navbar updated w links
+
+commit 25bcaa0274f7cf5d088b2966da8a9401cb63976e
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 17 18:15:21 2021 -0600
+
+    resolves #17 profile bills
+
+commit 0cde3bb5682a669fe23dd1edb6c9c18cb8031754
+Merge: 18bfd48 1390a9b
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 17 15:43:21 2021 -0600
+
+    Merge branch 'master' of https://gitlab.com/alinamawji/cs331e-idb
+
+commit 18bfd4826e6db57abe9d67c4123d205d9ca1edc6
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Wed Feb 17 15:43:07 2021 -0600
+
+    resolves #16 sortable table
+
+commit 1390a9bf52805f484a9d2ecdc507bffdb92aa30c
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Wed Feb 17 12:57:02 2021 -0600
+
+    added committees page
+
+commit a0e4e7e444edb0a711eccc74764a89443645beec
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sun Feb 14 15:41:52 2021 -0600
+
+    resolves #13 cards aligned
+
+commit 54441c631ceca967502ee266fc4e017bd02904a9
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 13 18:03:06 2021 -0600
+
+    resolves #14 remove pagination link
+
+commit 4f8c341c3d92559009ba502003b2e4659c0c09eb
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 13 11:55:56 2021 -0600
+
+    resolves #15 search bar disable
+
+commit 12228c8855f25cf204c5010edb573a0ad18f6321
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 13 11:26:04 2021 -0600
+
+    resolves #5 state links
+
+commit df2589228182c0ed637e5877472b55b023d29db1
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Sat Feb 13 10:47:51 2021 -0600
+
+    updated profile pages
+
+commit 3c694493390615cf7c5e06024c5a906cdb512d14
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 11 22:26:18 2021 -0600
+
+    profile pages, navbar, members.html
+
+commit 4a138b94a2d1e357ae600351e7987d72bd6be755
+Author: Michael DiLeo <micjdileo@gmail.com>
+Date:   Mon Feb 8 14:26:08 2021 -0600
+
+    added landing page
+
+commit b22adb49fbddba79f7f6297b83fb54d2a9423113
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 4 20:47:45 2021 -0600
+
+    IDB1.log
+
+commit c1f2880d44daa9389795a6efb2e702887aef2693
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 4 11:49:04 2021 -0600
+
+    rm DS_Store
+
+commit 786fae38a434c4d6f0d4f3c9815c7171063c2961
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 4 11:45:37 2021 -0600
+
+    gitignore
+
+commit 7db117b1694f4c0f5ad42a2b12ed56e2c6fee400
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Thu Feb 4 11:34:42 2021 -0600
+
+    members and baldwin pages
+
+commit 23c34e3613366566ecf25f32611f2093dd552bb5
+Author: Alina Mawji <a.mawji08@gmail.com>
+Date:   Fri Jan 29 15:48:40 2021 +0000
+
+    Initial commit
